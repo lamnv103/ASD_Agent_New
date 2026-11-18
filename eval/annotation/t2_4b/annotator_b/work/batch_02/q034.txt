@@ -1,0 +1,425 @@
+QUESTION q034: Chương trình huấn luyện kỹ năng cho người chăm sóc của WHO gồm những gì?  (33 candidates)
+
+### 5D1182B5D0 | Improving early childhood development: WHO guideline | IMPROVING | page 5-6
+Implementation of the guideline 33 Implementation considerations 33 Monitoring and evaluation of the quality and implementation of the guideline 33 Supporting local adaptation 33 Dissemination and plans for updating 33 References 35 Annex 1: WHO guidelines and tools that support ECD 39 Annex 2: Questions in PICO format 45 Annex 3: Steering Group 48 Annex 4: Guideline Development Group 49 Annex 5: Authors of systematic reviews 51 Annex 6: Declarations of conflicts of interest 52 Annex 7: GRADE evidence profile tables 54 Figure 1: Components of nurturing care 1 Table 1: Intervention types considered in the evidence/guideline review 12 Table 2: Child and caregiver outcomes for interventions that implement responsive caregiving only, by HICs versus LMICs 15 Table 3: Child and caregiver outcomes for interventions that promote early learning and development, by HICs versus LMICs 19 Table 4: Combined responsive caregiving and early learning versus standard of care 25 Table 5: Combined responsive caregiving and early learning versus caregiving alone 25 Table 6: Combined responsive caregiving and early learning versus nutrition alone 26 ii iiiContents
+
+BFHI Baby-friendly Hospital Initiative BMI body-mass index CI confidence interval ECD early childhood development GDG Guideline Development Group GRADE Grading of Recommendations Assessment, Development and Evaluation methodology HAZ height-for-age Z-score HIC high-income country LMIC low- or middle-income country MCA Department of Maternal, Newborn, Child and Adolescent Health and Ageing MCH Maternal and child health MhGAP Mental Health Gap Action Programme MSD Department of Mental Health and Substance Abuse PICO population, intervention, comparison, outcome RCT randomized controlled trial SD standard deviation SMD standardized mean difference WASH water, sanitation and hygiene WAZ weight-for-age Z-score WHO World Health Organization WHZ weight-for-height (or length) Z-score ACRONYMS iv v
+
+### 12C7C1F97E | Improving early childhood development: WHO guideline | GUIDELINE DEVELOPMENT GROUP | page 61-63
+48 49Annex 4: Guideline Development Group
+
+Joerg Meerpohl (Methodologist) University Medical Centre Freiburg, Germany Linda Richter Distinguished Professor DSI-NRF Centre of Excellence in Human Development University of the Witwatersrand Johannesburg, South Africa Mark Tomlinson Professor Institute for Life Course Health Research Stellenbosch University Stellenbosch, South Africa Susan Walker Professor of Nutrition Tropical Medicine Tropical Medicine Research Institute University of the West Indies Kingston, Jamaica ANNEX 4:
+
+GUIDELINE DEVELOPMENT GROUP (continued)
+
+World Health Organization recommendations on caregiving interventions to support early child development in the first 3 years of life: report of the systematic review of evidence Joshua Jeong Department of Global Health and Population, Harvard T H Chan School of Public Health, Boston, MA, United States Emily Franchett Department of Global Health and Population, Harvard T H Chan School of Public Health, Boston, MA, United States Aisha Yousafzai* Department of Global Health and Population, Harvard T H Chan School of Public Health, Boston, MA, United States
+
+World Health Organization recommendation on psychotherapeutic interventions for common maternal mental health problems among women to improve early childhood development in low- and middle-income countries: report of systematic review and meta-analysis of RCTs Atif Rahman* Human Development Research Foundation, Rawalpindi, Pakistan, and University of Liverpool, Liverpool, United Kingdom Jane Fisher School of Public Health and Preventive Medicine, Monash University, Melbourne, Victoria, Australia Ahmed Waqas Human Development Research Foundation, Rawalpindi, Pakistan and CMH Lahore Medical College & Institute of Dentistry,
+
+### 9753F1AA09 | Improving early childhood development: WHO guideline | BACKGROUND | page 13
+Enabling young children to achieve their full developmental potential is a human right and a critical requisite for sustainable development. Evidence in the Lancet series Advancing early childhood development: from science to scale (Lancet, 2017) highlights the profound benefits of investing in ECD for learning, productivity, health and social cohesion along the life course. The series highlighted the critical importance of the early years and coined the term ‘nurturing care’ as a central tenet of what is required to achieve optimal development, namely health, nutrition, security and safety, responsive caregiving and opportunities for early learning. The Nurturing Care Framework for early childhood development (WHO, UNICEF & World Bank Group, 2018) was launched at the World Health Assembly in 2018 to provide a roadmap for action. The Framework builds on state-of-the-art evidence about how child development outcomes are influenced and how they can be improved by policies and interventions. Nurturing care is characterized by a stable environment that promotes health and optimal nutrition, protects children from threats, and gives them opportunities for early learning, through affectionate interactions and relationships ( Figure). It describes how a whole-of-government and a whole-of-society approach can promote nurturing care for young children and outlines guiding principles, strategic actions and ways of monitoring progress. The Framework focuses on the period from pregnancy to age 3 within a life-course approach and addresses all relevant sectors, but with a spotlight on the health sector. ECD refers to the process of cognitive, physical, language, temperament, socioemotional and motor development of children that starts at the time of conception until 8 years of age. The earliest years are especially important, being the time when the brain develops rapidly; it is therefore a critical period for the fetus and child to receive nurturing care. It is also the period when the fetus and child are most sensitive to interventions (Lancet, 2017). Being at the forefront of providing nurturing care, parents and other primary
+
+### 30F590D237 | Improving early childhood development: WHO guideline | MONITORING AND EVALUATION OF | page 45
+THE QUALITY AND IMPLEMENTATION OF THE GUIDELINE Monitoring and evaluation should be built into implementation processes, in order to document important lessons for uptake and further implementation. WHO will use routine surveys to assess how ECD-specific recommendations are included into national policies and training courses. WHO will aim to collaborate with national authorities to include questions about the new recommendations, and how health workers have experienced implementing these, into relevant routine national training assessments and supervision.
+
+### 9F04C787B0 | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 16-17
+Number of caregivers per group  Groups can range in size from 6 to 12 participants.  Two caregivers from each family should be invited to participate. How to manage the group sessions The following are necessary skills for the management of the caregiver skills training group sessions.
+
+Keeping to time without cutting short valuable group discussion  It is helpful to remind participants about time schedules throughout the intervention.  Break times can be used to return to the group discussions that you have needed to cut short.  Sometimes you might decide that it is very important to continue with a group discussion and so you decide to shorten another section of the session (see the example below). If you decide to do this, think about how you can make up time to cover the topic you have skipped (e.g. ask the group to stay longer, ask the group to arrive earlier next time, make the breaks shorter etc.). Always talk with your supervisor about these decisions to make sure that you have not skipped important information.
+
+ꟷ For example, a discussion about how one participant is applying a strategy at home is going on for longer than expected. You decide to continue this discussion because you can see that other participants are also learning about the strategy and how they can apply it to their own practices.
+
+Managing participants who speak a lot or very little in the group sessions  Some participants may talk a lot in discussions in a way that interferes with others’ participation. They may interrupt, talk over others or disagree with other participants’ experiences or opinions. In this situation, facilitators should use their skills to manage these persons during the group sessions.
+
+ꟷ For example: “Thank you (name). What you are saying is helpful, but we would also like to hear from others in the group. Would anyone else be willing to share their experience with the home practice?” ꟷ If this difficulty persists, consider speaking to your supervisor.
+
+ For very quiet participants, consider talking individually to participants to help them participate in the group.
+
+### 696EFC344A | Improving early childhood development: WHO guideline | KEY QUESTION I | page 28-29
+In LMICs, community health worker and primary health care facilities were the platforms for implementation. In settings where home visiting services or community groups do not already exist or where resources are not being adequately allocated for ECD, such interventions are likely to increase costs.
+
+Potential cost efficiencies might be found if interventions are integrated in existing health (or other sector) platforms (Richter et al., 2017). The financial and societal cost of inaction is also a factor, as well as the long-term returns on investment in the early years (Campbell et al., 2014; Gertler et al., 2014). Children at elevated risk for compromised development due to stunting and poverty are likely to forgo about one quarter of average adult income per year, and the cost of inaction to gross domestic product can be double what some countries currently spend on health (Richter et al., 2017).
+
+Equity Implementing responsive caregiving interventions will be likely to reduce the inequalities that exist in countries with regards to access to resources and programmes that promote ECD. Many of the interventions target at-risk disadvantaged families/communities. From evidence in other WHO guidelines (see Annex 1), when interventions are delivered to high-risk populations, e.g. those at risk of violence or abuse of children, they tend to increase equity.
+
+Equity in delivery will depend on the service platform and extent of targeting of the highest risk groups. Gender inequities regarding which caregiver is the focus of interventions and implications for work and other livelihood issues should be considered. Feasibility Responsive caregiving interventions are probably feasible to implement, but it depends on the context and resources committed to a programme. Responsive caregiving has been implemented in a range of contexts and platforms (i.e. groups, individualized home visits, primary health care contacts) and can be delivered by trained lay workers.
+
+The specificities of reported programmes are uncertain, but most will require strategies to address system-level potential and readiness (e.g. workforce development, training, supervision, monitoring and evaluation, governance, leadership).
+
+### 591EF9BD2E | Improving early childhood development: WHO guideline | IDENTIFICATION OF KEY QUESTIONS AND OUTCOMES | page 18
+MCA and MSD jointly convened a virtual meeting of the GDG in September 2017 in order to scope the content of the proposed guideline, formulate the key questions and determine the critical outcomes. The report of a multi-stakeholder technical consultation that was convened by WHO in August 2017 – Operationalizing Nurturing Care – at which more than 70 representatives of programme implementers, donors, United Nations agencies and national governments participated, was considered at the scoping meeting. The participants also noted the evidence summarized in the 2017 Lancet series (Lancet, 2017).
+
+The GDG prioritized five areas for development of recommendations to improve ECD outcomes:
+
+1. responsive caregiving;
+
+2. increasing play and opportunities for early learning;
+
+3. interventions to support socioemotional and behavioural development;
+
+4. integrated nutrition and responsive caregiving interventions; and
+
+5. supporting maternal mental health. The GDG considered the available evidence and relevance of each area to different geographical and health system contexts. The group also acknowledged the importance of areas such as nutrition and environmental health, including WASH, to establishing environments that are conducive to ECD.
+
+The GDG recognized that terms such as ‘responsive caregiving’ and ‘nurturing care’ are used among programme implementers and researchers but are not formally included in WHO recommendations. The importance of promoting and supporting ECD among children caught up in emergency settings was also noted. With respect to the timing of interventions and the period at which outcome measures were assessed for impact, the GDG prioritized interventions in the first 3 years of life even though outcomes may only be measured at 5 years, e.g. school attainment.
+
+### D05AABBA64 | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD | page 51
+WHO recommendations for improving infant and child health are included in a range of guidelines, tools and training materials. Many of these are relevant for improving ECD. Areas of child health and public health for which WHO guidelines are relevant include neonatal care; infant and young child nutrition; environmental health; prevention and treatment of childhood illnesses; violence and injury prevention; prevention of obesity and promotion of physical activity; caregiver mental health; and support for children with developmental difficulties or disability.
+
+a. Infant and young child feeding Ensuring that infants are provided with optimal feeding from birth helps to improve ECD. Breastfeeding counselling: a training course Exclusive and continued breastfeeding significantly contribute to ECD. This course is designed to provide health workers with the skills needed to support mothers and their children to breastfeed optimally. It includes guides for the course director and trainers, a participant’s manual, a booklet with overhead figures, a slide book and annexes.
+
+www.who.int/maternal_child_adolescent/documents/ who_cdr_93_3/en Infant and young child feeding counselling: an integrated course This integrated infant feeding counselling course is designed to give health workers the competencies required to carry out effective counselling for breastfeeding, HIV and infant feeding and complementary feeding. It is designed for a five-day training of health workers in primary health care services and for lay counsellors.
+
+www.who.int/nutrition/publications/ infantfeeding/9789241594745/en ANNEX 1:
+
+### 269233B2FC | Assessment of Autism Spectrum Disorder |  | page -
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by challenges in social interaction and communication and the presence of restricted interests and repetitive behaviors. The importance of early detection of ASD and subsequent early intervention is well documented. Efforts have been made over the years to clarify ASD diagnostic criteria and develop predictive, accurate screening tools and evidence-based, standardized diagnostic instruments to aid in the identification of ASD. In this article, we review the most recent changes in ASD diagnostic criteria in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision, summarize evidence-based instruments for ASD screening and diagnostic evaluations as well as the assessment of co-occurring conditions in ASD, the impact of COVID-19 on ASD assessment, and directions for future research in the field of ASD assessment.
+
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by challenges in social interaction and communication, and the presence of restricted interests and repetitive behaviors (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision [DSM-5-TR]; American Psychiatric Association [APA], 2022). Recent data indicate that one in 44 children in the United States (Maenner et al., 2021) and one in 160 children internationally (World Health Organization, 2013) has a diagnosis of ASD. Critical to accurate diagnosis and appropriate treatment planning is an evidence-based approach to assessment. Consistent with this special issue’s focus on evidence-based assessment guidelines for both clinical practice and research, this article provides a synthesis of available literature that describes the range of evidence-based evaluation approaches for ASD, from screening to diagnosis. We begin with reviewing the most commonly used, evidence-based instruments for screening and diagnostic evaluation of ASD. We then discuss the importance and implications of early screening and diagnosis, consider best practices for the evaluation of co-occurring conditions, and describe the impact of COVID-19 on recent autism diagnostic practices. We end the article with future directions for novel approaches to autism assessment.
+
+### 607F4535C1 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 1: Getting children engaged | page 13-20
+Introductions and contact information Our facilitators are:
+
+1) Contact at:
+
+2) Contact at:
+
+Our master trainer is:
+
+Contact at:
+
+Our sessions will take place at: Call/Text if you miss a session or will be late Date, time, location Home visit 1 Call to check in Session 1 Introduction – Getting children engaged Call to check in Session 2 Keeping children engaged Call to check in Session 3 Helping children to share engagement in play and home routines Text message reminder about next session Session 4 Understanding communication Text message reminder about next session Session 5 Promoting communication Home visit 2 (between sessions 5 and 6) Session 6 Teaching new skills in small steps and levels of help Text message reminder about next session Session 7 Preventing challenging behaviour – helping children to stay engaged and regulated Call to check in Text message reminder about next session Home visit 3 Additional sessions Overview Group rules The following rules are intended to help everyone feel comfortable when participating:
+
+1) Respect each other’s privacy. Do not share anything you learn about other families outside of this room – especially their private challenges or problems.
+
+2) Listen to others and allow each person enough time to share their thoughts and ideas.
+
+3) Be respectful of different opinions.
+
+4) Help others by sharing your own experiences with the group and offering suggestions, support and encouragement.
+
+5) Place your telephones on silent. If you need to take an important call, please step away from the group.
+
+Learn to use gestures and words to communicate.
+
+Spend more time sharing engagement in activities and routines with you and others.
+
+Show appropriate behaviour more often with fewer challenging behaviours. Learn new skills to be more independent in day-to-day activities. To help your child Goals of the caregiver skills training course )eel more confident helping your child to communicate and learn new things. Connect with your child by enjoying and sharing daily activities. Meet other caregivers who have similar experiences.
+
+Learn ways to support your own health and well-being.
+
+To help you Goals of the caregiver skills training course What we will learn today  more about how the course can help children and families;  information about developmental delays and disabilities;  how to help children learn and develop by getting them engaged in everyday activities.
+
+What I want from this course: (for me, for my child, and for my family) 1) 2) 3) Things I can do to help obtain what I need from this course:
+
+(e.g. practise at home, talk with other parents, involve other family members) 1) 2) 3) Personal goals Mary’s story part 1: Introducing Jacob Mary lives with her husband, her three children – Jacob, Faith and Abigail – and her husband’s mother, Olisa. Jacob is their first child.
+
+### 4FB893A846 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Background | page 9
+WHO’s caregiver skills training was developed to facilitate access to parenting skills and strategies for caregivers of children with developmental delays or disabilities. The target audience is caregivers of children aged 2–9 years with developmental delays or disabilities, with a specific focus on the caregivers of children with delays and impairments in social and communication domains. However, a child does not need to have a diagnosis for caregiver skills training to be used, and the age range can be adjusted slightly depending on the needs of the setting. Overview of CST structure The caregiver skills training intervention is designed to be delivered in nine group sessions and three home visits by trained and supervised non-specialist facilitators. Additional group sessions and home visits can be offered to allow more time for strategies on caregiver wellbeing and for strategies tailored to the needs of caregivers of children who have little or no spoken language. Materials There are five parts of the caregiver skills training package while two additional parts are being developed:  Introduction;  Adaptation and implementation guide;  Facilitators’ guide: group sessions 1–9;  Participants’ guide: group sessions 1–9;  Home visit guide for facilitators;  Caregivers of children who have little or no spoken language: facilitators’ and participants’ guides (forthcoming);  Caregiver wellbeing: facilitators’ and participants’ guides (forthcoming). The introduction provides information on how to use the different materials. How to use this guide This guide is meant to be used by caregivers who are participating in WHO’s caregiver skills training. The guide provides content that will be used during each of the caregiver skills training core group sessions (sessions 1–9). It contains illustrated descriptions of the key messages and tips (skills and strategies) taught in each session as well as goal-setting activities, questions to check your own learning and a template for sharing information on local resources for families (to be adapted to the local context). Content of the group sessions Sessions 1 and 2 focus on getting children engaged in activities (both daily home activities and play) and keeping them engaged. Session 3 focuses on the development of play and home routines as a means of encouraging engagement, communication, positive behaviour and skills for daily living and play. Sessions 4 and 5 focus on recognizing a child’s communication abilities and creating opportunities to promote communication. Session 6 focuses on teaching skills for everyday living in small steps using different levels of help. Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. Introduction
+
+### 7F6907A50A | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 13
+Each home visit has specific tasks and goals that are detailed in the home visit facilitation guide. The general home visit structure includes:  Greeting the family and child.
+
+ Discussing with the caregiver issues that are specific to that visit. Visit 1 includes taking a history of the family’s contact with support services and assessment of the child’s communication, behaviour and functioning. Visits 2 and 3 include review of key message strategies and home practice.  Observing the caregiver interacting with the child and the interaction between the facilitator and the child.
+
+ Demonstration of the caregiver skills training skills and strategies (tips) by the facilitator, and coaching of the caregiver on those strategies.
+
+ Goal-setting that is based on observation and interview with the caregiver. Goals are identified in Visit 1 and discussed and reviewed in Visit 2 and Visit 3.
+
+ Planning for the future. Visits 1 and 2 include inviting the family to the next session and discussing possible barriers and solutions, and Visit 3 includes creating a plan for ongoing practice of caregiver skills training strategies.
+
+Each home visit includes an assessment of the families’ needs. Facilitators are to be aware of signs that additional supports are needed – including child health or caregiver health, mental health challenges, potential child maltreatment or material deprivation. Content of the caregiver skills training package The course’s theoretical foundation and methodology are informed by principles of applied behavior analysis, developmental science, social communication interventions, positive parenting and self-care methods. Specifically, the caregiver skills training package is based on naturalisticdevelopmental-behavioural approaches for promoting shared engagement and communication including JASPER (Joint Attention Symbolic Play Engagement Regulation) and PRT (Pivotal Response Treatment); positive parenting approaches for promoting positive child behaviour and management of challenging behaviour; problem solving and promotion of caregiver well-being.1 The first two group sessions focus on getting children engaged in activities (both daily home activities and play) and keeping them engaged. Group session 3 focuses on the development of play and home routines as a means of encouraging engagement, communication, positive behaviour and skills for daily living. Sessions 4 and 5 focus on recognizing a child's communication abilities and creating opportunities to promote communication. Group session 6 is focused on teaching skills for everyday living in small steps using different levels of help. Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. 1 For further details, see the following:
+
+### 5643F5B01A | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 52-53
+Given the proven importance of breastfeeding, the BFHI protects, promotes and supports breastfeeding, while enabling timely and appropriate care and feeding of newborns who are not breastfed. www.who.int/nutrition/publications/infantfeeding/bfhiimplementation/en
+
+b. Responsive caregiving and opportunities for early learning Responsive caregiving and opportunities for early learning, starting from birth, are core components of nurturing care and essential for all young children to develop their full potential.
+
+Care for child development These materials guide health workers and other counsellors as they help families build stronger relationships with their children and solve prob lems in caring for their children at home. “Care for child development” recommends play and communication activities for families to stimulate the learning of their children. Also, through play and communication, adults learn how to be sensitive to the needs of children and respond appropriately to meet them. www.who.int/maternal_child_adolescent/documents/care_ child_development/en Caring for the child’s health growth and development These materials guide health workers and other providers as they counsel caregivers on infant and young child feeding, responsive caregiving and opportunities for early learning through play and communication, prevention of childhood illness and timely care-seeking. They are part of a 3-part set entitled Caring for newborns and children in the community and are appropriate for use by community health workers. www.who.int/maternal_child_adolescent/documents/childhealthy-growth-development/en Early childhood development and disability This discussion paper provides a brief overview of issues pertaining to ECD and disability. It lays the foundation for a long-term strategic and collaborative process aimed at improving the developmental outcomes, participation and protection of young children with disabilities. It promotes dialogue between United Nations agencies and relevant stakeholders to identify sustainable strategies which build on existing efforts and expand on multisectoral approaches to guarantee the rights of young children with disabilities and their families.
+
+http://apps.who.int/iris/bitstream/10665/75355/1/97892415 04065_eng.pdf
+
+c. Antenatal, childbirth and postnatal care Healthy birth, including the prevention and management of preterm births and low birth weight, is important to optimize child development outcomes. Recommendations on antenatal care for a positive pregnancy experience Updated in 2015, this publication contains numerous recommendations that have a direct bearing on ECD outcomes. These include: nutrition in pregnancy including iron, folate and other micronutrient supplements; assessments of partner violence; tobacco and other substance abuse; obstetric care; management of common infectious diseases; community-based interventions to improve communication and support; and antenatal care contact schedules.
+
+### 07758208B6 | Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis | Author summary > What do these findings mean? | page -
+- To the best of our knowledge, this is the largest and most comprehensive global systematic review and meta-analysis that demonstrates the effectiveness of parenting interventions during the first 3 years of life on a wide range of ECD and parent-level outcomes.
+
+- Parenting programs are needed globally to enhance parent–child relationships and promote the healthy development of children during the earliest years of life.
+
+- Future research should unpack the observed variability in program components and implementation features used across parenting interventions and examine their associations with outcomes to inform improved delivery, effectiveness, and scale of parenting interventions for ECD.
+
+http://dx.doi.org/10.13039/100004423World Health OrganizationAPW-201931623https://orcid.org/0000-0002-1592-8923 Yousafzai Aisha K.This work was funded by the World Health Organization (grant # APW-201931623 awarded to AKY). The funder had no role in study design, data extraction and analysis, decision to publish, or preparation of the manuscript.
+
+Data Availability: All relevant data are within the manuscript and its Supporting information files.
+
+### 81E788F7AA | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 18-20
+Caregivers and children at risk of harm or experiencing harm  During the course of home visits or group sessions, facilitators may become concerned about the well-being of a caregiver or child.
+
+ Facilitators may discover that a participant is experiencing abuse (e.g. gender-based violence perpetrated by a partner) or has a mental health condition (see the home visit guide for details).  Facilitators may learn that a child is being neglected or harmed by harsh physical punishment or is harming her/himself or being physically violent with other members of the family.  Facilitators may learn about these things during a group session or home visit, or another caregiver could tell you that it is happening to someone in the group.
+
+ If a facilitator learns from others that a caregiver or child is at risk or is being harmed, she/he should ask the participant privately about this.
+
+ If a caregiver is fearful for her/his own or someone else’s safety in the home, including their children, facilitators should contact their supervisors immediately so that appropriate action can be taken. This depends on the setting and the national laws but it could involve reporting abuse to the police, a specific protection agency or informal network or local authorities. It is important that facilitators inform the participant of the actions that they will take to keep the caregiver and/or others in the participant’s home safe.
+
+ Facilitators are advised to talk always to their supervisors about caregivers, children or other family members they are concerned about.
+
+with developmental delays or disabilities
+
+World Health Organization 20 Avenue Appia CH-1211 Geneva 27 Switzerland
+
+### 28299E8F0F | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 9: Problem-solving and self-care | page 261-264
+– I am nervous to ask Maria because I have not seen her since the end of the course When the nurse asked Rosa to choose the solution she thought was best, she chose “Ask Maria to mind Andrea and Lucia”. The nurse then asked Rosa to make an action plan by stating exactly what she needed to do to make that solution happen. Rosa decided that she would call Maria that afternoon to ask if she could mind Andrea and Lucia.
+
+Rosa starts to see that making a plan can help her to worry less and take better care of herself and her family. Rosa goes back to see the nurse and slowly starts to feel better.
+
+Key message 3
+
+ Follow these steps to find solutions to a problem that is real, is happening now and that you have some control over: You can find solutions to problems by problem-solving
+
+1. Think of as many possible solutions as you can.
+
+2. Eliminate solutions that are not suitable.
+
+3. Think of the advantages and disadvantages of the remaining solutions to help you decide which options are the best.
+
+4. Pick at least one solution and make an action plan that is very clear and specific.
+
+5. Try out your plan!
+
+Home practice activity Building children’s skills:  For each of the home routines you are working on, decide on the next 2–3 small steps. Plan to start teaching your child at least one of those steps within the next week.
+
+Routine1  Steps I can try to add:
+
+1.
+
+2.
+
+3.
+
+4.
+
+Routine 2  Steps I can try to add:
+
+1.
+
+2.
+
+3.
+
+4.
+
+Self-care:
+
+ Choose one activity that is important to you and plan to spend at least 5 minutes doing this activity every other day. This could be a very simple activity such as talking to someone you care about, singing, doing something for others or spending 5 minutes sitting quietly, etc.
+
+Remember to practise the tips from this session:
+
+1. Expand your routines: use Show and say to add new steps.
+
+### E21AFC2D7C | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 13-14
+Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. 1 For further details, see the following:
+
+Kasari C, Lawton K, Shih W, Barker TV, Landa R, Lord C et al. (). Caregiver-mediated intervention for low-resourced preschoolers with autism: an RCT. Pediatrics. 2014;134:e72–e79.
+
+Kaale A, Smith L, Sponheim E. A randomized controlled trial of preschool-based joint attention intervention for children with autism. J Child Psychol Psychiatry. 2012;53:97–105.
+
+Kasari C, Gulsrud A, Paparella T, Hellemann G, Berry K. Randomized comparative efficacy study of parent-mediated interventions for toddlers with autism. J Consult Clin Psychol. 2015;83:554–63.
+
+Educational methods The caregiver skills training course draws on educational methods that are relevant to adult learning, including personal goal-setting, active learning through questions (guided questions for learning) and discussions. The expertise and experiences of participants are brought into group sessions through discussions and when home practice is discussed; participants have the opportunity to benefit from the ideas, experiences and suggestions of others. Active learning is promoted by teaching strategies through modelling (facilitator demonstration) and by having participants practise in the session with feedback and coaching from facilitators. Key to the facilitation of the caregiver skills training course is the creation of a safe and positive learning environment in which participants feel comfortable asking and answering questions, and sharing their ideas and experiences with other caregivers.
+
+Who can provide the caregiver skills training course?
+
+Facilitators should be trained and supervised non-specialists (community health workers, social service workers, nurses, early childhood education facilitators, teachers, experienced caregivers etc.). The selection of facilitators should take account of the potential for sustainability and scalability in the local context. Facilitators must have adequate time – ideally within their regular work schedules – to provide the caregiver skills training group sessions and home visits. Travel time should also be taken into account. Facilitators will preferably have completed high school education or equivalent, while experience of providing care for children with developmental disabilities and facilitating groups will be an asset. Facilitators should be approachable and capable of working well with other adults maintaining a supportive environment in group sessions and providing feedback and coaching in a supportive manner. Facilitators will need to be equipped with training on caregiver skills training skills and strategies both for the facilitation of group sessions and for home visits. Facilitators should receive continuing support and supervision from a trained supervisor. Who can train and supervise the facilitators?
+
+### EF296991D7 | Autism in Viet Nam: A systematic scoping review | The Vietnamese context | page -
+Receiving a diagnosis of autism has been found to often be distressing for the autistic individual as well as their family, due to the stigmatisation of autism in Viet Nam and the resulting social and economic consequences of receiving an autism diagnosis (Boyle & Bailey, 2022; Ha et al., 2014; A. P. Nguyen & Nguyen, 2023; Phan et al., 2020; Yến-Khanh, 2022). Stigmatisation occurs at a linguistic and cultural level, such as the direct Vietnamese translation of autism (‘bệnh tự kỷ’) as ‘autism sickness’, perhaps reflecting that autism is diagnostically recognised by the World Health Organization within the International Classification of Diseases, as well as through the understanding that autism is caused by ancestral sins, karmic demerit and other Vietnamese folk lore narratives (D’Antonio & Shin, 2009; Ha et al., 2014). Generally, global understandings of autism recognise the aetiology of autism to be complex, with interactive genetic and environmental factors likely contributing to markers of autism (Wang et al., 2025). In certain cultural contexts, aetiological understandings of autism not only include complex genetic and environmental interactions but also include conceptualisations of autism as being caused by social and spiritual factors, such as karma and punishment from God in Indian contexts (Vats et al., 2024) and witchcraft in Kenyan contexts (Cloete & Obaigwa, 2019). Given the uniqueness of Vietnamese culture and history and the consequential nuances of the experiences of the Vietnamese autism community, it is thus important to understand the landscape of research that pertains to the autism community in this specific context. The Vietnamese autism community is understood in this review as autistic individuals, their families and caregivers, and professionals who directly interact with the autistic individual (e.g. education or medical professionals).
+
+### F99AA9A717 | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 51
+Combined course on growth assessment and infant and young child feeding counselling This course is designed to give health workers the competencies required to carry out growth assessment and effective counselling for breastfeeding and complementary feeding. It is primarily for health workers in primary health care services and for lay counsellors. The course imparts skills for measuring, plotting and interpreting a child’s growth status (to detect undernutrition or overweight/ obesity), for assessing breastfeeding and complementary feeding to identify any problems, and for counselling caregivers to promote/reinforce appropriate practices and manage growth or feeding problems. www.who.int/nutrition/publications/ infantfeeding/9789241504812/en Guideline: counselling of women to improve breastfeeding practices This guideline provides global, evidence-informed recommendations on breastfeeding counselling, as a public health intervention, to improve breastfeeding practices among pregnant women and mothers who intend to breastfeed, or are currently breastfeeding, and their infants and children. It makes recommendations for breastfeeding counselling, such as frequency, timing, mode and provider of breastfeeding counselling. www.who.int/nutrition/publications/guidelines/ counselling-women-improve-bf-practices/en NetCode toolkit for ongoing monitoring and periodic assessment of the Code The Network for Global Monitoring and Support for Implementation of the International Code of Marketing of Breast-milk Substitutes (NetCode) toolkit aims to reinvigorate and reinforce ongoing monitoring and periodic assessment of the Code and national laws by providing protocols, guidance and tools. Findings and results from implementation of either protocol can be used to advocate for the strengthening of existing legislative and regulatory frameworks.
+
+www.who.int/nutrition/netcode/toolkit/en
+
+### 47CFE1A2E3 | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 11-12
+The five-part Caregiver skills training for families of children with developmental delays or disabilities (CST) package was developed to facilitate access to parenting support for caregivers of children with developmental delays or disabilities. The development of the training package materials was based on evidence on parenting and parent-mediated interventions for children with developmental disabilities and, in particular, on evidence on strategies targeting the caregivers of children with delays or impairment in social and communication domains. The training package was developed in consultation with – and informed by feedback from –international experts, service providers, caregivers and family advocates, with extensive field-testing across regions. Who is the caregiver skills training package for?
+
+The intended audience is caregivers of children aged 2–9 years with developmental delays or disabilities, with a specific focus on caregivers of children with delays or impairments in social and communication domains – although the age range can be adjusted slightly, depending on the needs of the setting. Importantly, a diagnosis is not required to access the training course. The lack of a diagnostic requirement means that the training package can be provided to families once a developmental delay has been identified. This may reduce other potential barriers – including the potential reluctance of caregivers to identify themselves as the parents of children with developmental disabilities and experiences of stigma from attending a course labelled as being exclusively for caregivers of children with developmental conditions. The expectation is that primary health-care providers, community health workers, educational providers or specialists will recommend the caregiver skills training course to families.
+
+Format of the caregiver skills training package The course is designed to be delivered in nine core group sessions for caregivers and three home visits. The group sessions can be provided at a health facility, school or other community-based facility. Each group session lasts 2.5 to 3 hours, including a break. Sessions can be scheduled either weekly or every two weeks depending on what is most feasible for caregivers in the local context. Home visits are scheduled at the beginning, middle and end of the course – i.e. before group session 1, between sessions 5 and 6, and after the final group session. Home visits are typically conducted in caregivers’ homes and last 1.5 to 2 hours each, although they can be offered in a community setting if home visits are not feasible due to geographical distance, safety concerns or other challenges. Typically, two caregivers per household are invited to participate in the group sessions. The core 9-session course has also been adapted for virtual delivery through videoconferencing for group sessions and home visits.
+
+Additional group sessions and home visits can be offered to allow more time to acquire strategies related to caregiver well-being and strategies tailored to the needs of caregivers of children who have little or no spoken language.
+
+Caregiver skills training implementation tools In addition to this introduction, there are four subsequent parts of the caregiver skills training package while two additional parts are being developed:
+
+### D0290AE48D | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 15-16
+ Ongoing supervision involving the provision of the caregiver skills training course paired with another facilitator; this should include, at a minimum, a formal check after each home visit. Debrief with master trainers or supervisors after each group session is recommended, although this can be phased out over time as facilitators gain experience. Nevertheless, master trainers or supervisors should be available for questions or concerns. Supervision The supervision of facilitators is essential and should be provided at a minimum after each home visit. Supervision can be provided in person or online, and can be conducted in a group. Once there is an experienced group of facilitators, peer supervision can be implemented. However, a master trainer or supervisor should always be available for troubleshooting and guidance. One-on-one supervision (e.g. in response to a participant’s urgent concern about a child) should also be available as needed as part of a group supervision model. Supervision involves:
+
+ discussion of the child’s developmental competencies in terms of level of play, communication skills, behaviour and skills for daily living (aided by making a videorecording of the first home visit);  determination of the child’s target skills on the basis of her/his developmental competencies;  the choice of suitable caregiver goals for the child;  discussion of any additional family needs related to child health, caregiver mental health, suspected child maltreatment, etc;  discussion of home visits, coaching, any difficulties experienced, or identified barriers to attendance;  discussion of challenges concerning group dynamics;  discussion of positive experiences and caregivers’ successes with their children;  role-playing on how to manage difficulties or practise skills (to improve facilitators’ skills in  group management, coaching etc.);  ongoing evaluation of the facilitator’s workload;  attention to the facilitator’s self-care.
+
+How to use the facilitators’ guides Facilitators should have the manual with them in the sessions and should refer to it often in order to know what to do and to read the suggested questions, prompts or scripts (included in italics). Practical things to consider Number of facilitators  The caregiver skills training course should be provided by facilitators working in pairs. Group sessions require two facilitators.
+
+Home visits can be conducted by facilitators individually.
+
+Number of caregivers per group  Groups can range in size from 6 to 12 participants.
+
+ Two caregivers from each family should be invited to participate.
+
+How to manage the group sessions The following are necessary skills for the management of the caregiver skills training group sessions.
+
+### B8E688F59D | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 54
+Preventing violence: evaluating outcomes of parenting programmes This publication provides guidance on how to evaluate parenting programmes that have the purpose of preventing violence against children. www.who.int/violence_injury_prevention/publications/ violence/parenting_evaluations/en Parenting for lifelong health These programme manuals (facilitator manuals and parent handbooks, including for babies, toddlers and young children) describe seven strategies that can help countries and communities to focus on the most promising programmes to prevent violence against children. www.who.int/violence_injury_prevention/violence/child/ PLH-manuals/en/index1.html Global disability action plan 2014-2021 This action plan supports the implementation of measures that are designed to meet the rights of persons with disabilities as enshrined in the Convention on the Rights of Persons with Disabilities. It proposes actions to support the commitments made at a United Nations General Assembly high-level meeting on disability and development to ensure access for persons with disabilities to health care services, including rehabilitation, habilitation and assistive devices; improve disability data collection, analysis and monitoring; and promote knowledge, social awareness and understanding of disability.
+
+http://apps.who.int/iris/bitstream/10665/199544/1/978924 1509619_eng.pdf?ua=1 Ten strategies for keeping children safe on the road This document outlines ten strategies which are known – especially when implemented as a package of measures
+
+– to keep children safe on the road. These include: controlling speed; reducing drinking and driving; using helmets for bicyclists and motorcyclists; restraining children in vehicles; improving children’s ability to see and be seen; enhancing road infrastructure; adapting vehicle design; reducing risks for young drivers; providing appropriate care for injured children; and supervising children around roads.
+
+http://apps.who.int/iris/bitstream/10665/162176/1/WHO_ NMH_NVI_15.3_eng.pdf?ua=1&ua=1&ua=1
+
+### 9AC2507B0B | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 12-13
+Caregiver skills training implementation tools In addition to this introduction, there are four subsequent parts of the caregiver skills training package while two additional parts are being developed:
+
+ Adaptation and implementation guide;  Facilitators’ guide: group sessions 1–9;  Participants’ guide: group sessions 1–9;  Home visit guide for facilitators;  Caregivers of children who have little or no spoken language: facilitators and participants’ guides (forthcoming);  Caregiver well-being: facilitators’ and participants’ guides (forthcoming). Group session structure and goals A general group session structure should be followed for sessions 2 through 9, and includes:  a brief wellness activity (calm breathing);  review of key messages and tips from the previous session;  discussion of home practice experiences;  presentation of a caregiver story that is illustrated in the participant guide (caregiver stories are used to deliver educational messages, provide examples of how the strategies can be implemented at home and explore common caregiver experiences), followed by guided questions for learning and discussion;  group teaching and activities, including presentation of key messages and tips for the session;  a break;  facilitator demonstration of skills and strategies using role-play, followed by guided questions for learning and group discussion;  planning for home practice and practice of skills through role-plays with facilitators, coaching and feedback;  review of the session and closing.
+
+This caregiver skills training course is a caregiver-mediated intervention that integrates these strategies into everyday life. Group session goals include building the caregivers’ knowledge and skills while supporting them in practising the caregiver skills training strategies at home with their child. Home practice between group sessions is considered essential and caregivers are asked to practise the skills with their child daily.
+
+Home visit structure and goals Goals of the home visits include building rapport with the family, including those family members who do not attend group sessions, learning about the child’s developmental competencies and behaviour, and the home environment; helping the caregiver to set target goals for their child; coaching the caregiver to do the strategies learned in group sessions; troubleshooting caregiver challenges; promoting attendance at group sessions; and identifying any additional needs of the family and referring to additional services as needed.
+
+Each home visit has specific tasks and goals that are detailed in the home visit facilitation guide.
+
+The general home visit structure includes:
+
+ Greeting the family and child.
+
+### 512F9A092D | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Background | page 10-11
+Session 6 focuses on teaching skills for everyday living in small steps using different levels of help. Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. Introduction
+
+viii Can I use this guide on my own without participating in the caregiver skills training? Caregivers who wish to learn the strategies on their own due to personal preference or because there is no local caregiver skills training course being offered are directed to WHO’s eLearning caregiver skills training for families of children with developmental delays or disabilities. This free course is for caregivers to access directly as self-directed online learning. The course is accessible in English here: https://openwho. org/courses/caregiver-skills-training. A free OpenWHO account is necessary to access it. To create an OpenWHO account, go to https://openwho.org/account/new (you will need an email address to register). Other language versions of eLearning caregiver skills training will be made available. Check https://openwho. org/courses for availability. Adaptation and implementation considerations For additional information on adaptation of this guide see Adaptation and implementation guide.
+
+Session 1: Getting children engaged
+
+### 5E85E3867A | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 14-15
+Facilitators will need to be equipped with training on caregiver skills training skills and strategies both for the facilitation of group sessions and for home visits. Facilitators should receive continuing support and supervision from a trained supervisor. Who can train and supervise the facilitators?
+
+The facilitators should be trained and supervised by local master trainers and supervisors. Master trainers and supervisors may be non-specialist primary health-care providers, such as general physicians or nurses, or specialized health-care providers such as paediatricians, psychiatrists, psychologists or mental health nurses who have been trained to deliver the caregiver skills training package. Additional selection criteria for master trainers and supervisors include a suggested minimum education of formal training in child development or mental health training at the postsecondary level or equivalent. Clinical or significant past personal experience with children with developmental disabilities is important. Supervisors should be trained in the use of the caregiver skills training package and should have personal experience of delivering group sessions and home visits. Training and supervisory experience is an asset.
+
+Facilitators’ training A suggested strategy for the training of facilitators is as follows:
+
+ A three-day classroom-based training course (Initial course, part 1) provided by local master trainers and covering key content and strategies for group sessions 1 to 5, group facilitation and home visit skills.
+
+ Field experience involving joint delivery of group sessions 1 to 5 and home visits 1 and 2 to a group of caregiver participants with a master trainer or supervisor. Scheduled sessions for trainers for debriefing and guidance with master trainers or supervisors after each group session and home visit (20–30 minutes each).
+
+ A second three-day classroom-based training course (initial course, part 2) provided by local master trainers, giving an overview of key content and strategies for group sessions 6 to 9, group facilitation and home visit skills.
+
+ Further field experience provided by joint delivery of group sessions 6 to 9 and home visit 3 to a group of caregiver participants with a master trainer or supervisor, with scheduled debriefing and guidance after each group session and home visit.
+
+ Further two-day training focuses on advanced skills, group facilitation, troubleshooting, problem-solving skills and coaching of caregivers.
+
+ Additional practice, training or co-facilitation experience at the discretion of the master trainers or supervisors.
+
+ More field experience to follow with the joint delivery of a full caregiver skills training course of nine core group sessions and three home visits to a group of caregiver participants with another facilitator trainee and with supervision sessions scheduled after each group session and home visit.
+
+### F977B1D030 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 9: Problem-solving and self-care | page 251-254
+Praise the child for trying. Play routine Home routine  Notice when your routine needs a new step to continue.  Show and say to demonstrate the step and describe it. Expand your routine: use Show and say to add new steps Tip 2
+
+If your child can wash her/his hands on their own, the next small step could be to sit at the table for snack time (link washing hands and snack routines). If your child can brush her/his teeth on their own, the next small step could be to put on pants (link brushing teeth and getting dressed routines). As adults, we all do many routines each day. You can help children to learn to be more independent when they can do two or more routines on their own.  When your child can do a home routine on her/his own, you can link two routines together. For example:
+
+Link two routines together to expand a routine that the child can do Rosa’s story Part 1: Learning to look after my health and well-being Rosa lives with her daughter, Lucia, and her 4-year-old son Andrea. Andrea has a developmental delay and he often becomes very upset and screams. It has been getting more and more stressful for Rosa as her son grows older.
+
+Sometimes Rosa tells herself “I must not be doing a good job”. Sometimes she thinks “What is the use of continuing to practise the strategies I learned in the course? His behaviour is getting worse anyway.” Over time, Rosa started to feel tired and irritable. She found it difficult to sleep at night and sometimes she cried. She had bad headaches most days and she did not feel like eating.
+
+One day Rosa saw her friend, Francesca, in the market. Francesca wanted to talk but Rosa said she had to go home instead. Rosa thought to herself, “I should not be wasting my time chatting, I should really be doing chores”.
+
+When Rosa took Andrea to his next appointment, she began to cry in front of the nurse. Rosa did not want anyone to know that she was having difficulty and she felt very embarrassed. The nurse asked her what was wrong and Rosa explained everything.
+
+The nurse said she was glad that Rosa told her about her difficulties. She explained that it is common for caregivers of children with developmental difficulties to have a lot of stress. She also said that there are many reasons why Andrea’s behaviour might be getting worse and that this does not mean that Rosa should stop trying the strategies she knows.
+
+The nurse explained that some stress is normal, but when we feel a lot of stress, or we have stress over a long period of time, it can have a big impact on everything in our lives
+
+– including our emotions, our relationships, our health and our ability to do things.
+
+### 371E414FE5 | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 17-18
+Would anyone else be willing to share their experience with the home practice?” ꟷ If this difficulty persists, consider speaking to your supervisor.  For very quiet participants, consider talking individually to participants to help them participate in the group.
+
+ꟷ For example: “I have noticed you are very quiet in the group. Is there anything I can do to help you engage more in the discussions?” Managing group discussions that go off-topic or identifying unhelpful strategies or strategies outside of the caregiver skills training course  Facilitators are advised to be firm when redirecting group discussions. Facilitators can make use of basic helping skills.For example: “I can see this is an interesting discussion, but we have moved away from the focus of this session. Let’s come back and we can discuss this topic during the break.” ꟷ For example: “This strategy sounds like it was helpful for you, but we need now to continue with this session’s activities. We will have an opportunity to discuss this more during the home visit/other group session.” Responding to incorrect or partially correct answers  Guided questions for learning are part of the group sessions. These are designed to help caregivers think about and discuss the material. Their purpose is not to test caregiver knowledge.  It is important to respond to incorrect or partially correct answers in a supportive way that promotes a safe learning environment in which caregivers are comfortable taking risks, sharing their ideas and asking and answering questions.
+
+ꟷ For example (for an incorrect answer): “Actually, the demonstration was supposed to illustrate [a specific caregiver skills training strategy]. Does that make sense?” ꟷ For example (for a partially correct answer): “Yes, and the caregiver in the demonstration used other strategies as well. Would someone else like to share another strategy they noticed?” Promoting attendance and reducing drop-out  Facilitator should proactively identify barriers to attendance at the first home visit and use problem-solving.
+
+ Facilitators are advised to speak with participants who are regularly missing sessions, who report not doing the home practice, who are regularly showing up late or leaving early etc. Facilitators should show curiosity, emphasize the effort they are already putting into the course and help them problem-solve if appropriate.
+
+ If a participant drops out, they may need a different type of help or service. Facilitators are advised to discuss strategies to help participants who have dropped out with their supervisors.  Facilitators should talk with your supervisor if they are concerned that a participant is disrupting the group.
+
+Caregivers and children at risk of harm or experiencing harm  During the course of home visits or group sessions, facilitators may become concerned about the well-being of a caregiver or child.
+
+### 27515333B8 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 6: Teaching new skills in small steps and levels of help | page 153-156
+Date, time, location Home visit 1 Call to check in Session 1 Introduction – Getting children engaged Call to check in Session 2 Keeping children engaged Call to check in Session 3 Helping children to share engagement in play and home routines Text message reminder about next session Session 4 Understanding communication Text message reminder about next session Session 5 Promoting communication Home visit 2 (between sessions 5 and 6) Session 6 Teaching new skills in small steps and levels of help Text message reminder about next session Session 7 Preventing challenging behaviour – helping children to stay engaged and regulated Call to check in Text message reminder about next session Home visit 3 Additional sessions Overview Home practice review Target routines we tried:
+
+1)
+
+2)
+
+I made opportunities for my child to communicate to share or request when I: 1)
+
+2)
+
+My child communicated by:
+
+1)
+
+2)
+
+Things I can try next time: 1) 2) 3)  how to divide big tasks, such as dressing and handwashing, into small steps;  how to select which small step to teach first
+
+ that there are different levels of help you can provide to help your child learn the steps;  how to give your child the lowest level of help necessary, both in play and home routines.
+
+What we will learn today One daily routine I want my child to do successfully is:  Personal goals The small steps in my target routine are: My child can do this
+
+### B6663A2387 | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 53
+http://apps.who.int/iris/bitstream/10665/204270/1/WHO_ RHR_15.22_eng.pdf?ua=1 Postnatal care of the mother and newborn This guideline focuses on postnatal care of mothers and newborns in resource-limited settings in LMICs. Recommendations address timing, number and place of postnatal contacts, and content of postnatal care for all mothers and babies during the six weeks after birth, including assessment of mothers and newborns to detect problems or complications. The primary audience is health professionals who are responsible for providing postnatal care to women and newborns. http://apps.who.int/iris/bitstream/10665/97603/1/978924150 6649_eng.pdf Standards for improving quality of maternal and newborn care in health facilities This publication provides a framework for improving the quality of care for mothers and newborns around the time of childbirth. It encompasses both the provision and experience of care around eight domains of quality that should be assessed, improved and monitored within the context of health system building blocks. www.who.int/maternal_child_adolescent/documents/ improving-maternal-newborn-care-quality/en Network for improving quality of care for maternal, newborn and child health This website provides access to resources, country examples, country data, webinars and podcasts, and facilitates exchange with peers on latest evidence and challenges and how to address them.
+
+www.qualityofcarenetwork.org
+
+d. Violence and injury prevention and support for children with disability Ensuring a safe and secure environment, especially for children with disability, is central to a nurturing care environment.
+
+INSPIRE: seven strategies for ending violence against children INSPIRE is an evidence-based resource for everyone involved with preventing and responding to violence against children and adolescents – from government to grassroots, and from civil society to the private sector. It represents a select group of strategies based on the best available evidence to help countries and communities intensify their focus on the prevention programmes and services with the greatest potential to reduce violence against children. The seven strategies are: implementation and enforcement of laws; norms and values; safe environments; parent and caregiver support; income and economic strengthening; response and support services; and education and life skills. http://apps.who.int/iris/ bitstream/10665/207717/1/9789241565356-eng.pdf
+
+### 791F8B7A28 | Improving early childhood development: WHO guideline | BACKGROUND | page 13-14
+caregivers need to be supported through policies and services in order to have knowledge, skills, time and material resources for appropriate child care. Figure: Components of nurturing care Given the critical importance of enabling children to make the best start in life, the health sector has an important role and responsibility to support nurturing care. Many interventions for reproductive, maternal, newborn and child health (including for nutrition, mental health and HIV prevention and care) have a direct impact on ECD. Moreover, the health sector has access to families and caregivers during this period and therefore has specific opportunities.
+
+Until now WHO has not had guidelines specifically on interventions for improving ECD. Many existing WHO guidelines related to reproductive, maternal, newborn and child health (including for nutrition, caregiver mental health, HIV prevention and care, and prevention of noncommunicable diseases), refer to the importance of early childhood development. However, they do not INTRODUCTION x 1Introduction
+
+address ECD-specific interventions such as those related to responsive caregiving and early learning opportunities. In order to provide clear and specific guidance on approaches for improving ECD, MCA in collaboration with MSD developed this guideline with a particular focus on caregiving, opportunities for early learning and communication, and improving the mental health of mothers. The guideline provides global, evidenceinformed recommendations on approaches to improve ECD.
+
+### 3553C3BAE1 | Swimming Lessons for Children With Autism: Parent and Teacher Experiences | Literature Review | page -
+Autistic children are thought to be at a higher risk of drowning than typically developing children due to wandering behavior, decreased risk awareness, and attraction to water (Casey et al., 2020; Lawson et al., 2019; Martin & Dillenburger, 2019; Murphy & Hennebach, 2020). Among the World Health Organization (WHO) recommendations (WHO, 2014) to prevent accidental drowning, is teaching school-age children, including those with disabilities, basic swimming and water safety skills through evidence-based intervention programs implemented by trained teachers.
+
+Developing research in this field has shown that children with autism are capable of learning basic swim skills that can enable their participation in swimming, provided the teacher is skilled and utilizes appropriate techniques (Alaniz et al., 2017). While useful techniques have been documented in a number of studies (Kraft et al., 2019; Murphy & Hennebach, 2020), swimming teachers’ experiences (such as what motivates them to provide lessons or how they feel about lessons) are mostly absent within the literature. Exploring a “lived experience” provides an opportunity to empower unheard voices, test the relevance and quality of existing knowledge, and guide future research (Creswell, 2014). As this is an unexplored area of study within the South African context, the voices of those already involved first need to be heard and acknowledged to guide the need for and direction of future research.
+
+### 7577F2F8B0 | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Methods > Child Behavior and Caregiver’s Outcomes | page -
+Child sleep and caregivers’ outcomes were assessed throughout the trial. In addition, child behavior was assessed in the double blind phase. Child behavior outcomes were evaluated using the SDQ. Caregiver’s well-being outcomes were evaluated using the caregiver’s World Health Organization Well-Being Index (WHO-5) the Pittsburgh Sleep Quality Index (PSQI) and The Epworth Sleepiness Scale (ESS).
+
+The SDQ is a validated behavioral screening tool comprising 25 items on 5 psychological attributes including hyperactivity/inattention (5 items), conduct problems (5 items), peer relationship problems (5 items), emotional symptoms (5 items), prosocial behavior (5 items) along with an impact supplement (Goodman 1999). Validation studies of the SDQ showed three independent domains pertaining to externalizing behavior [sum of hyperactivity/inattention (5 items) and conduct problems (5 items)], internalizing behavior [sum of peer relationship problems (5 items) and emotional symptoms (5 items)] and prosocial behavior (5 items) (Goodman et al. 2010). The externalizing and internalizing behavior scores showed good convergent and discriminant validity across informants and with respect to clinical observation and thus were determined to be more appropriate outcome variables for clinical studies (Goodman et al. 2010). The sum of the externalizing and internalizing attributes (Hyperactivity, Conduct, Peer relationship and Emotion subscales) are aggregated to form a Total Difficulties Score (total SDQ); a higher score indicates poorer behavioral adjustment. The third factor, prosocial behavior is excluded from the total SDQ. The total SDQ score has been found to be a psychometrically sound measure of overall child mental health problem (Goodman 1999). A change of any 1 unit across the SDQ range is considered clinically relevant as the odds of mental disorders increased at a constant rate across the range (odds ratios between 1.14 and 1.28 per one-point increase in SDQ score (Goodman & Goodman 2009)). A total SDQ score ≥ 20, a score of ≥ 7 on the SDQ hyperactivity/inattention attribute, a peer relationship score ≥ 6, an emotional score ≥ 7 and a conduct score ≥ 5, are considered abnormal using the published cutoff scores (available from http://www.sdqinfo.com/py/sdqinfo/c0.py) (Goodman 1997).
+
+The WHO-5 Wellbeing index (Bech et al. 2003) is a 25 point index that covers positive mood, vitality, and general interests. Effect size of 0.4 and over is considered clinically relevant (Bech et al. 2007).
+
+### 463892F8F2 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 9: Problem-solving and self-care | page 264-267
+This could be a very simple activity such as talking to someone you care about, singing, doing something for others or spending 5 minutes sitting quietly, etc. Remember to practise the tips from this session: 1. Expand your routines: use Show and say to add new steps.
+
+2. Link two routines together to expand a routine that the child can do. Key messages  Continue to set goals for yourself and your child and review your progress.  Care for yourself to help you and your child.  You can find solutions to problems by problem-solving. Tips Questions to check your own learning Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Question 1 Rosa found problem-solving with the nurse very helpful. She would like to remember the steps so that she can use problem-solving the next time she has a problem. What is the correct order of steps for problem-solving? Match the step number on the left with the description of the step on the right by drawing a line that connects them. A. Think of the advantages and disadvantages of the remaining solutions.
+
+B. Choose a problem that is real, is happening now and that you have some control over.
+
+C. Choose at least one solution and make an action plan that is very clear and specific.
+
+D. Eliminate solutions that are not suitable.
+
+E. Think of as many possible solutions as you can.
+
+Step 1 Step 2 Step 3 Step 4 Step 5 Question 2 Rosa is trying to take better care of herself so she is trying to decide which choices will help her well-being and which choices might seem useful in the short term but are likely to be unhelpful for her well-being in the long term. For each of the following choices on the left, decide if they are helpful or unhelpful for Rosa’s well-being. Indicate your choice by putting a mark in the box under “Helpful” or “Unhelpful” for each of the options. Helpful Unhelpful A. Skipping a meal to get extra chores done when she is very busy.
+
+B. Asking a trusted person to mind Andrea so that she can have a little break. C. Telling herself often that she should be doing a better job.
+
+D. Trying to accept that Andrea is different from the child she was hoping for. E. Talking to her family about how caring for herself can help the whole family. F. Staying up late to get more things done while her children are asleep.
+
+Answers to questions These are the answers to the questions to check your own learning on the previous page. Check the answers only after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer.
+
+Question 1 Answers:
+

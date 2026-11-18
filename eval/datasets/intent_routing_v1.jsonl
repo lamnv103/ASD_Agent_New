@@ -1,0 +1,105 @@
+{"id": "ir001", "text": "Xin chào!", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir002", "text": "Chào bạn", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir003", "text": "Chào anh", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir004", "text": "Hello", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir005", "text": "Hi", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir006", "text": "Alo, có ai không?", "category": "greeting", "expected_branch": "greeting", "notes": "colloquial greeting; not in our phrase list, acceptable miss"}
+{"id": "ir007", "text": "Chào buổi sáng", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir008", "text": "Rất vui được gặp bạn", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir009", "text": "Chúc bạn một ngày tốt lành", "category": "greeting", "expected_branch": "greeting"}
+{"id": "ir010", "text": "Good morning", "category": "greeting", "expected_branch": "greeting", "notes": "not in phrase list; documents a real coverage gap"}
+{"id": "ir011", "text": "Cảm ơn bạn nhiều!", "category": "thanks", "expected_branch": "greeting"}
+{"id": "ir012", "text": "Cảm ơn nhé", "category": "thanks", "expected_branch": "greeting"}
+{"id": "ir013", "text": "Thank you so much", "category": "thanks", "expected_branch": "greeting"}
+{"id": "ir014", "text": "Thanks a lot", "category": "thanks", "expected_branch": "greeting"}
+{"id": "ir015", "text": "Cám ơn", "category": "thanks", "expected_branch": "greeting", "notes": "alternate spelling of cam on; check diacritic folding"}
+{"id": "ir016", "text": "Tạm biệt nhé", "category": "farewell", "expected_branch": "greeting"}
+{"id": "ir017", "text": "Goodbye", "category": "farewell", "expected_branch": "greeting"}
+{"id": "ir018", "text": "Bye bye", "category": "farewell", "expected_branch": "greeting"}
+{"id": "ir019", "text": "Hẹn gặp lại", "category": "farewell", "expected_branch": "greeting", "notes": "not in phrase list; documents a gap"}
+{"id": "ir020", "text": "Hôm nay thời tiết thế nào?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir021", "text": "Giá vàng hôm nay là bao nhiêu?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir022", "text": "Bạn thích ăn món gì?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir023", "text": "1 cộng 1 bằng mấy?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir024", "text": "Thủ đô của Pháp là gì?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir025", "text": "Đội tuyển Việt Nam đá bóng tối nay mấy giờ?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir026", "text": "Phim nào đang chiếu rạp hay nhất?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir027", "text": "Cách nấu phở bò ngon nhất là gì?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir028", "text": "Bạn có thể viết thơ về mùa thu không?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir029", "text": "Giúp tôi sửa lỗi trong đoạn code Python này", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir030", "text": "Làm sao để đầu tư cổ phiếu hiệu quả?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir031", "text": "Kể cho tôi một câu chuyện cười", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir032", "text": "Giá xăng dầu tuần này tăng hay giảm?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir033", "text": "Việt Nam có bao nhiêu tỉnh thành?", "category": "out_of_scope", "expected_branch": "out_of_scope"}
+{"id": "ir034", "text": "Con mèo của tôi bị rụng lông nhiều, phải làm sao?", "category": "out_of_scope", "expected_branch": "out_of_scope", "notes": "pet health, not child/ASD"}
+{"id": "ir035", "text": "Rối loạn phổ tự kỷ là gì?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir036", "text": "What is autism spectrum disorder?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir037", "text": "Tự kỷ có chữa khỏi được không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir038", "text": "Dấu hiệu sớm của tự kỷ ở trẻ 18 tháng là gì?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir039", "text": "Trẻ tự kỷ thường gặp những khó khăn giao tiếp nào?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir040", "text": "Hành vi lặp lại ở trẻ tự kỷ gồm những gì?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir041", "text": "Những yếu tố nào làm tăng nguy cơ tự kỷ?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir042", "text": "Tự kỷ được chẩn đoán như thế nào?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir043", "text": "Tiêu chuẩn DSM-5 cho tự kỷ gồm những gì?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir044", "text": "Can thiệp hành vi (ABA) cho trẻ tự kỷ gồm những gì?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir045", "text": "Vắc-xin có gây tự kỷ không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir046", "text": "Tế bào gốc có chữa được tự kỷ không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir047", "text": "Trẻ tự kỷ có hay bị động kinh không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir048", "text": "Tự kỷ ở trẻ gái có biểu hiện khác trẻ trai không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir049", "text": "Người lớn mắc tự kỷ có những khó khăn gì trong công việc?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir050", "text": "Tự kỷ có di truyền không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir051", "text": "Autism and ADHD often occur together, how common is it?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir052", "text": "Rối loạn phổ tự kỷ ảnh hưởng đến gia đình như thế nào?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir053", "text": "ASD và Asperger có giống nhau không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir054", "text": "Một người trưởng thành ít giao tiếp có chắc chắn mắc tự kỷ không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir055", "text": "Liều risperidone cho trẻ 5 tuổi là bao nhiêu?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question", "notes": "no literal tu ky/autism but clinically ASD-adjacent (risperidone used for ASD irritability)"}
+{"id": "ir056", "text": "M-CHAT-R/F là gì và độ chính xác ra sao?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir057", "text": "ADOS-2 là gì?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir058", "text": "Giáo viên cần lưu ý điều gì khi dạy trong lớp hòa nhập?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir059", "text": "Can thiệp NDBI là gì?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir060", "text": "Melatonin có giúp trẻ ngủ tốt hơn không?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question", "notes": "melatonin alone is generic; in this corpus's context it is ASD-adjacent via glossary, but genuinely ambiguous without more context — documented gray zone"}
+{"id": "ir061", "text": "Chế độ ăn không gluten, không casein có hiệu quả không?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir062", "text": "Chương trình huấn luyện kỹ năng cho người chăm sóc của WHO gồm những gì?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question", "notes": "WHO caregiver program is ASD/developmental-context specific in this corpus"}
+{"id": "ir063", "text": "Aripiprazole dùng để điều trị gì ở trẻ em?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir064", "text": "Liệu pháp tích hợp cảm giác có đáng chi phí không?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir065", "text": "Cha mẹ có thể hỗ trợ con phát triển kỹ năng xã hội thế nào?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir066", "text": "Trẻ kén ăn nghiêm trọng thì đánh giá và can thiệp thế nào?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question"}
+{"id": "ir067", "text": "ADHD có những biểu hiện gì ở trẻ nhỏ?", "category": "ambiguous_edge", "expected_branch": "asd_question", "notes": "GRAY ZONE: ADHD is often asked about independently of ASD; glossary routes it as ASD-adjacent (low confidence). Documented, not forced."}
+{"id": "ir068", "text": "Lo âu ở trẻ em có cần điều trị không?", "category": "ambiguous_edge", "expected_branch": "asd_question", "notes": "GRAY ZONE: anxiety alone is not ASD-specific; same caveat as ir067"}
+{"id": "ir069", "text": "Trường học của con tôi có tốt không?", "category": "ambiguous_edge", "expected_branch": "out_of_scope", "notes": "GRAY ZONE: 'truong hoc' is a glossary term, but this question is about school quality in general, not ASD support — a real risk of over-triggering asd_question"}
+{"id": "ir070", "text": "Con tôi là ai?", "category": "ambiguous_edge", "expected_branch": "out_of_scope"}
+{"id": "ir071", "text": "Chào bạn, tự kỷ là gì?", "category": "mixed_intent", "expected_branch": "asd_question"}
+{"id": "ir072", "text": "Cảm ơn bạn, nhưng dấu hiệu tự kỷ ở trẻ 2 tuổi là gì?", "category": "mixed_intent", "expected_branch": "asd_question"}
+{"id": "ir073", "text": "Hi, can you tell me what ASD is?", "category": "mixed_intent", "expected_branch": "asd_question"}
+{"id": "ir074", "text": "Xin chào, tôi muốn hỏi về can thiệp ABA", "category": "mixed_intent", "expected_branch": "asd_question"}
+{"id": "ir075", "text": "Chào bạn, hôm nay thời tiết đẹp nhé", "category": "mixed_intent", "expected_branch": "greeting", "notes": "greeting phrase plus an out-of-scope remark, no ASD content at all — should stay greeting, not escalate"}
+{"id": "ir076", "text": "Tạm biệt, cảm ơn vì đã giải thích về DSM-5", "category": "mixed_intent", "expected_branch": "asd_question", "notes": "farewell phrase but still contains a real ASD topic reference (DSM-5)"}
+{"id": "ir077", "text": "Hello, tạm biệt", "category": "mixed_intent", "expected_branch": "greeting"}
+{"id": "ir078", "text": "Chào, con tui 3 tủi hay xếp đồ thành hàng có phải tự kĩ k ạ", "category": "typo_informal", "expected_branch": "asd_question", "notes": "heavy typos/slang but 'tu ki' still close enough to anchor via fold+substring"}
+{"id": "ir079", "text": "tu ky la j", "category": "typo_informal", "expected_branch": "asd_question", "notes": "extremely informal, no diacritics, 'la j' = 'là gì'"}
+{"id": "ir080", "text": "con e noi cham co phai bi tu ki khong", "category": "typo_informal", "expected_branch": "asd_question"}
+{"id": "ir081", "text": "dau hieu tu ky o tre", "category": "no_diacritics", "expected_branch": "asd_question"}
+{"id": "ir082", "text": "Tieu chuan DSM-5 cho tu ky gom nhung gi?", "category": "no_diacritics", "expected_branch": "asd_question"}
+{"id": "ir083", "text": "can thiep hanh vi aba cho tre tu ky", "category": "no_diacritics", "expected_branch": "asd_question"}
+{"id": "ir084", "text": "vac xin co gay tu ky khong", "category": "no_diacritics", "expected_branch": "asd_question"}
+{"id": "ir085", "text": "hom nay thoi tiet the nao", "category": "no_diacritics", "expected_branch": "out_of_scope"}
+{"id": "ir086", "text": "xin chao ban", "category": "no_diacritics", "expected_branch": "greeting"}
+{"id": "ir087", "text": "Con tôi được diagnosed với autism spectrum disorder, giờ phải làm gì?", "category": "mixed_language", "expected_branch": "asd_question"}
+{"id": "ir088", "text": "ASD screening nên thực hiện ở tuổi nào?", "category": "mixed_language", "expected_branch": "asd_question"}
+{"id": "ir089", "text": "Early intervention có thực sự hiệu quả cho trẻ tự kỷ không?", "category": "mixed_language", "expected_branch": "asd_question"}
+{"id": "ir090", "text": "Bác sĩ nói con tôi bị delayed speech, có liên quan đến autism không?", "category": "mixed_language", "expected_branch": "asd_question"}
+{"id": "ir091", "text": "What's the weather like today in Hanoi?", "category": "mixed_language", "expected_branch": "out_of_scope"}
+{"id": "ir092", "text": "Please help me cook pho, cảm ơn nhiều", "category": "mixed_language", "expected_branch": "out_of_scope", "notes": "has a thanks phrase but main content is off-topic cooking; thanks-only check should not override since 'cam on' also present but request is a real off-topic ask — documents a known limitation: thanks phrase may win over out_of_scope detection"}
+{"id": "ir093", "text": "Con tôi 2 tuổi chưa nói, không chỉ tay, hay xếp đồ thành hàng, và gần đây hay thoái lui kỹ năng đã có — liệu đây có phải dấu hiệu của rối loạn phổ tự kỷ không, và tôi nên làm gì tiếp theo?", "category": "multi_clause_long", "expected_branch": "asd_question"}
+{"id": "ir094", "text": "Trẻ tự kỷ kèm ADHD lại hay mất ngủ thì hỗ trợ thế nào, và nên ưu tiên can thiệp tại nhà hay ở trường trước?", "category": "multi_clause_long", "expected_branch": "asd_question"}
+{"id": "ir095", "text": "Khi trẻ tự kỷ bước vào tuổi dậy thì, cha mẹ cần chuẩn bị tâm lý gì, và nhà trường có vai trò gì trong giai đoạn này?", "category": "multi_clause_long", "expected_branch": "asd_question"}
+{"id": "ir096", "text": "Tôi muốn biết liệu chế độ ăn, giấc ngủ, và hành vi lặp lại của con có liên quan với nhau trong bối cảnh tự kỷ không, và nên bắt đầu đánh giá từ đâu?", "category": "multi_clause_long", "expected_branch": "asd_question"}
+{"id": "ir097", "text": "Nếu một đứa trẻ không giao tiếp bằng mắt, không chỉ tay, và không phản ứng khi được gọi tên, nhưng chưa từng được bác sĩ khám, thì gia đình nên làm gì trước, và có nên tự kết luận là tự kỷ không?", "category": "multi_clause_long", "expected_branch": "asd_question"}
+{"id": "ir098", "text": "", "category": "empty", "expected_branch": "out_of_scope"}
+{"id": "ir099", "text": "   ", "category": "empty", "expected_branch": "out_of_scope"}
+{"id": "ir100", "text": "?", "category": "empty", "expected_branch": "out_of_scope", "notes": "single punctuation character, no real content"}
+{"id": "ir101", "text": "Có thể tự chẩn đoán tự kỷ qua một bài kiểm tra trực tuyến không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir102", "text": "Hãy xác định chính xác một người có mắc tự kỷ chỉ từ mô tả ngắn này: hay im lặng, ít bạn.", "category": "asd_clear", "expected_branch": "asd_question", "notes": "content is a refusal-worthy request (personalized diagnosis from a short description), but the ROUTER's job is only topic routing — it correctly goes to asd_question; refusing to over-diagnose is the Answer Generator's job (Phase 3), not the router's"}
+{"id": "ir103", "text": "Con tôi hay nhại lại lời người khác, đó là gì?", "category": "asd_adjacent_no_anchor", "expected_branch": "asd_question", "notes": "echolalia description without saying 'tu ky'; relies on 'hanh vi' or similar — real test of recall without explicit anchor or glossary hit"}
+{"id": "ir104", "text": "Trẻ chậm nói có phải là tự kỷ không?", "category": "asd_clear", "expected_branch": "asd_question"}
+{"id": "ir105", "text": "Why is it called a 'spectrum' disorder?", "category": "asd_clear", "expected_branch": "asd_question", "notes": "no literal 'autism'/'asd' word but clearly continues an ASD conversation; standalone this is genuinely ambiguous — documented gray zone, expected label is a judgment call"}

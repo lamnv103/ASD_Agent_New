@@ -1,0 +1,796 @@
+[
+ {
+  "topic": "definition",
+  "query": "ASD là gì?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'autism' <-> 'spectrum' <-> 'disord' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "CDC-ASD-CLINICAL",
+   "ASD-OA-PMC6487529",
+   "ASD-CSV-007"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "CDC-ASD-CLINICAL",
+   "ASD-OA-PMC6487529",
+   "ASD-CSV-007",
+   "ASD-CSV-002",
+   "ASD-CSV-038",
+   "ASD-CSV-038",
+   "ASD-CSV-078",
+   "ASD-NEW-001",
+   "ASD-OA-PMC6487529",
+   "ASD-SUP-PMC6590432"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "Rối loạn phổ tự kỷ (Autism Spectrum Disorder – ASD) là một rối loạn phát triển thần kinh, ảnh hưởng đến giao tiếp, tương tác xã hội và có thể biểu hiện qua các hành vi, sở thích hoặc hoạt động hạn chế, lặp lại. Biểu hiện và nhu cầu hỗ trợ khác nhau ở mỗi người.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1"
+  ]
+ },
+ {
+  "topic": "definition",
+  "query": "Rối loạn phổ tự kỷ có đặc điểm gì?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'autism' <-> 'spectrum' <-> 'disord' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "CDC-ASD-CLINICAL",
+   "ASD-OA-PMC6487529",
+   "ASD-CSV-007"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "CDC-ASD-CLINICAL",
+   "ASD-OA-PMC6487529",
+   "ASD-CSV-007",
+   "ASD-CSV-002",
+   "ASD-CSV-038",
+   "ASD-CSV-038",
+   "ASD-CSV-078",
+   "ASD-NEW-001",
+   "ASD-OA-PMC6487529",
+   "ASD-SUP-PMC6590432"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "Rối loạn phổ tự kỷ (Autism Spectrum Disorder – ASD) là một rối loạn phát triển thần kinh, ảnh hưởng đến giao tiếp, tương tác xã hội và có thể biểu hiện qua các hành vi, sở thích hoặc hoạt động hạn chế, lặp lại. Biểu hiện và nhu cầu hỗ trợ khác nhau ở mỗi người.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1"
+  ]
+ },
+ {
+  "topic": "social_communication",
+  "query": "Trẻ tự kỷ có khó khăn gì trong giao tiếp xã hội?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'communic' ) | ( 'communic' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-OA-PMC10900867",
+   "ASD-SUP-PMC13414371",
+   "ASD-SUP-PMC13414371"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-OA-PMC10900867",
+   "ASD-SUP-PMC13414371",
+   "ASD-SUP-PMC13414371",
+   "WHO-CST-PARTICIPANTS-2022",
+   "ASD-SUP-PMC10783429",
+   "WHO-CST-PARTICIPANTS-2022",
+   "ASD-OA-PMC10900867",
+   "ASD-SUP-PMC13414371",
+   "ASD-OA-PMC13393316",
+   "WHO-CST-PARTICIPANTS-2022"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. Coding the diversity of communication forms is important, especially for young children, who may use a variety of means to express intention (e.g., verbal and nonverbal, conventional, symbolic, iconic). They may also use more or less rich combinations of these means. In 11…\n2. medsci-14-00388-t001_Table 1Table 1\nOutcome assessment and main results.\n| ID | Author | Measurement Instrument | Outcome Domain | Assessment Type | Main Results |\n|---|---|---|---|---|---|\n| 11 | Kasari C. et al., 2014 [51] | PPVT-4 | Expressive and receptive | standardized…\n3. medsci-14-00388-t001_Table 1Table 1\nOutcome assessment and main results.\n| ID | Author | Measurement Instrument | Outcome Domain | Assessment Type | Main Results |\n|---|---|---|---|---|---|\n| 7 | Clark, G. T. et al., 2023 [47] | CDI-1 | Expressive and receptive | Parent-reported…\n4. Body: turning or moving towards something, taking someone’s hand to put it on an object (to get help), pulling someone by the hand, turning or nodding the head, gesturing with the head Hands: pointing to something, showing or giving an object to someone, reaching, grabbing or…\n5. Despite only being named as a category in 2015,16 NDBIs are now the most frequently studied intervention approach for this population. Summary effect estimates from randomized controlled trials suggest that NDBIs might improve adaptive behavior, language, play, social…\n6. − asking for something to stop? − trying to share something with you? − trying to tell you that she/he is scared, tired, hungry or excited? Key message 3 When you notice your child communicating, find out what message your child is trying to send you Respond with words and…\n7. Despite these limitations, this review suggests that certain adjustments in inclusive preschool programs could be made to foster the conditions for social communication of autistic children with their preschool social partners. A recurring finding in the studies reviewed is that…\n8. Moreover, emerging results indicate that pre-treatment imitation skills may moderate responsiveness, highlighting the importance of individualized assignment when considering such interventions [72].\n\nFew studies examined AAC. While these interventions did not consistently…\n9. AAC aims to improve communication by enhancing functional communication skills, language, social competence, and natural speech in individuals of all ages, regardless of the presence of a clinical condition (56, 57). AAC deals with two different meanings: augmentative, which…\n10. Date, time, location Home visit 1 Call to check in Session 1 Introduction – Getting children engaged Call to check in Session 2 Keeping children engaged Call to check in Session 3 Helping children to share engagement in play and home routines Text message reminder about next…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "social_communication",
+  "query": "Chú ý chung (joint attention) là gì?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'joint' <-> 'attent' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-OA-PMC10900867",
+   "ASD-SUP-PMC13414371",
+   "ASD-CSV-017"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-OA-PMC10900867",
+   "ASD-SUP-PMC13414371",
+   "ASD-CSV-017",
+   "ASD-OA-PMC10900867",
+   "ASD-SUP-PMC13414371",
+   "ASD-CSV-011",
+   "ASD-CSV-089",
+   "ASD-CSV-089",
+   "ASD-CSV-089",
+   "ASD-OA-PMC10774556"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. Initiation and response rates are basic indicators of social engagement that were frequently used (12 out of 17 papers), but their analysis varied across studies. Two studies focused only on initiations and spontaneous communication (Gutierrez et al., 2007; Kaale et al., 2014)…\n2. Three studies examined both structured and naturalistic interventions to support spoken language in MV autistic children. Discrete Trial Training (DTT), a highly structured ABA-based method using repeated stimulus–response–consequence cycles, was a core component across…\n3. N sample size, M mean, SD standard deviation, NDBI naturalistic developmental behavioral intervention, AAC augmentative and alternative communication, DV dependent variable (language only), RCT randomized control trial, Ex experimental group, Con control group, MSEL Mullen…\n4. Approximately half of the studies reviewed (nine out of 17) included specific coding of communicative functions, that is the interpersonal intention of communicative acts, independently of their forms (see Table 2). The proportion was similar among noninterventional studies…\n5. Six studies (33.3%) implemented NDBIs, integrating developmental and applied behavior analysis principles to enhance communication and social interaction within child-led, play-based contexts. Most interventions combined Joint Attention, Symbolic Play, Engagement and Regulation…\n6. The current systematic review identified 30 RCTs of PMIs for children and adolescents with ASD. The results showed a clinically relevant effect on parent-rated adaptive functioning but no effect when the outcome was rated by a clinician. Moreover, PMIs may be a valuable…\n7. Table 2\nStudy characteristics.\n| Citation and methodology | Aim or objectives | Outcome measures | Results | Methodological quality |\n|---|---|---|---|---|\n|  |  | P-ESDM fidelity tool—5-point Likert rating tool of 13 parent behavior that define the child-centred, responsive…\n8. Table 2\nStudy characteristics.\n| Citation and methodology | Aim or objectives | Outcome measures | Results | Methodological quality |\n|---|---|---|---|---|\n|  | P-ESDM fidelity tool—5-point Likert rating tool of 13 parent behavior that define the child-centred, responsive…\n9. Table 4\nIntervention characteristics.\n| Study | Intervention description and dosage | Method of delivery to parent | Skills or aims of intervention |\n|---|---|---|---|\n| Vismara et al [48] | Parent early start Denver model (P-EDSM) trainingDosage: Once-per-week, 1 h parent…\n10. Social skills training (SST) is the most widely researched intervention aimed at improving social skills, a core symptom of ASD. It is usually delivered face-to-face by experts in specialized institutions or teachers and peers in schools under the supervision of experts [35]. In…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "repetitive_behaviors",
+  "query": "Vì sao trẻ tự kỷ thích xếp đồ thành hàng?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'line' ) | ( 'line' ) | ( 'line' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-CSV-017",
+   "ASD-OA-PMC12620806",
+   "ASD-CSV-081"
+  ],
+  "gate_sufficient": false,
+  "gate_reason": "no_topic_specific_evidence",
+  "supported_sources": [],
+  "answer_mode": "insufficient_evidence",
+  "answer_text": "Hệ thống chưa tìm được bằng chứng đủ phù hợp và cụ thể trong kho dữ liệu hiện có để trả lời chắc chắn câu hỏi này. Nguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": []
+ },
+ {
+  "topic": "repetitive_behaviors",
+  "query": "Sở thích hạn hẹp ở trẻ tự kỷ là gì?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'restrict' <-> 'interest' ) | ( 'circumscrib' <-> 'interest' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-CSV-002",
+   "ASD-CSV-091",
+   "ASD-OA-PMC12468522"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-CSV-002",
+   "ASD-CSV-091",
+   "ASD-OA-PMC12468522",
+   "ASD-SUP-PMC9399988",
+   "ASD-NEW-003",
+   "NIH-NIMH-ASD-2025"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "Rối loạn phổ tự kỷ (Autism Spectrum Disorder – ASD) là một rối loạn phát triển thần kinh, ảnh hưởng đến giao tiếp, tương tác xã hội và có thể biểu hiện qua các hành vi, sở thích hoặc hoạt động hạn chế, lặp lại. Biểu hiện và nhu cầu hỗ trợ khác nhau ở mỗi người.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C10"
+  ]
+ },
+ {
+  "topic": "sensory",
+  "query": "Trẻ tự kỷ nhạy cảm với âm thanh như thế nào?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'sound' <-> 'sensit' ) | ( 'nois' <-> 'sensit' ) | ( 'auditori' <-> 'sensit' ) | ( 'sensit' <2> 'sound' ) | ( 'sensit' <2> 'nois' )",
+  "fts_hit_count": 6,
+  "fts_top_sources": [
+   "ASD-OA-PMC11638897",
+   "ASD-OA-PMC11638897",
+   "ASD-OA-PMC12620806"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-OA-PMC11638897",
+   "ASD-OA-PMC11638897",
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC11638897",
+   "ASD-OA-PMC11638897",
+   "ASD-OA-PMC11638897"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. Autistic people often have increased sensitivity to certain noises or trouble ignoring background noise, which can affect people's wellbeing and how they go about their daily lives. This review looks at how the published research on this topic helps us understand how autistic…\n2. A recent autistic‐led review explored the published evidence regarding reduced sound tolerance in autistic people, including its phenomenology, contributing factors, and potential mechanisms (Williams, He, et al., 2021). Reduced tolerance to sounds is often conceptualized, at…\n3. Sleep is fundamental in typical development and plays a vital role in the physical and cognitive maturation of children. Autistic children often do not experience typical sleep. Instead, autistic youth frequently experience significant sleep disturbances, which can exacerbate…\n4. As well as a heightened sensitivity to sounds, some autistic people may find busy auditory scenes challenging, such as isolating a single speech source in a noisy environment (Hernandez et al., 2020), and may have difficulty filtering out interfering sounds that capture their…\n5. While peripheral hearing function in autistic people appears similar to the general, neurotypical population (Beers et al., 2014; Kuiper et al., 2019; Mishaal et al., 2022), autistic people may exhibit an increased ability to detect subtle nuances in auditory scenes (Davies,…\n6. Focused on the auditory modality, this review examined the autistic auditory profile and how it relates to broader autistic attributes. Data derived from empirical research and personal accounts demonstrated how sensory differences in the auditory domain impact autistic people's…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6"
+  ]
+ },
+ {
+  "topic": "sensory",
+  "query": "Liệu pháp tích hợp cảm giác là gì?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( ( ( ( 'therapi' ) ) & ( ( 'sensori' <-> 'integr' ) | ( 'sensori' <-> 'integr' <-> 'therapi' ) ) ) )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-SUP-PMC10783429",
+   "NIHR-SENITA-2022",
+   "ASD-SUP-PMC6590432"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-SUP-PMC10783429",
+   "NIHR-SENITA-2022",
+   "ASD-SUP-PMC6590432",
+   "NIHR-SENITA-2022",
+   "NIHR-SENITA-2022",
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC6590432",
+   "NIHR-SENITA-2022"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. Intervention targets tend to center on early social communication skills that are thought to serve as a foundation for further developmental cascades. Examples include the early start Denver model, JASPER, and pivotal response teaching.\n\nSensory integration therapy—Interventions…\n2. Sensory integration therapy Sensory integration therapy is a clinic-based approach that focuses on the therapist –child relationship and uses play-based sensory motor activities to address sensory– motor factors specific to the child to improve their ability to process and…\n3. For example, this was a randomized controlled trial of children with autism who received intervention consistent with the principles of ASI and had positive outcomes that impacted their participation in daily life activities and routines.\n\nThe findings from this review diverge…\n4. Background Approximately 1–2% of children have a diagnosis of autism in the UK, of whom ≥ 90% also experience at least moderate sensory processing difficulty (SPD), which can have an impact on their daily life and well-being. Addressing SPDs using specific interventions, which…\n5. with exceptions being for ABC lethargy/social withdrawal (lower end of the scale, indicating lower levels of lethargy/social withdrawal), ABC stereotypic behaviour (lower end of the scale, indicating lower levels of stereotypic behaviour) and EQ-5D (higher end of the scale,…\n6. Figure 2 presents the percentage of outcomes for each risk of bias rating (ie, low risk of bias, high risk of bias, unclear) for all risk of bias indicators by intervention type. Only studies included in the generation of effect sizes are summarized in terms of risk of bias.…\n7. As in the previous meta-analysis, we estimated the effects for behavioral interventions, developmental interventions, NDBIs, and technology based interventions. However, there were still not enough studies to reliably estimate the summary effects for animal assisted…\n8. Categories of intervention approaches that were too sparsely represented in the literature to allow summary effect estimation for autistic children between birth and 8 years included animal assisted therapy, cognitive behavioral therapy, music therapy, sensory integration…\n9. Ayres Sensory Integration intervention is one of the most frequently requested and highly utilized interventions in autism. This intervention has specific requirements for therapist qualifications and the process of therapy. This systematic review of studies providing Ayres…\n10. The NICE Guideline Development Group recommended further research to establish whether or not sensory integration therapy (SIT) improves SPDs in children and young people with autism across a range of contexts.\n\nThe primary goal of OT intervention is to enable participation in…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "early_signs",
+  "query": "Dấu hiệu sớm của tự kỷ ở trẻ 18 tháng là gì?",
+  "cache_result": {
+   "http": 200,
+   "mode": "topic_template",
+   "retrieval_status": "ok"
+  },
+  "fts_tsquery": "( ( ( ( 'earli' <-> 'sign' ) | ( 'earli' <-> 'sign' ) ) & ( ( '18' <-> 'month' ) | ( '18' <-> 'month-old' <-> 'month' <-> 'old' ) | ( '18' <-> 'month' ) ) ) )",
+  "fts_hit_count": 0,
+  "fts_top_sources": [],
+  "gate_sufficient": false,
+  "gate_reason": "no_results",
+  "supported_sources": [],
+  "answer_mode": "insufficient_evidence",
+  "answer_text": "Hệ thống chưa tìm được bằng chứng đủ phù hợp và cụ thể trong kho dữ liệu hiện có để trả lời chắc chắn câu hỏi này. Nguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": []
+ },
+ {
+  "topic": "early_signs",
+  "query": "Trẻ sơ sinh có thể có dấu hiệu tự kỷ không hay phải lớn hơn mới thấy?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'sign' ) | ( 'sign' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-CSV-084",
+   "ASD-CSV-084",
+   "ASD-SUP-PMC13414371"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-CSV-084",
+   "ASD-CSV-084",
+   "ASD-SUP-PMC13414371",
+   "WHO-CST-PARTICIPANTS-2022",
+   "ASD-CSV-084",
+   "ASD-OA-PMC10900867",
+   "CDC-ASD-ABOUT",
+   "CDC-MILESTONES-02",
+   "NIHR-SENITA-2022",
+   "ASD-CSV-084"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. For those who may not make use of visual stimuli for learning,43 providing AAC within child-led naturalistic teaching situations is unlikely to impede learning, including of speech.33,34\n\nThe underlying tenets of AAC research are that communication is multimodal and that…\n2. Table 1\nSummaries of included reviews\n| Study | Aims (review period) | Effect size indicator | Key findings |\n|---|---|---|---|\n| Gevarter et al21 | Systematic review of ESCD and group studies of individuals with developmental disabilities for AAC intervention component…\n3. Speech-, music-, and imitation-based interventions represent innovative approaches to promote verbal production in MV or nonverbal autistic children by leveraging rhythm, melody, and motor imitation.\n\nAuditory-Motor Mapping Training (AMMT), described by Chenausky et al. [46],…\n4. All children can learn and develop skills Key message 1 • With support, children with developmental delays and disabilities can learn new skills and participate in everyday activities. Hot/red (not regulated but agitated) Very upset, angry or overexcited. Needs help to calm…\n5. Even taking into consideration concerns about study quality, the evidence presented across reviews, as summarized in Table 1, indicates that, overall, AAC has been found to be effective to highly effective for children with autism according to the metrics applied (Table 2). The…\n6. Coding the diversity of communication forms is important, especially for young children, who may use a variety of means to express intention (e.g., verbal and nonverbal, conventional, symbolic, iconic). They may also use more or less rich combinations of these means. In 11…\n7. We naturally think of a child's growth as height and weight, but from birth to 5 years, a child should reach milestones in how they play, learn, speak, act, and move. A delay in any of these areas could be a sign of ASD or other developmental disability.\n\nThrough the \"Learn the…\n8. * Being responsive to your baby helps him learn and grow. Limiting your screen time when you are with your baby helps you be responsive.\n\n* Take care of yourself. Parenting can be hard work! It's easier to enjoy your new baby when you feel good yourself.\n\n* Learn to notice and…\n9. Exclusion criteria Participants were excluded if they were:\n\nl currently undergoing or had previously undergone SIT l currently undergoing applied behaviour analysis therapy. Recruitment process Children were recruited from CAMHS, paediatrics, OT, schools and support or social…\n10. The finding of the NAC6,7 that AAC is an emerging area, only, appears at odds with the findings from the 17 reviews presented here, even considering differences in publication periods captured: the most recent reviews in Table 1 included studies published in 2014;31,32 the NAC…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "diagnosis_screening",
+  "query": "M-CHAT-R/F là gì và độ chính xác thế nào?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( ( ( ( 'm-chat' <-> 'm' <-> 'chat' ) | ( 'm-chat-r' <-> 'm' <-> 'chat' <-> 'r' <-> '/f' ) | ( 'modifi' <-> 'checklist' <2> 'autism' <2> 'toddler' ) ) & ( ( 'accuraci' ) | ( 'sensit' ) | ( 'specif' ) | ( 'posit' <-> 'predict' <-> 'valu' ) ) ) )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-002",
+   "ASD-CSV-029"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "M-CHAT-R/F (Modified Checklist for Autism in Toddlers, Revised with Follow-Up) là một bảng câu hỏi sàng lọc tự kỷ cho trẻ nhỏ, mất khoảng 10 phút để hoàn thành. Theo một tổng quan hệ thống, công cụ này có độ nhạy (sensitivity) 0,85 và độ đặc hiệu (specificity) 0,99; điểm từ 8 trở lên được coi là nguy cơ cao. Đây là công cụ sàng lọc để xác định nguy cơ, không phải công cụ chẩn đoán xác định — cần được đánh giá chuyên môn tiếp theo.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "diagnosis_screening",
+  "query": "ADOS-2 là gì?",
+  "cache_result": {
+   "http": 200,
+   "mode": "topic_template",
+   "retrieval_status": "ok"
+  },
+  "fts_tsquery": "( 'ado' <-> '-2' ) | ( 'ado' ) | ( 'autism' <-> 'diagnost' <-> 'observ' <-> 'schedul' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-CSV-002",
+   "ASD-NEW-001",
+   "ASD-CSV-002"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-CSV-002",
+   "ASD-NEW-001",
+   "ASD-CSV-002",
+   "NIHR-SENITA-2022",
+   "ASD-CSV-062",
+   "ASD-CSV-062",
+   "ASD-CSV-078",
+   "ASD-NEW-001",
+   "ASD-CSV-002",
+   "ASD-CSV-002"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "ADOS-2 (Autism Diagnostic Observation Schedule, phiên bản 2) là một công cụ quan sát bán cấu trúc, được xem là tiêu chuẩn tham chiếu (\"gold standard\") để đánh giá chức năng xã hội và giao tiếp ở người có thể mắc ASD, do chuyên gia được đào tạo thực hiện. Công cụ có độ tin cậy giữa người đánh giá (interrater reliability) ở mức 0,79–0,98 giữa các mô-đun. ADOS-2 là một phần của quy trình đánh giá chẩn đoán, không phải công cụ tự làm tại nhà.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C3",
+   "C5",
+   "C6",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "age_related",
+  "query": "Tự kỷ ở tuổi dậy thì có những thay đổi gì?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'puberti' ) | ( 'pubert' )",
+  "fts_hit_count": 8,
+  "fts_top_sources": [
+   "ASD-OA-PMC12468522",
+   "ASD-CSV-095",
+   "ASD-OA-PMC12468522"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-OA-PMC12468522",
+   "ASD-OA-PMC12468522",
+   "ASD-OA-PMC12468522",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. Adolescence introduces profound neuroendocrine changes. Pubertal surges in sex steroids can exacerbate ASD symptoms, including emotional dysregulation, anxiety, and sensory sensitivity [183]. Neuroimaging shows altered synaptic pruning and reorganization during adolescence,…\n2. Clear: early brain overgrowth and atypical deceleration are consistent. Hemispheric asymmetry reductions are well replicated, particularly in language networks. Maternal immune activation and metabolic conditions are established in utero risk factors. Puberty and hormonal…\n3. brainsci-15-01010-t001_Table 1Table 1\nKnowledge status across ASD domains.\n| Domain | What Is Known | What Is Unknown | What Is Equivocal |\n|---|---|---|---|\n| Neurological and Connectivity | Altered white matter integrity and atypical functional connectivity consistently…\n4. Sleep disturbances in children with ASD are a challenging issue for patients, families, and clinicians. Non-pharmacological and oral non-prescription treatments are widely used to treat these conditions. Despite that, the available evidence on the subject is limited and often…\n5. In long-term studies (up to 104 weeks) no significant adverse event has been reported, excluding also relevant consequences on pubertal growth.\n\nAs for sedating antihistamines, despite their widespread use as sleep-inducing agents in the pediatric population, there is limited…\n6. brainsci-10-00441-t003_Table 3Table 3\nRecommendations for prescribing melatonin in children with ASD. Adapted from Bruni et al. (2015) [71].\n| Consider melatonin in children with | Sleep-onset insomnia and/or difficulty awakening up in the morning. |\n| Measure… | DLMO when…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C3",
+   "C4",
+   "C6",
+   "C7",
+   "C8"
+  ]
+ },
+ {
+  "topic": "age_related",
+  "query": "Người tự kỷ trưởng thành có đặc điểm gì khác trẻ em?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "",
+  "fts_hit_count": 0,
+  "fts_top_sources": [],
+  "gate_sufficient": false,
+  "gate_reason": "no_results",
+  "supported_sources": [],
+  "answer_mode": "insufficient_evidence",
+  "answer_text": "Hệ thống chưa tìm được bằng chứng đủ phù hợp và cụ thể trong kho dữ liệu hiện có để trả lời chắc chắn câu hỏi này. Nguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": []
+ },
+ {
+  "topic": "intervention",
+  "query": "Can thiệp hành vi (ABA) cho trẻ tự kỷ là gì?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'appli' <-> 'behavior' <-> 'analysi' ) | ( 'appli' <-> 'behaviour' <-> 'analysi' ) | ( 'aba' ) | ( 'behavior' <-> 'intervent' ) | ( 'behaviour' <-> 'intervent' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-SUP-PMC4513196",
+   "ASD-SUP-PMC10783429",
+   "ASD-OA-PMC10774556"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-SUP-PMC4513196",
+   "ASD-SUP-PMC10783429",
+   "ASD-OA-PMC10774556",
+   "ASD-NEW-003",
+   "ASD-NEW-003",
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC7726187",
+   "ASD-OA-PMC7407189",
+   "ASD-CSV-017",
+   "ASD-CSV-084"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. The field of autism early intervention has changed dramatically in the last 30 years. Since the development of the first empirically-validated and highly-structured ABA interventions that changed the lives of children with autism, continued research has expanded these efforts by…\n2. In the US, traditional behavioral interventions are the most frequently recommended intervention approach for autistic children.37 When evidence from randomized controlled trials is considered, it appears that behavioral interventions might have moderate positive effects on…\n3. Intervention approaches for individuals with autism spectrum disorder (ASD) encompass educational practices, developmental perspectives, and behavioral strategies [1]. Among these, applied behavior analysis (ABA) is recognized as the most extensively utilized and proven…\n4. The treatment of eating disorders in children is complex and necessarily multidisciplinary. A review of treatments for feeding disorders in TDC [92] described four main categories of interventions: behavioral, nutritional, oro-motor intervention, and parent training. Firstly,…\n5. Although it was not initially developed for individuals with autism, this approach is increasingly used to address the feeding difficulties experienced by children with ASD.\n\nAlso, a recent investigation compared a modified sequential oral sensory approach (M-SOS) to an ABA…\n6. Interventions were coded for type, setting, implementer, and cumulative intensity (total amount of intervention provided to participants in hours across the duration of the study). Approaches were categorized as belonging to one of nine possible types using the categorization…\n7. Key elements for the theory of change in this naturalistic ABA approach include reinforcing attempts using social attention and natural reinforcers and pairing teaching models within meaningful communication interactions.\n\nRecast treatment and other transactional approaches…\n8. Therefore, it is often easier and more acceptable for parents to associate sleep education with behavioral gradual interventions (such as gradual extinction and fading), rather than abrupt approaches (e.g., standard extinction techniques) [25].\n\nClearly, the involvement of…\n9. Table 2\nSummary of coded variables for included group design studies\n| Study authors; design | Participants | Intervention characteristics | DV characteristics | OutcomesCohen’s d | Certainty of evidence |\n| N | Age in months: M (SD) | % Female | Language description | NDBI |…\n10. Finally, studies incorporating AAC were also considered by the NAC in determining that naturalistic teaching strategies were established.47\n\nRegardless of the form of AAC used, interventions are multicomponent, with effective implementation requiring considerations beyond the…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "intervention",
+  "query": "Can thiệp NDBI là gì?",
+  "cache_result": {
+   "http": 200,
+   "mode": "topic_template",
+   "retrieval_status": "ok"
+  },
+  "fts_tsquery": "( ( ( ( 'intervent' ) | ( 'intervent' ) ) & ( ( 'ndbi' ) | ( 'naturalist' <-> 'development' <-> 'behavior' <-> 'intervent' ) | ( 'naturalist' <-> 'development' <-> 'behaviour' <-> 'intervent' ) ) ) )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC10783429"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC10783429",
+   "ASD-CSV-017",
+   "ASD-SUP-PMC7726187",
+   "ASD-SUP-PMC10783429",
+   "ASD-SUP-PMC4513196",
+   "ASD-OA-PMC10774556",
+   "ASD-CSV-017",
+   "ASD-SUP-PMC13414371"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "Can thiệp hành vi phát triển tự nhiên (Naturalistic Developmental Behavioral Interventions – NDBI) là nhóm can thiệp được thực hiện trong bối cảnh tự nhiên của trẻ, trong đó trẻ và người can thiệp cùng chia sẻ quyền chủ động, sử dụng các hệ quả tự nhiên và nhiều kỹ thuật hành vi để dạy kỹ năng phù hợp với giai đoạn phát triển. Một tổng quan cho thấy khi kết hợp thêm công cụ giao tiếp thay thế (AAC) vào NDBI, trẻ có thể có thêm cải thiện về phát triển ngôn ngữ so với chỉ dùng NDBI.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C4",
+   "C7",
+   "C9"
+  ]
+ },
+ {
+  "topic": "sleep",
+  "query": "Người tự kỷ có thể gặp khó khăn về giấc ngủ không?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'sleep' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC7407189"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-CSV-095",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-CSV-095",
+   "ASD-OA-PMC4271434",
+   "ASD-OA-PMC7407189"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "Rối loạn giấc ngủ là tình trạng đồng mắc phổ biến ở trẻ tự kỷ (gặp ở khoảng 50-80% trẻ). Theo một tổng quan, các biện pháp không dùng thuốc thường được khuyến nghị thử trước, trong đó khuyến nghị có mức bằng chứng mạnh nhất là giữ giờ đi ngủ, giờ thức dậy và giờ ngủ trưa cố định, đều đặn mỗi ngày. Đây chỉ là một trong nhiều khuyến nghị được tổng quan; nguồn còn liệt kê các biện pháp khác với mức bằng chứng khác nhau mà hệ thống chưa trích xuất đầy đủ ở đây.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C3",
+   "C4",
+   "C6",
+   "C7",
+   "C10"
+  ]
+ },
+ {
+  "topic": "sleep",
+  "query": "Melatonin có giúp trẻ tự kỷ ngủ ngon hơn không?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( ( ( ( 'melatonin' ) ) & ( ( 'sleep' ) ) ) )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-CSV-095"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-CSV-095",
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "NIH-NIMH-TEEN-BRAIN",
+   "ASD-CSV-095",
+   "ASD-OA-PMC7407189"
+  ],
+  "answer_mode": "topic_template",
+  "answer_text": "Theo một tổng quan tài liệu, melatonin là một trong số ít biện pháp (cùng với các can thiệp hành vi) được ghi nhận có hiệu quả khá rõ ràng trong y văn đối với rối loạn giấc ngủ ở trẻ tự kỷ. Đây là thông tin về hiệu quả nói chung, không phải hướng dẫn liều dùng — liều lượng cụ thể phải do bác sĩ quyết định.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C6",
+   "C7",
+   "C10"
+  ]
+ },
+ {
+  "topic": "speech_language",
+  "query": "Trẻ tự kỷ có thể gặp khó khăn về ngôn ngữ không?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "",
+  "fts_hit_count": 0,
+  "fts_top_sources": [],
+  "gate_sufficient": false,
+  "gate_reason": "no_results",
+  "supported_sources": [],
+  "answer_mode": "insufficient_evidence",
+  "answer_text": "Hệ thống chưa tìm được bằng chứng đủ phù hợp và cụ thể trong kho dữ liệu hiện có để trả lời chắc chắn câu hỏi này. Nguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": []
+ },
+ {
+  "topic": "speech_language",
+  "query": "Trẻ chậm nói có phải là tự kỷ không?",
+  "cache_result": {
+   "http": 200,
+   "mode": "extractive_fallback",
+   "retrieval_status": "ok"
+  },
+  "fts_tsquery": "( 'speech' <-> 'delay' ) | ( 'languag' <-> 'delay' ) | ( 'delay' <-> 'speech' )",
+  "fts_hit_count": 7,
+  "fts_top_sources": [
+   "ASD-CSV-002",
+   "ASD-CSV-017",
+   "ASD-CSV-091"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-CSV-002",
+   "ASD-CSV-017",
+   "ASD-CSV-091",
+   "ASD-NEW-002",
+   "ASD-OA-PMC12468522",
+   "ASD-OA-PMC12468522",
+   "ASD-OA-PMC12468522"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. When screening results suggest risk of autism, children are typically referred for more comprehensive, formal diagnostic evaluations. Autism diagnostic assessment practices have made considerable advancements over the past several decades. Moving away from relying solely on…\n2. Table 2\nSummary of coded variables for included group design studies\n| Study authors; design | Participants | Intervention characteristics | DV characteristics | OutcomesCohen’s d | Certainty of evidence |\n| N | Age in months: M (SD) | % Female | Language description | NDBI |…\n3. The ICT is one component of the Communication and Symbolic Behaviour Scale—Developmental Profile (CSBS-DP) established by [49] with the intention of recognising language and communication impairment in infants aged from 6 to 24 months. Even though ICT is also used widely as an…\n4. | Author, Year Country | Intervention Description | Intervention Includes Responsive Caregiving | Average Child Age at Baseline | Average Program Duration | Study Design (Unit of Randomization) | Delivery | Setting | Analytic Sample | Early child development outcomes | Parenting…\n5. Speech delay is often an early marker of ASD, but heterogeneity is high: some children acquire age-appropriate vocabulary yet struggle with pragmatics, while others present with global language impairment [107]. Early gesture use and joint attention predict later language…\n6. Disturbances in folate transport and methylation capacity—particularly folate receptor-α autoantibodies and low CSF 5-MTHF in a subset—remain robust findings and relate to language delay and irritability [137]. Trials and series suggest that folinic acid (leucovorin) can benefit…\n7. Maternal antibodies targeting fetal brain antigens (MAR autism antibodies) are confirmed in ~10% of ASD cases, linked to language delay and macrocephaly [156]. New evidence shows anti-synaptic and anti-folate receptor antibodies correlating with irritability and regression…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7"
+  ]
+ },
+ {
+  "topic": "asd_adhd",
+  "query": "ASD và ADHD khác nhau như thế nào?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'adhd' ) | ( 'attention-deficit' <-> 'attent' <-> 'deficit' <-> '/hyperactivity' <-> 'disord' ) | ( 'attent' <-> 'deficit' <-> 'hyperact' <-> 'disord' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-CSV-078",
+   "ASD-CSV-078",
+   "ASD-CSV-062"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-CSV-078",
+   "ASD-CSV-078",
+   "ASD-CSV-062",
+   "ASD-CSV-078",
+   "ASD-CSV-078",
+   "ASD-CSV-078",
+   "ASD-CSV-078",
+   "ASD-CSV-062",
+   "ASD-CSV-062",
+   "ASD-CSV-062"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. Attention deficit hyperactivity disorder (ADHD) is a common neurological, and developmental comorbid disorder among youth with autism spectrum disorder (ASD) [1]. However, the degree to which comorbid anxiety is comparable in these syndromes is still not well-understood. It has…\n2. Discussion\n\nWe conducted a literature review on the differing levels of anxiety and psychiatric comorbidities in children with ADHD, ASD, and co-occurring diseases. Clinicians have recognized an increased prevalence of anxiety and psychiatric comorbidities such as gender…\n3. Autism spectrum disorder (ASD) is a neurobehavioral disorder defined by social- communication deficits and restricted and repetitive behaviors that are typically detectable in early childhood and continue into adulthood (1). ASD-specific behaviors have been found to negatively…\n4. Comorbidity can refer to both the co-occurrence of disorders temporally separated from ADHD or concurrent with ADHD. The rate of co-occurrence of ADHD and other disorders varies, as do the prevalence rates of these individual disorders [7-9].\n\nResearch also shows a prevalence of…\n5. In individuals with ASD, a high frequency of anxiety is detected due to the stress and anxiety associated with social interactions [4]. Identifying early-life markers of ASD and ADHD as individually evolving conditions has been well looked into with hopes of establishing a…\n6. This study is unique in that it aligns with our hypothesis that children with ADHD face higher levels of anxiety, but it identifies anxiety as a positive factor that aids children with ADHD by increasing their cognitive performance.\n\nAnxiety is an extensively studied disorder,…\n7. Further, studies into the effects of impaired motor skills in children with ASD and ADHD are needed to understand the implications motor disorders have on children's anxiety.\n\nAlthough there is evidence of children with ADHD, ASD, and co-occurring ADHD and ASD having higher…\n8. In light of this, it is possible that the clinical presentation in ASD would not be worsened by having anxiety symptoms. Therefore, is it important to further investigate the contribution of having anxiety symptoms in ASD with comorbid ADHD on various aspects of the clinical…\n9. T-score ≥60 supported significant symptoms in the correlating scale.\n\nIn the current research, although parents' and teachers' CRS scores are presented and compared, only the parents' questionnaire was used to define the groups, in order to avoid the impact of ADHD medications…\n10. High rates of attention deficit/hyperactivity disorder (ADHD) and anxiety symptoms have been documented in autism spectrum disorder (ASD), and have been associated with social and adaptive impairments. The study examined the frequency of clinically elevated ADHD and anxiety…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ },
+ {
+  "topic": "asd_adhd",
+  "query": "Trẻ tự kỷ có hay bị tăng động kèm theo không?",
+  "cache_result": {
+   "http": 503,
+   "mode": "none",
+   "retrieval_status": "blocked_uncached"
+  },
+  "fts_tsquery": "( 'co-occur' <-> 'co' <-> 'occur' ) | ( 'comorbid' ) | ( 'comorbid' )",
+  "fts_hit_count": 10,
+  "fts_top_sources": [
+   "ASD-CSV-088",
+   "ASD-CSV-007",
+   "ASD-CSV-007"
+  ],
+  "gate_sufficient": true,
+  "gate_reason": "ok",
+  "supported_sources": [
+   "ASD-CSV-088",
+   "ASD-CSV-007",
+   "ASD-CSV-007",
+   "ASD-CSV-088",
+   "ASD-CSV-088",
+   "ASD-CSV-088",
+   "ASD-CSV-007",
+   "ASD-CSV-078",
+   "ASD-CSV-078",
+   "ASD-CSV-078"
+  ],
+  "answer_mode": "extractive_fallback",
+  "answer_text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. The present study was conducted with the aim to identify comorbid psychiatric disorders in children with autism spectrum disorders (ASD) (n = 40) and to compare those comorbidity rates to those in children with attention deficit hyperactivity disorder (ADHD) (n = 40).…\n2. Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterized by persistent deficits in social communication and social interaction across multiple contexts and restricted, repetitive patterns of stereotyped behaviors, interests, or activities. The symptoms of…\n3. Knowledge gained in population based estimates of comorbidity is therefore not only practically important in tailoring interventions according to the distribution of psychiatric burden in ASD in the population, but understanding of psychiatric comorbidity is a topic of critical…\n4. The present study examined psychiatric comorbidity in children with ASD and compared this to a group of children with ADHD. This was the first study to compare these two groups with respect to the frequencies of comorbid disorders (instead of symptoms) with a structured…\n5. The bold values were used to visually illustrate the most common (top-3) comorbid disorders\n\nAD autistic disorder, ADHD attention deficit hyperactivity disorder, AGO agoraphobia, AS Asperger’s syndrome, AUT autism, CD conduct disorder, DYS dysthymic disorder, GAD generalized…\n6. Alternatively, children with ASD and an IQ below 70 may have poorer language skills to communicate (psychiatric) symptoms or internal feelings (to their caregivers), which could contribute to such findings.\n\nChild psychiatric disorders can be roughly divided into two main…\n7. Our review shows a critical gap in the field for population-based comorbidity studies focusing in particular on adolescents with ASD. Most of the studies include school-aged children and do not mirror the needs of older patients. Our meta-analysis included 5 studies involving…\n8. Attention deficit hyperactivity disorder (ADHD) is a common neurological, and developmental comorbid disorder among youth with autism spectrum disorder (ASD) [1]. However, the degree to which comorbid anxiety is comparable in these syndromes is still not well-understood. It has…\n9. Discussion\n\nWe conducted a literature review on the differing levels of anxiety and psychiatric comorbidities in children with ADHD, ASD, and co-occurring diseases. Clinicians have recognized an increased prevalence of anxiety and psychiatric comorbidities such as gender…\n10. Children with attention deficit hyperactivity disorder (ADHD) or autism spectrum disorder (ASD) individually and those with co-occurring ADHD and ASD experience higher rates of total anxiety and psychiatric comorbidities such as gender dysphoria and locomotor skills compared to…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8",
+   "C9",
+   "C10"
+  ]
+ }
+]

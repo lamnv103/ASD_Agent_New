@@ -1,0 +1,468 @@
+﻿QUESTION q022: Làm sao phòng tránh trẻ tự kỷ đi lạc, bỏ chạy?  (42 candidates)
+
+### 44C4F5517D | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING | page 232-235
+behaviour.
+
+Tips Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Question 1 Instructions: Match the behaviour on the left with the goal for your response to the behaviour on the right by drawing a line that connects the two. Some behaviours may have more than one goal. Afterward, check your answers on the following pages. A. When Tyree is playing outside and his mother tries to bring him inside for bedtime, he says “No, no, no!” and falls to the ground.
+
+Do not give the item when there is challenging behaviour.
+
+B. Jacob likes to stare at lights and sometimes he wiggles his fingers in front of his eyes.
+
+When he is excited, sometimes he flaps his arms like wings.
+
+Give no attention or response (ignore the behaviour) then reward appropriate behaviour with praise and attention.
+
+C. When her father is talking on the telephone, Anna starts yelling and throwing her toys onto the floor.
+
+Set clear expectations and help the child to understand that challenging behaviour will not delay the activity. D. When Saanvi and her mother walk by a store that sells sweets, Saanvi whines and tries to pull her mother toward the store.
+
+Show the child a better way to get the sensation, but if the behaviour does not disrupt engagement and learning, think about focusing on another challenging behaviour first. Questions to check your own learning Instructions: Choose the best answer for each question from the options below. Afterward, check your answers and circle the correct option. Question 2 Maya’s mother wants to make it easier for Maya to cooperate when she is braiding Maya’s hair. What should she do when she is braiding and Maya starts whining? A. Make sure that she is being gentle and not hurting Maya. B. Sing a song while she continues to braid. C. Count down the number of seconds until the activity is finished. D. Plan to braid one side and then take a break before braiding the other side, rather than taking a break when Maya starts whining. E. All of the above (A, B, C and D) These are the answers to the questions to check your own learning on the previous page. Only check the answers after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer.
+
+Question 1:
+
+Answers and explanation:
+
+A. Set clear expectations and help the child understand that challenging behaviour will not delay the activity.
+
+### 9CCBE5326A | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Tables | page -
+| Characteristic | ASD-only | ASD+ID/DD | ID/DD-only |
+| Percent that have wandered (± SE) | aOR (95% CI) | Percent that have wandered (± SE) | aOR (95% CI) | Percent that have wandered (± SE) | aOR (95% CI) |
+|---|---|---|---|---|---|
+| Age |  |  |  |
+| 6–11 | 41.6 ± 5.7 | 2.4 (1.2–4.9)* | 40.6 ± 4.0 | 1.7 (1.0–2.9)* | 30.4 ± 3.6 | 2.5 (1.6–4.0)* |
+| 12–17 | 22.5 ± 5.0 | Ref | 27.1 ± 3.8 | Ref | 15.6 ± 2.1 | Ref |
+| Sex |  |  |  |
+| Male | 32.5 ± 4.4 | 1.0 (0.4–2.9) | 37.2 ± 3.2 | 1.7 (0.9–3.2) | 22.3 ± 3.0 | 0.9 (0.5–1.4) |
+| Female | 34.2 ± 9.1 | Ref | 24.9 ± 4.8 | Ref | 23.6 ± 2.9 | Ref |
+| Income |  |  |  |
+| ≤ 100% FPL | 36.9 ± 9.8 | 1.4 (0.3–6.4) | 36.4 ± 6.9 | 1.2 (0.6–2.4) | 26.3 ± 4.4 | 1.5 (0.9–2.4) |
+| >100% FPL | 30.8 ± 4.4 | Ref | 33.1 ± 3.2 | Ref | 22.2 ± 2.7 | Ref |
+| Education |  |  |  |
+| ≤ HS | 21.9 ± 11.1 | 0.6 (0.2–2.4) | 48.4 ± 6.8 | 2.1 (1.1–4.0)* | 22.7 ± 3.7 | 0.8 (0.5–1.3) |
+
+### 07157B38C7 | Parallel paths: A narrative review exploring autism and its co-occurring conditions | AUTISM PRESENTATION ASSOCIATED WITH KNOWN ENVIRONMENTAL EXPOSURES > Autoimmune conditions | page -
+There is evidence of abnormal immune response in autism. T cell function response in autism may be more skewed towards a proinflammatory state (Th1 response) which correlates with more severe autism[121,122]. There is also evidence of abnormal cytokine production with increased levels of proinflammatory cytokines such as IL-1β, IL-2, IL-6, IL-8 and IL-12 as well as decreased levels of regulatory cytokines such as IL-10 and TGF-β1, which correlate with more severe symptoms of autism[122,123]. These abnormalities, aside from correlating with the severity of autism, may predispose them to autoimmune conditions.
+
+The above-mentioned abnormalities suggest that autoimmune conditions may be more common in autistic children, with epidemiologic studies looking into the association of rheumatologic and autoimmune conditions and autism having been carried out.
+
+Zerbo et al[124] conducted a case-control study using the Kaiser Permanente database looking for the incidence of autoimmune conditions in autism. This study demonstrated that autoimmune conditions were more common in children, however, this was driven by psoriasis, which was found to occur twice as common as in neurotypical controls. Other autoimmune conditions like juvenile idiopathic arthritis, type 1 DM, and lupus among 41 other autoimmune conditions did not reach statistical significance. A nationwide study from Taiwan using a national health insurance database found that autistic people had a higher incidence of type 1 DM and in general autoimmune conditions as a whole were more common in autistic people. However, this may have been driven by an increased incidence of type 1 DM; other autoimmune conditions did not seem to reach statistical significance[116]. Neither of these studies found a statistical correlation between celiac disease, Crohn’s disease, and autism.
+
+Although not an autoimmune condition, chronic pain syndromes such as fibromyalgia are more common in autistic people. These conditions are characterized by chronic pain in the absence of apparent noxious stimuli. Bursch reported that 20% of the patients with chronic pain followed in the pain clinic at the University of California, Los Angeles had autistic traits[125]. This could be attributed to the neurosensory dysfunction seen in autistic patients, which may increase pain perception. Many of these patients were not diagnosed with autism at the time of evaluation in the pain clinic[111]. Hypermobile joints, which may predispose to chronic pain, have also been found more commonly in autistic children; the same can be said for Ehlers-Danlos syndrome, which is characterized by joint hypermobility, arthralgia, Marfanoid habitus, joint dislocations and hyperextensible skin[126].
+
+Another association between autoimmunity and autism has been found with regard to the risk of autism in children from families with a history of autoimmunity. A meta-analysis found that children from families with a history of autoimmunity had a 28% higher risk of autism. Rheumatoid arthritis, thyroid disorders, and psoriasis were some of the autoimmune conditions included in the studies used in the meta-analysis[127].
+
+### 593CBA446E | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 3. Results > 3.3. GIS and ASD Severity | page -
+However, Yang et al. [59] found that children with and without GIS had significantly different levels of social interaction and stereotyped behaviors.
+
+Further evidence of the relationship between GIS and ASD symptoms and the existence of a gut–immune–brain axis was provided by studies that have investigated differences in the gut microbiota composition of children with ASD and the presence of GIS. Rose et al. [52] investigated differences in biological signatures in terms of immune dysfunction and microbiota composition in a sample of children with ASD (n = 102) aged from 3 to 12 years old. The results showed the microbiota composition of the children with GIS differed from that of those without GIS and they produced increased levels of mucosa-relevant cytokines. Rose et al. concluded that this suggested that chronic gut inflammation plays a part in ASD pathogenesis. Tomova et al. [56] also provided evidence that the gut microbiota plays a role in ASD. They identified changes in the fecal microbiota in children with ASD to determine its role in the development of GI disorders and other manifestations of ASD. The fecal microflora of a small sample of children with ASD (n = 10), siblings (n = 9), and healthy children (n = 10) was investigated, and parental questionnaires were used to collect data on GIS. The fecal microbiota of the children with ASD showed a significant decrease of the Bacteroidetes/Firmicutes ratio, and an elevated amount of Lactobacillus spp. Results also showed a trend in the incidence of elevated Desulfovibrio spp. in children with ASD. In addition, there was a very strong association of the amount of Desulfovibrio spp. with the severity of ASD according to the Autism Diagnostic Interview (ADI) restricted/repetitive behavior subscale score [62]. The participants demonstrated a strong positive correlation of ASD severity with the severity of GI dysfunction. Supplementing the diet with probiotics normalized the Bacteroidetes/Firmicutes ratio, Desulfovibrio spp., and the amount of Bifidobacterium spp. in feces of children with ASD. Shaahan et al. [54] also evaluated the efficacy and tolerability of a probiotic in children with ASD (n = 30; 5–9 years; mean age (84.77 ± 16.37 months)). In this small trial with no placebo group, assessors were unblinded, and participants were receiving behavioral therapy. Children with ASD were gender/age-matched with healthy controls who were relatives. Three probiotic strains of Lactobacillus acidophilus were administered for 12 weeks.
+
+### 5915D62558 | Screening for Autism Spectrum Disorder | Developmental monitoring | page -
+Developmental monitoring is an active, ongoing process of watching a child grow and encouraging conversations between parents and providers about a child's skills and abilities. Developmental monitoring involves observing how your child grows and whether your child meets the typical developmental milestones, or skills that most children reach by a certain age, in playing, learning, speaking, behaving, and moving.
+
+Parents, grandparents, early childhood education providers, and other caregivers can participate in developmental monitoring. CDC's "Learn the Signs. Act Early." program has developed free materials, including CDC's Milestone Tracker app, to help parents and providers work together to monitor your child's development and know when there might be a concern and if more screening is needed. You can use a brief checklist of milestones to see how your child is developing.
+
+### 053CEB1147 | Assessment of Autism Spectrum Disorder |  | page -
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by challenges in social interaction and communication and the presence of restricted interests and repetitive behaviors. The importance of early detection of ASD and subsequent early intervention is well documented. Efforts have been made over the years to clarify ASD diagnostic criteria and develop predictive, accurate screening tools and evidence-based, standardized diagnostic instruments to aid in the identification of ASD. In this article, we review the most recent changes in ASD diagnostic criteria in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision, summarize evidence-based instruments for ASD screening and diagnostic evaluations as well as the assessment of co-occurring conditions in ASD, the impact of COVID-19 on ASD assessment, and directions for future research in the field of ASD assessment.
+
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by challenges in social interaction and communication, and the presence of restricted interests and repetitive behaviors (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision [DSM-5-TR]; American Psychiatric Association [APA], 2022). Recent data indicate that one in 44 children in the United States (Maenner et al., 2021) and one in 160 children internationally (World Health Organization, 2013) has a diagnosis of ASD. Critical to accurate diagnosis and appropriate treatment planning is an evidence-based approach to assessment. Consistent with this special issue’s focus on evidence-based assessment guidelines for both clinical practice and research, this article provides a synthesis of available literature that describes the range of evidence-based evaluation approaches for ASD, from screening to diagnosis. We begin with reviewing the most commonly used, evidence-based instruments for screening and diagnostic evaluation of ASD. We then discuss the importance and implications of early screening and diagnosis, consider best practices for the evaluation of co-occurring conditions, and describe the impact of COVID-19 on recent autism diagnostic practices. We end the article with future directions for novel approaches to autism assessment.
+
+### B3B9F56FCA | Variations in Anxiety and Related Psychiatric Comorbidity Levels Among Youths With Individual Diagnoses of Autism Spectrum Disorder or Attention Deficit Hyperactivity Disorder and Those With Both Diagnoses | Data compiled and results gathered | page -
+Discussion
+
+We conducted a literature review on the differing levels of anxiety and psychiatric comorbidities in children with ADHD, ASD, and co-occurring diseases. Clinicians have recognized an increased prevalence of anxiety and psychiatric comorbidities such as gender dysphoria and impaired locomotor skills in children with various diagnoses. The levels of anxiety and psychiatric comorbidities appear to be intertwined as cases of gender dysphoria have been observed to cause increased levels of anxiety [14]. Anxiety also potentially stems from limited motor skills in children with ADHD, ASD, or co-occurring ADHD and ASD as they are limited in their interaction capabilities with peers [6]. Although children with ADHD, ASD, and co-occurring ADHD and ASD may not directly have anxiety stemming from their diagnosis, the associated psychiatric comorbidities may lead to increasing their anxiety levels.
+
+In a study conducted by Guttmann-Steintmetz et al., the particular focus was on anxiety symptoms present in boys and in groups with ASD, ADHD, and ADHD + ASD [2]. They also explored symptoms of chronic multiple tic disorder (CMTD). They found that mother’s ratings did not vary between groups of ASD + ADHD and CMTD + ADHD, but the teacher’s ratings showed a higher differentiation in the “irritable” and “acts restless” categories for those with ASD + ADHD in comparison to CMTD + ADHD [2]. Whether they had comorbid ASD or CMTD, individuals with ADHD were found to have higher levels of GAD and separation anxiety disorder (SAD) [2]. CMTD encompasses muscle spasms and involuntary movement, which is a factor that differentiated the severity of SAD symptoms, but differences between SAD and GAD symptoms were not further evaluated [2]. Additional research investigating differences in levels of SAD and GAD as well as specific subcategories can provide further insights.
+
+Identification of ADHD and ASD symptoms can vary based on age and early-life atypicality. Recognizing these symptoms may aid in the prediction of the presence of ADHD, ASD, and anxiety [4]. Shephard et al. noted that activity level and inhibitory control in early life are associated with ADHD, but not seen in ASD individuals or those affected by anxiety [4]. Their findings indicate that some atypicality seen in ADHD is not present in ASD, which suggests that these conditions do not arise from a common source [4]. However, mid-childhood ASD and anxiety were commonly associated with fearfulness and shyness. In individuals with ASD, a high frequency of anxiety is detected due to the stress and anxiety associated with social interactions [4]. Identifying early-life markers of ASD and ADHD as individually evolving conditions has been well looked into with hopes of establishing a deeper understanding of disease and early markers.
+
+### 43432257D1 | Autism Spectrum Disorder: Communication Problems in Children | What research is being conducted to improve communication in children with ASD? | page -
+The federal government’s Autism CARES Act of 2014 brought attention to the need to expand research and improve coordination among all of the components of the National Institutes of Health (NIH) that fund ASD research. These include the National Institute of Mental Health (NIMH), along with the National Institute on Deafness and Other Communication Disorders (NIDCD), the *Eunice Kennedy Shriver* National Institute of Child Health and Human Development (NICHD), the National Institute of Environmental Health Sciences (NIEHS), the National Institute of Neurological Disorders and Stroke (NINDS), the National Institute of Nursing Research (NINR), and the National Center for Complementary and Integrative Health (NCCIH).
+
+Together, five institutes within the NIH (NIMH, NIDCD, NICHD, NIEHS, and NINDS) support the Autism Centers of Excellence (ACE), a program of research centers and networks at universities across the country. Here, scientists study a broad range of topics, from basic science investigations that explore the molecular and genetic components of ASD to translational research studies that test new types of behavioral therapies. Some of these studies involve children with ASD who have limited speech and language skills, and could lead to testing new treatments or therapies. You can visit the NIH Clinical Trials website and enter the search term “autism” for information about current trials, their locations, and who may participate.
+
+The NIDCD supports additional research to improve the lives of people with ASD and their families. An NIDCD-led workshop focused on children with ASD who have limited speech and language skills, resulting in two groundbreaking articles.1 Another NIDCD workshop on measuring language in children with ASD resulted in recommendations calling for a standardized approach for evaluating language skills. The benchmarks will make it easier, and more accurate, to compare the effectiveness of different therapies and treatments.
+
+NIDCD-funded researchers in universities and organizations across the country are also studying:
+
+- Ways to reliably test for developmental delays in speech and language in the first year of life, with the ultimate goal of developing effective treatments to address the communication challenges faced by many with ASD. - How parents can affect the results of different types of language therapies for children with ASD. - Enhanced ways to improve communication between children with and without ASD. This could involve a communication board with symbols and pictures, or even a smartphone app. - Techniques to help researchers better understand how toddlers with ASD perceive words, and the problems they experience with words. - Cost-effective ways to prevent or reduce the impact of conditions affecting speech, language, and social skills in high-risk children (for example, younger siblings of children with ASD). - The development of software to help people with ASD who struggle with speech to communicate complex thoughts and interact more effectively in society.
+
+### 4DF0144243 | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Introduction | page -
+(2) found greater impairment in adaptive functioning among children with ASD and clinically significant ADHD symptoms in comparison to children with ASD and fewer ADHD symptoms. In contrast, Ashwood et al. (15) found significant associations between reduced adaptive functioning and autism symptoms, but not with ADHD symptoms.
+
+The prevalence of anxiety disorders in the general population is 6.5% (16), ranging from 3 to 24% in various studies (17). Anxiety is among the most common mental health problems in ASD (4, 8). Similarly to ADHD, higher frequencies of anxiety difficulties (11–84%) have been reported in children with ASD in comparison to the general population (18) and up to 40% are diagnosed with at least one DSM anxiety disorder at some point in their lives (19, 20). Anxiety disorders may include features of excessive fear and related behavioral disturbances (1). Some studies have noted that ASD is a vulnerability for stress and anxiety (20). In contrast, according to some cross-sectional research, anxiety may be an underlying cause of several symptoms of ASD. For example, anxiety affects the stereotypical and rigid behaviors (21) and social functioning difficulties (22) that children with an ASD often face. Furthermore, anxiety in children with ASD has a negative impact on adaptive functioning, daily living skills (DLS), and relationships with peers, teachers, and family (23, 24). For example, Factor et al. (25) found more social difficulties in youth with ASD and anxiety symptoms in comparison to youth with only ASD. Most of the studies that examined ASD and anxiety were cross-sectional ones, and anxiety symptoms were assessed using different anxiety scales.
+
+Rates of anxiety in the presence of ADHD in the general population range from 13 to 50%, and these comorbidities together are associated with greater risk of long term impairments than children with either condition (26). However, only a few studies have examined the frequency or the clinical impact of anxiety in children with both ASD and ADHD. Craig et al. (27) found that individuals with ASD and ADHD had higher frequency of anxiety, as compared to individuals with only ASD. Since having ASD and ADHD is already known to negatively affect functioning (2, 10, 14, 15), it is assumed that having anxiety in addition to ADHD will have additive negative impact on children with ASD. Other studies have suggested that some of the anxiety symptoms overlap with ASD symptoms (21, 22).
+
+In light of this, it is possible that the clinical presentation in ASD would not be worsened by having anxiety symptoms. Therefore, is it important to further investigate the contribution of having anxiety symptoms in ASD with comorbid ADHD on various aspects of the clinical presentation.
+
+### 9D57762846 | Parent Perspectives on Water Safety for Children with Autism | Keywords > Results > Water Safety Themes | page -
+Table 2
+Water safety themes and subthemes identified from focus groups of parents of autistic children
+| Theme 1: Characteristics of autism influence water safety risk |
+| Being drawn to water |
+| Poor sense of danger |
+| Wandering and elopement |
+| Impulsivity |
+| Opposition |
+| Communication difficulties |
+| Theme 2: Water safety fears influence family life |
+| Emotional toll of vigilance and planning |
+| Water avoidance |
+| Water access in travel planning |
+| Theme 3: Water safety and swimming lesson information for autistic children difficult to find or access |
+| Insufficient water safety information |
+| Difficulty identifying specialized swimming lessons |
+| Limited availability of specialized or adaptive lessons |
+| Distance to specialized lessons and higher costs |
+| Competing priorities |
+| Racial and ethnic disparities |
+| Prior negative swimming instruction experiences |
+| Theme 4: Characteristics of autism affect participation in swimming lessons and other aquatic activities |
+| Preparing for water activities and transitions |
+| Sensory overload in pool environments |
+| Water can be a negative sensory stimulus |
+| Strong responses to water recreation gear |
+| Water can have a positive sensory effect |
+| Difficulty self-assessing sensations |
+| Masking |
+| Inflexibility, fixations, and obsessive rule-following |
+| Other diagnoses and physical challenges |
+| Theme 5: Autistic children have unique swimming lesson needs |
+| Communication and learning challenges |
+| Developmentally appropriate |
+| Learn by observing peers |
+| Dedicated learning environment |
+| Parent involvement |
+| Theme 6: Instructor preparedness is key to swimming lesson success for autistic children |
+| Experience teaching individuals with autism |
+| Knowledgeable about autism |
+| Therapist skills |
+
+### 0B97103D58 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Tables | page -
+| Characteristic (CSBQ item) | Wanderers, ASD ± ID ± DD (% ± SE) | Non-Wanderers, ASD ± ID ± DD (% ± SE) | aOR (95% CI) |
+|---|---|---|---|
+| Does not fully understand what is being said to him/her | 45.4 ± 3.6 | 27.9 ± 2.0 | 2.1 (1.5–3.0)* |
+| Overreacts to everything and everyone | 27.5 ± 3.1 | 15.8 ± 1.6 | 1.9 (1.3–2.9)* |
+| Does not look up when spoken to | 25.4 ± 3.3 | 11.4 ± 1.2 | 2.6 (1.8–4.0)* |
+| Acts as if others are not there | 21.2 ± 2.9 | 9.6 ± 1.5 | 2.7 (1.7–4.5)* |
+| Makes little eye contact | 26.1 ± 3.1 | 14.2 ± 1.6 | 2.1 (1.4–3.3)* |
+| Dislikes physical contact | 8.7 ± 1.7 | 7.5 ± 1.2 | 1.6 (1.0–2.8) |
+| Does not respond to attempts by others to initiate contact | 8.7 ± 1.8 | 5.1 ± 0.9 | 1.5 (0.8–2.6) |
+| Shows sudden mood changes | 45.1 ± 3.6 | 26.2 ± 2.0 | 2.3 (1.6–3.3)* |
+| Gets angry quickly | 46.0 ± 3.6 | 29.2 ± 2.0 | 2.1 (1.5–3.0)* |
+| Does not realize when there is danger | 27.9 ± 3.1 | 15.6 ± 1.6 | 2.2 (1.5–3.4)* |
+| Barely knows the difference between strangers and familiar people | 18.5 ± 2.6 | 8.4 ± 1.0 | 2.4 (1.5–3.8)* |
+| Is disobedient | 25.5 ± 3.1 | 14.1 ± 1.6 | 2.1 (1.4–3.2)* |
+
+### D15943B598 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING | page 235-236
+Only check the answers after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer. Question 1: Answers and explanation: A. Set clear expectations and help the child understand that challenging behaviour will not delay the activity.
+
+ When Tyree refuses to go inside to bed and falls on the ground, he is delaying his bedtime. His mother can set clear expectations by showing him a “first-then” card, and say “first we play outside, then we get ready for bed”. She can also count down how much time Tyree has left to play. She should try not to let Tyree stay outside longer when he is showing challenging behaviour. B. Show the child a better way to get the sensation, but if the behaviour does not disrupt engagement and learning, think about focusing first on another challenging behaviour.
+
+ Jacob gets a sensation from his vision when he stares at the lights and wiggles his fingers in front of his eyes. He gets the sensation of movement when he flaps his arms. These sensations help him feel calm. If these behaviours do not get in the way of him interacting with other people and learning, it might be best to focus on other challenging behaviours first. C. Give no attention or response (ignore the behaviour) then reward appropriate behaviour with praise and attention.  If Anna’s father comes over to tell Anna to be quiet, this gives her attention and even negative attention can be a reward for a child. It would be best if he did not look at Anna or talk to her while she is showing challenging behaviour. Then as soon as she is quiet, he should go to her and tell her that she is doing a good job being quiet.
+
+Answers to questions D. Do not give the item when there is challenging behaviour. Give no attention or response (ignore the behaviour), then reward appropriate behaviour with praise and attention.
+
+ Saanvi wants her mother to buy her sweets and every time they walk by the store, Saanvi whines loudly. Sannvi’s mother should not give Saanvi sweets when she is whining. She can ignore Saanvi’s whining by not looking or talking to Saanvi while she is whining. Then, as soon as Saanvi is quiet, her mother should praise her with kind words: “You’re calm now!” Answer to Question 2: E: All of the above (A, B, C and D) Explanation:
+
+### 21DBAE7790 | Parallel paths: A narrative review exploring autism and its co-occurring conditions | AUTISM PRESENTATION ASSOCIATED WITH KNOWN ENVIRONMENTAL EXPOSURES > Neurological conditions | page -
+Developmental regression could mark the onset of an epileptic encephalopathy. Sleep disorders, which are highly prevalent in autistic children, may be further exacerbated by the presence of epileptic seizures.
+
+While the bidirectional and temporal relationship between childhood epilepsy and autism remains unclear, autism is commonly observed in infants with epileptic encephalopathy (such as infantile spasms); epilepsy could lead to autism and, reversely, abnormal brain circuitry underlying autism could predispose the brain to seizures. Early intervention targeting social and cognitive challenges in this population may positively influence developmental outcomes. However, diagnosing autism early in patients with epilepsy is challenging due to the variability in clinical phenotypes[17].
+
+Although there is no specific epilepsy syndrome associated with autism, common biological and molecular pathways between both have been suggested. Common neurobiological factors may contribute to atypical brain development, leading to both conditions. Some of the mechanisms that are thought to be present in both conditions are: Abnormalities in synaptic growth, imbalance in neuronal excitation-inhibition and abnormal synaptic plasticity. With our increasing knowledge of genetic etiologies, it has been described that several genes are implicated in both autism and epilepsy, mainly related to abnormalities in ion channels (SCN1A, SCN2A, GRIN2D, CACNA1), synaptic function and structure (PCDH19, CDKL5), transcription regulators (SYNGAP1, MECP2) with special focus on mTOR pathway in mTOR-pathies (TSC1, TSC2, GATOR). One of the genetic pathways that is most classically described is between infantile spasms and autism in the context of tuberous sclerosis complex[17]. Knowledge about the common underpinning mechanisms is crucial in discovering future drug therapies and in delivering precision medicine.
+
+Hirosawa et al[45] reported higher rates of interictal epileptiform discharges (IED) in autistic children compared to their neurotypical peers. These findings may not suggest that IED is pathogenic in these children, but might reflect epiphenomenal or compensatory processes[46].
+
+Little is known about the impact of epilepsy on social and cognitive function in autistic children, making our understanding of how epilepsy influences social communication or repetitive behaviors challenging. Here, we may differentiate between patients with early severe epilepsy who develop autism, and on the other hand, autistic children that are developing epilepsy. Autistic children with co-occurring epilepsy often demonstrate more severe core autism symptoms and disruptive behaviors than those without epilepsy[17]. There are different known risk factors that increase the likelihood of epilepsy in this population, such as ID, syndromic autism and female gender.
+
+### E3390DA872 | Attention-Deficit/Hyperactivity Disorder: What You Need to Know | How can I help my child? | page -
+- Be patient, flexible, and understanding. ADHD can be frustrating both for people who have it and the people in their lives. ADHD may make it hard for your child to perform certain tasks or behaviors. Some children may need to use different strategies to help them succeed. - Use clear, simple, direct language to explain rules and expectations. Reward behaviors that meet these expectations with positive reinforcement. Provide consistent praise or rewards for acting in a desired way. - Offer practical help, such as on tasks like cleaning and organizing, or simply be present and engaged while your child works, which can give them a sense of accountability and motivation and help them stay focused and on track. - Provide opportunities to explore different activities and interests. Help your child discover their unique talents and build confidence in their abilities.
+
+If you or someone you know is struggling or having thoughts of suicide, call or text the 988 Suicide and Crisis Lifeline at **988** or chat at 988lifeline.org. In life-threatening situations, call **911**.
+
+### B0AE87836A | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Methods | page -
+The prevalence of elopement within the previous 12 months was calculated separately for the ASD-only, ASD+ID/DD, and ID/DD-only groups. Logistic regression analyses were used to compare the odds of elopement across these groups, and to examine associations between elopement and several demographic factors: age, sex, income, race, ethnicity, and household education level.
+
+To delineate the clinical correlates of wandering, responses to questions from the CSBQ were analyzed for their association with elopement. The CSBQ is a 49-item questionnaire designed to assess a range of symptoms across the Pervasive Developmental Disorder (PDD) spectrum, including milder manifestations [7]. Questions from the CSBQ are grouped into six subscales: “stereotyped behavior” (8 items), “reduced contact and social interest” (12 items), “orientation problems” (8 items), “difficulties in understanding social information” (7 items), “resistance to change” (3 items), and “behavior/emotions not optimally tuned to the situation” (11 items). Responses to each question are scored on a three-point scale; a response of “0” indicates that the difficulty “does not apply”; “1” indicates that it “sometimes or somewhat applies”; and “2” indicates that it “clearly or often applies.” Scores from individual items are then summed to yield subscale scores. The CSBQ has been shown to have good internal consistency, inter-rater reliability, and test-retest reliability, and has been validated for use in individuals with cognitive impairment [7, 8]. Although the criterion-related validity of the CSBQ has also been shown to be good, it differs from a number of other instruments for assessing ASD in that it is not intended to be used for the purposes of diagnostic classification. Rather, the CSBQ reflects a dimensional view of the autism spectrum and is optimal for use in characterizing the pattern and severity of behaviors associated with ASDs [6, 7, 8]. For this reason, the CSBQ represents an ideal tool for examining the association between elopement and the degree of ASD symptomatology—even among children with “sub-threshold” symptoms that do not meet the criteria for a categorical ASD diagnosis. For the present analysis, t-tests were used to compare mean scores on each subscale between wanderers and non-wanderers in each of the three condition groups.
+
+### C0E5940A78 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Tables | page -
+| Subscale | ASD-only (mean score ± SE) | ASD + ID/DD (mean score ± SE) | ID/DD-only (mean score ± SE) | Entire Sample (mean score ± SE) |
+| W | Non-W | p-value | W | Non-W | p-value | W | Non-W | p-value | W | Non-W | p-value |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5. Stereotyped behavior | 6.7 ±0.8 | 4.6 ±0.4 | 0.004* | 9.4 ±0.4 | 6.3 ±0.3 | <0.001* | 4.9 ±0.3 | 3.1 ±0.2 | <0.001* | 6.7 ±0.3 | 4.0 ±0.2 | <0.001* |
+| 6. Resistance to change | 2.9 ±0.3 | 2.7 ±0.1 | 0.389 | 3.6 ±0.2 | 3.0 ±0.2 | 0.018* | 2.6 ±0.2 | 1.8 ±0.1 | <0.001* | 3.0 ±0.1 | 2.2 ±0.1 | <0.001* |
+
+### 4B1C6180FA | Autism in Viet Nam: A systematic scoping review | The Vietnamese context | page -
+Receiving a diagnosis of autism has been found to often be distressing for the autistic individual as well as their family, due to the stigmatisation of autism in Viet Nam and the resulting social and economic consequences of receiving an autism diagnosis (Boyle & Bailey, 2022; Ha et al., 2014; A. P. Nguyen & Nguyen, 2023; Phan et al., 2020; Yến-Khanh, 2022). Stigmatisation occurs at a linguistic and cultural level, such as the direct Vietnamese translation of autism (‘bệnh tự kỷ’) as ‘autism sickness’, perhaps reflecting that autism is diagnostically recognised by the World Health Organization within the International Classification of Diseases, as well as through the understanding that autism is caused by ancestral sins, karmic demerit and other Vietnamese folk lore narratives (D’Antonio & Shin, 2009; Ha et al., 2014). Generally, global understandings of autism recognise the aetiology of autism to be complex, with interactive genetic and environmental factors likely contributing to markers of autism (Wang et al., 2025). In certain cultural contexts, aetiological understandings of autism not only include complex genetic and environmental interactions but also include conceptualisations of autism as being caused by social and spiritual factors, such as karma and punishment from God in Indian contexts (Vats et al., 2024) and witchcraft in Kenyan contexts (Cloete & Obaigwa, 2019). Given the uniqueness of Vietnamese culture and history and the consequential nuances of the experiences of the Vietnamese autism community, it is thus important to understand the landscape of research that pertains to the autism community in this specific context. The Vietnamese autism community is understood in this review as autistic individuals, their families and caregivers, and professionals who directly interact with the autistic individual (e.g. education or medical professionals).
+
+### F4C836E374 | Parent Perspectives on Water Safety for Children with Autism |  | page -
+Among children with autism, drowning is the leading cause of death through 14 years old. Attributes such as wandering, sensory issues, impulsivity, and a limited sense of danger could increase risk. In addition, autistic children often have trouble participating in structured group activities like swimming lessons. The purpose of this study is to better understand water safety experiences of parents of children with autism. Parents of autistic children were asked to participate in a focus group about their family’s water safety experiences. Six focus groups and one interview were held. Six major themes were identified from transcripts that were common among participants: autism characteristics influence water safety risk; water safety fears influence family life; it is difficult to find and access water safety and swimming lesson information for children with autism; autism characteristics affect participation in swimming lessons and other aquatic activities; autistic children have unique swimming lesson needs; and instructor preparedness is key to swimming lesson success for autistic children. Water safety needs to be elevated in importance for families of autistic children. Information on drowning risk and prevention should be made more accessible. Barriers to adaptive swimming lessons such as cost, scheduling, and availability need to be addressed. More training opportunities need to be provided to swimming instructors to improve teaching children with complex needs, such as those with autism.
+
+### 3C61FA80DB | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Introduction | page -
+In light of this, it is possible that the clinical presentation in ASD would not be worsened by having anxiety symptoms. Therefore, is it important to further investigate the contribution of having anxiety symptoms in ASD with comorbid ADHD on various aspects of the clinical presentation.
+
+The study has several aims. First, to evaluate the frequency of ADHD and anxiety symptoms in the participants diagnosed with ASD and to compare them to non-clinical standardized samples. Second, to compare the clinical presentation in the ASD participants with and without ADHD and anxiety, in terms of autism symptom severity, adaptive skills, and cognitive ability. Third, to assess the relationships between the severity of the ADHD and anxiety symptoms and the autism severity and adaptive functioning. The fourth aim is to assess which variables (including age, sex, parental educational attainment, cognition, autism severity, and adaptive skills) add to the severity of Inattention, Hyperactivity/Impulsivity, and anxiety symptoms individually. The fifth aim is to assess whether having ADHD and/or anxiety symptoms adds to the prediction of adaptive skills functioning in the ASD participants, beyond the role of the child's other characteristics.
+
+We have several hypotheses:
+
+- Clinically elevated ADHD and anxiety symptoms frequently occur in children with ASD. Rates of ADHD and anxiety in the ASD group will be significantly higher compared to the non-clinical standardized samples.
+
+- The participants with ASD and clinically elevated ADHD and/or anxiety symptoms, and particularly those with ASD+ADHD+anxiety, will present with more severe autism symptomatology, lower cognition, and lower adaptive skills, in comparison to those without these comorbid symptoms.
+
+- Higher cognition, more severe autism symptoms and lower adaptive skills will be associated with and predict more severe ADHD and anxiety symptoms.
+
+- More severe ADHD and anxiety symptoms in ASD will be associated with and predict lower adaptive functioning
+
+This study is the first to examine a large group diagnosed with ASD and two major comorbidities and assesses their relationship to the clinical presentation.
+
+### BA80E65C45 | Swimming Lessons for Children With Autism: Parent and Teacher Experiences | Literature Review | page -
+Autistic children are thought to be at a higher risk of drowning than typically developing children due to wandering behavior, decreased risk awareness, and attraction to water (Casey et al., 2020; Lawson et al., 2019; Martin & Dillenburger, 2019; Murphy & Hennebach, 2020). Among the World Health Organization (WHO) recommendations (WHO, 2014) to prevent accidental drowning, is teaching school-age children, including those with disabilities, basic swimming and water safety skills through evidence-based intervention programs implemented by trained teachers.
+
+Developing research in this field has shown that children with autism are capable of learning basic swim skills that can enable their participation in swimming, provided the teacher is skilled and utilizes appropriate techniques (Alaniz et al., 2017). While useful techniques have been documented in a number of studies (Kraft et al., 2019; Murphy & Hennebach, 2020), swimming teachers’ experiences (such as what motivates them to provide lessons or how they feel about lessons) are mostly absent within the literature. Exploring a “lived experience” provides an opportunity to empower unheard voices, test the relevance and quality of existing knowledge, and guide future research (Creswell, 2014). As this is an unexplored area of study within the South African context, the voices of those already involved first need to be heard and acknowledged to guide the need for and direction of future research.
+
+### 3B1679C218 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Discussion | page -
+Elopement places children with developmental disabilities at risk of serious injury or even death. Despite its clear relevance to the safety and well-being of this population, there has been a paucity of research on this subject to date. This represents the first study to report the prevalence and correlates of wandering in a nationally representative sample of school-age children in the United States with developmental conditions.
+
+In the present study, the prevalence and correlates of elopement were examined for three carefully-chosen, mutually-exclusive condition groups: ASD-only, without ID or DD; ASD with ID and/or DD; ID and/or DD without ASD. In an unpublished, preliminary analysis of the Pathways data, Rice et. al., of the CDC, took a different approach by comparing elopement rates across four groups: ASD with or without DD; ASD with ID; ID without ASD; DD without ID or ASD [9]. The key difference between these approaches is in the grouping of children with ASD and DD. Whereas Rice et. al.’s approach combined the ASD-only and ASD+DD children into a single group and compared them to the ASD+ID children, our approach grouped together the ASD+DD and ASD+ID children and compared them to those with ASD-only. This distinction is important, given that all diagnostic classifications in the Pathways survey were based on parent report, and that no attempt was made to independently assess cognitive functioning. Since the Pathways survey specifically defined DD as “a developmental delay that affects [the child’s] ability to learn,” it is probable that some of the children that were classified as having ASD+DD (without ID) actually had ID or significant cognitive impairment. Previous studies that utilized sources other than parent report to assess the prevalence of cognitive impairment among children with ASDs have concluded that up to 70% of individuals on the autism spectrum may be affected by ID [10, 11]. A landmark epidemiological study that directly assessed the majority of children identified with ASDs in a U.S. township found that 49% had ID [12]. The prevalence of ID was higher, at 64%, in a population-based study of 987 children with ASD in a major U.S. metropolitan area [13]. A series of other multi-site, population-based studies that utilized medical and educational records found that 31–45% of children with ASDs had an IQ of 70 or less, with an additional 23–24% meeting the criteria for “borderline” ID [14–17]. These estimates are substantially higher than the parent-reported prevalence of ID among children with ASD (303/1420; 21%) in the Pathways sample. By contrast, 65% (924/1420) of the ASD cohort had cognitive impairment when defined as parent report of ID and/or DD.
+
+### 9235465B32 | Milestones by 6 Months | Tips and activities > More Parenting Tips and Activities | page -
+* Sing to your baby and play music. This will help his brain develop.
+
+* Limit screen time (TV, tablets, phones, etc.) to video calling with loved ones. Screen time is not recommended for children younger than 2 years of age. Babies learn by talking, playing, and interacting with others.
+
+* When your baby looks at something, point to it and talk about it.
+
+* Put your baby on her tummy or back and put toys just out of reach. Encourage her to roll over to reach the toys.
+
+* Learn to read your baby's moods. If he's happy, keep doing what you are doing. If he's upset, take a break and comfort your baby.
+
+* Talk with your baby's doctor about when to start solid foods and what foods are choking risks. Breast milk or formula is still the most important source of "food" for your baby.
+
+* Learn when your baby is hungry or full. Pointing to foods, opening his mouth to a spoon, or getting excited when seeing food are signs that he is hungry. Others, like pushing food away, closing his mouth, or turning his head away from food tells you that he's had enough.
+
+* Help your baby learn she can calm down. Talk softly, hold, rock, or sing to her, or let her suck on her fingers or a pacifier. You may offer a favorite toy or stuffed animal while you hold or rock her.
+
+* Hold your baby up while she sits. Let her look around and give her toys to look at while she learns to balance herself.
+
+* Hold your baby with both of your hands securely under her arms and let her stand. Look around with your baby and name what you can see while she is standing.
+
+* Introduce your baby to different sounds and voices. For example, whisper, clap, or make funny noises. See if your baby looks or is curious and see which sounds she prefers.
+
+* Playing on the floor or play mat with your baby every day helps him to move, learn, and explore.
+
+* When he drops a toy on the floor, pick it up and give it back. This game helps him learn cause and effect.
+
+May 15, 2026
+
+Sources and Page Info Share
+
+Content Source
+
+National Center on Birth Defects and Developmental Disabilities (NCBDDD)
+
+About This Page
+
+Published: September 4, 2025
+
+Updated: May 16, 2026
+
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+
+Reviewed: May 16, 2026
+
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+Sources
+
+### 68866CC763 | Autism in Viet Nam: A systematic scoping review | Results > Participatory methods | page -
+The third research question examined the extent of autism community involvement in research. In this review, the autism community is defined as autistic individuals, their families and caregivers, and professionals who are directly interacting with the autistic individual (e.g. education or medical professionals). The vast majority of studies did not state any autism community involvement (93%, n = 128). A limited number of studies included explicit autism community involvement (3%, n = 4) or had unclear autism community involvement (4%, n = 5). Within the studies that included autism community involvement, involvement was made explicit through identification of autistic (and non-autistic) researchers (Smith, Rabba, Datta, et al., 2023a), study co-design with the Hanoi Club of Parents of Children with ASD (conducted in Viet Nam; Ha & Whittaker, 2023), through advisory groups of Vietnamese parents of autistic children (conducted in Australia; Smith, Rabba, Dang, et al., 2023a; Smith, Rabba, Datta, et al., 2023b), and through autistic individuals and their family members shaping a PhotoVoice exhibition through which to disseminate the results of the research (conducted in Viet Nam; Ha, 2018). Instances whereby community involvement was unclear had ambiguity in the framing of the wording of the involvement of different members of the autism community, often with no explicit description of their role in the research process but an implication that autism community members were involved. Examples of ambiguity include the autism community involved through the terms ‘support’, ‘collaboration’ and ‘facilitation’, with exact procedures not outlined (Dieu, 2022; Ha et al., 2014; G. T.-H. Le et al., 2024; Poon et al., 2022). In a singular case, the research projects that were reported on in separate articles stated autism community involvement, but the specific involvement in each aspect of the reported studies was unclear (see Ha & Whittaker, 2016).
+
+### 0330D7EFDF | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States |  | page -
+Despite increased awareness and concern about children with developmental disabilities wandering away from adult supervision, there is a paucity of research about elopement. This is the first study to examine and report the prevalence and correlates of elopement in a nationally representative sample of school-age children in the United States with an autism spectrum disorder (ASD) and/or cognitive impairment. Data were obtained from the CDC's "Pathways" Survey, a follow-up telephone survey of the parents of 4,032 children with a developmental condition. 3,518 children that had ASD, intellectual disability (ID), and/or developmental delay (DD) at the time of survey administration were included for analysis. Children were divided into three condition groups: ASD-only; ID/DD-only; ASD+ID/DD. Logistic regression analyses were used to compare the prevalence of elopement and rates of preventive measure use (barriers and/or electronic devices) across condition groups, and to examine the clinical and demographic correlates of elopement. T-tests were also performed to compare scores on the Children's Social Behavior Questionnaire (CSBQ) between wanderers and non-wanderers. Overall, 26.7% of children had reportedly eloped within the previous year, most commonly from public places. Children with ASD-only and ASD+ID/DD were more likely to have eloped than those with ID/DD-only. Across all groups, wanderers scored higher than non-wanderers on five out of six CSBQ subscales; they were more likely not to realize when there is danger, to have difficulty distinguishing between strangers and familiar people, to show sudden mood changes, to over-react to everything/everyone, to get angry quickly, to get lost easily, and to panic in new situations or if change occurs. Even after controlling for elopement history, parents of children in the ASD+ID/DD group were more likely than those in the other condition groups to report using physical or electronic measures to prevent wandering.
+
+### 1EB18D123C | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Discussion | page -
+Further studies are needed to explore the apparent association between ASD symptoms and wandering behaviors. A better understanding of the causes of elopement in this population may aid in the development of strategies for addressing this problem.
+
+The use of wandering prevention measures—including electronic monitoring devices and/or physical barriers such as gates—was common in this sample, especially among the families of children who had eloped within the previous 12 months. Wandering prevention measures were more frequently used in the ASD+ID/DD group than in either the ASD-only or the ID/DD-only groups, even after controlling for elopement history. Due to the cross sectional nature of this survey, it was not possible to ascertain whether preventive measures were successful in reducing elopement rates in this sample. More research is needed to identify effective methods of preventing elopement in this group of children. However, given that even the best preventive measures are unlikely to avert all cases of elopement, it is equally important that strategies for recovering eloped children be devised. Unfortunately, our analyses indicated that many behavioral characteristics that might interfere with the prompt recovery of an eloped child were themselves associated with the propensity to wander. Compared to those without a history of elopement, children who had wandered within the previous year were more likely to anger quickly and lose their tempers; to be easily frightened; to over-react to the presence of others; to lack awareness of dangerous situations; to be unable to distinguish between strangers and familiar people; and to panic or clam up in new situations. These findings highlight the need to provide first responders with adequate education and preparation for encounters with developmentally disabled children who have eloped. Information about the clinical and behavioral characteristics of children who wander may be used to guide such training efforts.
+
+### D95E2C828B | Parent Perspectives on Water Safety for Children with Autism | Keywords > Discussion | page -
+This qualitative assessment of water safety experiences revealed that parents’ experience of having a child with autism and navigating water safety can be challenging. Results suggest the interplay of multiple influences on barriers and choices related to water safety. Common characteristics of autism were reported as increasing parents’ safety-related concerns when in or around water, with water-safety fears impacting family life, activities, and travel. Parents reported that specialized water safety and swimming lesson information was hard to find or access and that common characteristics of autism limited their participation in swimming lessons and other aquatic activities. Parents overviewed some swimming lesson needs and emphasized that having educated, prepared instructors would be critical to making swimming lessons possible for their autistic children.
+
+Existing qualitative research on water safety experiences of children with autism identified many similar challenges for families, such as limitations on activities, safety concerns, instructional challenges, and the benefits of swimming (Mische Lawson et al., 2019; Carter & Koch, 2023). It is clear that vast improvements need to be made across the multiple levels of influence in order to protect this vulnerable population better.
+
+Our results suggest that information on drowning risk and prevention should be proactively provided in settings where families frequent, such as pediatric clinics and therapy offices, as well as on social media. Reports from the parents in our focus groups that they could use more helpful drowning prevention information indicate that materials should provide clear, actionable suggestions for navigating different situations in or around water and provide information on specialized swimming lessons in the area.
+
+Additionally, our results indicate a need for more swimming instructors with training to teach children with autism. In the US, Swim Angelfish’s Swim Whisperers® training and The Autism Society’s Safety on the Spectrum(™) Water and Wandering Program are two examples of programming that can increase the number of swimming instructors with the knowledge to teach children with autism (Swim Angelfish, n.d.; Autism Society, 2024). However, there is a lot more progress needed to make swim schools aware of such programs and to coordinate and fund training.
+
+### 5113127097 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Discussion | page -
+Collectively, these findings suggest that elopement is a common problem among U.S. children with developmental disabilities, and that this population is disproportionately affected by this issue compared to their typically-developing peers.
+
+Examination of the clinical correlates of elopement suggested that ASD symptoms are significantly associated with the tendency to wander. Although the prevalence of elopement was found to be similar for the ASD-only and the ASD+ID/DD groups, both groups showed significantly higher odds of elopement than the ID/DD-only group. The difference between the ASD+ID/DD group and the ID/DD-only group remained significant even after controlling for demographic factors. Thus, among those with ID/DD, the presence of ASD was associated with increased odds of elopement—but among those with ASD, the presence of ID/DD was not. Analysis of CSBQ responses showed that elopement was associated not only with the categorical condition of ASD, but also with the degree of ASD symptomatology. The CSBQ has been found to be a useful tool for describing the pattern and severity of behaviors associated with the ASD spectrum, including milder manifestations [7, 8]. Across all three condition groups in the Pathways sample, wanderers scored significantly higher than non-wanderers on CSBQ subscales, indicating that the wanderers tended to have more severe and/or a greater number of ASD symptoms. Notably, this was true even for children in the ID/DD-only group that did not have ASD, according to parent report. Further studies are needed to explore the apparent association between ASD symptoms and wandering behaviors. A better understanding of the causes of elopement in this population may aid in the development of strategies for addressing this problem.
+
+### 2F35A3A846 | Parent Perspectives on Water Safety for Children with Autism | Tables | page -
+Table 3: Quotes from caregivers of autistic children on themes and subthemes related to water safety
+| Subthemes | Representative Quotes |
+| Theme 1: Characteristics of autism influence water safety risk |
+| Being drawn to water | "My daughter's deep and abiding fascination with deep water...it has a pull over her and she's almost so hyper focused whenever she's near a body of water... you won't know how focused she is until you take your attention away for a split second." (II,45) |
+| Poor sense of danger | "He loves water... loves being in the pool or going to the beach, but he has no fear, no understanding that water is dangerous." (III,7) |
+| Wandering and elopement | "It's a challenge to keep her with the group. So that's the big problem with swim lessons is she takes off." (II,45) |
+| Impulsivity | “Something’s gonna set him off, and he’s gonna become dangerous to other people. He’s gonna chase somebody or he’s gonna run on the side or he’s gonna splash people inappropriately or he’s gonna invade people’s space.” (II,24). |
+| Opposition | "He has resistance to the things that would help keep him safe." (II,24) |
+| Communication difficulties | "Following directions and comprehending what the instructor is telling them to do is hard." (I,30) |
+| Theme 2: Water safety fears influence family life |
+| Emotional toll of vigilance and planning | "There isn't absolutely anything I do in my day that's not impacted by my child’s autism,...but I think the biggest thing for me is other people's misunderstandings about the level of attention and support my child needs...that you can't just tell him [to not do] something and have him not do it.” (IV,43) |
+| Water avoidance | “We avoid those situations where it's easy for him to get away and be someplace with water that we wouldn't see him." (I,23) |
+| Water access in travel planning | "It would just be too nerve wracking, even visiting family who has a pool is; I don't think I want to stay there. No, it's just too much to do the monitoring around the pool." (II,45) |
+| Theme 3: Water safety and swim lesson information for autistic children difficult to find or access |
+| Insufficient water safety information | "It’s so scary to see all those things but the media doesn’t tell you what for the prevention." (I,30) |
+| Difficulty identifying specialized swimming lessons | "Finding in like a regular in a group lessons is easy, but one to one with special needs is really hard.” (I,30) |
+
+### 9928627B36 | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors |  | page -
+High rates of attention deficit/hyperactivity disorder (ADHD) and anxiety symptoms have been documented in autism spectrum disorder (ASD), and have been associated with social and adaptive impairments. The study examined the frequency of clinically elevated ADHD and anxiety symptoms in an ASD group in comparison to a non-clinical group, compared the clinical presentation in the ASD group with and without ADHD and anxiety, assessed which child and familial variables add to the severity of Inattention, Hyperactivity/Impulsivity (HI), and anxiety symptoms, and evaluated whether having clinically elevated ADHD and/or anxiety symptoms adds to the prediction of adaptive functioning in ASD. The study included 260 participants diagnosed with ASD (mean age: 7.5 ± 1.1), using standardized tests. The rate of clinically elevated ADHD and anxiety symptoms in ASD was 62.7 and 44.6%, respectively, and symptom severity was significantly greater than the non-clinical sample. The entire population was divided into four subgroups: ASD alone, ASD+ADHD, ASD+anxiety, ASD+ADHD+anxiety, based on the parental behavioral questionnaire. The ASD alone group showed less severe autism symptoms in comparison to the other groups. Having ASD+ADHD symptoms was associated with greater impairments in socialization adaptive skills. Only the group with ASD+ADHD+anxiety was associated with poorer daily living adaptive skills. Regression analyses for prediction of ADHD and anxiety symptoms revealed that being a female and having lower adaptive skills scores predicted higher Inattention severity; being older, having better cognition, and more severe Restrictive Repetitive Behavior symptoms predicted more severe HI symptoms; being older and having more severe social impairments predicted higher anxiety scores. A regression analysis for the prediction of adaptive skills revealed that in addition to cognition and autism severity, the severity of Inattention symptoms added to the prediction of overall adaptive skills. In light of these findings, clinicians should diagnose these comorbidities in ASD early on, and provide effective interventions to reduce their negative impact on functioning, thereby improving outcome.
+
+### ADD1E448CB | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Introduction | page -
+Autism spectrum disorder (ASD) is a neurobehavioral disorder defined by social- communication deficits and restricted and repetitive behaviors that are typically detectable in early childhood and continue into adulthood (1). ASD-specific behaviors have been found to negatively impact various aspects of the lives of individuals with this disorder (2). The highly heterogeneous nature of ASD is often reflected in the child's characteristics, including clinical variability in the severity of autism symptoms, cognitive ability, and language skills (3). In addition, substantial individual differences are apparent with regard to the occurrence of co-morbidities such as attention-deficit/hyperactivity disorder (ADHD) and anxiety (4–9).
+
+ADHD is a common neurodevelopmental disorder with a prevalence estimated at 7.2% in the general population (10). ADHD is characterized by a persistent pattern of inattention and/or hyperactivity and impulsivity that is pervasive across settings and leads to various degrees of functional impairment (11, 12). Children and adolescents with ASD have shown high rates of ADHD symptoms (16–85%) (5–7, 9) and overlap between ASD and ADHD symptoms has been described as well (13). However, the recognition that the diagnoses of ADHD and ASD can occur together has been formalized only in the DSM-5 (1). Previous studies have examined the co-morbidity of ADHD in ASD and described more severe autism symptoms (14), higher rates of cognitive impairment (10), more deficits in adaptive skills (2, 15) and lower quality of life (10) in individuals with ASD and ADHD in comparison to ASD alone. These studies were all cross-sectional and groups were not based on having an ADHD diagnosis but rather on ADHD symptom severity. These studies used different ADHD rating scales and behavioral checklists, completed by different informants (parents, teachers or both) (2, 10, 14, 15). Using standardized tests, Sprenger et al. reported a greater severity of autistic symptoms in children with ASD and ADHD symptoms, especially in the social interaction domain, than in those with ASD alone (14). Sikora et al. (2) found greater impairment in adaptive functioning among children with ASD and clinically significant ADHD symptoms in comparison to children with ASD and fewer ADHD symptoms. In contrast, Ashwood et al. (15) found significant associations between reduced adaptive functioning and autism symptoms, but not with ADHD symptoms.
+
+### C8838F8909 | Early Autism Screening: A Comprehensive Review | 1. Introduction | page -
+Autism spectrum disorder (ASD), a key topic in today’s clinical industry throughout the globe, refers to a pervasive developmental disorder that hinders an individual’s skills in socialisation, creates repetitive behaviours, and impacts expressive or verbal communication with disruptions ranging from moderate to severe [1]. The symptoms of autism are more visible and easy to identify in children two to three years of age. According to [2], one out of every 68 children has autism. Consequently, various screening methods have been developed by leading medical experts and psychiatrists across the world seeking to identify autistic traits in their primitive stage so as to readily provide the necessary medications [3].
+
+Diagnosing ASD is a challenging task since there are currently multiple clinical techniques available, with most typically involving long-term observation and in-depth evaluation by licensed healthcare professionals [4,5,6]. Conventional diagnostic procedures for ASD require medical professionals to conduct a clinical assessment of the patient’s developmental age based on a variety of domains (e.g., behaviour excesses, communication, self-care, social skills). This widely accepted approach is referred to as clinical judgment (CJ) [7]. Until recently, most clinicians have used the Diagnostic and Statistical Manual fourth edition (DSM-IV) as the underlying criteria for diagnosing autistic behaviours [8]. The DSM-IV classifies autism under the category of common pervasive development disorders (PDDs). This class includes the symptoms and areas of development that need to be observed in order to identify any PDDs. The DSM-IV introduced four diagnostic subcategories of PDDs: Asperger disorder, pervasive development disorder—not otherwise specified (PDD-NOS), Rett’s disorder, and childhood disintegrative disorder (CDD). In 2013, the DSM-IV was revised, which posed a significant challenge to the way individuals are assessed as being on the ASD spectrum and necessitated refinements of existing diagnosis as well as screening techniques.
+
+There are many clinical and self-screening methods available to assess individuals with ASD. The most popular clinical methods include Autism Diagnostic Interview-Revised (ADI-R), Autism Diagnostic Observation Schedule (ADOS), Childhood Autism Rating Scale (CARS), Joseph Picture self-concept scale, and the social responsiveness scale [9,10,11,12]. These are clinical methods used for formal ASD diagnosis and treatment planning [13]. The techniques, like ADI-R and ADOS, have been clinically proven to be effective instruments in differentiating autism from other related developmental disorders, and having adequate validity and sensitivity [14]. However, they have been criticised for being time consuming, having long questionnaires and scoring methods, and requiring licensed clinicians and observers to administer them [15,16,17,18].
+
+### 492551FF3B | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Introduction | page -
+As the prevalence of developmental disabilities in the United States continues to rise, there is a need to better understand the behaviors that may compromise the safety and well-being of this population [1]. In recent years, several high-profile incidents have drawn attention to wandering, or elopement, as a potential cause of injury in children with developmental disabilities. Numerous children with autism spectrum disorders (ASDs) have reportedly died or sustained serious injuries due to vehicular collisions, drowning, and other accidents that occurred after they wandered away from their caregivers [2]. Elopement may place a significant burden on affected families by causing anxiety and increasing the need for monitoring and supervision. In recognition of the seriousness of this problem, a number of advocacy organizations, including Autism Speaks and the National Autism Association, have created resources designed to educate caregivers, first responders, and others about how to prevent and respond to incidents of elopement [3, 4]. Nonetheless, there is a dearth of published research on elopement in children with developmental disabilities, and little is known about the prevalence and correlates of wandering behaviors in this population [2].
+
+In the largest published study on this subject to date, Anderson et. al. surveyed 1,218 families of children with ASDs drawn from the Interactive Autism Network (IAN) [5]. They found that 49% of the sample had attempted to elope since age four. Analysis of the clinical correlates of wandering showed that elopers, compared to those that had not attempted to elope, tended to have higher scores on the Social Responsiveness Scale (SRS), and lower intellectual and communication developmental quotients. Elopement was also found to have serious consequences for affected families, with 62% of the parents of elopers indicating that concerns about wandering had prevented them from enjoying or attending activities outside of the home. However, given that this study’s sample was composed of voluntary participants from the IAN, it is not clear whether these findings can be generalized to the entire U.S. population of children with ASDs. Moreover, by focusing exclusively on individuals with ASDs, this study was unable to assess the potential impact of elopement on children with other developmental conditions.
+
+Information about the clinical and demographic characteristics of children who elope is needed to guide future efforts to address this troubling issue. The aim of this study was to examine the prevalence and correlates of elopement in a nationally representative sample of U.S. children with developmental disabilities, including ASDs, intellectual disability (ID), and developmental delay (DD).
+
+### 99562B5604 | Milestones by 30 Months | Tips and activities > More Parenting Tips and Activities | page -
+When your child is good at that, show her how to run and kick the ball.
+
+* Have steady routines for sleeping and feeding. Create a calm, quiet bedtime for your child. Put on her pajamas, brush her teeth, and read 1 or 2 books to her. Children this age need 11 to 14 hours of sleep a day (including naps). Consistent sleep times make it easier.
+
+* Play "follow the leader" with your child. Walk in a straight line, make turns, walk backwards, and walk on tiptoes. Let your child lead after you show him how.
+
+* Read to your child and visit the local library. This will help your child enjoy reading and be ready to read when she is older.
+
+* Encourage "pretend" play. For example, let your child pretend to cook using safe things from your kitchen.
+
+* Show your child how to turn pages in a book or magazine.
+
+May 15, 2026
+
+Sources and Page Info Share
+
+Content Source
+
+National Center on Birth Defects and Developmental Disabilities (NCBDDD)
+
+About This Page
+
+Published: September 4, 2025
+
+Updated: May 16, 2026
+
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+
+Reviewed: May 16, 2026
+
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+Sources
+
+* Special acknowledgments to the subject matter experts and others who contributed to the review of data and selection of developmental milestones, especially Paul H. Lipkin, MD, Michelle M. Macias, MD, Julie F. Pajek, PhD, Judith S. Shaw, EdD, MPH, RN, Karnesha Slaughter, MPH, Jane K. Squires, PhD, Toni M. Whitaker, MD, Lisa D. Wiggins, PhD, and Jennifer M. Zubler, MD.
+
+* Sincere gratitude to Natalia Benza, MD and José O. Rodríguez, MD, MBA for their thoughtful review of the Spanish-language translation of these milestones.
+
+### 8703D82AE7 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING | page 221-226
+ Responding to challenging behaviour by giving attention to the child will make it more likely to happen again.
+
+How to respond to challenging behaviour that seeks attention Ignore: Do not look at the child or talk to the child while you are waiting for the challenging behaviour to stop. When the challenging behaviour stops, praise the child right away, even for something very small, such as sitting and being quiet for a few seconds.
+
+Ignore challenging behaviour that is seeking attention if it is safe and okay to do so Remember that when you begin to ignore behaviour to get attention, it will usually get worse before it gets better. This is because your child will usually try harder to get you to notice her/him. When the challenging behaviour stops, praise your child right away, even for something very small, such as sitting and being quiet for a few seconds.
+
+Do not look at the child, talk to the child or shout while you are waiting for the challenging behaviour to stop (this would reward the child with attention). Tip 3
+
+Ask yourself:
+
+ Could the behaviour hurt my child or another person?  Is my child scared, hurt or sick (i.e. in need of my attention)? If your answer to both questions is “No”, you can ignore the behaviour.
+
+Challenging behaviour to stop or avoid something Behaviour can help a child stop or avoid something that she/he does not like.
+
+How to respond to challenging behaviour to avoid something If the routine is challenging for your child, try to:  make the routine easier for your child;  offer help;  use picture schedules;  use countdowns or timers. If your child can do the activity, be clear, kind and firm. Help your child to understand that challenging behaviour will not stop the activity.
+
+Set clear, consistent and appropriate expectations to reduce challenging behaviour that aims to avoid or stop a routine 1 3 2 4 Tip 4
+
+ “Clear” – Use words your child can understand.  “Consistent” – Expect the same thing from your child each time and increase your expectations slowly over time.  “Appropriate” – Choose activities and routines at the right level for your child:
+
+– If the activity is too difficult, make it easier or more fun for your child, offering help, praising, setting up the space, singing or finding an easier time to do the activity.
+
+– If the activity is too easy, make it more interesting by varying the materials or teaching new steps.
+
+### 5123CE8AC1 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Discussion | page -
+By contrast, 65% (924/1420) of the ASD cohort had cognitive impairment when defined as parent report of ID and/or DD.
+
+This estimate more closely aligns with the aforementioned figures and supports the possibility that some of the children that were classified as having DD would actually have met the criteria for an ID diagnosis. Thus, Rice et. al.’s inclusion of children with DD in the same group as those with ASD-only may have contaminated that sub-group with respect to cognitive impairment. The present analysis was designed with the aim of more clearly delineating the relationship between elopement and cognitive or learning difficulties.
+
+Among all children in the Pathways sample identified as having any current developmental condition (ASD, ID, and/or DD), the weighted prevalence of elopement within the previous year was 26.7%. Within the condition-based sub-groups that were examined, elopement rates ranged from 22.7% to 34.6%. All of these prevalence estimates are lower than that reported by Anderson et. al, who found that just under half (49%) of their sample of 1,218 children with ASDs had a history of wandering [5]. Methodological considerations likely underlie much of this discrepancy. First, whereas Anderson et. al. asked parents to report any incidents of wandering since age 4, the Pathways survey inquired only about elopement within the previous year. Second, given that Anderson et. al. found that elopement attempts peaked at age 5.4 years, the absence of 4- and 5-year-olds in the Pathways sample also likely contributed to the lower rate of elopement. Thus, a potential weakness of the Pathways survey and our analysis of the data is that the age restrictions may have led to underestimation of the true prevalence of elopement in this population. Nonetheless, compared to Anderson et. al.’s study, the present analysis has several major strengths, including the use of a larger cohort that was not subject to recruitment bias. More importantly, because of the CDC’s sampling approach and statistical weighting of the data from the Pathways survey, the findings are nationally representative of school-age children with ASD and/or ID/DD in the United States. Although little is known about the prevalence of elopement in the general pediatric population, Anderson et. al. found that just 13% of the unaffected siblings of children with ASDs had ever eloped since age 4. Collectively, these findings suggest that elopement is a common problem among U.S. children with developmental disabilities, and that this population is disproportionately affected by this issue compared to their typically-developing peers.
+
+### D9E2C021A2 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Tables | page -
+| Characteristic (CSBQ item) | Wanderers, ASD ± ID ± DD (% ± SE) | Non-Wanderers, ASD ± ID ± DD (% ± SE) | aOR (95% CI) |
+|---|---|---|---|
+| Panics in new situations or if change occurs | 29.6 ± 3.2 | 15.5 ± 1.4 | 2.4 (1.6–3.5)* |
+| Remains clammed up in new situations or if change occurs | 22.7 ± 3.3 | 11.0 ± 1.4 | 2.6 (1.7–4.1)* |
+| Gets lost easily | 23.6 ± 2.9 | 5.3 ± 0.8 | 5.2 (3.3–8.4)* |
+
+### 7BFC5881E4 | Parent Perspectives on Water Safety for Children with Autism | Keywords > Results > Theme 1: Characteristics of Autism Influence Water Safety Risk | page -
+Parents reported that many common characteristics of autistic children may put them at greater drowning risk when they are in or around water. A prominent theme throughout the conversations was that many autistic children are drawn to water. One parent described her daughter’s “deep and abiding fascination with deep water”(II,45). This attraction to water can lead children to access water unexpectedly. A parent described her son, “He sees water and he wants to just run and jump [in]” (I,30). Several parents also noted their autistic children have a poor sense of danger. One parent noted, “He feels like he can do it… [I] want to nurture that confidence and that independence…but he doesn’t understand yet why something is inherently dangerous” (VI,35). Most parents reported that their autistic children may wander or elope from a space they are expected to be in. “My son has a habit of eloping, like he’s so impulsive. I can’t just stand or tell him to walk…I have to hold his hand” (I,30). Some parents pointed out that their children with autism can be very resistant to protective measures or have a tendency towards opposition. One parent explained that her son “will not do things on demand; [there is] a subgroup of kids with autism that have that kind of defiant thread…he won’t get upset about it. He just won’t do it and he totally understands and he’ll do it another time. Just not upon request” (IV,43). Difficulties with communication and learning can also affect water safety. One parent recalled a very stressful moment when her child eloped near water, and she worried that his communication deficits might hinder his ability to find help. “I found him, but it was very scary because…he communicates, but people might not understand him” (I,30).
+
+### F032E3A349 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Tables | page -
+| Condition Group | Physical Barriers (% ± SE) | Electronic Measures (% ± SE) | Any Prevention Strategy: Wanderers (% ± SE) | Any Prevention Strategy: Non-Wanderers (% ± SE) | OR (95% CI) |
+|---|---|---|---|---|---|
+| ASD-only | 19.4 ± 3.4 | 2.7 ± 1.3 | 34.0 ± 7.3 | 12.8 ± 3.7 | 3.5 (1.4–8.8)* |
+| ASD + ID/DD | 36.9 ± 2.8 | 3.5 ± 0.8 | 54.7 ± 5.2 | 28.5 ± 3.3 | 3.0 (1.8–5.1)* |
+| ID/DD-only | 15.5 ± 2.0 | 1.5 ± 0.5 | 45.7 ± 5.9 | 8.0 ± 1.1 | 9.6 (5.6–16.6)* |
+
+### D4854D6A29 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Methods | page -
+This study, as a secondary analysis of a publicly available, de-identified data set, was determined by the Institutional Review Board of the North Shore-LIJ Health System to be "IRB exempt.”
+
+Data were obtained from the 2011 Survey of Pathways to Diagnosis and Services (“Pathways”), a cross sectional, nationally representative survey of the parents and guardians of children with special health care needs (CSHCN) ages 6–17 with a current or past parent-reported diagnosis of ASD, ID, and/or DD. The Pathways survey was conducted by the CDC’s National Center for Health Statistics (NCHS), State and Local Area Integrated Telephone Survey (SLAITS) program. This survey was a follow-up to the 2009–2010 National Survey of Children with Special Health Care Needs (NS-CSHCN). Within this sample, 7,572 participants were identified as eligible for Pathways, and 6,090 were randomly chosen for follow-up. Among those that were successfully contacted and confirmed as continuing to meet the Pathways eligibility criteria, telephone interviews were completed for 4,032 respondents. A subset of these participants agreed to complete an additional written survey, called the Self-Administered Questionnaire (SAQ), which was composed of questions from the Strengths and Difficulties Questionnaire (SDQ) and the Children’s Social Behavior Questionnaire (CSBQ). In total, 2,988 SAQs were completed and returned [6].
+
+Elopement was assessed based on four questions about the child’s history of wandering from various locations within the previous twelve months. Respondents were asked to indicate whether their child had wandered off or become lost from their own home; from “someone else’s home”; from a structured program such as “school, day care, or summer camp”; or from “a store, restaurant, playground, campsite, or any other public place.” Responses were coded as “yes,” “no,” “don’t know,” or “refused.” The prevalence of elopement was calculated as the percent of respondents that answered “yes” to at least one of these questions. A fifth, “any home” category was also constructed to include all children who had wandered away from their own home and/or someone else’s home.
+
+Analyses were limited to respondents who indicated that their child currently had ASD, ID, and/or DD. Children were assigned to one of three mutually-exclusive condition groups: “ASD-only” (those with current parent-reported ASD without ID or DD); “ASD + ID/DD” (those with current parent-reported ASD and ID and/or DD); and “ID/DD-only” (those with current parent-reported ID and/or DD, without ASD).
+
+### 556343BAC2 | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Methods | page -
+For the present analysis, t-tests were used to compare mean scores on each subscale between wanderers and non-wanderers in each of the three condition groups.
+
+Fifteen items from the CSBQ were identified as being exceptionally relevant to the safety of children who wander, and were thus analyzed individually. These questions focus on the child’s tendency to panic or become angry, their ability to deal with new or unexpected situations, and their awareness of danger, among other qualities. For each of these items, logistic regression analysis was used to compare the odds of indicating that the behavior “clearly or often applies” between wanderers and non-wanderers, after controlling for demographic factors (age, sex, race, ethnicity, household income, and household education level).
+
+A final set of analyses characterized the use of wandering prevention measures in this sample. Use of preventive measures was assessed based on two questions. Respondents were asked to indicate whether they had ever 1) added “fences, gates, locks, alarms, or other barriers” to their homes to avert elopement; and, 2) utilized an electronic tracking device to prevent their child from becoming lost. Logistic regression analyses were performed to compare the odds of preventive measure use across the three condition groups (ASD-only, ASD+ID/DD, and ID/DD-only), and to determine whether a history of elopement within the previous year was associated with higher odds of preventive measure use.
+
+All analyses were performed using SAS SURVEY procedures available in SAS version 9.04 software. Appropriate weights were applied in order to account for the complex sample design of the Pathways survey. Significance was set at the p < 0.05 level; all reported p-values are two-tailed.
+
+### 0BD5854AC4 | Variations in Anxiety and Related Psychiatric Comorbidity Levels Among Youths With Individual Diagnoses of Autism Spectrum Disorder or Attention Deficit Hyperactivity Disorder and Those With Both Diagnoses | Data compiled and results gathered | page -
+In individuals with ASD, a high frequency of anxiety is detected due to the stress and anxiety associated with social interactions [4]. Identifying early-life markers of ASD and ADHD as individually evolving conditions has been well looked into with hopes of establishing a deeper understanding of disease and early markers.
+
+Salley et al. reported that people with ASD demonstrated the highest communication and social interaction deficit while those with ASD + ADHD had the second highest deficiency [12]. Those who were diagnosed with ASD had a greater communication impairment than those with ADHD [12]. These findings may correlate with signs of anxiety such as social phobia. Overlapping symptoms between ASD and anxiety may be suggestive of the increased level of social interaction deficits in ASD and ASD + ADHD groups, as compared to individuals diagnosed with ADHD [11]. In ASD individuals, communication deficits were proven to be an overlapping symptom that has links to social anxiety disorders. All of these could lead individuals who have ASD to have increased separation anxiety, especially children who lack social interaction and communication skills. These findings suggest that individuals with ASD are more likely to have social phobia and anxiety symptoms.
+
+A study conducted by Jensen et al., found that female children with ADHD had a higher prevalence of anxiety disorder than their male counterparts [9]. The study also identified a lower rate of ADHD children having a co-occurring anxiety disorder, which the authors attributed to clinicians identifying the symptoms as a reaction to the stressful situations encountered by these individuals [9]. They also found that the development of anxiety was more likely to be identified in the adolescent stage of development. This could potentially be attributed to the increased social interaction that comes with progressing age, which could induce more stressful situations. The results of this study support the idea that children with ADHD, ASD, and co-occurring ADHD and ASD face higher levels of anxiety and comorbid psychiatric conditions.
+
+Pan et al. evaluated the relationship between motor skills in those with ASD and ADHD among children in Taiwan [6]. Motor skills performance in children with ASD and ADHD was noted to be worse than their TD peers in the categories of gross motor development, locomotor, and object control skills [6]. These findings illustrate the motor deficits children with ASD and ADHD face, which could induce limitations in socialization and interaction with other children and lead to higher levels of anxiety. Further, studies into the effects of impaired motor skills in children with ASD and ADHD are needed to understand the implications motor disorders have on children's anxiety.
+
+### 12A760D39A | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Tables | page -
+| Characteristic | ASD-only | ASD+ID/DD | ID/DD-only |
+| Percent that have wandered (± SE) | aOR (95% CI) | Percent that have wandered (± SE) | aOR (95% CI) | Percent that have wandered (± SE) | aOR (95% CI) |
+|---|---|---|---|---|---|
+| > HS | 34.5 ± 4.4 | Ref | 29.3 ± 2.8 | Ref | 23.0 ± 2.7 | Ref |
+| Race/Ethnicity |  |  |  |
+| Hispanic | 48.8 ± 13.3 | 2.0 (0.6–7.3) | 39.5 ± 10.2 | 1.0 (0.5–2.2) | 26.1 ± 6.6 | 1.4 (0.7–2.9) |
+| Black, non-Hisp. | 56.8 ± 15.5 | 3.0 (0.9–10.2) | 23.7 ± 8.2 | 0.5 (0.2–1.3) | 25.0 ± 4.8 | 1.1 (0.6–2.2) |
+| White, non-Hisp. | 29.2 ± 4.1 | Ref | 36.5 ± 3.4 | Ref | 19.5 ± 2.0 | Ref |
+

@@ -1,0 +1,53 @@
+{
+  "fts_a_baseline_v1": {
+    "version": "1",
+    "description": "FTS-A baseline: existing PostgreSQL config ('english', as content_tsv), the Vietnamese question as-is through plainto_tsquery (all words AND-ed). No expansion.",
+    "db_role": "research_reader",
+    "expected_db_user": "asd_rag_v2_research_reader",
+    "view": "asd_rag.v_research_retrieval_chunks",
+    "view_profile_code": "cohere_embed_v4_1536_v1",
+    "ts_config": "english",
+    "query_mode": "plain_and",
+    "glossary": null,
+    "ranker": "ts_rank_cd",
+    "rank_normalization": 0,
+    "k_default": 10,
+    "k_max": 50,
+    "max_query_chars": 1000,
+    "log_dir": "logs/retrieval"
+  },
+  "fts_b_glossary_and_v1": {
+    "version": "1",
+    "description": "FTS-B controlled bilingual expansion: Vietnamese plainto query OR (AND over glossary concepts, OR over each concept's English variants/phrases). Glossary config/query_glossary_vi_en_v1.json.",
+    "db_role": "research_reader",
+    "expected_db_user": "asd_rag_v2_research_reader",
+    "view": "asd_rag.v_research_retrieval_chunks",
+    "view_profile_code": "cohere_embed_v4_1536_v1",
+    "ts_config": "english",
+    "query_mode": "glossary_and_groups",
+    "glossary": "config/query_glossary_vi_en_v1.json",
+    "ranker": "ts_rank_cd",
+    "rank_normalization": 0,
+    "k_default": 10,
+    "k_max": 50,
+    "max_query_chars": 1000,
+    "log_dir": "logs/retrieval"
+  },
+  "fts_c_glossary_or_v1": {
+    "version": "1",
+    "description": "FTS-C alternative query construction: same expansion as FTS-B, but concepts are OR-ed (any concept matches); ranking rewards chunks covering more concepts. Tests the AND-loss hypothesis of the audit.",
+    "db_role": "research_reader",
+    "expected_db_user": "asd_rag_v2_research_reader",
+    "view": "asd_rag.v_research_retrieval_chunks",
+    "view_profile_code": "cohere_embed_v4_1536_v1",
+    "ts_config": "english",
+    "query_mode": "glossary_or_groups",
+    "glossary": "config/query_glossary_vi_en_v1.json",
+    "ranker": "ts_rank_cd",
+    "rank_normalization": 0,
+    "k_default": 10,
+    "k_max": 50,
+    "max_query_chars": 1000,
+    "log_dir": "logs/retrieval"
+  }
+}

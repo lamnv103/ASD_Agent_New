@@ -1,0 +1,15 @@
+{
+  "eval/datasets/retrieval_eval_v1.jsonl": "7704bb510c9ab4a545d9195b18ffa2dc32f10b705df909a9201e11c96f104c2b",
+  "reports/t6_0_hybrid_readiness/final_report.md": "fe5b3a557d88538cb0aa2ffee05e48fc2a8a4ce1be8408a4006d1faab56fc00b",
+  "reports/t6_0_hybrid_readiness/phase_3_comparative_analysis.md": "19169bc53fbd1abf6dc5055c9244946ddc7b9b7fa07e31d73596dfb8c4603946",
+  "reports/t6_0_hybrid_readiness/phase_4_hybrid_architecture.md": "bb5405dcd964181e32108cd0cd4414bf1a26fca8f86f47dacb2bba21dd5eeba2",
+  "reports/t6_0_hybrid_readiness/phase_6_evaluation_plan.md": "b630c103a90b0b576eb9788cc8c5951ce2b9e007ecd0c84190585f946deeb760",
+  "reports/t6_0_hybrid_readiness/phase_3_retrieval_comparison.csv": "9ad662d8d11548da06d45d630dbedd17b239cb2c8f9160457d38dd3c12383e75",
+  "config/fts_profiles.json": "8ace29e32da1f23f8acfe7363611fb2849cc0cb28613555e1ad0fffd61d2a49e",
+  "config/embedding_profiles.json": "b4c26b6e318192de688ef9536ef8c9ecbf5000916cdba739c3b1688a60aea473",
+  "config/retrieval_profiles.json": "17595edc4726dfacc851f155ebcce3847c0a1f9ac2d139006f14ebac6a53ad6d",
+  "config/query_glossary_vi_en_v1.json": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+  "app/retrieval/dense.py": "137dcddc59ffa94e92ea3d9e6169f01af6991ed2aad26e81e99cdb7eb02c8f3d",
+  "app/retrieval/research_reader.py": "b63e528ba9f9969e0313bfe6575d3932e6402c5eded34659168831bb407c2105",
+  "app/retrieval/fts.py": "d2100ebf3b24ec3b2dabd29287da67f1019b47557b2f34aa34c268713bbb1f3e"
+}

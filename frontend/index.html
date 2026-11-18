@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Trợ lý ASD — Nguyên mẫu nghiên cứu</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">ASD</span>
+      <div class="brand-text">
+        <strong>Trợ lý tra cứu ASD</strong>
+        <span>Nguyên mẫu nghiên cứu / sinh viên</span>
+      </div>
+    </div>
+    <div class="badges" id="mode-badges">
+      <span class="badge badge-demo">DEMO MODE</span>
+      <span class="badge badge-cache">CACHE-ONLY</span>
+    </div>
+  </header>
+
+  <div class="safety-banner">
+    Nguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc
+    thay thế tư vấn chuyên môn. Vui lòng không nhập thông tin cá nhân hoặc thông tin sức khỏe nhận dạng được.
+  </div>
+
+  <main class="layout">
+    <section class="chat-panel">
+      <div class="messages" id="messages" aria-live="polite"></div>
+
+      <div class="suggestions" id="suggestions">
+        <span class="suggestions-label">Câu hỏi mẫu (đã có sẵn trong cache):</span>
+      </div>
+
+      <form class="composer" id="composer" aria-label="Gửi câu hỏi về ASD">
+        <label for="query-input" class="sr-only">Nhập câu hỏi về rối loạn phổ tự kỷ (ASD)</label>
+        <textarea id="query-input" placeholder="Nhập câu hỏi về ASD (ví dụ: dấu hiệu sớm, can thiệp, sàng lọc)…"
+                  maxlength="1000" rows="2" required></textarea>
+        <button type="submit" id="send-btn" aria-label="Gửi câu hỏi">Gửi</button>
+      </form>
+      <p class="composer-hint">
+        Chỉ các câu hỏi đã có vector trong cache cục bộ mới trả lời được (xem T2.6: chưa được phép gửi câu hỏi
+        tự do tới Cohere). Câu trả lời ở đây được tạo bằng mẫu dựng sẵn hoặc trích dẫn trực tiếp từ nguồn —
+        <strong>không phải mô hình ngôn ngữ lớn (LLM)</strong> — nhãn trên mỗi câu trả lời cho biết rõ phương thức.
+      </p>
+    </section>
+
+    <aside class="evidence-panel">
+      <h2>Bằng chứng đã truy xuất</h2>
+      <p class="evidence-hint">Trích đoạn thật từ cơ sở dữ liệu nghiên cứu (chỉ đọc), không phải văn bản do AI tạo ra.</p>
+      <div id="evidence-list" class="evidence-list">
+        <p class="evidence-empty">Chưa có câu hỏi nào được gửi.</p>
+      </div>
+    </aside>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

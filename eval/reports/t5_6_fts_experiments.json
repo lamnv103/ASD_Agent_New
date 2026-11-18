@@ -1,0 +1,549 @@
+[
+ {
+  "id": "ie001",
+  "category": "comorbidity_asd_adhd",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-CSV-062",
+   "ASD-CSV-078"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'adhd' ) | ( 'attention-deficit' <-> 'attent' <-> 'deficit' <-> '/hyperactivity' <-> 'disord' ) | ( 'attent' <-> 'deficit' <-> 'hyperact' <-> 'disord' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "ASD-CSV-078",
+   "ASD-CSV-078"
+  ]
+ },
+ {
+  "id": "ie002",
+  "category": "comorbidity_asd_adhd",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-CSV-062",
+   "ASD-CSV-078"
+  ],
+  "exp2_post_filter_n": 10,
+  "exp2_top2_sources": [
+   "ASD-CSV-062",
+   "ASD-CSV-078"
+  ],
+  "exp1_tsquery": "( ( ( 'adhd' ) | ( 'attention-deficit' <-> 'attent' <-> 'deficit' <-> '/hyperactivity' <-> 'disord' ) | ( 'attent' <-> 'deficit' <-> 'hyperact' <-> 'disord' ) ) & ( ( 'intervent' ) | ( 'intervent' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "NIHR-SENITA-2022",
+   "NIHR-SENITA-2022"
+  ]
+ },
+ {
+  "id": "ie003",
+  "category": "comorbidity_asd_adhd",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-CSV-007",
+   "ASD-CSV-078"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'co-occur' <-> 'co' <-> 'occur' ) | ( 'comorbid' ) | ( 'comorbid' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "ASD-CSV-088",
+   "ASD-CSV-007"
+  ]
+ },
+ {
+  "id": "ie004",
+  "category": "language_development",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC10900867",
+   "ASD-OA-PMC10900867"
+  ],
+  "exp2_post_filter_n": 9,
+  "exp2_top2_sources": [
+   "ASD-OA-PMC10900867",
+   "ASD-OA-PMC10900867"
+  ],
+  "exp1_tsquery": "( ( ( ( '3' <-> 'year' ) | ( '3' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '3' <-> 'year' ) ) & ( ( 'nonverb' ) | ( 'non-verb' <-> 'non' <-> 'verbal' ) | ( 'minim' <-> 'verbal' ) | ( 'non-speak' <-> 'non' <-> 'speak' ) ) ) ) | ( ( ( ( '3' <-> 'year' ) | ( '3' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '3' <-> 'year' ) ) & ( ( 'development' <-> 'delay' ) | ( 'development' <-> 'delay' ) | ( 'delay' <-> 'develop' ) ) ) ) | ( ( ( ( 'nonverb' ) | ( 'non-verb' <-> 'non' <-> 'verbal' ) | ( 'minim' <-> 'verbal' ) | ( 'non-speak' <-> 'non' <-> 'speak' ) ) & ( ( 'development' <-> 'delay' ) | ( 'development' <-> 'delay' ) | ( 'delay' <-> 'develop' ) ) ) )",
+  "exp1_n": 8,
+  "exp1_top2_sources": [
+   "ASD-OA-PMC10900867",
+   "ASD-OA-PMC10900867"
+  ]
+ },
+ {
+  "id": "ie005",
+  "category": "language_development",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-091"
+  ],
+  "exp2_post_filter_n": 8,
+  "exp2_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-091"
+  ],
+  "exp1_tsquery": "( ( ( 'develop' ) | ( 'development' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "WHO-ECD-GUIDELINE-2020",
+   "ASD-NEW-002"
+  ]
+ },
+ {
+  "id": "ie006",
+  "category": "language_development",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'speech' <-> 'delay' ) | ( 'languag' <-> 'delay' ) | ( 'delay' <-> 'speech' ) ) )",
+  "exp1_n": 7,
+  "exp1_top2_sources": [
+   "ASD-CSV-002",
+   "ASD-CSV-017"
+  ]
+ },
+ {
+  "id": "ie007",
+  "category": "age_distinction",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 8,
+  "exp2_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp1_tsquery": "( ( ( ( '15' <-> 'month' ) | ( '15' <-> 'month-old' <-> 'month' <-> 'old' ) | ( '15' <-> 'month' ) ) & ( ( '3' <-> 'year' ) | ( '3' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '3' <-> 'year' ) ) ) ) | ( ( ( ( '15' <-> 'month' ) | ( '15' <-> 'month-old' <-> 'month' <-> 'old' ) | ( '15' <-> 'month' ) ) & ( ( 'sign' ) | ( 'sign' ) ) ) ) | ( ( ( ( '3' <-> 'year' ) | ( '3' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '3' <-> 'year' ) ) & ( ( 'sign' ) | ( 'sign' ) ) ) )",
+  "exp1_n": 7,
+  "exp1_top2_sources": [
+   "ASD-NEW-001",
+   "ASD-NEW-001"
+  ]
+ },
+ {
+  "id": "ie008",
+  "category": "age_distinction",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-CSV-081",
+   "ASD-OA-PMC4742252"
+  ],
+  "exp2_post_filter_n": 10,
+  "exp2_top2_sources": [
+   "ASD-CSV-081",
+   "ASD-OA-PMC4742252"
+  ],
+  "exp1_tsquery": "( ( ( ( 'age' ) ) & ( ( 'sign' ) | ( 'sign' ) ) ) ) | ( ( ( ( 'age' ) ) & ( ( 'parent' ) | ( 'parent' ) ) ) ) | ( ( ( ( 'sign' ) | ( 'sign' ) ) & ( ( 'parent' ) | ( 'parent' ) ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "ASD-OA-PMC6487529",
+   "ASD-SUP-PMC9399988"
+  ]
+ },
+ {
+  "id": "ie009",
+  "category": "age_distinction",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 8,
+  "exp2_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp1_tsquery": "( ( ( 'sign' ) | ( 'sign' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "ASD-CSV-084",
+   "ASD-CSV-084"
+  ]
+ },
+ {
+  "id": "ie010",
+  "category": "greeting_mixed",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "",
+  "exp1_n": 0,
+  "exp1_top2_sources": []
+ },
+ {
+  "id": "ie011",
+  "category": "greeting_mixed",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "",
+  "exp1_n": 0,
+  "exp1_top2_sources": []
+ },
+ {
+  "id": "ie012",
+  "category": "multi_intent",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-CSV-089",
+   "ASD-CSV-089"
+  ],
+  "exp2_post_filter_n": 8,
+  "exp2_top2_sources": [
+   "ASD-CSV-089",
+   "ASD-CSV-089"
+  ],
+  "exp1_tsquery": "( ( ( ( '2' <-> 'year' ) | ( '2' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '2' <-> 'year' ) ) & ( ( 'point' ) | ( 'point' ) ) ) ) | ( ( ( ( '2' <-> 'year' ) | ( '2' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '2' <-> 'year' ) ) & ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) ) ) | ( ( ( ( '2' <-> 'year' ) | ( '2' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '2' <-> 'year' ) ) & ( ( 'concern' ) | ( 'concern' ) | ( 'concern' ) | ( 'worri' ) ) ) ) | ( ( ( ( '2' <-> 'year' ) | ( '2' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '2' <-> 'year' ) ) & ( ( 'intervent' ) | ( 'intervent' ) ) ) ) | ( ( ( ( 'point' ) | ( 'point' ) ) & ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) ) ) | ( ( ( ( 'point' ) | ( 'point' ) ) & ( ( 'concern' ) | ( 'concern' ) | ( 'concern' ) | ( 'worri' ) ) ) ) | ( ( ( ( 'point' ) | ( 'point' ) ) & ( ( 'intervent' ) | ( 'intervent' ) ) ) ) | ( ( ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) & ( ( 'concern' ) | ( 'concern' ) | ( 'concern' ) | ( 'worri' ) ) ) ) | ( ( ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) & ( ( 'intervent' ) | ( 'intervent' ) ) ) ) | ( ( ( ( 'concern' ) | ( 'concern' ) | ( 'concern' ) | ( 'worri' ) ) & ( ( 'intervent' ) | ( 'intervent' ) ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "WHO-CST-PARTICIPANTS-2022",
+   "ASD-SUP-PMC13414371"
+  ]
+ },
+ {
+  "id": "ie013",
+  "category": "multi_intent",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'cure' ) | ( 'cure' ) | ( 'curabl' ) ) )",
+  "exp1_n": 3,
+  "exp1_top2_sources": [
+   "NIH-NIMH-ADHD",
+   "NIHR-SENITA-2022"
+  ]
+ },
+ {
+  "id": "ie014",
+  "category": "multi_intent",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'speech' <-> 'delay' ) | ( 'languag' <-> 'delay' ) | ( 'delay' <-> 'speech' ) ) )",
+  "exp1_n": 7,
+  "exp1_top2_sources": [
+   "ASD-CSV-002",
+   "ASD-CSV-017"
+  ]
+ },
+ {
+  "id": "ie015",
+  "category": "medication_safety",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 2,
+  "exp2_top2_sources": [
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189"
+  ],
+  "exp1_tsquery": "( ( ( 'melatonin' ) ) & ( ( 'medic' ) | ( 'medic' ) | ( 'drug' ) | ( 'drug' ) | ( 'pharmacolog' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "ASD-SUP-PMC12658592",
+   "ASD-OA-PMC7407189"
+  ]
+ },
+ {
+  "id": "ie017",
+  "category": "unproven_cure",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "NIH-NIDCD-ASD-COMMUNICATION-2020",
+   "ASD-OA-PMC4742252"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) & ( ( 'b6' ) ) ) ) | ( ( ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) & ( ( 'dose' ) | ( 'dosag' ) ) ) ) | ( ( ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) & ( ( 'cure' ) | ( 'cure' ) | ( 'curabl' ) ) ) ) | ( ( ( ( 'b6' ) ) & ( ( 'dose' ) | ( 'dosag' ) ) ) ) | ( ( ( ( 'b6' ) ) & ( ( 'cure' ) | ( 'cure' ) | ( 'curabl' ) ) ) ) | ( ( ( ( 'dose' ) | ( 'dosag' ) ) & ( ( 'cure' ) | ( 'cure' ) | ( 'curabl' ) ) ) )",
+  "exp1_n": 8,
+  "exp1_top2_sources": [
+   "NIH-NIMH-MEDICATIONS",
+   "ASD-SUP-PMC10981608"
+  ]
+ },
+ {
+  "id": "ie018",
+  "category": "unproven_cure",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "NIH-NIDCD-ASD-COMMUNICATION-2020",
+   "ASD-OA-PMC4742252"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "WHO-CST-PARTICIPANTS-2022",
+   "ASD-CSV-084"
+  ]
+ },
+ {
+  "id": "ie019",
+  "category": "vaccine_myth",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'vaccin' ) | ( 'vaccin' ) | ( 'vaccin' ) | ( 'vaccin' ) ) )",
+  "exp1_n": 4,
+  "exp1_top2_sources": [
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC12620806"
+  ]
+ },
+ {
+  "id": "ie020",
+  "category": "vaccine_myth",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC4742252"
+  ],
+  "exp2_post_filter_n": 7,
+  "exp2_top2_sources": [
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC4742252"
+  ],
+  "exp1_tsquery": "( ( ( 'vaccin' ) | ( 'vaccin' ) | ( 'vaccin' ) | ( 'vaccin' ) ) & ( ( 'risk' <-> 'factor' ) | ( 'risk' <-> 'factor' ) | ( 'risk' ) ) )",
+  "exp1_n": 2,
+  "exp1_top2_sources": [
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC12620806"
+  ]
+ },
+ {
+  "id": "ie021",
+  "category": "out_of_scope_mixed",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "",
+  "exp1_n": 0,
+  "exp1_top2_sources": []
+ },
+ {
+  "id": "ie022",
+  "category": "out_of_scope_mixed",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "",
+  "exp1_n": 0,
+  "exp1_top2_sources": []
+ },
+ {
+  "id": "ie023",
+  "category": "screening_diagnosis",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "NIH-NIDCD-ASD-COMMUNICATION-2020"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'school' ) | ( 'school' ) | ( 'school-bas' <-> 'school' <-> 'base' ) ) & ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "NIHR-SENITA-2022",
+   "CDC-CONCERNED"
+  ]
+ },
+ {
+  "id": "ie024",
+  "category": "adolescence",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-007"
+  ],
+  "exp2_post_filter_n": 2,
+  "exp2_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-OA-PMC13005892"
+  ],
+  "exp1_tsquery": "( ( ( 'adolesc' ) | ( 'adolesc' ) | ( 'adolesc' ) | ( 'teenag' ) | ( 'teen' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "ASD-CSV-007",
+   "ASD-SUP-PMC9399988"
+  ]
+ },
+ {
+  "id": "ie025",
+  "category": "adolescence",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 2,
+  "exp2_top2_sources": [
+   "ASD-CSV-062",
+   "ASD-CSV-078"
+  ],
+  "exp1_tsquery": "( ( ( 'puberti' ) | ( 'pubert' ) ) )",
+  "exp1_n": 8,
+  "exp1_top2_sources": [
+   "ASD-OA-PMC12468522",
+   "ASD-CSV-095"
+  ]
+ },
+ {
+  "id": "ie026",
+  "category": "adulthood",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 1,
+  "exp2_top2_sources": [
+   "ASD-CSV-062"
+  ],
+  "exp1_tsquery": "",
+  "exp1_n": 0,
+  "exp1_top2_sources": []
+ },
+ {
+  "id": "ie027",
+  "category": "feeding_nutrition",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "",
+  "exp1_n": 0,
+  "exp1_top2_sources": []
+ },
+ {
+  "id": "ie028",
+  "category": "comorbidity_asd_adhd",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "NIH-NIMH-MEDICATIONS",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 10,
+  "exp2_top2_sources": [
+   "NIH-NIMH-MEDICATIONS",
+   "ASD-CSV-062"
+  ],
+  "exp1_tsquery": "( ( ( ( 'adhd' ) | ( 'attention-deficit' <-> 'attent' <-> 'deficit' <-> '/hyperactivity' <-> 'disord' ) | ( 'attent' <-> 'deficit' <-> 'hyperact' <-> 'disord' ) ) & ( ( 'treatment' ) | ( 'treat' ) ) ) ) | ( ( ( ( 'adhd' ) | ( 'attention-deficit' <-> 'attent' <-> 'deficit' <-> '/hyperactivity' <-> 'disord' ) | ( 'attent' <-> 'deficit' <-> 'hyperact' <-> 'disord' ) ) & ( ( 'medic' ) | ( 'medic' ) | ( 'drug' ) | ( 'drug' ) | ( 'pharmacolog' ) ) ) ) | ( ( ( ( 'treatment' ) | ( 'treat' ) ) & ( ( 'medic' ) | ( 'medic' ) | ( 'drug' ) | ( 'drug' ) | ( 'pharmacolog' ) ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "NIH-NIMH-MEDICATIONS",
+   "NIH-NIMH-ADHD"
+  ]
+ },
+ {
+  "id": "ie029",
+  "category": "language_development",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'speech' <-> 'delay' ) | ( 'languag' <-> 'delay' ) | ( 'delay' <-> 'speech' ) ) & ( ( 'sign' ) | ( 'sign' ) ) )",
+  "exp1_n": 0,
+  "exp1_top2_sources": []
+ },
+ {
+  "id": "ie030",
+  "category": "age_distinction",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "WHO-CST-PARTICIPANTS-2022",
+   "ASD-CSV-084"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( ( '4' <-> 'year' ) | ( '4' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '4' <-> 'year' ) ) & ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) ) ) | ( ( ( ( '4' <-> 'year' ) | ( '4' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '4' <-> 'year' ) ) & ( ( '2' <-> 'year' ) | ( '2' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '2' <-> 'year' ) ) ) ) | ( ( ( ( 'talk' ) | ( 'talk' ) | ( 'speak' ) | ( 'speech' ) | ( 'word' ) ) & ( ( '2' <-> 'year' ) | ( '2' <-> 'year-old' <-> 'year' <-> 'old' ) | ( '2' <-> 'year' ) ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "CDC-MILESTONES-04",
+   "ASD-CSV-089"
+  ]
+ },
+ {
+  "id": "ie031",
+  "category": "adolescence",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 2,
+  "exp2_top2_sources": [
+   "ASD-CSV-062",
+   "ASD-CSV-078"
+  ],
+  "exp1_tsquery": "( ( ( 'puberti' ) | ( 'pubert' ) ) )",
+  "exp1_n": 8,
+  "exp1_top2_sources": [
+   "ASD-OA-PMC12468522",
+   "ASD-CSV-095"
+  ]
+ },
+ {
+  "id": "ie032",
+  "category": "education_inclusion",
+  "baseline_c_n": 10,
+  "baseline_c_top2_sources": [
+   "ASD-OA-PMC4742252",
+   "ASD-CSV-062"
+  ],
+  "exp2_post_filter_n": 0,
+  "exp2_top2_sources": [],
+  "exp1_tsquery": "( ( ( 'age' ) ) )",
+  "exp1_n": 10,
+  "exp1_top2_sources": [
+   "ASD-CSV-081",
+   "ASD-CSV-089"
+  ]
+ }
+]

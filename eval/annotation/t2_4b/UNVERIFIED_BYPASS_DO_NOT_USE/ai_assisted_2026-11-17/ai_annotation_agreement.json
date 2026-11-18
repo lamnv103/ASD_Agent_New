@@ -1,0 +1,137 @@
+{
+  "annotation_method": "ai_assisted_independent_annotation",
+  "annotation_status": "provisional",
+  "human_expert_reviewed": false,
+  "question_count": 66,
+  "pair_count": 2791,
+  "exact_agreement": {
+    "count": 2129,
+    "rate": 0.762809029021856
+  },
+  "ordinal_subset": {
+    "n": 2786,
+    "exact_count": 2129,
+    "exact_rate": 0.7641780330222542,
+    "quadratic_weighted_cohen_kappa": 0.860420696500992,
+    "linear_weighted_cohen_kappa": 0.7633354485844358
+  },
+  "confusion_matrix_categories": [
+    "-1",
+    "0",
+    "1",
+    "2",
+    "3",
+    "needs_review"
+  ],
+  "confusion_matrix": {
+    "-1": {
+      "-1": 0,
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "needs_review": 0
+    },
+    "0": {
+      "-1": 0,
+      "0": 1294,
+      "1": 128,
+      "2": 8,
+      "3": 8,
+      "needs_review": 0
+    },
+    "1": {
+      "-1": 0,
+      "0": 119,
+      "1": 389,
+      "2": 142,
+      "3": 7,
+      "needs_review": 1
+    },
+    "2": {
+      "-1": 0,
+      "0": 14,
+      "1": 88,
+      "2": 188,
+      "3": 83,
+      "needs_review": 1
+    },
+    "3": {
+      "-1": 0,
+      "0": 1,
+      "1": 17,
+      "2": 42,
+      "3": 258,
+      "needs_review": 0
+    },
+    "needs_review": {
+      "-1": 0,
+      "0": 1,
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "needs_review": 0
+    }
+  },
+  "grade_distribution": {
+    "a": {
+      "-1": 0,
+      "0": 1438,
+      "1": 658,
+      "2": 374,
+      "3": 318
+    },
+    "b": {
+      "-1": 0,
+      "0": 1429,
+      "1": 624,
+      "2": 380,
+      "3": 356
+    }
+  },
+  "needs_review_count": {
+    "a": 3,
+    "b": 2
+  },
+  "minus1_count": {
+    "a": 0,
+    "b": 0
+  },
+  "pairs_with_needs_review_either": 5,
+  "pairs_with_minus1_either": 0,
+  "disagreement_count": 662,
+  "disagreement_types": {
+    "one_grade": 372,
+    "relevant_vs_irrelevant": 285,
+    "needs_review": 5
+  },
+  "model_provenance": {
+    "a": {
+      "recorded": 48,
+      "not_recorded": 2743
+    },
+    "b": {
+      "recorded": 246,
+      "not_recorded": 2545
+    }
+  },
+  "provenance_note": "Pre-existing labels lack model/prompt/timestamp; fields remain null and are not inferred. Gap completions record provenance.",
+  "special_question_level_review_pending": [
+    "q016",
+    "q041",
+    "q057"
+  ],
+  "legacy_and_current_model_runs_mixed": true,
+  "quality_patch_note": "Three A grade -1 records that did not meet the two-claims conflict rule were changed to needs_review in derived output only.",
+  "duplicate_continuation_rows_excluded": {
+    "a": {
+      "duplicate_codes": 699,
+      "grade_conflicts_with_current_returned": 249
+    },
+    "b": {
+      "duplicate_codes": 666,
+      "grade_conflicts_with_current_returned": 208
+    },
+    "merge_rule": "Keep pre-existing returned label for codes already present; include AI gap result only for codes missing from returned. No duplicate label was silently selected."
+  }
+}

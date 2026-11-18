@@ -1,0 +1,171 @@
+{
+  "purpose": "internal audit only; do not send to reviewers",
+  "seed": 20261117,
+  "selection_counts": {
+    "ai_needs_review": 12,
+    "other_ai_review_status": 28
+  },
+  "selected": [
+    {
+      "review_id": "81EEC589A04849BD",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "D42ECCFEF68B44FE",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "D60032655FB24E36",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "5FE9C8AA9A88456B",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "7432E56541BD48AD",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "5D50634A5D7647A4",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "CE95954BE6E64C78",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "E582324F34ED431D",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "1B34B471C0064CCF",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "F0FAA42C5D1D4E8B",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "4EA3FE1DAD694C38",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "F4E19AA5DC0A4A0A",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "2CF28F2448644848",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "2E30304367504132",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "AE558F390EC54447",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "0C99C0EF31BE44F6",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "9F05895DCBD04F64",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "BDE16770179B41A9",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "06C6354E8DA74F09",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "6D1D952B5E044822",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "E88253A62E874992",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "BF02822305524EDE",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "E573EF61AF9C473F",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "F56E2BDEA9724F5F",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "60EAB5BAF28A4B6E",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "391D6FA7EF4D4D5C",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "5A8E041422DF4517",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "29277E9ED305410E",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "FA4535D54FF546D5",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "C4C8F9C2490C4F1B",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "A3099F90073B4E44",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "D8A1DA6A332F4B84",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "53694477808D4EBD",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "29CE5EBE6BA34340",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "CD95F180FF2C4FF3",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "365B4A7165CF4CEF",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "483EC825A6C241E1",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "31C0C8D98A364AC1",
+      "selection_source": "ai_needs_review"
+    },
+    {
+      "review_id": "3718B526C19F45D8",
+      "selection_source": "other_ai_review_status"
+    },
+    {
+      "review_id": "0534D198A37C4690",
+      "selection_source": "other_ai_review_status"
+    }
+  ],
+  "not_included": "A/B agreement/disagreement stratum is unavailable without the prohibited reveal mapping and was not inspected."
+}

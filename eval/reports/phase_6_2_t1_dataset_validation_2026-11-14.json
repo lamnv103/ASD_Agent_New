@@ -1,0 +1,74 @@
+{
+ "ok": true,
+ "errors": [],
+ "warnings": [],
+ "stats": {
+  "total_questions": 66,
+  "annotation_status": {
+   "annotated_single": 63,
+   "verified_unanswerable": 2,
+   "not_applicable": 1
+  },
+  "label_tier": {
+   "silver_single_annotator": 65,
+   "not_applicable": 1
+  },
+  "fully_annotated_single_pass": 65,
+  "human_verified": 0,
+  "pending": 0,
+  "partially_annotated": 4,
+  "partially_answerable": 12,
+  "unanswerable": 2,
+  "blocked": 2,
+  "out_of_scope": 1,
+  "conflicting_questions": 4,
+  "multi_evidence_questions": 40,
+  "multi_source_questions": 54,
+  "questions_with_relevant": 62,
+  "judgments": 435,
+  "relevant_judgments": 300,
+  "unique_relevant_chunks": 238,
+  "unique_judged_chunks": 339,
+  "unique_relevant_sources": 60,
+  "grade_distribution": {
+   "-1": 5,
+   "0": 64,
+   "1": 66,
+   "2": 186,
+   "3": 114
+  },
+  "by_category": {
+   "basic_knowledge": 6,
+   "signs_symptoms": 7,
+   "social_communication": 5,
+   "aac_communication_support": 2,
+   "repetitive_restricted": 5,
+   "assessment_diagnosis": 9,
+   "intervention_support": 10,
+   "sensory": 5,
+   "development_milestones": 6,
+   "multi_aspect": 4,
+   "multi_source": 1,
+   "insufficient_out_of_scope": 6
+  },
+  "by_complexity": {
+   "simple": 19,
+   "moderate": 38,
+   "complex": 9
+  },
+  "query_style": {
+   "colloquial": 20,
+   "multi_chunk": 61,
+   "multi_source": 54,
+   "short": 14,
+   "synonym": 4,
+   "age_specific": 7,
+   "false_positive_risk": 7,
+   "technical": 13,
+   "long": 7,
+   "conflicting": 4
+  }
+ },
+ "dataset_sha256": "7704bb510c9ab4a545d9195b18ffa2dc32f10b705df909a9201e11c96f104c2b",
+ "manifest_sha256": "542cce21378b302312f6f509ba69db0fc346b98d2c47bc0e639775a6d12b4fd3"
+}

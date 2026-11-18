@@ -1,0 +1,18 @@
+{
+  "status": "prepared_for_human_expert_review",
+  "reviewer_type": "human_independent_expert_required",
+  "pair_count": 875,
+  "disagreement_pool": 662,
+  "random_consensus_audit": 213,
+  "consensus_pool_size": 2129,
+  "random_seed": 20261117,
+  "sample_fraction": 0.10004697040864255,
+  "blind_package_sha256": "ce78ed103442269e3285fbd31172d251b2cd0ea2f42759600a3c4a35d4e4cc3a",
+  "strata_hidden_from_reviewer": true,
+  "agent_labels_in_blind_package": false,
+  "retrieval_metadata_in_blind_package": false,
+  "question_id_hidden_until_reveal": true,
+  "internal_join_key": "review_id",
+  "source_chunk_id_available": false,
+  "note": "Source/chunk IDs were not read from coordinator/source key; review_id is used to preserve blinding."
+}

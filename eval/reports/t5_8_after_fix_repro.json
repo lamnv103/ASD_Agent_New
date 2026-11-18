@@ -1,0 +1,38 @@
+[
+ {
+  "query": "Nghe nói uống vitamin B6 liều cao chữa được tự kỷ, có đúng không?",
+  "mode": "safety_caution_unproven_cure",
+  "text": "Hiện chưa có bằng chứng khoa học đủ mạnh trong kho dữ liệu của hệ thống xác nhận rằng phương pháp này có thể chữa khỏi tự kỷ. Tự kỷ là một rối loạn phát triển thần kinh suốt đời; các phương pháp can thiệp được ghi nhận có bằng chứng (như can thiệp hành vi, hỗ trợ giao tiếp) tập trung cải thiện kỹ năng và chất lượng sống, không phải \"chữa khỏi\". Hãy cẩn trọng với các tuyên bố chữa khỏi tự kỷ chưa được xác nhận bởi nghiên cứu khoa học, và tham khảo ý kiến chuyên gia y tế trước khi áp dụng. Hệ thống có tìm thấy 4 tài liệu đề cập đến chủ đề liên quan, nhưng không tài liệu nào trong đó xác nhận hiệu quả chữa khỏi tự kỷ — việc một chất hoặc phương pháp được nhắc đến hoặc được nghiên cứu cho mục đích khác (ví dụ hỗ trợ giấc ngủ) không có nghĩa là nó chữa được tự kỷ.",
+  "fts_n": 8,
+  "gate_sufficient": true,
+  "supported_sources": [
+   "NIH-NIMH-MEDICATIONS",
+   "ASD-SUP-PMC10981608",
+   "ASD-OA-PMC7407189",
+   "ASD-SUP-PMC10981608",
+   "ASD-SUP-PMC10981608",
+   "ASD-SUP-PMC10981608",
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC12620806"
+  ],
+  "citation_ids": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "C6",
+   "C7",
+   "C8"
+  ]
+ },
+ {
+  "query": "Tế bào gốc có chữa được tự kỷ không?",
+  "mode": "safety_caution_unproven_cure",
+  "text": "Hiện chưa có bằng chứng khoa học đủ mạnh trong kho dữ liệu của hệ thống xác nhận rằng liệu pháp tế bào gốc có thể chữa khỏi tự kỷ. Tự kỷ là một rối loạn phát triển thần kinh suốt đời; các phương pháp can thiệp được ghi nhận có bằng chứng (như can thiệp hành vi, hỗ trợ giao tiếp) tập trung cải thiện kỹ năng và chất lượng sống, không phải \"chữa khỏi\". Hãy cẩn trọng với các tuyên bố chữa khỏi tự kỷ chưa được xác nhận bởi nghiên cứu khoa học, và tham khảo ý kiến chuyên gia y tế trước khi áp dụng.",
+  "fts_n": 0,
+  "gate_sufficient": false,
+  "supported_sources": [],
+  "citation_ids": []
+ }
+]

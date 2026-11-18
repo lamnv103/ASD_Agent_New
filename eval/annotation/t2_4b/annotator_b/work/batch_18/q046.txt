@@ -1,0 +1,384 @@
+QUESTION q046: Trẻ 2 tuổi thường làm được những gì?  (38 candidates)
+
+### FB77368AA7 | Milestones by 2 Months | What most babies do by 2 months | page -
+Click the links below to view a photo or video of each milestone.
+
+### 4A2754492D | Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis | Data Availability > Results > Characteristics of included parenting interventions. | page -
+| Author, Year Country | Intervention Description | Intervention Includes Responsive Caregiving | Average Child Age at Baseline | Average Program Duration | Study Design (Unit of Randomization) | Delivery | Setting | Analytic Sample | Early child development outcomes | Parenting outcomes |
+| Cognitive | Language | Motor | Socio-emotional | Behavior problems | Attachment | Knowledge | Practices | Parent-child interactions | Depression |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Jacobs et al., 2016 [116] USA | The Healthy Families Massachusetts program targeted first-time adolescent parents. Through regular visits, program staff facilitated family goal setting and tailored support based on individual family needs. The program included developmental screenings, routine health screenings, and referrals to other services. | No | 0 mo | 14.7 mo | Two-arm RCT (Mother) | Individual | Home | INT: 358 CTRL: 236 |  |  |  |  | X |  |  |  |  |  |
+| Jin et al., 2007 [117] China | Targeted families in rural China and involved 2 counselling sessions using the Mother’s Card model (adapted for China from WHO’s Care for Development counselling materials). The sessions advised parents on how to stimulate their child’s development and growth and provided advice for parents on age-appropriate communication with their child. | No | 10 mo | 6 mo | Two-arm RCT (Family) | Individual | Home | INT: 45 CTRL: 42 |  | X | X | X |  |  |  |  |  |  |
+| Johnson et al., 1974 [38] USA | This intervention targeted economically disadvantaged families. Mothers were enrolled in a 2-year parent education program designed to strengthen families and enable parents to optimize their child’s mental, social and physical development. In year 1, a bilingual teacher provided weekly home visits for the mother and child and weekend sessions for the whole family. In year 2, the mother and child participated in a center-based nursery program, with evening sessions for fathers. The curriculum promoted mothers’ home management skills and understanding of child development and sensitive responses. | Yes | 12 mo | 24 mo | Two-arm RCT (Family) | Individual, Group | Home | INT: 16 CTRL: 16 | X |  |  |  |  |  |  | X | X |  |
+CTRL, control group; ECD, early child development; EI, Educación Inicial; ICDS, Integrated Child Development Services; INT, intervention group; RCT, randomized controlled trial; RFS, Responsive Feeding and Stimulation; VIP, Video Interaction Project; VIPP, video-feedback intervention to promote positive parenting;
+
+### 7B746F1EFD | Milestones by 30 Months | What most children do by 30 months > Cognitive Milestones (learning, thinking, problem-solving) | page -
+* Uses things to pretend, like feeding a block to a doll as if it were food
+
+* Shows simple problem-solving skills, like standing on a small stool to reach something
+
+* Follows two-step instructions like “Put the toy down and close the door.”
+
+* Shows he knows at least one color, like pointing to a red crayon when you ask, “Which one is red?”
+
+### 0B09058399 | Milestones by 2 Years | Tips and activities > What You Can Do for Your 2-year-old | page -
+Image: child pointing at book parents are holding and reading
+
+As your child's first teacher, you can help his or her development.
+
+As your child's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your child's doctor and teachers if you have questions or for more ideas on how to help your child's development.
+
+* Help your child learn how words sound, even if he can't say them clearly yet. For example, if your child says, "or nana," say "You want more banana."
+
+* Watch your child closely during playdates. Children this age play next to each other, but do not know how to share and solve problems. Show your child how to deal with conflicts by helping her share, take turns, and use words when possible.
+
+* Have your child help you get ready for mealtime, by letting him carry things to the table, such as plastic cups or napkins. Thank your child for helping.
+
+### 836416E9FD | Effect of Preemptive Intervention on Developmental Outcomes Among Infants Showing Early Signs of Autism: A Randomized Clinical Trial of Outcomes to Diagnosis | Key Points > Main Outcomes and Measures | page -
+Infants were assessed at baseline (approximate age, 12 months), treatment end point (approximate age, 18 months), age 2 years, and age 3 years. Primary outcome was the combined blinded measure of ASD behavior severity (the Autism Observation Scale for Infants and the Autism Diagnostic Observation Schedule, second edition) across the 4 assessment points. Secondary outcomes were an independent blinded clinical ASD diagnosis at age 3 years and measures of child development. Analyses were preregistered and comprised 1-tailed tests with an α level of .05.
+
+### 427A3166E6 | Milestones by 2 Months | Ways to monitor milestones | page -
+How your child plays, learns, speaks, acts, and moves offers important clues about your child's development. Developmental milestones are things most children (75% or more) can do by a certain age.
+
+### 5E4D96E08E | Milestones by 2 Years | What to know | page -
+* Learn about the developmental milestones that most children do by 2 years of age.
+
+* See important information to share with your doctor.
+
+* Find tips and activities you can do for your 2-year-old.
+
+Image: child kicking a ball
+
+### 34BCF18540 | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Intellectual Assessment > Wechsler Intelligence Scales | page -
+The Wechsler Intelligence Scales are some of the most widely used IQ tests, including the WPPSI-IV (Wechsler, 2011, 2012, 2014), the Wechsler Intelligence Scale for Children—Fifth Edition (WISC-V; Wechsler, 2014), and the Wechsler Abbreviated Scale of Intelligence—Second edition (WASI-II; Wechsler, 2011). They differ by age range and subtests: The age range for WPPSI is 2 years, 6 months to 7 years, 7 months, and takes 30 to 60 min to complete, while the age range for WISC is 6 years to 16 years, 11 months and takes about 60 min to complete. Both tests include scales measuring verbal comprehension, visual–spatial skills, working memory, fluid reasoning, and processing speed. These tests also provide a comprehensive IQ score, in addition to the subscale scores, and individuals with ASD were included in the standardized samples. The WASI-II is an abbreviated intelligence measure for individuals ages 6 years to 90 years, and 11 months. The WASI-II includes only the verbal comprehension and perceptual reasoning composites and provides an estimated IQ score (either 2-subtest or 4-subtest) rather than a comprehensive IQ score. It takes about 30 min to complete and can be used in clinical and research settings. Individuals with ASD were not included in the standardization sample.
+
+### 408ED99647 | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Outcomes | page -
+Table 3
+Participant characteristics.
+| Study | No. of participants | Geographical location | Demographics: parent | Demographics: child |
+|---|---|---|---|---|
+| Hamad et al [49] | 51 | “Geographically disparate” in the United States | Gender: male n=4, female n=47 Age: not specified Education level: high school n=6, associate degrees n=0, bachelor degrees n=20, master degrees n=12, other n=3 Note: subgroup demographic breakdown not provided | Gender: not specified Age: not specified |
+| Heitzman-Powell et al [50] | 7 | Remote areas in the United States | Gender: not specified Age: mean age 37.3 (range=32-47) Education level: ranged from graduate degree to high school diploma. Breakdown not specified. | Gender: not specified Age: not specified |
+| Ingersoll and Berger [43] Ingersoll et al [44] Pickard et al [45] | 27 | 70% (19/27) of participants resided in “rural or medically underserved areas” | Gender: male n=1, female n=26 Age: not specified Education: college degree or higher=16, education levels of remaining participants not specified | Gender: male n=19, female n=8 Age: mean chronological age 3 years, 6 months. |
+| St. Peter et al [46] | 32 | Rural Appalachian counties in West Virginia, Kentucky, Maryland, Virginia, or Pennsylvania, United States | Gender: male n=11, female n=21 Age: mean age of parents=35.87 years (range, 24-69) Education level: 54.15% had received a college degree. Remaining participant education levels not specified. | Not specified |
+| Vismara et al [48] | 8 | “Very little access to early intervention services” in California, North Carolina, Arkansas, Texas, and Pennsylvania, United States. | Gender: male n=1, female n=7 Age: not specified Education: not specified | Gender: male n=7, female n=1 Age: mean chronological age 2 years, 4 months (standard deviation=7.6 months, range 16-38 months) |
+
+### D6EB510651 | Parallel paths: A narrative review exploring autism and its co-occurring conditions | AUTISM PRESENTATION ASSOCIATED WITH KNOWN ENVIRONMENTAL EXPOSURES | page -
+Additionally, maternal obesity, a pro-inflammatory state, is associated with up to a tenfold increased risk of positive autism screening at age 2, with this risk further elevated when accompanied by maternal diabetes[25].
+
+Screening for autism in preterm populations presents unique challenges. The Modified Checklist for Autism in Toddlers (M-CHAT), while widely used, shows limitations in the ex-preterm population. A study showed it to have a positive predictive value of only 20%, with 21% screening positive on the M-CHAT at 2 years of age and only 7% being diagnosed at age 10[34]. This discrepancy reflects the tool's sensitivity to other neurodevelopmental delays common in preterm infants, such as those related to vision, hearing, and movement[34].
+
+The Autism Detection in Early Childhood tool has emerged as a more suitable alternative, demonstrating superior sensitivity (0.89) and specificity (0.98) in distinguishing autism from other NDDs in preterm infants[35]. Compared to a sensitivity of 0.52 and specificity of 0.84 of the M-CHAT. It is brief and easy to use and does not require additional training[35].
+
+Autism in preterm infants often presents with a distinct phenotype characterized by prominent social interaction and communication impairments but less pronounced repetitive behaviors[25]. This early social impairment may contribute to documented differences in social relationships observed in adulthood in ex-preterm infants compared to peers. Relationships with parents often remain stronger than those with their peers. Difficulties in initiating relationships were responsible for the relationship challenges[36].
+
+Early intervention is crucial, with systematic reviews emphasizing the importance of individualized, parent-involved interventions that target a broad range of learning objectives[37]. An early intervention pilot in Spain that focused on ex-preterm toddlers with autism showed promise in improving social communication and cognitive outcomes. The toddlers received social-communication interventions, and most participants in the intervention group showed significant improvements in social- communication skills, cognitive development, and language abilities[38].
+
+Understanding this complex interplay between biological vulnerability and environmental stressors in infants remains crucial for improving outcomes. Future directions should focus on developing preterm-specific screening methods. Life course intervention strategies that address this population's unique neurodevelopmental and life-course trajectories are essential[39].
+
+### CA17A2DCD0 | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Developmental/Cognitive Assessment > Differential Abilities Scale—Second Edition | page -
+The DAS-II (Elliot, 2007) is designed to assess cognitive abilities in youth aged 2 years, 6 months to 17 years, and 11 months. It comprises two overlapping batteries, the Early Years (2:6–8:11) and the School Age battery (5:0–17:11). It is designed to measure verbal reasoning, nonverbal reasoning, and spatial abilities. This instrument generates a General Conceptual Ability (score and cluster scores. For children older than three and half, a Special Nonverbal Composite score can be generated for nonverbal core subtests. This can be useful in assessing cognitive abilities in non-speaking children with autism (Ozonoff et al., 2005; Sutera et al., 2007). Instructions are available in Spanish (Elliot, 2007, 2012). The DAS-II can be used to identify personal strengths and challenges and takes 45 to 60 mins to complete. Average internal consistency reliability ranges from 0.68 - 0.97, and the test–retest reliability ranges from 0.63 to 0.92. Studies have indicated good convergent validity between the MSEL and the DAS-II (Bishop et al., 2011; Farmer et al., 2016). Although individuals with ASD were not included in the standardization sample, studies have explored its utility in this population (e.g., Kuriakose, 2014).
+
+### 2391D32E74 | Milestones by 2 Years | Tips and activities > More Parenting Tips and Activities | page -
+After singing it a few times, see if your child sings some of the words when you touch a body part and wait.
+
+* Limit screen time (TV, tablets, phones, etc.) to no more than 1 hour a day of a children's program with an adult present. Children learn by talking, playing, and interacting with others.
+
+* Encourage your child to play with blocks. Take turns building towers and knocking them down.
+
+* Ask your child to help you open the drawer when you put away clothes or open the door when you go outside.
+
+May 15, 2026
+
+Sources and Page Info Share
+
+Content Source
+
+National Center on Birth Defects and Developmental Disabilities (NCBDDD)
+
+About This Page
+
+Published: September 4, 2025
+
+Updated: May 16, 2026
+
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+
+Reviewed: May 16, 2026
+
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+Sources
+
+* Special acknowledgments to the subject matter experts and others who contributed to the review of data and selection of developmental milestones, especially Paul H. Lipkin, MD, Michelle M. Macias, MD, Julie F. Pajek, PhD, Judith S. Shaw, EdD, MPH, RN, Karnesha Slaughter, MPH, Jane K. Squires, PhD, Toni M. Whitaker, MD, Lisa D. Wiggins, PhD, and Jennifer M. Zubler, MD.
+
+* Sincere gratitude to Natalia Benza, MD and José O. Rodríguez, MD, MBA for their thoughtful review of the Spanish-language translation of these milestones.
+
+### CBFEB3F226 | Milestones by 2 Years | Tips and activities > More Parenting Tips and Activities | page -
+* Give your child balls to kick, roll, and throw.
+
+* Give toys that teach your child how to make things work and how to solve problems. For example, give her toys where she can push a button and something happens.
+
+* Let your child play dress up with grown-up clothes, such as shoes, hats, and shirts. This helps him begin to pretend play.
+
+* Allow your child to eat as much or as little as she wants at each meal. Toddlers don't always eat the same amount or type of food each day. Your job is to offer her healthy foods and it's your child's job to decide if and how much she needs to eat.
+
+* Have steady routines for sleeping and feeding. Create a calm, quiet bedtime for your child. Put on his pajamas, brush his teeth, and read 1 or 2 books to him. Children this age need 11 to 14 hours of sleep a day (including naps). Consistent sleep times make it easier.
+
+* Ask your child's doctor and/or teachers about toilet training to know if your child is ready to start. Most children are not able to toilet train until 2 to 3 years old. Starting too early can cause stress and setbacks, which can cause training to take longer.
+
+* Use positive words when your child is being a good helper. Let him help with simple chores, such as putting toys or laundry in a basket.
+
+* Play with your child outside, by playing "ready, set, go." For example, pull your child back in a swing. Say "Ready, set....", then wait and say "Go" when you push the swing.
+
+* Let your child create simple art projects with you. Give your child crayons or put some finger paint on paper and let her explore by spreading it around and making dots. Hang it on the wall or refrigerator so your child can see it.
+
+* Use positive words and give more attention to behaviors you want to see ("wanted behaviors"), than to those you don't want to see. For example, say "Look how well you're eating with your spoon."
+
+* Let your child play with sand toys or plastic containers, spoons, or a funnel in the tub or in a sandbox.
+
+* Help your child do simple puzzles with shapes, colors, or animals. Name each piece when your child puts it in place.
+
+* Encourage your child's curiosity and help her learn and explore new things. Take her to the park, take walks, or go on a bus ride.
+
+* Sing songs, such as "Head, Shoulders, Knees, and Toes," to teach names of body parts. After singing it a few times, see if your child sings some of the words when you touch a body part and wait.
+
+### 32D7DFFA4A | Milestones by 2 Years | What most children do by 2 years > Movement/Physical Development Milestones | page -
+* Kicks a ball
+
+* Runs
+
+* Walks (not climbs) up a few stairs with or without help
+
+* Eats with a spoon
+
+See Also More about physical development
+
+### 20BA7A40B5 | Parallel paths: A narrative review exploring autism and its co-occurring conditions | INTRODUCTION | page -
+This suggests a shared etiology between these conditions and autism.
+
+CCs in autism may share symptoms and also have atypical manifestations complicating their timely diagnosis[18-21]. For instance, medical symptoms may manifest as new behaviors or worsening of existing ones. Gender differences are also notable, with females having higher neurological and genetic findings[13,22]. Age-related differences in CCs between autistic children and adults are also documented. In a study of 579 autistic individuals and 1897 matched neurotypical peers younger than 2 years of age, the authors found that generalized convulsive epilepsy, nystagmus, delayed milestones, lack of normal physiological development, and strabismus were more likely in those later diagnosed with autism[13]. In another systematic review and meta-analysis, ADHD, sleep-wake problems, somatic symptoms, and related disorders and celiac disease were more common in autistic children/adolescents compared to adults[23]. On the other hand, motor problems, GI symptoms, depression, epilepsy, hearing problems, and neurocutaneous disorders were higher in autistic adults compared to children/adolescents[23]. In a longitudinal cohort of 13382 autistic children enrolled between 2001 and 2009 and followed up till 2011 to observe the time course of development of psychiatric CCs, anxiety disorders occurred first in late childhood. This was followed by depressive disorder, obsessive compulsive disorder, bipolar disorder, and schizophrenia in adolescence[24].
+
+In this narrative review, we aim to explore the diverse range of CCs that occur in autism. Recognizing these CCs is crucial, as frequently atypical presentations can often delay the diagnosis and initiation of appropriate treatment, potentially exacerbating the challenges faced by affected individuals. A comprehensive understanding of common and less-recognized CCs enables clinicians to conduct thorough assessments during appointments, ensuring that no critical aspect of a patient's care is overlooked. Moreover, early identification not only aids in tailoring individualized treatment plans but also facilitates access to specialized services and support for families and children following diagnosis. Such knowledge is essential for guiding interventions, improving overall outcomes, and optimizing the quality of life for autistic individuals and their families. Additionally, by identifying the spectrum of CCs, clinicians and researchers can better advocate for integrated care models and highlight areas where more research and support are needed.
+
+Figure 1 illustrates the distribution of common co-occurring conditions in autism, highlighting ADHD as the most prevalent. Figure 2 depicts the distribution of co-occurring medical conditions, with neurological conditions being the most frequent in autism.
+
+Figure 1
+
+### 8F79484058 | Effect of Preemptive Intervention on Developmental Outcomes Among Infants Showing Early Signs of Autism: A Randomized Clinical Trial of Outcomes to Diagnosis | Key Points > Discussion > Strengths and Limitations | page -
+This study has several strengths. The findings from the clinical trial are strengthened by a moderate sample size that generated adequate statistical power, high participant retention across 4 assessment points spanning 2 years, vigilant blinding of the assessors who conducted assessments and coded videos, and a prespecified analysis plan. It is also important to highlight certain aspects of the statistical analysis plan. Given the favorable findings from the previous study of the iBASIS-VIPP intervention and the directional hypotheses, the statistical analysis plan prespecified 1-tailed tests with an α level of .05 to reduce the possibility of type II errors. Furthermore, because we prespecified individual outcome measures for conceptually different domains (rather than multiple measures of the same domain), the analysis plan did not incorporate corrections for multiple comparisons. We note that the between-group comparison for the primary outcome would have been lower than conventional statistical significance thresholds for 2-tailed testing, although the diagnosis classification outcome would have remained significant (Table 3). However, we also note that the treatment effects observed across a broad range of child outcome measures consistently favored the iBASIS-VIPP group in direction and extent and were consistent with the findings of the previous clinical trial of this intervention. This observation provides confidence in the robust pattern of effects and suggests that the use of prespecified 1-tailed tests did not risk type I error in our reporting.
+
+This study also has limitations. Blinded diagnostic judgments were conducted at the predefined point of age 3 years. Although ASD diagnostic classification at age 3 years is known to be relatively stable across childhood, it is possible that a small proportion of children may change diagnostic categories if reassessed at later times. Follow-up of these children in later childhood, when the behaviors for ASD and other neurodevelopmental conditions may be more apparent and distinguishable, will be important to determining the longer-term clinical significance of the intervention effects observed in the current study.
+
+### 3F3E28483A | Milestones by 2 Months | Share with your child’s doctor > Things to share and consider | page -
+* What are some things you and your baby do together?
+
+* What are some things your baby likes to do?
+
+* Is there anything your baby does or does not do that concerns you?
+
+* Has your baby lost any skills he/she once had?
+
+* Does your baby have any special healthcare needs or was he/she born prematurely?
+
+You know your child best. Don't wait. If your child is not meeting one or more milestones, has lost skills he or she once had, or you have other concerns, act early. Talk with your child's doctor, share your concerns, and ask about developmental screening.
+
+### 6041955C29 | Milestones by 2 Months | What most babies do by 2 months > Language/Communication Milestones | page -
+* Makes sounds other than crying
+
+* Reacts to loud sounds
+
+### EC02995071 | Milestones by 2 Years | What most children do by 2 years > Language/Communication Milestones | page -
+* Points to things in a book when you ask, like “Where is the bear?”
+
+* Says at least two words together, like “More milk.”
+
+* Points to at least two body parts when you ask him to show you
+
+* Uses more gestures than just waving and pointing, like blowing a kiss or nodding yes
+
+### 44A57A55F6 | Inclusivity in education for autism spectrum disorders: Experiences of support from the perspective of parent/carers, school teaching staff and young people on the autism spectrum | Keywords > Materials and methods > Participants | page -
+Table 1.
+Participant demographics.
+| Participants Group (N = 24) | Participant code | Mainstream Education setting | Group format | Length of interview | Gender | Age | Ethnicity; first language | Number of children | Details of children with ASD | Other information |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  | Parent 8 | Primary & secondary | Group 2 / individual | (Group2:as above; individual: 66 mins) | Female | 40 | Pakistani; Urdu | 4 | 2 children with ASD age 14 (son diagnosed age 14; ADHD) and daughter age 5; diagnosed age 5; co-occurring anxiety) |  |
+| Staff (N = 12) | SENCO 1 | Secondary | Group 3 | Group3: 93 mins | Male | 36 | White British | – | 11-16 | Time in role: 5 years |
+|  | SENCO2 | Primary | Group 3 | – | Female | 29 | White other | – | 3-11 | Time in role: 1 year |
+|  | SENCO 3 | Secondary | Group 3 | – | Female | 63 | White British | – | 11-16 | Time in role: 17 years |
+|  | SENCO 4 – inclusion manager | Primary | Group 3 | – | Female | 46 | English | – | 4-11 | Time in role: 2 years |
+|  | TA1 – | Primary -higher level teaching assistant | Group 4 | Group4: Approx. 60 mins | Female | 33 | White British | – | 11-16 | Time in role: 8 years |
+|  | TA2 | Primary – nursery nurse | Group 4 | – | Female | 29 | White British | – | 4-5 | Time in role: 2 years |
+|  | TA3 | Secondary | Group 4 | – | Female | 21 | Black British Caribbean | – | 5-7 | Time in role: 2 weeks |
+|  | TA4 | Primary | Group 5 | Group5: Approx. 60 mins | Female | 33 | _² | – | 6-11 | Time in role: 6 years |
+|  | Teacher1 | Primary | Group 5 | – | Female | 33 | British | – | 7-10 | Time in role: 9 years |
+
+### 47C64C7161 | Effect of Preemptive Intervention on Developmental Outcomes Among Infants Showing Early Signs of Autism: A Randomized Clinical Trial of Outcomes to Diagnosis | Key Points > Discussion | page -
+In this randomized clinical trial, a preemptive intervention for infants showing early behavioral signs of ASD led to a significant reduction in the severity of ASD behaviors when summed over the 2 years between baseline and the study end point at age 3 years. These effects were small in extent, and their clinical significance is uncertain. However, intervention effects were observed across longitudinal points and on related behavioral outcomes, such as parent-reported language development (as measured by the MacArthur Communicative Development Inventories). Although modest in size, this consistent pattern of intervention effects observed across developmental domains likely contributed to the best-estimate clinical judgments of diagnosis and the reduced odds of the iBASIS-VIPP group meeting DSM-5 diagnostic criteria for ASD at age 3 years.
+
+To our knowledge, this randomized clinical trial is the first to demonstrate that a preemptive intervention for infants showing early signs of ASD led to a small but enduring reduction in ASD symptom severity and reduced odds of ASD diagnosis in early childhood. Recent theoretical accounts of the developmental emergence of ASD make a distinction between early life perturbations in the functioning of brain systems and neurocognitive mechanisms that can moderate the consequences of these perturbations for later phenotypic outcomes. Early disruptions can be amplified over time by their interaction with neurocognitive mechanisms to channel developmental trajectories into certain behavioral phenotypes, such as ASD. Of importance to intervention development, it is hypothesized that neurocognitive mechanisms, such as social attention and engagement, can also act as resilience factors by creating more adaptive learning experiences for the child, with potential downstream effects on behavioral development. The observed increase in caregiver sensitive responding during infant interactions (as measured by the MACI sensitive responding subscale), coupled with the decrease in ASD symptom severity, is consistent with results from the previous clinical trial of iBASIS-VIPP and findings from a clinical trial of an intervention among older children with ASD, providing additional clinical research evidence to support these theoretical accounts of ASD.
+
+### 4352A4A836 | Milestones by 2 Years | What most children do by 2 years > Social/Emotional Milestones | page -
+* Notices when others are hurt or upset, like pausing or looking sad when someone is crying
+
+* Looks at your face to see how to react in a new situation
+
+### 8947D81A02 | Milestones by 2 Months | What to know | page -
+* Learn about the developmental milestones that most babies do by two months of age.
+
+* See important information to share with your doctor.
+
+* Find tips and activities you can do for your two-month-old.
+
+Image: 2-month-old baby being held by dad
+
+### 980BC47699 | Effect of Preemptive Intervention on Developmental Outcomes Among Infants Showing Early Signs of Autism: A Randomized Clinical Trial of Outcomes to Diagnosis | Key Points > Introduction | page -
+Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by impairments in social interaction and communication as well as a repetitive and/or restricted range of behaviors and interests. Autism spectrum disorder is emergent in early development but is not typically diagnosed until age 3 years, and current clinical guidelines highlight diagnosis as a catalyst in the clinical pathway to commence therapeutic intervention. However, interventions beginning during the first 2 years of life, when the first signs of atypical development are observed and the brain is rapidly developing, may lead to an even greater impact on developmental outcomes in later childhood.
+
+Previous randomized clinical trials of preemptive interventions have not demonstrated intervention effects on ASD symptom emergence. However, recent advances in developmental science have provided key insights into potential intervention mechanisms, particularly regarding the ways in which adapted caregiver interaction styles can modify the effect of existing infant vulnerabilities in social attention on later development. The iBASIS–Video Interaction to Promote Positive Parenting (iBASIS-VIPP) intervention targets these developmental processes using video feedback techniques to increase caregiver awareness of their infant’s individual social communication and guide specific caregiver responses to build infant social engagement and interaction. An initial pilot study found that the iBASIS-VIPP intervention was acceptable to parents and infants. A randomized clinical trial of 54 infants with an increased familial likelihood of ASD (based on having a sibling with ASD) found that receipt of the iBASIS-VIPP intervention from age 9 months led to a significant reduction in the severity of emerging ASD symptoms over the prodromal period when measured up to age 3 years. However, this initial randomized clinical trial was underpowered to measure treatment effects on categorical ASD diagnosis, so the clinical significance of this finding remains uncertain.
+
+The Australian Infant Communication and Engagement Study provided the first well-powered test of the iBASIS-VIPP intervention among infants showing early behavioral signs of ASD. At the intervention end point (age 18 months), there was no difference between infants receiving iBASIS-VIPP vs usual care on researcher-administered measures of infant behavior. The current study is an examination of the longitudinal outcomes of the Australian cohort to 24 months after baseline (age 3 years), the time at which categorical ASD diagnosis can be examined. On the basis of theory and clear results from the previous selectively sampled clinical trial, along with the absence of reported harms in that clinical trial and in previous pilot work, our prespecified directional hypothesis was that use of the iBASIS-VIPP intervention during infancy would reduce ASD symptom severity and the odds of ASD diagnosis and improve a range of developmental outcomes.
+
+### 3C4DFD62BC | Milestones by 2 Years | What most children do by 2 years > Cognitive Milestones (learning, thinking, problem-solving) | page -
+* Holds something in one hand while using the other hand; for example, holding a container and taking the lid off
+
+* Tries to use switches, knobs, or buttons on a toy
+
+* Plays with more than one toy at the same time, like putting toy food on a toy plate
+
+### 8503D513D8 | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Outcomes | page -
+Table 3
+Participant characteristics.
+| Study | No. of participants | Geographical location | Demographics: parent | Demographics: child |
+|---|---|---|---|---|
+| Vismara et al [12] | 8 | “Minimally available intervention services in their community” in the United States and Canada | Gender: male n=1, female n=7 Age: not specified Education level: college n=4, postcollege n=4 | Gender: not specified Age: 1 year n=4, 2 years n=2, 3 years n=1 |
+| Wacker et al [47] | 17 | Regional Iowa, United States | Gender: male n=2, female n=16 Age: mean age 33 years Education level: “most” had some level of postsecondary education. Breakdown not specified. | Gender: male n=16, female n=1 Age: 2 years n=3, 3 years n=4, 4 years n=3, 5 years n=5, 6 years n=2 (range 29-80 months) |
+
+### FC06FD2E20 | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Caregiver Interview > Autism Diagnostic Interview-Revised | page -
+The Autism Diagnostic Interview-Revised (ADI-R; Lord et al., 1994) is a comprehensive, semi-structured caregiver interview often used as part of a comprehensive evaluation to inform clinical judgment with respect to an autism diagnosis, in combination with other measures. The ADI-R was originally developed based on the DSM-IV-TR and the International Classification of Diseases-10 diagnostic criteria. It assesses current and historical behaviors related to autism (from 18 months to adulthood) in individuals with a mental age of at least 2 years. Three algorithm scores are generated: social difficulty, communication challenges, and repetitive behaviors. Administration time ranges from 90 to 150 min by a trained clinician. A toddler version of the ADI-R designed for children under 4 years of age includes 32 new questions and a new algorithm (S. H. Kim et al., 2013); sensitivity (0.89–0.97) and specificity (0.86–0.89) for this algorithm are strong.
+
+The ADI-R has good interrater reliability (Zander et al., 2017). The overall sensitivity and specificity for the ADI-R are estimated to be 0.75 and 0.82, respectively, but estimates of sensitivity (0.33–1.00) and specificity (0.61–1.00) vary widely among studies, according to a recent meta-analysis (Lebersfeld et al., 2021). Lebersfeld et al. (2021) also found that studies using combined research and clinical samples (0.82) had higher sensitivity than clinical-only (0.71) or research-only samples (0.73). Research samples (0.85) had the highest specificity, followed by combined samples (0.76) and clinical samples (0.72). Thus, it seems that the ADI-R is most accurate when used in research studies. Due to its length and training requirements, the ADI-R is mostly used for research. In practice, many providers rely on (non-standardized) interviews to collect information relevant to each DSM criterion.
+
+### A5734D801D | Milestones by 2 Months | What most babies do by 2 months > Social/Emotional Milestones | page -
+* Calms down when spoken to or picked up
+
+* Looks at your face
+
+* Seems happy to see you when you walk up to her
+
+* Smiles when you talk to or smile at her
+
+### A244EF0EC1 | Early Autism Screening: A Comprehensive Review | 2. Literature Review: ASD Screening Methods > 2.1. Toddlers and Children ASD Screening Methods > 2.1.2. Autism Screening Instrument for Educational Planning—3rd Version (ASIEP-3) | page -
+The ASIEP-3 is a special tool kit, consisting of an Autism Behaviour Checklist (ABC), a sample of vocal behaviour assessment, interaction assessment, educational assessment, and prognosis learning rate developed by [32] using normed data gathered from a sample population in the United States. Designed to identify children with a high level of autistic behaviour, aged from 0–2 years and 11 months to 13 years, it also develops programmes to educate such children and to monitor their progress over time. The Autism Behaviour Checklist (ABC) is the initial screening tool used to identify autism cases and to sample vocal behaviour by measuring communication and language problems of the child (such as babbling and repetitiveness). The interaction assessment then monitors the child’s spontaneous social behaviour while educational assessment measures the functioning level of the child. The prognosis learning rate helps the user to understand the child’s progress and speed of learning. The ASIEP-3 collects the normed data by using ABC questionnaires distributed among parents, teachers, caregivers, school psychologists, and other healthcare professionals in addition to providing activities for them do with the children that identify their special needs [33]. The ASIEP-3 is more time consuming than the other methods of screening for autism, taking approximately 90–120 min to complete a single screening process, whereas methods like CHAT take only five minutes [26].
+
+### 3CCB03F1DF | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Autism Screening > Social Communication Questionnaire | page -
+The Social Communication Questionnaire (SCQ; Rutter et al., 2003) is a 40-item yes/no rating scale completed by caregivers. It is a Level 2 screener used to evaluate reciprocal social interaction, language and communication, and stereotyped patterns of behavior in children older than 4 years of age with a mental age of more than 2 years. The SCQ has two forms: Lifetime (i.e., assess developmental history) and Current (i.e., assess behaviors in the last three months).
+
+This measure has good overall accuracy in identifying autism with a score of 15 as the cutoff (sensitivity = 0.85, specificity = 0.75; Norris & Lecavalier, 2010), good internal consistency reliability (Cronbach’s α = 0.87; Rutter et al., 2003), good discriminative validity (0.86) in children with autism vs. non-autism diagnosis (Berument et al., 1999), and adequate concurrent validity with gold-standard diagnostic interviews for autism (0.78; Berument et al., 1999). It is available in more than 10 languages, and its psychometrics have also been examined in other regions (e.g., Gau et al., 2011; Karaminis & Stavrakaki, 2022).
+
+### BF5D0041A6 | Milestones by 2 Months | What most babies do by 2 months > Movement/Physical Development Milestones | page -
+* Holds head up when on tummy
+
+* Moves both arms and both legs
+
+* Opens hands briefly
+
+See Also More about physical development
+
+### 305AB67EBF | Inclusivity in education for autism spectrum disorders: Experiences of support from the perspective of parent/carers, school teaching staff and young people on the autism spectrum | Keywords > Materials and methods > Participants | page -
+Table 1.
+Participant demographics.
+| Participants Group (N = 24) | Participant code | Mainstream Education setting | Group format | Length of interview | Gender | Age | Ethnicity; first language | Number of children | Details of children with ASD | Other information |
+|---|---|---|---|---|---|---|---|---|---|---|
+|  | Teacher2 | Primary | Group 5 | – | Female | 34 | White British | – | 3-11 | Time in role: 2 years |
+|  | Teacher3 | Primary | Group 5 | – | Female | 24 | British | – | 5-10 | Time in role: 2.5 years |
+|  | Assistant Head | Primary | Group 5 | – | Female | _² | _² | – | _² | _² |
+| ¹&5Children and Young People (N = 4) | CYP1 | Primary | Individual | Between 30-60 min | Female | 9 | White British; English | – | Diagnosed Age 7 (co-occurring sensory processing difficulties, ADHD) | Child of Parent3 |
+|  | CYP2 | Secondary | Individual | Between 30-60 min | Male | 14 | Identified White English/Scottish; English | – | Diagnosed Age 9 (co-occurring ADHD, dyspraxia) | Child of Parent6 |
+|  | CYP3 | Secondary | Individual | Between 30-60 min | Male | 11 | Bangladeshi; English | – | _² |  |
+|  | CYP4 | Secondary | Individual | Between 30-60 min | Male | 15 | British; English | – | Diagnosed Age 10 |  |
+
+### 6F8E7F7551 | Milestones by 2 Months | Tips and activities > More parenting tips and activities | page -
+* Being responsive to your baby helps him learn and grow. Limiting your screen time when you are with your baby helps you be responsive.
+
+* Take care of yourself. Parenting can be hard work! It's easier to enjoy your new baby when you feel good yourself.
+
+* Learn to notice and respond to your baby's signals to know what she's feeling and needs. You will feel good and your baby will feel safe and loved. For example, is she trying to "play" with you by making sounds and looking at you, or is she turning her head away, yawning, or becoming fussy because she needs a break?
+
+* Lay your baby on his tummy when he is awake and put toys at eye level in front of him. This will help him practice lifting his head up. Do not leave your baby alone. If he seems sleepy, place him on his back in a safe sleep area (firm mattress with no blankets, pillows, bumper pads, or toys).
+
+* Feed only breast milk or formula to your baby. Babies are not ready for other foods, water or other drinks for about the first 6 months of life.
+
+* Learn when your baby is hungry by looking for signs. Watch for signs of hunger, such as putting hands to mouth, turning head toward breast/bottle, or smacking/licking lips.
+
+* Look for signs your baby is full, such as closing her mouth or turning her head away from the breast/bottle. If your baby is not hungry, it's ok to stop feeding.
+
+* Do not shake your baby or allow anyone else to—ever! You can damage his brain or even cause his death. Put your baby in a safe place and walk away if you're getting upset when he is crying. Check on him every 5–10 minutes. Infant crying is often worse in the first few months of life, but it gets better!
+
+* Have routines for sleeping and feeding. This will help your baby begin to learn what to expect.
+
+* Hold a rattle off to one side of your baby's head, shake it, and see if your baby looks for the noise.
+
+* Practice staying calm when your baby is upset by talking softly, holding, rocking, or singing to her. This will help her calm down and lessen her stress and fears.
+
+* Limit screen time (TV, tablets, phones, etc.) to video calling with loved ones. Screen time is not recommended for children younger than 2 years of age. Babies learn by talking, playing, and interacting with others.
+
+* Talk and play with your baby while feeding, dressing, and bathing.
+
+* Help your baby learn some ways to self-soothe by letting her suck on her fingers or a pacifier.
+
+* Copy your baby's sounds and see how long your baby "talks" by making sounds back and forth with you.
+
+### 4E17E759D1 | Milestones by 2 Months | Tips and activities > What you can do for your 2-month-old | page -
+Image: A baby of two months is lying on the ground and looking up at someone holding a toy
+
+As your baby’s first teacher, you can help his or her development.
+
+As your baby's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your baby's doctor and teachers if you have questions or for more ideas on how to help your baby's development.
+
+* Respond positively to your baby. Act excited, smile, and talk to him when he makes sounds. This teaches him to take turns "talking" back and forth in conversation.
+
+* Talk, read, and sing to your baby to help her develop and understand language.
+
+* Spend time cuddling and holding your baby. This will help him feel safe and cared for. You will not spoil your baby by holding or responding to him.
+
+### 76AC7CE527 | Milestones by 15 Months | Tips and activities > More Parenting Tips and Activities | page -
+* Have steady routines for sleeping and feeding. Create a calm, quiet bedtime for your child. Put on his pajamas, brush his teeth, and read 1 or 2 books to him. Children between 1 and 2 years of age need 11 to 14 hours of sleep a day (including naps). Consistent sleep times make it easier!
+
+* Show your child different things, such as a hat. Ask him, "What do you do with a hat? You put it on your head." Put it on your head and then give it to him to see if he copies you. Do this with other objects, such as a book or a cup.
+
+* Sing songs with gestures, such as "Wheels on the Bus." See if your child tries to do some of the actions.
+
+* Say what you think your child is feeling (for example, sad, mad, frustrated, happy). Use your words, facial expressions, and voice to show what you think she is feeling. For example, say "You are frustrated because we can't go outside, but you can't hit. Let's go look for an indoor game."
+
+* Expect tantrums. They are normal at this age and are more likely if your child is tired or hungry. Tantrums should become shorter and happen less as he gets older. You can try a distraction, but it is ok to let him have the tantrum without doing anything. Give him some time to calm down and move on.
+
+* Teach your child "wanted behaviors." Show her what to do and use positive words or give her hugs and kisses when she does it. For example, if she pulls your pet's tail, teach her how to pet gently. Give her a hug when she does it.
+
+* Limit screen time (TV, tablets, phones, etc.) to video calling with loved ones. Screen time is not recommended for children younger than 2 years of age. Children learn by talking, playing, and interacting with others.
+
+* Encourage your child to play with blocks. You can stack the blocks and she can knock them down.
+
+* Let your child use a cup without a lid for drinking and practice eating with a spoon. Learning to eat and drink is messy but fun!
+
+* Give your child water, breast milk, or plain milk. You don't need to give your child juice, but if you do, give 4 ounces or less a day of 100% fruit juice. Do not give your child other sugary beverages, such as fruit drinks, soda, sports drinks, or flavored milks.
+
+* Give your baby safe places to explore. Baby-proof your home. For example, move sharp or breakable things out of reach. Lock away medicines, chemicals, and cleaning products. Save the Poison Help Line number, 800-222-1222, in all phones.
+
+### BA095BD284 | Milestones by 2 Months | What most babies do by 2 months > Cognitive Milestones (learning, thinking, problem-solving) | page -
+* Watches you as you move
+
+* Looks at a toy for several seconds
+
+### 58DE9273DF | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.6. Vitamin D | page -
+Moreover, it has been demonstrated that low vitamin D levels are often associated with iron deficiency in children, even if there is no clear etiological explanation for this correlation [182].
+
+A prospective study on a large French pediatric cohort suggested an association between low serum levels of 25(OH)D in the cord blood and an increased risk of being a persistent short sleeper in preschool age [183]. However, another observational study [184] did not confirm the association between cord blood vitamin D deficiency and any sleep parameter, neither objectively nor subjectively assessed, at the age of 2 years. Nevertheless, the same study found that children with vitamin D deficiency at the age of 2 years had significantly shorter night sleep duration and total sleep duration—measured both subjectively and objectively—than those with normal vitamin D levels (p < 0.05). Furthermore, a clinical trial conducted in older Chinese children (age range 8–14 years) showed that 25(OH)D serum levels are positively correlated with sleep duration and that insufficiency/deficiency of vitamin D (25(OH)D ≤ 20 ng/mL) is independently associated with an increased probability of insufficient sleep [185].
+
+In children with ASD—to our knowledge—no adequate interventional study has been carried out to investigate the effects of vitamin D supplementation on sleep. Despite that, in recent years an increasing number of studies have shown lower serum levels of vitamin D in children with ASD than in neurotypical children [186,187]. Consequently, it might be useful to assess vitamin D levels in autistic children with sleep disturbances [18]. A fairly large consensus exists that when a vitamin D deficiency is found, an appropriate dosage for supplementation in all infants and most children is 400–600 international units (IU)/day, i.e., approximately 10–15 μg/day. [188]. However, some authors reported that vitamin D blood levels are more relevant than the administered dose in improving sleep quality, with the most beneficial effects on sleep being obtained for 25(OH)D hematic concentrations of 60–80 ng/mL [189].
+
+### 01434A3C85 | Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis | Data Availability > Discussion | page -
+Despite strong neuroscience and economic arguments for intervening as early in life as possible [4,63], our review suggests that parental engagement and support programs may indeed have universal benefits on child and parent outcomes irrespective of child age or the timing of introduction.
+
+Furthermore, the lack of statistically significant subgroup results by program duration, delivery modality, and setting are also consistent with the few prior meta-analyses that have conducted similar analyses and shown no associations between these program aspects and intervention effects on ECD and parent-level outcomes [62]. One recently published cluster RCT specifically compared the effectiveness of weekly home visits to weekly mother–child group sessions over a 2-year period in rural India [64]. Trial results revealed that group sessions were as effective as home visits in improving child cognition and language, and both delivery models similarly had null impacts on child motor, socioemotional, behavior development, and parenting knowledge and practices. Of note, cost analysis revealed that the group-based model required a quarter of the costs compared to home visiting. Nevertheless, our findings suggest that there are various effective implementation strategies and program models that can be used to deliver parenting interventions and achieve positive impacts on ECD and parent outcomes. Decisions regarding program duration, delivery modality, and setting should be determined based on the existing resources and systems, community needs, risk profiles of the population, and cultural context.
+

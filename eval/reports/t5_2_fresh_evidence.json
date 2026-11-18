@@ -1,0 +1,757 @@
+{
+ "qe017": {
+  "query": "Sở thích hạn hẹp có ảnh hưởng đến việc học không?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-OA-PMC12468522",
+    "title": "Autism Spectrum Disorder: What Do We Know and Where Do We Go?",
+    "section": "3. Psychological Features > 3.6. Cognitive Styles and Strengths",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12468522/",
+    "support_type": "indirect",
+    "excerpt": "Cognitive diversity is increasingly emphasized. Monotropism theory suggests deep, sustained focus on restricted domains, explaining both restricted interests and exceptional skills [50]. Systemizing theory highlights strengths in rule-based reasoning and pattern detection, while empathizing-systemizing imbalances explain sex differences and overlap with STEM achievement [51]. Such frameworks align with self-reports of flow, absorption, and joy in circumscribed interests, challenging deficit-based perspectives."
+   }
+  ]
+ },
+ "qe028": {
+  "query": "Dấu hiệu sớm của tự kỷ ở trẻ 18 tháng là gì?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C4",
+    "source_id": "CDC-ASD-SIGNS",
+    "title": "Signs and Symptoms of Autism Spectrum Disorder",
+    "section": "Signs and symptoms > Social communication and interaction skills",
+    "source_url": "https://www.cdc.gov/autism/signs-symptoms/index.html",
+    "support_type": "direct",
+    "excerpt": "Social communication and interaction skills can be challenging for people with ASD.\n\nExamples of social communication and social interaction characteristics related to ASD can include\n\n* Avoids or does not keep eye contact\n\n* Does not respond to name by 9 months of age\n\n* Does not show facial expressions such as happy, sad, angry, and surprised by 9 months of age\n\n* Does not play simple interactive games like pat-a-cake by 12 months of age\n\n* Uses few or no gestures by 12 months of age (for example, does not wave goodbye)\n\n* Does not share interests with others by 15 months of age (for example, shows you an object that they like)\n\n* Does not point to show you something interesting by 18 months of age\n\n* Does not notice when others are hurt or upset by 24 months (2 years) of age\n\n* Does not notice other children and join them in play by 36 months (3 years) of age\n\n* Does not pretend to be something else, like a teacher or superhero, during play by 48 months (4 years) of age\n\n* Does not sing, dance, or act for you by 60 months (5 years) of age\n\nKeep Reading: Screening for Autism Spectrum Disorder"
+   }
+  ]
+ },
+ "qe029": {
+  "query": "Có thể nhận ra dấu hiệu tự kỷ ở trẻ dưới 12 tháng không?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "CDC-ASD-SIGNS",
+    "title": "Signs and Symptoms of Autism Spectrum Disorder",
+    "section": "Signs and symptoms > Social communication and interaction skills",
+    "source_url": "https://www.cdc.gov/autism/signs-symptoms/index.html",
+    "support_type": "direct",
+    "excerpt": "Social communication and interaction skills can be challenging for people with ASD.\n\nExamples of social communication and social interaction characteristics related to ASD can include\n\n* Avoids or does not keep eye contact\n\n* Does not respond to name by 9 months of age\n\n* Does not show facial expressions such as happy, sad, angry, and surprised by 9 months of age\n\n* Does not play simple interactive games like pat-a-cake by 12 months of age\n\n* Uses few or no gestures by 12 months of age (for example, does not wave goodbye)\n\n* Does not share interests with others by 15 months of age (for example, shows you an object that they like)\n\n* Does not point to show you something interesting by 18 months of age\n\n* Does not notice when others are hurt or upset by 24 months (2 years) of age\n\n* Does not notice other children and join them in play by 36 months (3 years) of age\n\n* Does not pretend to be something else, like a teacher or superhero, during play by 48 months (4 years) of age\n\n* Does not sing, dance, or act for you by 60 months (5 years) of age\n\nKeep Reading: Screening for Autism Spectrum Disorder"
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-CSV-002",
+    "title": "Assessment of Autism Spectrum Disorder",
+    "section": "Assessment and Early Identification of Autism",
+    "source_url": "https://doi.org/10.1177/10731911231173089",
+    "support_type": "indirect",
+    "excerpt": "Research has shown that symptoms of autism typically begin to emerge between 12 and 18 months of age (Landa et al., 2013; Ozonoff et al., 2010; Pierce et al., 2019) and that diagnoses made at 18 months are reliable and stable (Ozonoff et al., 2015). Numerous studies have demonstrated the stability of diagnoses among children diagnosed before three (Chawarska et al., 2009; Guthrie et al., 2013; Ozonoff et al., 2015), suggesting that the false-positive rate of diagnosis before age 3 is relatively low. The false-negative rate is higher, however. In a longitudinal study in which serial diagnostic assessments were conducted, close to half of children diagnosed with autism at age 3 did not meet diagnostic criteria at 24 months of age (Ozonoff et al., 2015). And a small group of children appear to have even later emerging symptoms (Davidovitch et al., 2015; Michelotti et al., 2002; Ozonoff et al., 2018); these children did not meet the criteria by the age of 3 but did meet the criteria at school-age (late diagnosed). These late-diagnosed cases are generally heterogeneous in their early outcome classifications (e.g., typically developing, subclinical symptoms) and phenotype (Ozonoff et al., 2018). It is speculated that diagnostic overshadowing by other conditions (early delays in language or cognitive function; Davidovitch et al., 2015) and/or a prolonged period of symptom development (Ozonoff et al., 2018) may contribute to late diagnosis. These findings suggest the need to expand autism screening and/or surveillance beyond three years of age. Below, we review screening and diagnostic instruments that can be utilized across these developmental periods."
+   }
+  ]
+ },
+ "qe023": {
+  "query": "Liệu pháp điều hòa cảm giác có hiệu quả không?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-SUP-PMC12658592",
+    "title": "Systematic review of sensory-based interventions for children and youth (2015–2024)",
+    "section": "Methods > Information sources and search strategy",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12658592/",
+    "support_type": "indirect",
+    "excerpt": "Table 1\nSearch terms.\n| Question | Search terms |\n|---|---|\n| Population/Problem | Sensation disorders, somatosensory disorders, sensory integration disorders, sensory processing disorders, sensation disorders, somatosensory disorders, clumsy child syndrome, developmental coordination disorder, developmental dyspraxia, disorder of attention, motor, and perception, fine motor deficits, gross motor deficits, learning disabilities, nonverbal learning disorder, perceptual motor deficits, regulatory disorder, sensory integrative dysfunction, sensory modulation disorder, sensory modulation dysfunction, sensory motor deficit |\n| Intervention | Activities of daily living, activity, activity groups, adaptive behavior, adaptive equipment, assistive technology, Astronaut training, attention, auditory integration training, augmentative communication, ball chairs, bilateral coordination, bilateral intervention, coaching, cognitive-behavioral therapy, cognitive intervention, consultation, context, contextual, CO-OP, decision-making skills training, early intervening, early intervention, emotional regulation, employment, environment, environmental modification, executive function, exercise, family centered care, family coping, coping skills, family interaction/participation, friendship, friendship group, functional approaches, handwriting, instrumental activities of daily living, integrated listening systems, job coaching, job training, Kawar protocol, leisure, life coaching, massage, motor planning, multisensory integration, natural environment intervention, neurodevelopmental treatment, neuromotor occupational therapy, occupational therapy, occupation-based, ocular motor skills, oral sensorimotor programs, parent/teacher mediated, parent training, peer group, peer interaction, peer mediated, perceptual motor learning, play, praxis, pressure vest, prevocational, priming, problem-solving skills training, relationship-based intervention, rest, routines-based interventions, self-care, self-management, sensory diet, sensorimotor integration, sensory integration, sensory integrative, SI, sleep, social competence, social participation, social skills training, social stories, strengths-based, supported education, supported employment, tactile stimulation, therapeutic listening, time management, touch pressure, transitioning, transitions, vestibular stimulation, weighted blankets, weighted items, weighted materials, weighted vests, Wilbarger protocol, work, yoga |"
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "NIHR-SENITA-2022",
+    "title": "Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT",
+    "section": "EXPERIENCES OF USUAL CARE AND OF THE INTERVENTION",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK581603/",
+    "support_type": "direct",
+    "excerpt": "Each theme is discussed below and is supported by participant quotes. Quotes from carers are labelled with‘P’,f o l l o w e db yt h e i r participant identification number. Quotes from therapists are labelled with‘T’, followed by their participant identification number.\n\nEffect on the child Became calmer Most carers identified that their child had become calmer following the intervention. For example, meltdowns and instances of aggressive behaviour reduced, and concentration in school improved. Some carers noted that their child remained calmer and more relaxed for several days after each intervention session. Carers reported that children had learnt coping skills and techniques, which they had been able to put into practice at home and at school. It was also identified by both carers and therapists that children became more self-aware and, therefore, they were better able to recognise their own feelings and sensory needs, enabling children to have more control over their behaviour: [The sessions were] so good for him that . . . the rest of the day, well even the rest of the week . . . it made a big difference to him, his behaviour was better, he could concentrate more. P109 He learnt pretty quickly from the beginning the techniques to calm himself down. And so that was really beneficial for him, to understand . . . what might make him feel better or what, what might make him feel worse.\n\nP308 I think she was able to understand and recognise her own needs . . . that was a big . . . learning curve for her . . . understanding that when my body feels like this, this is what I need to do about it. T210 That little bit of space in time, before the meltdown happens, she can actually say what she needs to avoid the meltdown . . . [She] is now aware of her body and what she needs to keep things under control. P514"
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-SUP-PMC7726187",
+    "title": "Evaluating Sensory Integration/Sensory Processing Treatment: Issues and Analysis",
+    "section": "Theory of Change for Sensory Integration/Sensory Processing Treatment",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726187/",
+    "support_type": "direct",
+    "excerpt": "Table 1\nHypothesized social and behavioral effects of sensory disruptions.\n| Dimensions | Behaviors observed |\n|---|---|\n| Sensory symptoms Results in [Original asset: fnint-14-556660-i0001.jpg; see source article] Original asset file | Difficulty regulating sensory input: over or under responsivity (Tactile, Movement, Taste, Smell, Auditory, or Visual stimuli); difficulty interpreting internal sensations (body awareness, interoception), and difficulty discriminating external sensations (from the environment). |\n| Motor symptoms Results in [Original asset: fnint-14-556660-i0001.jpg; see source article] Original asset file | Poor coordination, Clumsiness, Awkwardness, Poor posture, Limited planning and sequencing of motor skills; Inability to perform multistep tasks. |\n| Behavioral symptoms Results in [Original asset: fnint-14-556660-i0001.jpg; see source article] Original asset file | Aggression, Anger, Dysregulation, Tearfulness, Withdrawal. Anxiety, Poor attention, Hyperactivity, Poor impulse control. |\n| Social symptoms | Social isolation, Withdrawal, Poor social relationships with peers and adults, Discomfort in social situations. |"
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-SUP-PMC7726187",
+    "title": "Evaluating Sensory Integration/Sensory Processing Treatment: Issues and Analysis",
+    "section": "Current Evidence Base for SI/SP Treatment",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726187/",
+    "support_type": "direct",
+    "excerpt": "Given the widespread delivery of SI/SP based assessment and treatment, one would expect an extensive strong evidence base in the literature. Before delving into the current evidence on SI/SP-T, it is important to mention that practices are often widely provided to students with disabilities even in the absence of extensive supporting data-driven evidence. As an example, music therapy is a very common approach provided to children with ASD despite its currently limited evidence base (see Lense and Camarata, 2020). Although problematic, an absence of evidence, unto itself, cannot be construed as invalidating.\n\nOur review indicated that to date, there have been small scale studies of several isolated sensory-based procedures, such as weighted vests or “brushing” programs, which usually suggest the procedures are not effective (e.g., Lang et al., 2012; Taylor et al., 2012). And there are a limited number of studies showing positive effects on goal attainment scaling (see the reviews in Schaaf et al., 2018; Schoen et al., 2019). But there are also several systematic reviews indicating inconsistent, weak, and/or inconclusive evidence. For example, Lang et al. (2012) reported, “Overall, three of the reviewed studies suggested that SI/SP-T was effective, eight studies found mixed results, and 14 studies reported no benefits related to SI/SP-T” (p. 1004). The majority of the studies reviewed by Lang et al. (2012), however, tested only one sensory-based procedure (e.g., a weighted vest or sensory brushing) but not a comprehensive form of SI/SP-T, in which a multi-component approach is implemented. Thus, a fair test of SI/SP-T necessitates the delivery of multiple elements rather than piecemeal testing of isolated sensory-based procedures and tools (e.g., wearing a weighted vest).\n\nA critical review published in Pediatrics provides a comprehensive view that more accurately represents the treatment (Johnson and Myers, 2007): “The goal of [SI/SP-T] is not to teach specific skills or behaviors but to remediate deficits in neurologic processing and integration of sensory information to allow the child to interact with the environment more adaptively.” This perspective is highlighted in a recent review by Case-Smith et al. (2015) who concluded:\n\nStudies of sensory-based interventions suggest that they may not be effective. However, these studies did not follow recommended protocols or target specific sensory processing problems. Although small randomized controlled trials resulted in positive effects for [SI/SP-T], additional rigorous trials using manualized protocols for [SI/SP-T] are needed to evaluate effects for children with [ASD] and sensory processing problems (p. 133)."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-SUP-PMC7726187",
+    "title": "Evaluating Sensory Integration/Sensory Processing Treatment: Issues and Analysis",
+    "section": "Evidence-Based Practice: Levels of Evidence",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726187/",
+    "support_type": "direct",
+    "excerpt": "There have long been universal protocols for evaluating treatment efficacy and effectiveness in medicine and in behavioral interventions (Reynolds, 2008). These procedures arose, in part, from the long-standing persistence of treatments in clinical settings that, when tested fairly, proved to be ineffective or even harmful. For example, chelation, an established biomedical treatment for acute exposure to lead and other toxic metals, was hypothesized to be an effective “detox” for children with ASD (see James et al., 2015). This treatment was based on an unproven presumption that because ASD was caused, at least in part, by exposure to mercury, chelation would improve autism symptoms (see Davis et al., 2013). Moreover, there have been many testimonials and qualitative case studies suggesting that the approach was effective. But, when tested using clinical trials, chelation not only failed to improve symptoms of ASD, but also caused adverse reactions, including death, in some cases (Baxter and Krenzelok, 2008). Of course, the overwhelming majority of treatments for autism do not include death as a potential side effect, but there are certainly many treatments that despite having limited data that conform to evidence-based practice guidelines (Weiss et al., 2008; Guldberg, 2017), are nonetheless widely implemented.\n\nIt must be stated explicitly that a limited evidence base does not mean that a treatment is ineffective; when tested, an emerging treatment may subsequently be validated when large scale studies are conducted. However, ethical practice guidelines include preferentially delivering treatments that currently have credible evidence over those that do not. There is an extensive evidence base showing moderate to large effect sizes for improving a wide range of ASD symptoms using behavioral intervention procedures that do not directly target SI/SP (e.g., Naturalistic Developmental Behavioral Interventions, NDBI; see Sandbank et al., 2020). That is, SI/SP-T can be conceptualized and tested as a naturalistic behavioral intervention and conditions such as ASD can yield fair tests of the approach. Because of this, within the framework of widely used treatment efficacy and effectiveness evaluation procedures that include group and single case (single subject) designs, emerging approaches require systematic evaluation and levels of evidence that meet or exceed those of existing interventions (e.g., NDBI) to be included in validated treatment options."
+   }
+  ]
+ },
+ "qe024": {
+  "query": "Ayres Sensory Integration khác các can thiệp cảm giác khác thế nào?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-SUP-PMC7726187",
+    "title": "Evaluating Sensory Integration/Sensory Processing Treatment: Issues and Analysis",
+    "section": "Origins of SI/SP-T: A Brief Overview of Sensory Integration/Sensory Processing Treatment Approaches",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726187/",
+    "support_type": "direct",
+    "excerpt": "Ayres (1972, p. 4) described sensory integration dysfunction as a problem in the ability to “organize sensory information for use” and along with motor performance, as a key element of intervention (see also Ayres, 1963; Ayres and Robbins, 2005). In addition to her clinical work, Ayres published many studies focused on the assessment and treatment of SI, and she developed assessments for SI (e.g., Ayres, 1989, 1996). Ayres’ definition encompasses a broad range of behaviors and includes disruptions in social interaction and behavioral regulation (Miller et al., 2007a). While acknowledging that many sensory-based approaches incorporate motor performance in accord with Ayres’ framework (Ayres, 1979), we will be focusing the review on sensory parameters. A recent definition of SI derived from a nosology of sensory integration disorder includes “difficulty detecting, modulating, interpreting and/or responding to sensory experiences, which is severe enough to disrupt participation in daily life activities and routines and learning” (Miller et al., 2007a). Several subtypes are proposed in one or more sensory systems, including auditory, visual, gustatory (taste), olfactory (smell), somatosensory (proprioception and touch), vestibular, and interoceptive (the sense involved in the detection of internal regulation, such as heart rate, respiration, hunger, and digestion) domains. In 2009, Miller et al. (2009) suggested a change in nomenclature from “sensory integration” to “sensory processing” disorder while maintaining the foundational sensory elements. Thus, these eight sensations are the central targets of many SI/SP-T sessions. Moreover, SI/SP-T is posited to directly improve attentional, emotional, motoric, communication, and/or social difficulties (see Miller et al., 2014). Difficulty in sensory integration/sensory processing is hypothesized to result in challenges related to initiating or sustaining peer interactions, developing engaged relationships, participating in activities of daily living, and regulating arousal behaviors. Specific developmental domains, such as language development (e.g., Ayres and Mailloux, 1981; Mauer, 1999), are also hypothesized to be impacted and to thus incidentally benefit from SI/SP-T. The impact of these sensory parameters on quantitative indices of domains such as language development is directly testable using well-established experimental approaches."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-SUP-PMC6590432",
+    "title": "A systematic review of ayres sensory integration intervention for children with autism",
+    "section": "Abstract > Supporting information",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6590432/",
+    "support_type": "direct",
+    "excerpt": "| Condition | Intervention | Study design | Additional limits |\n| clumsy child syndrome*.mp. | exp Adaptation, Psychological/ or adaptive behavio?r*.mp. | appraisal.mp. | English language |\n| developmental coordination disorder*.mp. | Ayres Sensory Integration.mp. | best practices.mp. | \"all child (0 to 18 years)\" |\n| ((attention, motor and perception) adj3 disorder*).mp. | bilateral coordination.mp. | case control.mp. | Yr=”2006-Current” |\n| developmental dyspraxia.mp. | emotional regulation.mp. | case report.mp. or Case Reports/ |  |\n| gross motor deficit*.mp. | Executive Function/ | case series.mp. |  |\n| exp Learning Disorders/ | Exercise/ | Practice Guidelines as Topic/ or clinical guideline*.mp. |  |\n| (nonverbal learning disorder* or non verbal learning disorder*).mp. | motor planning.mp. | clinical trial.mp. or Clinical Trial/ |  |\n| perceptual motor deficit*.mp. or exp Perceptual Disorders/ | (multisensory integration or multi sensory integration).mp. | Cohort Studies/ or cohort.mp. |  |\n| regulatory disorder*.mp. | occupation based.mp. | Comparative Study/ |  |\n| sensory integrative dysfunction*.mp. | Occupational Therapy/ | consensus development conference*.mp. |  |\n| sensory modulation dysfunction*.mp. | ocular motor skill*.mp. | critique.mp. |  |\n| sensory motor deficit*.mp. | \"Play and Playthings\"/ | (crossover or cross over).mp. |  |\n| sensory processing disorder*.mp. | perceptual motor learning.mp. | Double-Blind Method/ or double blind.mp. |  |\n| Sensory Deprivation/ | praxis.mp. | epidemiology.mp. or Epidemiology/ |  |\n| asperger syndrome/ or autism spectrum disorder/ or autistic disorder/ | sensory diet.mp. | evaluation stud*.mp. or Evaluation Studies/ |  |\n| pervasive developmental disorder*.mp. | (sensorimotor integration or sensory integration or SI).mp. | evidence based.mp. |  |\n| autism.mp. | sensory integrative.mp. | evidence synthesis.mp. |  |\n|  | Social Participation/ | Feasibility Studies/ or feasibility stud*.mp. |  |\n|  | tactile stimulation.mp. | Follow-Up Studies/ or follow-up.mp. |  |\n|  | touch pressure.mp. | health technology assessment.mp. |  |\n|  | vestibular stimulation.mp. | intervention.mp. |  |\n|  |  | Longitudinal Studies/ or longitudinal.mp. |  |\n|  |  | main outcome measure.mp. |  |\n|  |  | meta analysis.mp. or Meta-Analysis/ |  |"
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-SUP-PMC6590432",
+    "title": "A systematic review of ayres sensory integration intervention for children with autism",
+    "section": "Abstract > Supporting information",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6590432/",
+    "support_type": "direct",
+    "excerpt": "| Condition | Intervention | Study design | Additional limits |\n|  |  | Multicenter Studies as Topic/ or multicenter stud*.mp. |  |\n|  |  | observational stud*.mp. |  |\n|  |  | (outcome and process assessment).mp. |  |\n|  |  | pilot.mp. |  |\n|  |  | practice guideline*.mp. |  |\n|  |  | Prospective Studies/ or prospective.mp. |  |\n|  |  | random allocation.mp. |  |\n|  |  | randomi?ed controlled trial*.mp. |  |\n|  |  | Retrospective Studies/ or retrospective.mp. |  |\n|  |  | sampling.mp. or Sampling Studies/ |  |\n|  |  | scientific integrity review.mp. or \"Scientific Integrity Review\"/ |  |\n|  |  | single subject design.mp. |  |\n|  |  | standard of care.mp. or \"Standard of Care\"/ |  |\n|  |  | systematic review.mp. |  |\n|  |  | treatment outcome.mp. |  |\n|  |  | validation stud*.mp. |  |\n|  |  | multiple baseline.mp. |  |\n|  |  | Cross-Sectional Studies/ or cross sectional.mp. |  |"
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-SUP-PMC6590432",
+    "title": "A systematic review of ayres sensory integration intervention for children with autism",
+    "section": "Abstract > Discussion",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6590432/",
+    "support_type": "direct",
+    "excerpt": "Therefore, studies such as these should be excluded from evidence‐based reviews of ASI and rather be included in reviews of sensory‐based interventions as Case‐Smith et al. [2015] suggest.\n\nIt is imperative that in future studies of ASI, intervention procedures are manualized and monitored to ensure fidelity. Moreover, participants should be given a comprehensive assessment of sensory integration to confirm that they are appropriate candidates for this intervention, i.e., that difficulties processing and integrating sensation are impacting the behavior and functional skills of the children included in the study. A comprehensive assessment of sensory integration is also required so that interventionists can individually tailor the intervention to address each child's specific difficulties and strengths related to processing and integrating sensation and how these are impacting function.\n\nAdditional rigorous intervention studies are needed to determine whether ASI intervention is effective for children with other diagnoses or conditions, such as attention deficit disorder, mental retardation, history of adverse childhood experiences, or sensory integrative dysfunction with no other medical, developmental, or psychiatric diagnosis. One strategy for building this body of knowledge, beyond group comparison studies, is the use of methodologically sound single case experimental design (SCED) studies. SCEDs use rigorous research designs and are widely used across professions and across different types of interventions [Horner et al., 2005; Tate et al., 2016; Tate et al., 2016].\n\nIn practice, ASI intervention for children with autism is usually provided by occupational therapists who practice in multiple settings [May‐Benson et al., 2014]. In public special education settings in the United States, occupational therapy is classified as a related service that supports children's ability to benefit from educational services. ASI intervention is one approach that is often used to help achieve this aim. Our study shows that sufficient evidence supports the use of this approach. However, if an evidence‐based practice is desired, then the practice of ASI intervention must be consistent with the essential elements of this intervention, as described in the ASI Fidelity Measure. This is necessary to ensure that the intervention delivered is similar to the intervention that our study shows is an evidence‐based practice."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-SUP-PMC7726187",
+    "title": "Evaluating Sensory Integration/Sensory Processing Treatment: Issues and Analysis",
+    "section": "(Multi)Sensory Perception as A Window into SI/Sp-T: Multisensory Integration as A Distal Measure of The Impact of Sensory-Based Treatment",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7726187/",
+    "support_type": "direct",
+    "excerpt": "Multisensory integration is defined as the study of how the brain integrates and interprets input from multiple unisensory systems (Alais et al., 2010). The overlap in nomenclature with sensory integration/sensory processing may be confusing to clinicians and researchers. Multisensory integration differs from sensory integration/sensory processing in that it does not include intervention recommendations or downstream sequelae of disability while specifically focusing on tightly designed neural and cognitive studies of how specific primary sensory streams are integrated in real-time (e.g., auditory and visual). Studies of multisensory integration often elicit unisensory responses from two or more primary senses (e.g., audition and vision) and then compare the separate responses to effects observed when the inputs are combined (see Stevenson et al., 2014). If the core tenant of SI/SP-T is accurate, namely that SI/SP-T enhances sensory integration, multisensory integration provides a strong test of generalized effects of treatment explicitly designed to improve sensory integration. The literature on ASD provides an example of how one can expect distal multisensory impacts if SI/SP-T is delivered and the theory of change is accurate. As noted above, Sensory Integration Theory and practice was originated by Ayres (1972). Multisensory Integration, a branch of contemporary neuroscience devoted to understanding how the brain synthesizes information from the different sensory systems, establish striking behavioral and perceptual benefits derived from multisensory inputs (see Stein, 2012) and may provide a neurological test of SI/SP-T."
+   }
+  ]
+ },
+ "qe025": {
+  "query": "Liệu pháp tích hợp cảm giác có đáng chi phí không?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "NIHR-SENITA-2022",
+    "title": "Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT",
+    "section": "HEALTH ECONOMICS",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK581603/",
+    "support_type": "direct",
+    "excerpt": "making context. Non-parametric bootstrapping from cost and effectiveness data generated a joint distribution of incremental mean costs and effects for comparators to explore the probability that each is the optimal choice, subject to a range of maximum values (i.e. a ceiling ratio) that a decision-maker might be willing to pay for an additional point improvement in ABC-I. Each CEAC was derived using a net benefit approach. Monetary values of incremental effects and incremental costs for each case were combined, and net monetary benefit was derived as: net monetary benefit = λ × (effect b − effect a) − (cost b − cost a), (1) where λ is willingness to pay for a 1-point difference in ABC-I, and a and b denote SIT and usual care, respectively. We explored a range of willingness-to-pay values for each outcome. Sensitivity analyses An intention-to-treat analysis was carried out (with missing data imputed using multiple imputation) to explore the sensitivity of results using a broader societal perspective, including NHS/PSS costs, education service costs, carer expenses and lost productivity."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "NIHR-SENITA-2022",
+    "title": "Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT",
+    "section": "HEALTH ECONOMICS > Results",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK581603/",
+    "support_type": "direct",
+    "excerpt": "Societal perspective From a societal perspective, the mean total costs at baseline were £6290.30 and £4862.90 for SIT and usual care, respectively. The adjusted mean difference in costs of £1463.70 was not statistically significant (95% CI –£488.33 to £3415.70) (see Table 34). The mean total societal costs, including intervention at 6 months, were £6784.2 and £6418.9 for the intervention arm and control arm, respectively. The adjusted mean difference was not statistically significant (mean –£353.57, 95% CI –£3518.9 to £2811.7). When intervention costs were excluded, the mean total societal cost at 6 months was statistically higher for usual care than for SIT (mean –£1891.70, 95% CI –£5022.10 to £1238.70). Costs measured at 12 months were higher overall in the intervention arm, with an adjusted difference in total societal care cost of £1141.50 (95% CI £1333.4 to £3616.4); however, the adjusted mean difference was not statistically significant ( Table 36)."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "NIHR-SENITA-2022",
+    "title": "Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT",
+    "section": "HEALTH ECONOMICS > Results",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK581603/",
+    "support_type": "direct",
+    "excerpt": "lack of suggested monetary thresholds for assessing cost-effectiveness using ABC-I, we assumed a willingness-to-pay threshold of £500. The probability that SIT is cost-effective from the NHS/PSS perspective was < 10% (see Figure 16). From the wider societal perspective (including education services, carers’ health-care use, out-of-pocket expenses and lost productivity, in addition to health and social care costs), the probability that SIT is cost-effective increased to just under 60% for a willingness-to-pay threshold of £500 (see Figure 17). At 6 months, the probability that SIT is cost-effectiveness rose from 10% under an NHS/PSS perspective to 60% under a societal perspective because of the higher cost of education in the control arm. Higher education costs offset costs in NHS/PSS and in other sectors, closing the gap in societal care costs at 6 months between arms (from £1360.80 under an NHS/PSS perspective to £356.32 under a societal perspective; see Table 35)."
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "NIHR-SENITA-2022",
+    "title": "Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT",
+    "section": "Chapter 10 Discussion > DISCUSSION",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK581603/",
+    "support_type": "direct",
+    "excerpt": "For a variety of pragmatic reasons, including therapist availability and workload, some participants allocated to receive SIT did not start intervention within the intended time frame and had, therefore, received a potentially lower dose of SIT by the primary outcome assessment time point. Sensitivity analyses, however, indicate that this is highly unlikely to have significantly affected any key findings. A further limitation is the artificial ceiling effect observed for domains of the VABS. Interpretation of the positive effect on carer-reported goal performance is also limited by the fact that not all intervention therapists reported this consistently and that it was not possible to measure this in the control arm, as participants were not generally in contact with services. Conclusions and implications The results of the SenITA trial indicate that SIT shows no clinical benefit across a range of outcomes (i.e. behavioural, functional, social, quality of life and well-being) over and above standard care for young children with autism and at least moderate SPDs. In addition, the results also indicate that SIT is not a cost-effective treatment option in this population. Several subgroup effects were observed, although these should be considered hypothesis-generating only and would require further exploration. Subgroup effects are, however, consistent with qualitative data, indicating that therapists felt that SIT could be of benefit to some, but not all, children with autism and sensory difficulties. It is likely that SIT is effective for individualised (carer-reported) performance goals; however, it is not known if this effect is observed over and above standard care and if improvements can be maintained following the end of treatment."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "NIHR-SENITA-2022",
+    "title": "Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT",
+    "section": "Abstract",
+    "source_url": "https://www.ncbi.nlm.nih.gov/books/NBK581603/",
+    "support_type": "direct",
+    "excerpt": "Health economic evaluation suggests that sensory integration therapy is not cost-effective compared with usual care alone.\n\nLimitations: Limitations included variability of the intervention setting (i.e. NHS vs. private), delay for some receiving therapy, an error in administration of Vineland Adaptive Behavior Scales and no measurement of comparator arm goal performance.\n\nConclusions: The intervention did not demonstrate clinical benefit above standard care. Subgroup effects are hypothesis-generating only. The intervention is likely to be effective for individualised performance goals, although it is unclear whether effects were in addition to standard care or were maintained.\n\nFuture work: Further investigation of subgroup effects is needed. Trial registration: This trial is registered as ISRCTN14716440. Funding: This project was funded by the National Institute for Health and Care Research (NIHR) Health Technology Assessment programme and will be published in full in Health Technology Assessment; Vol. 26, No. 29. See the NIHR Journals Library website for further project information."
+   }
+  ]
+ },
+ "qe031": {
+  "query": "Tự kỷ ở tuổi dậy thì có những thách thức gì?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-OA-PMC12593641",
+    "title": "Transition to adolescence in neurodevelopmental disorders: challenges and clinical perspectives",
+    "section": "Data summary",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12593641/",
+    "support_type": "direct",
+    "excerpt": "Adolescence represents a vital period of biopsychosocial transformation, particularly challenging for individuals with neurodevelopmental disorders (NDDs), such as autism spectrum disorder (ASD), attention-deficit/hyperactivity disorder (ADHD), and intellectual disability."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-OA-PMC12468522",
+    "title": "Autism Spectrum Disorder: What Do We Know and Where Do We Go?",
+    "section": "3. Psychological Features > 3.7. Psychological Development Across the Lifespan",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12468522/",
+    "support_type": "indirect",
+    "excerpt": "In childhood, cognitive differences manifest as literal interpretation, preference for routines, and variable imaginative play. Adolescents face heightened EF demands and social complexity, often contributing to anxiety and camouflaging [52]. In adulthood, cognitive features may stabilize but are influenced by occupational environments and masking demands. Cognitive aging in ASD is understudied, though some evidence suggests resilience in crystallized abilities despite increased health comorbidities [53]."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-OA-PMC12468522",
+    "title": "Autism Spectrum Disorder: What Do We Know and Where Do We Go?",
+    "section": "2. Behavioral Features > 2.3. The Autistic Presentation Across the Lifespan",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12468522/",
+    "support_type": "indirect",
+    "excerpt": "In childhood, key features include literal interpretation, circumscribed interests, difficulty with group transitions, and sensory-related distress. Executive function differences manifest as challenges with multi-step directions and flexibility [11].\n\nIn adolescence, increasing social complexity coincides with compensatory camouflaging, which is linked to anxiety, depression, and burnout [12,13]. Identity formation and deep focus on interests (monotropism) can also emerge [14].\n\nIn adulthood, core traits persist but recontextualize; routines can be stabilizing for employment, but sensory environments may be disabling [15]. Autistic burnout—chronic exhaustion and functional loss following prolonged masking—has been recognized as clinically significant [16].\n\nOlder adulthood remains understudied, though preliminary reports highlight the persistence of autistic traits with increased medical comorbidity [17]."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "NIH-NIMH-TEEN-BRAIN",
+    "title": "The Teen Brain: 7 Things to Know",
+    "section": "6. Mental illnesses may begin to appear during adolescence.",
+    "source_url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know",
+    "support_type": "direct",
+    "excerpt": "Ongoing changes in the brain, along with physical, emotional, and social changes, can make teens more likely to experience mental health problems. The fact that all these changes happen at one time may explain why many mental illnesses—such as schizophrenia, anxiety, depression, bipolar disorder, and eating disorders—emerge during adolescence."
+   }
+  ]
+ },
+ "qe034": {
+  "query": "Trẻ chậm nói có phải là tự kỷ không?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-CSV-091",
+    "title": "Early Autism Screening: A Comprehensive Review",
+    "section": "2. Literature Review: ASD Screening Methods > 2.1. Toddlers and Children ASD Screening Methods > 2.1.10. Infant Toddler Check List (ICT)",
+    "source_url": "https://doi.org/10.3390/ijerph16183502",
+    "support_type": "indirect",
+    "excerpt": "The ICT is one component of the Communication and Symbolic Behaviour Scale—Developmental Profile (CSBS-DP) established by [49] with the intention of recognising language and communication impairment in infants aged from 6 to 24 months. Even though ICT is also used widely as an ASD screening tool, the focus of ICT is on predicting language delays before the child is even starting to talk. This method is administered mainly by the parents or other caregivers who are familiar with the child’s behaviour on a daily basis. The 24 items, with Likert Scale-type responses, can be answered either in a questionnaire format or a well-explained interview format. All 24 items are subdivided into seven language predictors: Emotion and use of eye gaze; use of communication; use of gestures; use of sounds; use of words; use of objects, and understanding of words. Each subscale consists of related items, ranging from 2 to 4 points depending on the weight given to the question. It takes approximately 5 to 10 min to complete a single checklist and once it is completed the total score is calculated based on the scores gained by each of the seven clusters. The infants who score less than 10 in any of the 7 clusters are identified as a case with high probability of language and other communication delays and are also subjected to further evaluations. Empirical research shows a high validity of this method as most of the infants who scored below 10 in ITC were later diagnosed with ASD or other developmental communication impairment [49]. The sensitivity and specificity of ITC are reported as 78% and 84% respectively. The ITC is freely available on the internet and anyone can use ICT to predict ASD and non-ASD communicational difficulties in their toddlers quickly and easily."
+   }
+  ]
+ },
+ "qe036": {
+  "query": "M-CHAT-R/F là gì và độ chính xác ra sao?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-CSV-029",
+    "title": "Comparative screening accuracy of the Modified Checklist for Autism in Toddlers, Revised with Follow-Up (M-Chat-R/F) for early autism spectrum disorder: a systematic review",
+    "section": "Abstract > Result > Summary of included study key findings",
+    "source_url": "https://doi.org/10.1136/fmch-2026-004072",
+    "support_type": "direct",
+    "excerpt": "ADEC-GU, Autism Detection in Early Childhood (Guayaquil Spanish); ASDetect, autism spectrum disorder detection; BOT, binomial observation test; M-CHAT-R/F, Modified Checklist for Autism in Toddlers, Revised with Follow-Up; NPV, negative predictive value; PPV, positive predictive value; Q-CHAT-10, Quantitative Checklist for Autism-10 Item; Q-CHAT-10-O, Q-CHAT-10 (Ordinal); RBSK-ASQ, Rastriya Bal Swasthya Karyakram–Autism Specific Questionnaire; RITA-T, Rapid Interactive Screening Test for Autism in Toddlers; SACS-R, Social Attention and Communication Surveillance, Revised; TABC, Trivandrum Autism Behavioral Checklist.\n\nIn the context of broad population screening, where the priority was to identify all children who may be at risk, instruments were evaluated on their sensitivity and NPV. In this domain, the M-CHAT-R/F’s performance was highly variable. On one hand, it demonstrated considerable strength in several studies. Mata-Iturralde et al found it achieved perfect sensitivity (1.00) and NPV (1.00), which was reinforced by Mukherjee et al, who recorded a high sensitivity of 0.95 and NPV of 0.99. Wong et al also found the M-CHAT-R/F was the most sensitive tool at all ages tested. However, this high sensitivity was not universal. The Sturner et al study found the M-CHAT-R/F performed poorly, with a low sensitivity of 0.36. In that same study, it was outperformed by the Quantitative Checklist for Autism-10 Item (Ordinal) (Q-CHAT-10-O), which achieved a sensitivity of 0.63. Furthermore, even when the M-CHAT-R/F performed well, it was outperformed in the Mukherjee et al study by both the Rastriya Bal Swasthya Karyakram–Autism Specific Questionnaire and the Trivandrum Autism Behavioural Checklist, which both achieved perfect 1.00 metrics."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-CSV-029",
+    "title": "Comparative screening accuracy of the Modified Checklist for Autism in Toddlers, Revised with Follow-Up (M-Chat-R/F) for early autism spectrum disorder: a systematic review",
+    "section": "Abstract > Result > Process of literature search based on Preferred Reporting Items for Systematic Reviews and Meta-Analyses Guideline. M-CHAT-R/F, Modified Checklist for Autism in Toddlers, Revised with Follow-Up.",
+    "source_url": "https://doi.org/10.1136/fmch-2026-004072",
+    "support_type": "direct",
+    "excerpt": "[Original asset: fmch-14-2-g001.jpg; see source article]\n\nAll six included studies demonstrated high methodological quality with a low risk of bias across key JBI domains, ensuring that the synthesised screening accuracy metrics were derived from robust empirical data. Consequently, the observed variations in screening performance were attributed primarily to contextual factors, such as cohort age and specific study designs, rather than underlying methodological flaws."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-CSV-029",
+    "title": "Comparative screening accuracy of the Modified Checklist for Autism in Toddlers, Revised with Follow-Up (M-Chat-R/F) for early autism spectrum disorder: a systematic review",
+    "section": "Abstract > Methodology",
+    "source_url": "https://doi.org/10.1136/fmch-2026-004072",
+    "support_type": "direct",
+    "excerpt": "This systematic review was conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. It was carried out between October and November 2025.\n\nAs this study is a systematic review of previously published data, ethical approval and informed consent were not required. The review protocol was not registered in advance on PROSPERO, which is acknowledged as a methodological limitation.\n\nThe search was limited to studies published from January 2020 to October 2025 to capture the most contemporary screening landscape, specifically focusing on how the M-CHAT-R/F compares with newly developed and digitally enhanced screening tools that have emerged recently."
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-CSV-029",
+    "title": "Comparative screening accuracy of the Modified Checklist for Autism in Toddlers, Revised with Follow-Up (M-Chat-R/F) for early autism spectrum disorder: a systematic review",
+    "section": "Abstract > Result > Synthesis of findings",
+    "source_url": "https://doi.org/10.1136/fmch-2026-004072",
+    "support_type": "direct",
+    "excerpt": "The six studies included in this review provided a comprehensive comparative analysis of the M-CHAT-R/F against other prominent screening tools (table 2 and online supplemental table 1). The findings revealed that the M-CHAT-R/F’s utility was not fixed but was highly dependent on the population, the child’s age and the specific screening context.\n\nTable 2"
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-CSV-002",
+    "title": "Assessment of Autism Spectrum Disorder",
+    "section": "Empirically Validated Screening and Diagnostic Measures > Autism Screening > Modified Checklist for Autism in Toddlers",
+    "source_url": "https://doi.org/10.1177/10731911231173089",
+    "support_type": "indirect",
+    "excerpt": "A score of 8 or higher indicates high risk, and the follow-up interview can be bypassed in favor of immediate referral for early intervention services and diagnostic evaluation. The M-CHAT-R/F takes about 10 min to complete.\n\nThe validation sample for the M-CHAT-R/F was large (Robins et al., 2014), and the internal consistency reliability of M-CHAT-R/F is acceptable (Cronbach’s α = 0.79; Robins et al., 2014) as are sensitivity (0.85) and specificity (0.99) values (Robins et al., 2014). The positive-predictive value (PPV) is 0.48 for autism and 0.95 for any developmental disorder (Robins et al., 2014), indicating that 48% of the children who screened positive received an ASD diagnosis and 95% of the children had some sort of developmental delay or concerns, including ASD, that warranted referrals to early intervention services (Robins et al., 2014). Similar rates have been found in other countries (PPV for ASD = 0.55, PPV for any developmental disorder = 0.91; Guo et al., 2019). This indicates that the predictive value of the M-CHAT-R/F for any developmental concerns is higher than for autism specifically. Nevertheless, it should be noted that PPVs are impacted by the base rate of the disorder in the sample studied, such that when the prevalence of a disorder is higher, the probability of having the disorder after a positive test is higher (Monaghan et al., 2021). Robins et al. (2014) do not recommend using M-CHAT-R/F as a broader screening tool because its sensitivity for non-ASD delays has not been well studied (e.g., sensitivity for global developmental delays, communication delays, etc.). The M-CHAT-R/F has been translated into more than 40 languages (www.mchatscreen.com) and has demonstrated satisfactory sensitivity and specificity in adaptations in some countries and regions (e.g., Spain, China, Taiwan; Dai et al., 2021). Screening accuracy was shown to be similar across race and ethnic groups in a recent large study (Guthrie et al., 2019)."
+   }
+  ]
+ },
+ "qe037": {
+  "query": "ADOS-2 là gì?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-CSV-002",
+    "title": "Assessment of Autism Spectrum Disorder",
+    "section": "Empirically Validated Screening and Diagnostic Measures > Behavioral Observation",
+    "source_url": "https://doi.org/10.1177/10731911231173089",
+    "support_type": "indirect",
+    "excerpt": "In addition to caregiver interviews, observational measures are an important part of a comprehensive diagnostic evaluation process. The Autism Diagnostic Observation Schedule (ADOS; Lord et al., 1999, 2012) is considered the “gold-standard” semi-structured, interaction-based, observational evaluation for autism. The Pre-linguistic ADOS (PL-ADOS; DiLavore et al., 1995) was developed to assess younger children (younger than 6 years of age) and/or preverbal children. The ADOS-Generic (ADOS-G; Gotham et al., 2007; Lord et al., 1999), with revised algorithms, led to increased diagnostic validity and reliability and was designed to assess communication, social interaction, and repetitive behaviors and interests. The Autism Diagnostic Observation Schedule-2nd Edition (ADOS-2; Lord et al., 2012), the most recent version, revised algorithms based on the ADOS-G (Gotham et al., 2007), introduced a new comparison score for Modules 1 through 3 and added a Toddler Module. The ADOS-2 consists of five modules, the selection of which depends on the individual’s expressive language and developmental level. It can be used with individuals who have a nonverbal developmental age of at least 12 months through adulthood and takes approximately 40 to 60 min to administer. The Toddler Module (12 to 30 months) and Module 1 (31 months and older) are for children who do not use phrase speech consistently. Module 2 is for children who use phrase speech but are not yet verbally fluent, regardless of age. Modules 3 (children and adolescents for whom playing with action figures are appropriate) and 4 (older adolescents and adults) are designed for individuals with fluent speech. Diagnostic algorithms yield two domain scores: social affect and restricted and repetitive behaviors, along with a total score. Modules 1 to 4 have three diagnostic classifications: non-spectrum, ASD, and Autism. The ADOS-2 Toddler module yields three ranges of concerns: little-to-no concern, mild-to-moderate concern, and moderate-to-severe concern."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-CSV-002",
+    "title": "Assessment of Autism Spectrum Disorder",
+    "section": "Empirically Validated Screening and Diagnostic Measures > Behavioral Observation",
+    "source_url": "https://doi.org/10.1177/10731911231173089",
+    "support_type": "indirect",
+    "excerpt": "Modules 1 to 4 have three diagnostic classifications: non-spectrum, ASD, and Autism. The ADOS-2 Toddler module yields three ranges of concerns: little-to-no concern, mild-to-moderate concern, and moderate-to-severe concern.\n\nThe ADOS-2 has been shown to have good interrater reliability: 0.79 to 0.98 across the five modules (Lord et al., 2012). A recent meta-analysis (Lebersfeld et al., 2021) found that the overall sensitivity and specificity of the ADOS-2 and its direct precursors (ADOS-Toddler; Luyster et al., 2009, and ADOS-G with revised algorithms) ranged from 0.89 to 0.92 and 0.81 to 0.85, respectively. Similar to the ADI-R, research samples had higher levels of accuracy than clinical and combined samples (Lebersfeld et al., 2021). Consistent with the recommendation of performing comprehensive evaluations, studies have shown that the diagnostic accuracy is higher when both the ADOS and the ADI-R are used together (sensitivity 0.70–0.98, specificity 0.80–0.95) than when they are used individually (S. H. Kim & Lord, 2012; Risi et al., 2006)."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-CSV-062",
+    "title": "The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors",
+    "section": "Methods > Measures > Autism Diagnosis Observation Schedule (ADOS)",
+    "source_url": "https://doi.org/10.3389/fpsyt.2018.00717",
+    "support_type": "direct",
+    "excerpt": "A semi-structured, interactive schedule conducted by skilled professionals designed to assess social and communicative functioning in individuals who may have ASD (29). The scores of each of the ADOS subdomains, social affect (SA) and RRB, were used for the calculation of each subdomain severity score using the SA and RRB-calibrated severity scale (CSS) (30). Higher scores in the ADOS subdomains reflect more severe autism symptoms."
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-OA-PMC12468522",
+    "title": "Autism Spectrum Disorder: What Do We Know and Where Do We Go?",
+    "section": "2. Behavioral Features > 2.10. Measurement Considerations",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12468522/",
+    "support_type": "indirect",
+    "excerpt": "While the Autism Diagnostic Observation Schedule, Second Edition (ADOS-2) and Autism Diagnostic Interview-Revised (ADI-R) remain standards, research highlights context sensitivity, cultural bias, and the need for multi-informant assessment [32]. New approaches, including ecological momentary assessment, wearables, and eye-tracking, offer finer resolution of fluctuating states [33]."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-NEW-001",
+    "title": "Effect of Preemptive Intervention on Developmental Outcomes Among Infants Showing Early Signs of Autism: A Randomized Clinical Trial of Outcomes to Diagnosis",
+    "section": "Key Points > CONSORT Flow Diagram > Assessment Data by Intervention Group",
+    "source_url": "https://doi.org/10.1001/jamapediatrics.2021.3298",
+    "support_type": "indirect",
+    "excerpt": "Abbreviations: ADOS-2, Autism Diagnostic Observation Schedule, second edition; AOSI, Autism Observation Scale for Infants; iBASIS-VIPP, iBASIS–Video Interaction to Promote Positive Parenting; MACI, Manchester Assessment of Caregiver-Infant Interaction; MSEL, Mullen Scales of Early Learning; MCDI, MacArthur Communicative Development Inventories; NA, not applicable; PSOC, Parenting Sense of Competence scale; VABS-II, Vineland Adaptive Behavior Scales, second edition.\n\na\n\nCorrected for prematurity at eligibility screening.\n\nb\n\nAOSI scores range from 0-38 points, with higher scores indicating higher ASD risk behaviors; a total score of ≥9 points at age 12 months indicates clinical levels of developmental difference.\n\nc\n\nADOS-2 toddler module total score (range, 0-28 points, with higher scores indicating greater severity of ASD symptoms).\n\nd\n\nADOS-2 calibrated severity score (range, 1-10 points, with higher scores indicating greater severity of ASD symptoms).\n\ne\n\nAll MACI subscale scores range from 1-7 points, with higher scores indicating greater quality of parent-child interactions.\n\nf\n\nMSEL subscale raw score ranges: expressive language, 0-50 points, with higher scores indicating greater expressive language skills; receptive language, 0-48 points, with higher scores indicating receptive language skills; visual reception, 0-50 points, with higher scores indicating greater visual reception skills; and fine motor, 0-49 points, with higher scores indicating greater fine motor skills.\n\ng\n\nVABS-II subscale standard score ranges: communication, 20-160 points, with higher scores indicating greater functional communication skills; and socialization, 20-160 points, with higher scores indicating greater functional socialization skills.\n\nh\n\nMCDI subscale score ranges: total expressive vocabulary, 0-678 points, with higher scores indicating greater expressive vocabulary; total receptive vocabulary, 0-678 points, with higher scores indicating greater receptive vocabulary; and total gestures, 0-63 points, with higher scores indicating greater total gestures.\n\ni\n\nPSOC subscale score ranges: efficacy, 5-30 points, with higher scores indicating greater parental sense of competence; interest, 3-18 points, with higher scores indicating greater parental sense of competence; and satisfaction, 6-36 points, with higher scores indicating greater parental sense of competence."
+   }
+  ]
+ },
+ "qe041": {
+  "query": "Sàng lọc và chẩn đoán sớm tự kỷ ở Việt Nam được thực hiện thế nào?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-CSV-038",
+    "title": "Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey",
+    "section": "Key words > Design and methods > Design, study setting, and sampling",
+    "source_url": "https://doi.org/10.4081/jphr.2021.2460",
+    "support_type": "direct",
+    "excerpt": "This cross-sectional survey applied population-based survey. In the first stage, we selected Hanoi (capital of Vietnam) and 6 provinces representing the typical characteristics of the six socioeconomic regions in Vietnam (pursuant to the Decree No. 92/2006/ND-CP in 2006 on the master plan on socio-economic of Vietnam). The six provinces were Thai Binh, Hoa Binh, Quang Nam, Dong Nai, Dong Thap, and Dak Lak.\n\nFor the second stage, based on multistage sampling strategy, in each selected city/province, one urban district and two rural districts were randomly chosen. As such, the survey was conducted in 21 study sites (7 urban and 14 rural districts) in seven cities/provinces in Vietnam during 2017-2018.\n\nFor the third stage, in each selected district, about 2,000 children aged 18 to 30 months were chosen randomly from the full list of children with the same age. Therefore, a total of 6,000 children were chosen in each city/province. The list of potential participants was provided by the District Health Center."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-CSV-038",
+    "title": "Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey",
+    "section": "Key words > Design and methods > Data collection",
+    "source_url": "https://doi.org/10.4081/jphr.2021.2460",
+    "support_type": "direct",
+    "excerpt": "In each district, about 15 local staff of the commune health centers (medical doctor, nurse, and/or midwives) were recruited and trained. Data collectors conducted face-to-face interviews with the children’s parents and/or caregivers. Besides 23 items of MCHAT, the questionnaire included questions regarding sociodemographic information and history of maternal pregnancy\n\nFor data monitoring and supervision in each district, a team of three or four supervisors was trained from the multi-disciplinary team. Supervisors oversaw the entire process of data collection and validated all screen-positive cases through additional interviews with the children’s parents. After confirmation, the multi-disciplinary team invited the children and caregivers to the district health center and performed the comprehensive diagnostic assessment. After discussing and reaching diagnostic consensus, the team concluded the ASD status of each child using DSM-IV criteria. A few children was lost to follow up. 19 positive-screen cases and 241 negative-screen cases were not collected due to refusal of parents or their absence at the time of data collecting."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-CSV-038",
+    "title": "Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey",
+    "section": "Key words > Discussion",
+    "source_url": "https://doi.org/10.4081/jphr.2021.2460",
+    "support_type": "direct",
+    "excerpt": "To the best of our knowledge, this is the first epidemiological, nationally representative, population-based survey on autism spectrum disorders (ASDs) in Vietnam. The survey was conducted by implementing a two-step ASD diagnostic procedure: Phase I using M-CHAT to identify high-risk children in the general population, and Phase II using comprehensive diagnostic assessment criteria (DSM-IV) to confirm the ASD diagnosis. The overall ASD prevalence in children aged 18 and 30 months is 0.758%, that is, 1 in 132 children. Our finding is similar to the estimate of ASD prevalence in other low- and middle-income countries such as China, but slightly lower than that rate in high-income countries such as Canada (1.59%), US (1.68%), Japan (1.8%). Furthermore, our results indicate a much higher prevalence reported by previous small-scale in Vietnam such as 0.46% in National Hospital of Pediatrics in 2007 or 0.50% in 2014. This suggests that ASD should be recognized as a fast-growing issue of national public health concern in Vietnam. Therefore, ASDs are one of the greatest burdens of disease amongst children in Vietnam. The government and relevant stakeholders in Vietnam should prioritize actions to address the developmental and mental health needs of affected children and their families.\n\nIn Vietnam, routine screening for ASDs in both low- and highrisk children does not exist. As M-CHAT screening is collected from parents and/or caregivers of the children, self-administered survey could provide inaccurate information if their children are thought to be low risk for ASDs. Furthermore, the completion rate is low even in high-risk populations. As such, it is challenging to collect accurate data from parent self-administered instruments and the data may be less reliable. In line with other countries, Vietnamese parents prefer face-to-face interviews to self-administered interviews. This has been documented in the previous surveys of M-CHAT in Turkey and Thailand. To address this concern, in our study, trained health staff were recruited to conduct face-to-face interviews with the parents to improve the diagnostic predictive power, which is recommended in both high- and lowrisk children. For future studies in Vietnam, we recommend to apply the screening process by semi-structured interviews to improve overall sensitivity and specificity of the M-CHAT. This suggestion is also highlighted in other studies in Thailand or South Korea."
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-CSV-038",
+    "title": "Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey",
+    "section": "Key words > Design and methods > Measurements of ASD > Phase 1: Screening",
+    "source_url": "https://doi.org/10.4081/jphr.2021.2460",
+    "support_type": "direct",
+    "excerpt": "After a thorough review of different ASD screening tools, the Modified Checklist for Autism in Toddlers (M-CHAT) was utilized for the screening phase of our study. This tool was also the most common and easy-to-use for early ASD screening in children aged 16 and 30 months in both primary and tertiary health facilities. However, the American Academy of Pediatrics (AAP) has issued guidelines for ASD screening at 18 and 24 months since there had evidence for efficacy of screening in community settings. M-CHAT is a self-administered parental questionnaire consisting of 23 (yes-no) items. The M-CHAT is available in at least 22 languages including Vietnamese. Validation studies show the positive predictive value (PPV) of M-CHAT varies from 0.57 to 0.65 in low-risk samples. From a public health perspective, using M-CHAT improves early ASD detection for the entire population while being an easy-to-perform and low-cost tool. In Vietnam, M-CHAT is the main screening tool for children 16-30 months used in both primary and tertiary hospitals with a higher PPV (0.7583) than the PPV in other high-income countries. In our study, M-CHAT-R/F was not chosen as these tools require much more time and resource for follow-up screening. All screenings were conducted by a trained health staff with the participation of the children’s parents and/or caregivers."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-CSV-038",
+    "title": "Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey",
+    "section": null,
+    "source_url": "https://doi.org/10.4081/jphr.2021.2460",
+    "support_type": "direct",
+    "excerpt": "Contributions: LTV, HVM, and DMD designed the study and coordinated the data collection. LTV collected the data, later analysed by LTV, HVM, BTTH, and DMD. LTV, HVM and DMD drafted the manuscript and revised it in collaboration with other authors. All authors read and approved the final manuscript.\n\nBackground: Early detection of autism spectrum disorders (ASDs) is essential given the under-reported cases in low- and middle-income countries. This first national representative survey was conducted to explore the prevalence of ASDs amongst 18 and 30 months in seven provinces in Vietnam.\n\nDesign and methods: During 2017-2018, a national cross-sectional and population-based survey for autism spectrum disorder (ASD) amongst 40,243 children aged 18 to 30 months was conducted in 7 provinces representing the socio-economic regions of Vietnam. M-CHAT was used to screen children and then confirmed by diagnostic assessment using DSM-IV criteria.\n\nResults: The prevalence of ASDs amongst children aged 18 and 30 months in Vietnam was high (0.758% or 1 in 132 children). Urban setting, male gender, and hereditable genes were associated with ASD prevalence.\n\nConclusions: ASDs amongst children aged 18 and 30 months in Vietnam tend to be increasing and are similar to this rate in other middle-income countries but lower than that in Western countries. This under-recognized public health problem amongst children should be addressed by early detection and intervention for families with affected children."
+   }
+  ]
+ },
+ "qe044": {
+  "query": "Can thiệp NDBI là gì?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-SUP-PMC4513196",
+    "title": "Naturalistic Developmental Behavioral Interventions: Empirically Validated Treatments for Autism Spectrum Disorder",
+    "section": null,
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4513196/",
+    "support_type": "direct",
+    "excerpt": "Earlier autism diagnosis, the importance of early intervention, and development of specific interventions for young children have contributed to the emergence of similar, empirically supported, autism interventions that represent the merging of applied behavioral and developmental sciences. “Naturalistic Developmental Behavioral Interventions (NDBI)” are implemented in natural settings, involve shared control between child and therapist, utilize natural contingencies, and use a variety of behavioral strategies to teach developmentally appropriate and prerequisite skills. We describe the development of NDBIs, their theoretical bases, empirical support, requisite characteristics, common features, and suggest future research needs. We wish to bring parsimony to a field that includes interventions with different names but common features thus improving understanding and choice-making among families, service providers and referring agencies."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-CSV-017",
+    "title": "The Effect of Naturalistic Developmental Behavioral Interventions and Aided AAC on the Language Development of Children on the Autism Spectrum with Minimal Speech: A Systematic Review and Meta-analysis",
+    "section": "Keywords > Conclusion",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12208088/",
+    "support_type": "direct",
+    "excerpt": "The results of this review indicated that while NDBI procedures are effective for promoting the language development of young children on the autism spectrum, when AAC is incorporated into these NDBIs, it may lead to a measurable additional increase in language growth—above and beyond that of NDBIs alone."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-SUP-PMC4513196",
+    "title": "Naturalistic Developmental Behavioral Interventions: Empirically Validated Treatments for Autism Spectrum Disorder",
+    "section": "Keywords > Conclusion",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4513196/",
+    "support_type": "direct",
+    "excerpt": "The NDBIs described in this paper are efficacious treatments based firmly in ABA and supported by a large body of evidence. It can be solidly argued that funding that provides coverage of ABA treatment should cover NDBIs.\n\nIn order to reduce confusion, we urge intervention researchers when conducting research or providing treatment using an NDBI to explicitly state that the intervention under study or use is a Naturalistic Developmental Behavioral Intervention. Such consistent use of this term will help policy makers, families, researchers, physicians, and other treatment providers to understand where within the continuum of intervention practices a specific intervention exists. Future research should lead to interventions that are even more effective, efficient and individualized. Better understanding of (1) the active ingredients of these interventions, (2) fidelity of implementation needed for good outcomes in both research and community settings, and (3) the components that have the strongest effect on outcomes for subgroups of children are critical research goals as the next generation of studies is designed."
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-SUP-PMC10783429",
+    "title": "Autism intervention meta-analysis of early childhood studies (Project AIM): updated systematic review and secondary analysis",
+    "section": "Abstract > Discussion > Conclusion",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10783429/",
+    "support_type": "direct",
+    "excerpt": "Studies investigating interventions for young autistic children have proliferated at an astonishing rate, but corresponding improvements in study quality have not kept pace. Some high quality evidence exists, which suggests that NDBIs can improve core features associated with autism. However, it is not clear if such outcomes are desirable for autistic people given that measures of core features of autism are not restricted to impairments that need to be addressed to positively influence autistic development. Interventions tend to have larger effects on small and specific changes in specific contexts, and smaller effects on distal and generalized developmental improvement. We are unable to weigh the potential benefits of any intervention against the potential for unintended negative consequences because most researchers are not adequately monitoring and reporting adverse events."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-CSV-017",
+    "title": "The Effect of Naturalistic Developmental Behavioral Interventions and Aided AAC on the Language Development of Children on the Autism Spectrum with Minimal Speech: A Systematic Review and Meta-analysis",
+    "section": "Keywords > Results > NDBI-Only Studies",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12208088/",
+    "support_type": "direct",
+    "excerpt": "Studies were classified as NDBI-Only if they evaluated an intervention that used NDBI procedures but did not include aided AAC (NDBI-Only). Nineteen studies (10 single-case, 9 group) investigated NDBIs without the inclusion of aided AAC, either in comparison to participant baseline performance, a treatment-as-usual control group, or structured ABA intervention. NDBI-Only studies accounted for a total of 360 participants."
+   }
+  ]
+ },
+ "qe047": {
+  "query": "Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "Tables",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "brainsci-10-00441-t002_Table 2Table 2\nEvidence-based pediatric sleep practice recommendations of the ‘ABCs of SLEEPING’ mnemonic. Adapted from Howlett et al. (2020) and Allen et al. (2016) [10,34].\n| Practice Areas | Recommendations | Level of Empirical Support |\n|---|---|---|\n| Age-appropriate Bedtime, wake-times, and naps with Consistency | - Consistency of bedtimes, wake-times, and naps | Strong |\n| - Bedtime no later than 9 p.m. | Moderate |\n| - Age-appropriate amount of sleep | Moderate |\n| Schedules and routines | - Consistent and relaxing bedtime routine | Strong |\n| - Daytime activities should not interfere with sleep | Moderate |\n| Location | - Dark, cool, and quiet sleep location; limit distractions | Limited |\n| - Activities in bedroom restricted to quiet play and sleep | Limited |\n| No Electronics in the bedroom or before bed | - No electronics in bedroom | Strong |\n| - Do not use electronics within a 1 h before bedtime | Limited |\n| Exercise and diet | - Physical activity on a daily basis | Equivocal |\n| - Well-balanced and healthy diet | Limited |\n| Positivity and relaxation | - Positive living atmosphere, free of conflict | Moderate |\n| - Child should feel relaxed and calm before bed | Limited |\n| Independence falling asleep | - Encourage falling asleep and staying asleep without parent help | Strong |\n| Needs met during the day… equals Great sleep | - Satisfy emotional and physiological needs during daytime | Moderate |"
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "1. Introduction",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "Autism Spectrum Disorders (ASD) are a group of lifelong, heterogeneous neurodevelopmental conditions, characterized by early-onset deficits in social interaction and communication, and restricted, repetitive interests and behaviors [1].\n\nSleep disturbances represent a common comorbidity in children with ASD, with prevalence ranging from 50 to 80% [2]. One of the main complaints of parents of children with ASD is insomnia, which indeed is a major reason of medical consultation [3]. Sleep disturbances reported in ASD children also include parasomnias, sleep disordered breathing, sleep-related movement disorders, and excessive daytime sleepiness [4]. Emotional dysregulation, fixation on daytime events, inability to understand social cues related to sleep, anxiety, hyperarousal, and sensory processing issues are some core neurobehavioral features of ASD that may contribute to sleep disorders [5]. Furthermore, challenging behaviors may lead to ineffective or even harmful bedtime routines that are not conducive to good sleep [6]. It has been proven that sleep disruption in such children worsens the symptoms of autism [7]. Shorter sleep duration has been shown to predict greater social communication impairment, higher rates of stereotypic behaviors, and more non-functional routines [8]. Conversely, it is well established that aggressive behavior independently predicts sleep problems in children with ASD [9].\n\nTreating these conditions should therefore be a primary therapeutic goal, given their significant impact on quality of life of patients and their families. Treatment options range from lifestyle modifications and behavioral interventions to pharmacological therapies [4]. In a stepwise approach to sleep disturbances in children with ASD—before administering prescription drugs—sleep education, behavioral interventions and over-the-counter (OTC) medications are advisable [10]. Parents generally consider behavioral interventions preferable to medication and equally effective [11]. Some non-prescription drugs—such as some antihistamines and melatonin—are among the most used substances for managing insomnia in children [12]. Complementary and Alternative Medicine (CAM) is also widely used for children with ASD [13,14], or other mental issues, given that the majority of parents perceive these therapies as a helpful and holistic therapeutic approach [15].\n\nHowever, the potential of sleep hygiene and behavioral interventions is poorly understood and often underestimated by clinicians and families [16]. Moreover, some non-prescription treatments have been thoroughly studied in recent years, showing new and promising evidence for treating sleep disturbances in ASD. However, there is insufficient evidence to draw conclusions on the efficacy of other widespread remedies for sleep problems and it has been reported that only less than 20% of CAM interventions was recommended by medical doctors in the pediatric psychiatric care [13]."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "3. Non-pharmacological Interventions > 3.2. Behavioral Interventions",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "This behavioral intervention has also been proven to be effective in increasing TST [42].\n\n- Bedtime fading. Putting children to bed before the time they effectively fall asleep (sleep-onset time) increases the chances of bedtime resistance. Therefore, in this procedure the child is initially put to bed 30 min later than his/her average sleep-onset time. Then bedtime is gradually anticipated by 30 min every few days, until reaching the desired bedtime [40].\n\n- Stimulus fading. This strategy involves the parent gradually increasing the distance between himself/herself and the child, until he/she can fall asleep, so as to specifically reduce co-sleeping [43].\n\n- Chronotherapy. Bedtime is gradually delayed over time, to “re-set” the circadian rhythm and improve early-morning awakenings, sleep latency and night awakenings [40].\n\n- Bedtime “pass”. A bedtime pass is a card or any equivalent object given to the child at bedtime that may be exchanged for one “free trip out of bed” or other forms of parental consolation after bedtime. If the bedtime pass has already been used, the parent should rapidly take the child back to bed. This kind of intervention can be used to teach the child to self-soothe and stay in bed in case of difficult sleep onset or frequent night awakenings [5,18].\n\n- Positive reinforcement. This type of intervention uses rewards to promote the desired behaviors. Rewards are typically provided for the child upon awakening in the morning [44,45,46], though sometimes reinforcements may be provided during the sleep-onset period in the form of social attention for demonstrating sleep compatible behaviors [47].\n\n- Cognitive strategies. Group of techniques targeting the non-productive sleep-related beliefs of the child (e.g., the belief that he/she cannot improve his/her sleep), often including also coping strategies, such as teaching relaxation skills [42,48].\n\nThe successful application of behavioral approaches requires both knowledgeable psychologists or clinicians, able to teach the appropriate techniques, and motivated caregivers, who should implement these strategies consistently, despite being often challenging [17]. Therefore, it is often easier and more acceptable for parents to associate sleep education with behavioral gradual interventions (such as gradual extinction and fading), rather than abrupt approaches (e.g., standard extinction techniques) [25]."
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": null,
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "Autism Spectrum Disorders (ASD) are lifelong neurodevelopmental conditions characterized by abnormal social interaction, communication, and behavior. Sleep disturbances represent a common comorbidity in children and adolescents with ASD, with prevalence ranging from 50 to 80%. It has been proved that sleep disruption worsens the symptoms of autism and results in challenging behaviors. Improving sleep should therefore be a primary therapeutic goal. Treatment options range from lifestyle modifications to pharmacological therapy. Several reviews have been written on pharmacological treatments, but very few on the beneficial effects of non-pharmacological interventions, over-the-counter drugs, and nutritional supplements. This study consists of a narrative review of the literature, presenting the available evidence on the following treatments: sleep education, behavioral interventions, complementary and alternative medicine (special mattresses and blankets, massage, aromatherapy, yoga, physical activity), and commonly used over-the-counter medications and supplements (antihistamines, melatonin, tryptophan, carnosine, iron, vitamins, and herbal remedies). For some treatments—such as melatonin and behavioral interventions—effectiveness in ASD is well established in the literature, while other interventions appear of benefit in clinical practice, even if specific studies in children and adolescents with ASD are lacking. Conversely, other treatments only seem to show anecdotal evidence supporting their use."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "4. Oral Over-the-Counter Medicines",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "Sleep pills should be considered to be an additional treatment option to improve sleep in children when non-pharmacological interventions are unsuccessful [17]. However, in children with ASD pharmacological treatment is sometimes convenient as a first-line strategy together with non-pharmacological approaches, given the greater severity of sleep disturbances in these patients [25]. Both prescription hypnotic drugs and OTC sleep-promoting agents might be useful in clinical practice. Due to the scarcity of controlled studies, there is no sleep medication approved by the FDA and only one—prolonged-release melatonin for the treatment of insomnia—approved by the EMA for children and adolescents with ASD. Sleep-promoting agents are therefore widely prescribed off-label, the most commonly used off-label medications being sedating antihistamines (e.g., diphenhydramine or hydroxyzine), melatonin, α2-receptor agonists (e.g., clonidine), benzodiazepines, pyrimidine derivatives (e.g., zaleplon and zolpidem), antipsychotics (e.g., risperidone and quetiapine), and sedating antidepressants (e.g., trazodone and mirtazapine) [68].\n\nSome of the above-mentioned agents—i.e., antihistamines and melatonin—are available over the counter in many countries all over the world. Non-prescription medications—including OTC drugs, nutritional supplements, and herbal remedies—are indeed widespread therapies for sleep disturbances in children, as they are generally easily accessible and well accepted by caregivers. Furthermore, oral non-prescription treatments are often considered to be a “safe choice” by clinicians, as they usually have less significant side effects in comparison to some prescription hypnotic drugs—such as antipsychotics and antidepressants [12,69].\n\nHere we describe the oral non-prescription treatments and nutritional supplements most commonly used for sleep problems in children with ASD: melatonin, antihistamines, tryptophan, carnosine, vitamin D, iron, other multivitamin and mineral supplements, and herbal remedies."
+   }
+  ]
+ },
+ "qe048": {
+  "query": "Melatonin có giúp trẻ tự kỷ ngủ tốt hơn không?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "4. Oral Over-the-Counter Medicines > 4.1. Melatonin",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "Melatonin (N-acetyl-5-methoxytryptamine) is a serotonin-derived neurohormone produced by the pineal gland. Its secretion mainly happens during darkness—beginning in the evening and peaking between 2:00 and 4:00 a.m.—and is suppressed by the light [70]. Among its many biological functions (antioxidant properties, anti-inflammatory effects, involvement in early development of neurons and glia), melatonin plays a key role in establishing and regulating the circadian rhythm and has a hypnotic function, via the activation of melatonin receptors MT1 (mainly involved in REM sleep), MT2 (mainly involved in NREM sleep), or both [71,72].\n\nHaving well-known chronobiotic and sleep-inducing properties and being perceived as a “natural” substance (due to its endogenous production), melatonin is one of the most frequently prescribed drugs in children and adolescents with sleep problems [12,73,74]. More specifically, a large Australian survey reported that melatonin was prescribed in children with autism and comorbid sleep problems by 85.2% of pediatricians [12]. Initial dosages in children usually range from 1 to 3 mg/night (up to 5 mg/night in adolescents), administered 30–60 min before bedtime. If no improvements are noted, dosage can be titrated by 1–3 mg every 1–2 weeks up to a maximum dose of 10 mg. However, the clinician should consider that patients who have not responded to 6 mg/night are less likely to benefit from a higher dosage [20,75]. No serious adverse events have been associated with melatonin use. The most often reported side effects in children include headache, morning drowsiness, increased enuresis, dizziness, diarrhea, rash and hypothermia [76,77,78]. Earlier morning awakenings were sometimes reported in children supplemented with melatonin [76]."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "4. Oral Over-the-Counter Medicines > 4.1. Melatonin",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "Only a weak effect was found for SE, as several the studies yield negative results for this parameter [30].\n\nNot included in the above-mentioned meta-synthesis, but of interest for its design, is a study conducted on a large sample of autistic children and adolescents over a period of 12 weeks [94]. This RCT showed that controlled-release melatonin at the dosage of 3 mg/night (1 mg immediately released and 2 mg released over a 6 h period), alone or in combination with cognitive-behavioral therapy (CBT), is effective in improving SOL, TST, WASO, and number of awakenings, as measured by actigraphy, with moderate-to-large effect sizes. Furthermore, the authors highlighted that the combination treatment group (CBT + melatonin) had higher rates of patients completing the treatment schedule and of patients obtaining clinically significant changes in sleep measures. This seems to suggest a greater effectiveness of melatonin when administered in association with a cognitive-behavioral intervention, at least in the short term.\n\nFrom a practical point of view, in some children with autism a major limitation for melatonin treatment is the loss of efficacy after an initial good response [25]. Often, patients in whom the benefits of melatonin disappear after some time have been shown to have a slow metabolism of melatonin, due to a single nucleotide polymorphism in the CYP1A2 gene [95]. This may result in increased melatonin levels during daytime and, consequently, in the loss of the circadian melatonin rhythm, thus explaining the fading of effectiveness of exogenous melatonin over time [96]. As a consequence of these findings, there is now a greater understanding that low (0.5 mg), rather than high doses can work for some children, with diminishing effects for doses over 6 mg [25].\n\nTable 3 summarizes some clinical tips on the use of melatonin, proposed during an expert consensus conference [71]."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-CSV-095",
+    "title": "Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life",
+    "section": "Keywords > Discussion",
+    "source_url": "https://doi.org/10.1007/s10803-019-04046-5",
+    "support_type": "direct",
+    "excerpt": "These effects might benefit both the caregivers and the children, making caregivers more able to cope and potentially reducing stress in the parent–child relationship.\n\nSo far, two placebo controlled studies have looked into the effects of melatonin on behavioral aspects in children with neurodevelopmental disorders and insomnia. Only one of them has reported significant effects of melatonin compared to placebo on behavioral aspects of children with ASD and insomnia (Wright et al. 2011). In that study, children with ASD and sleep problems who were not amenable to behavioral management strategies received immediate release melatonin (mean dose 7 mg; range 2–10 mg) and placebo for 3 months in a crossover design. There was a significant improvement in overall daytime behavior with the immediate release melatonin compared with placebo as measured by the Developmental Behavior Checklist (DBC) (Wright et al. 2011). Whereas a change in total DBC score reportedly concurs with a change in total SDQ (Rice et al. 2018), no differences in treatment effects in any of the five attributes of the DBC checklist (disruptive behavior, self-absorbed, communication disturbance, anxiety and social relating difficulties) were observed (Wright et al. 2011) despite the higher doses used there compared to our study (prolonged release formulation, mean dose 3.8 mg; range 2–5 mg). In another study with immediate release melatonin, with similar design to the present study, child behavior and family functioning outcomes tended to favor melatonin but were not significant. These differences across studies may thus be related to its release formulation (immediate vs. prolonged release), and the lack of significant effects in previous studies could be due to the little additional sleep gained on immediate release melatonin (Gringras et al. 2012).\n\nA limitation in our study was that the effects of the higher dose (10 mg) of PedPRM treatment on behavior was not explored. The 10 mg dose was allowed only in the later open label follow up phase to further improve sleep in subjects who did not respond to the lower doses (Maras et al. 2018). Unfortunately, no behavioral data were collected at the late phases. Future trials should consider measuring the effects of higher PedPRM doses on child behavior."
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "4. Oral Over-the-Counter Medicines > 4.1. Melatonin",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "Furthermore, children with ASD and comorbid sleep-onset delay showed genetic abnormalities in the metabolic pathway of melatonin more frequently than the general population [89].\n\nA recent meta-synthesis [30] summarized the findings of eight systematic reviews on management of sleep disorders in children with ASD, five of which [88,90,91,92,93] included studies evaluating the effectiveness of melatonin. Two reviews included not only studies on melatonin, but also studies on other interventions for sleep disorders [90,91]. Both concluded that among the evaluated treatments, supplemental melatonin appears to have the strongest evidence supporting its use. Of the three reviews that focused on melatonin [88,92,93], one [88] was a systematic review and meta-analysis on melatonin-related findings in autistic individuals, including 18 studies on melatonin as a treatment for sleep. These studies reported improvements in SOL, night-time awakenings, and TST. Five of the studies were double-blind, placebo-controlled crossover trials and were included in a meta-analysis: significant improvements in sleep duration and latency were found, but no significant change in the number of night awakenings. Another research group [93] evaluated the effectiveness of melatonin on sleep disorders within the framework of a broader assessment of pharmacological therapies for individuals with pervasive developmental disorders, concluding that the use of melatonin may be considered for the treatment of sleep problems of these patients. Similarly, the third review [92] aimed to assess the efficacy and safety of supplemental melatonin for disordered sleep in persons with ASD. Seven studies, of the 12 identified, included children with ASD. The authors concluded that the available literature supports the use of melatonin for sleep disturbances in autistic patients, given its beneficial effects and its few and minor side effects. Finally, the overall findings of the meta-synthesis showed that melatonin had strong evidence of positive effect on SOL, TST, bedtime resistance, and co-sleeping, whereas its effectiveness was ranked as moderate in improving the longest sleep episode, night awakenings, nocturnal activity, parasomnias, sleep disordered breathing, sleep anxiety, and sleep problems not otherwise specified. Only a weak effect was found for SE, as several the studies yield negative results for this parameter [30]."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-OA-PMC7407189",
+    "title": "Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments",
+    "section": "4. Oral Over-the-Counter Medicines > 4.1. Melatonin",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7407189/",
+    "support_type": "direct",
+    "excerpt": "The most often reported side effects in children include headache, morning drowsiness, increased enuresis, dizziness, diarrhea, rash and hypothermia [76,77,78]. Earlier morning awakenings were sometimes reported in children supplemented with melatonin [76].\n\nThe administration of exogenous melatonin has been proven to anticipate sleep onset [79,80], without altering sleep architecture [71]. It should be taken into account, though, that the timing of administration is critical in determining the effectiveness of treatment. When used as a sleep inductor (i.e., for sleep-onset insomnia), melatonin should be administered about 30 min before the desired time of sleep [75]. By contrast, when used as a chronobiotic (i.e., for delayed sleep phase syndrome), the maximum effect on phase advance is obtained with administration 3 to 5 h before dim light melatonin onset (DLMO) for the dosage of 0.5 mg of melatonin [81]. DLMO is not predictable using sleep diaries, actigraphy, or polysomnography. However, it can be determined in home settings by measuring melatonin in saliva (collected from a cotton plug chewed for 1–2 min every hour from 7–8 p.m. to 11–12 p.m.) before starting melatonin treatment [82]. Conversely, if disrupted sleep is the main concern, melatonin treatment is usually ineffective in improving maintenance of sleep [71].\n\nMelatonin is of special interest in ASD, in view of the abnormal central and peripheral serotonin neurobiology reported in these conditions [83,84]. In individuals with ASD, several studies reported abnormal levels of daytime or night-time melatonin, compared to typically developing controls [85,86,87,88], and nocturnal excretion in urine of 6-sulphatoxymelatonin (a melatonin metabolite) was found to correlate negatively with the severity of autistic symptoms [85]. Furthermore, children with ASD and comorbid sleep-onset delay showed genetic abnormalities in the metabolic pathway of melatonin more frequently than the general population [89]."
+   }
+  ]
+ },
+ "qe049": {
+  "query": "Làm sao hỗ trợ trẻ tự kỷ hòa nhập ở trường phổ thông?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "ASD-CSV-019",
+    "title": "School-Based Interventions for Increasing Autistic Pupils’ Social Inclusion in Mainstream Schools: A Systematic Review",
+    "section": null,
+    "source_url": "https://doi.org/10.1007/s40489-024-00429-2",
+    "support_type": "direct",
+    "excerpt": "School-based interventions for socially including autistic pupils in mainstream schools were systematically reviewed. Included interventions targeted at least one level of the school environment: the autistic children, the peers, the staff, and/or the physical environment, and assessed autistic pupils’ quantity and/or quality of social participation as outcome measures. Findings from 56 studies showed increased accessibility of school activities to autistic pupils, but the reciprocity and friendship between the autistic pupils and the peers were not necessarily improved. Moreover, limited interventions were available for modifying the physical environment. A more holistic strategy that moves the focus from individual children’s social skills to the larger context surrounding children, should be considered for a better inclusion of autistic children in school routine."
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "ASD-OA-PMC13005892",
+    "title": "Autism in Viet Nam: A systematic scoping review",
+    "section": "Results > Inductive trends > Importance of school and education",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13005892/",
+    "support_type": "indirect",
+    "excerpt": "Schools were often identified as a primary study location (Supplementary Materials, Figure 3). The importance of school and education in the exploration of autism in Vietnamese cultural contexts was illustrated in many ways, such as through studies focusing on teachers and educational professionals as research participants, identifying where and how autistic children are taught, exploring the autism knowledge that teachers and educational professionals have, and perceptions of inclusive education for autistic students. Attitudes towards having autistic students in mainstream classrooms varied, with findings across and within studies showing evidence for both the encouragement of this practice and resistance to mainstream school integration (P. H. Minh, 2020; V. T. T. Nga, 2020; Smith, Rabba, Datta, et al., 2023a; C. V. Tran, Pham, et al., 2020). Despite discrepancies in attitudes towards inclusive education, the importance of education for autistic children more generally was highlighted. In particular, the role of school in educating autistic individuals to be independent, self-sufficient and to develop skills to enable them to contribute to society were emphasised."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "ASD-CSV-019",
+    "title": "School-Based Interventions for Increasing Autistic Pupils’ Social Inclusion in Mainstream Schools: A Systematic Review",
+    "section": "Keywords > Conclusion",
+    "source_url": "https://doi.org/10.1007/s40489-024-00429-2",
+    "support_type": "direct",
+    "excerpt": "The current synthesis of results shows that the school-based interventions currently available in the literature can improve the accessibility of school activities, helping autistic pupils gain skills to approach the peers; and can enhance the integration of autistic pupils in schools, through the support of trained peers and/or school staff. Yet, a more holistic strategy that interconnects the different levels of the school environment, moving the focus from individual children’s social skills to the modification of the larger context, is required to ensure the inclusion of autistic children in schools, where they can meaningfully contribute. It is thus recommended that future studies attend the social, cultural, and physical environments that surround autistic children, and the expectations and experiences of these children concerning social participation. The paucity of information regarding these aspects in the current literature prevents us from drawing conclusions about autistic children’s social inclusion in schools. To fill this gap, new methodologies for measuring children’s interactions with the environments (e.g., a multidisciplinary approach combined with sensor technology; e.g., Andersen et al., 2019; Veiga et al., 2017), and the use of measures that can reflect children’s own views (e.g., with self-reports and focus group interviews), are needed. Such considerations will improve social inclusion not only for a specific population, but for all children, who have different capacities and wishes."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "ASD-CSV-019",
+    "title": "School-Based Interventions for Increasing Autistic Pupils’ Social Inclusion in Mainstream Schools: A Systematic Review",
+    "section": "Keywords > Discussion > Levels of Social Inclusion",
+    "source_url": "https://doi.org/10.1007/s40489-024-00429-2",
+    "support_type": "direct",
+    "excerpt": "Also, the positive effects derived from these programs may not extend to the untrained peers and staff.\n\nIn theory, interventions applied at the level of physical environment could be an approach for achieving inclusion. The modifications made to the physical environment for fitting individual needs bring the message that individual differences are valued and respected, and that is the starting point for an autistic child to feel belonged in school. In the current review, positive effects were shown in three school-based interventions of this sort, including providing playground games and materials that encourage social interactions (Vincent et al., 2018), designing new playground activities based on autistic children’s preferred interests (Baker et al., 1998), and forming school social clubs based on autistic children’s preferred interests (Koegel et al., 2013). However, given the small body of literature and the fact that peers’ responses were not recorded in these studies, it is hard to confirm from the current review the extent to which autistic children may benefit from such approaches. This presents an urgency to understand the changes in peers’ behaviors towards autistic children after adaptations are made to the physical environment in schools."
+   }
+  ]
+ },
+ "qe051": {
+  "query": "Nên ưu tiên can thiệp tại nhà hay tại trường?",
+  "http": 503,
+  "answer_mode": "none",
+  "retrieval_status": "blocked_uncached",
+  "evidence": []
+ },
+ "qe056": {
+  "query": "Cha mẹ làm gì khi trẻ có hành vi thách thức ở nhà?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "WHO-CST-PARTICIPANTS-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9",
+    "section": "Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING",
+    "source_url": "https://www.who.int/publications/i/item/9789240048911",
+    "support_type": "direct",
+    "excerpt": "Only check the answers after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer. Question 1: Answers and explanation: A. Set clear expectations and help the child understand that challenging behaviour will not delay the activity.\n\n When Tyree refuses to go inside to bed and falls on the ground, he is delaying his bedtime. His mother can set clear expectations by showing him a “first-then” card, and say “first we play outside, then we get ready for bed”. She can also count down how much time Tyree has left to play. She should try not to let Tyree stay outside longer when he is showing challenging behaviour. B. Show the child a better way to get the sensation, but if the behaviour does not disrupt engagement and learning, think about focusing first on another challenging behaviour.\n\n Jacob gets a sensation from his vision when he stares at the lights and wiggles his fingers in front of his eyes. He gets the sensation of movement when he flaps his arms. These sensations help him feel calm. If these behaviours do not get in the way of him interacting with other people and learning, it might be best to focus on other challenging behaviours first. C. Give no attention or response (ignore the behaviour) then reward appropriate behaviour with praise and attention.  If Anna’s father comes over to tell Anna to be quiet, this gives her attention and even negative attention can be a reward for a child. It would be best if he did not look at Anna or talk to her while she is showing challenging behaviour. Then as soon as she is quiet, he should go to her and tell her that she is doing a good job being quiet.\n\nAnswers to questions D. Do not give the item when there is challenging behaviour. Give no attention or response (ignore the behaviour), then reward appropriate behaviour with praise and attention.\n\n Saanvi wants her mother to buy her sweets and every time they walk by the store, Saanvi whines loudly. Sannvi’s mother should not give Saanvi sweets when she is whining. She can ignore Saanvi’s whining by not looking or talking to Saanvi while she is whining. Then, as soon as Saanvi is quiet, her mother should praise her with kind words: “You’re calm now!” Answer to Question 2: E: All of the above (A, B, C and D) Explanation:"
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "WHO-CST-PARTICIPANTS-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9",
+    "section": "Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING",
+    "source_url": "https://www.who.int/publications/i/item/9789240048911",
+    "support_type": "direct",
+    "excerpt": "behaviour.\n\nTips Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Question 1 Instructions: Match the behaviour on the left with the goal for your response to the behaviour on the right by drawing a line that connects the two. Some behaviours may have more than one goal. Afterward, check your answers on the following pages. A. When Tyree is playing outside and his mother tries to bring him inside for bedtime, he says “No, no, no!” and falls to the ground.\n\nDo not give the item when there is challenging behaviour.\n\nB. Jacob likes to stare at lights and sometimes he wiggles his fingers in front of his eyes.\n\nWhen he is excited, sometimes he flaps his arms like wings.\n\nGive no attention or response (ignore the behaviour) then reward appropriate behaviour with praise and attention.\n\nC. When her father is talking on the telephone, Anna starts yelling and throwing her toys onto the floor.\n\nSet clear expectations and help the child to understand that challenging behaviour will not delay the activity. D. When Saanvi and her mother walk by a store that sells sweets, Saanvi whines and tries to pull her mother toward the store.\n\nShow the child a better way to get the sensation, but if the behaviour does not disrupt engagement and learning, think about focusing on another challenging behaviour first. Questions to check your own learning Instructions: Choose the best answer for each question from the options below. Afterward, check your answers and circle the correct option. Question 2 Maya’s mother wants to make it easier for Maya to cooperate when she is braiding Maya’s hair. What should she do when she is braiding and Maya starts whining? A. Make sure that she is being gentle and not hurting Maya. B. Sing a song while she continues to braid. C. Count down the number of seconds until the activity is finished. D. Plan to braid one side and then take a break before braiding the other side, rather than taking a break when Maya starts whining. E. All of the above (A, B, C and D) These are the answers to the questions to check your own learning on the previous page. Only check the answers after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer.\n\nQuestion 1:\n\nAnswers and explanation:\n\nA. Set clear expectations and help the child understand that challenging behaviour will not delay the activity."
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "WHO-CST-PARTICIPANTS-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9",
+    "section": "Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING",
+    "source_url": "https://www.who.int/publications/i/item/9789240048911",
+    "support_type": "direct",
+    "excerpt": "To stop or avoid something Set clear, consistent and appropriate expectations and help your child to understand that challenging behaviour will not stop the activity. Provide a safe and appropriate way of getting the sensation ...\n\n... AND help your child to communicate to get the sensation she/he wants.\n\nTo get a sensation Maya’s story Maya’s mother has been working on a tooth-brushing routine every night. Maya does not like brushing her teeth. Her mother reminds her that it is time to brush her teeth before she goes to bed. Maya ignores her mother’s reminder and continues to play around with her brother.\n\nLook and listen for:\n\n1) What happens before the behaviour.\n\n2) The challenging behaviour.\n\n3) What happens after the behaviour. What is the message the child is sending with the challenging behaviour? Notice how the caregiver responds.\n\nMaya’s mother waits for a couple of minutes and then asks Maya again to brush her teeth. Maya whines to have a few more minutes to play before bed. Sometimes Maya’s mother lets her have more time to avoid the battle over brushing her teeth. Sometimes she tells her “No” and asks her again to brush her teeth. When she does this, Maya sometimes cries, screams and flops to the floor. Sometimes Maya’s mother gives up and does not make her brush her teeth.\n\nLuc’s story Louis-Philippe tries to continue the call but eventually Luc’s running and yelling are so loud that Louis-Philippe tells his son loudly to stop or tries to get Luc to sit quietly with him while still on the telephone.\n\nLouis-Philippe has a job that requires him to make a lot of telephone calls. He tries to make his calls while his son Luc is at school but calls still need to be made when Luc is at home. When Louis-Philippe answers the telephone, Luc begins to yell for his dad loudly “Dad, dad! Look at this! Dad, dad!” and runs around the house. Look and listen for:\n\n1) What happens before the behaviour.\n\n2) The challenging behaviour.\n\n3) What happens after the behaviour. What is the message the child is sending with the challenging behaviour? Notice how the caregiver responds.\n\nFind out the reason for your child’s challenging behaviour and decide how to respond based on that reason (to get access or attention, to avoid or to get a sensation) Avoid or stop something  Think about what happened before, during and after the behaviour to find out the reason for the behaviour  There are different things you can do to decrease or stop these challenging behaviours, depending on the reason for the behaviour Get attentionGet access Get a sensation Key message 1\n\nThere are four reasons for challenging behaviour:"
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "WHO-CST-PARTICIPANTS-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9",
+    "section": "Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING",
+    "source_url": "https://www.who.int/publications/i/item/9789240048911",
+    "support_type": "direct",
+    "excerpt": " Responding to challenging behaviour by giving attention to the child will make it more likely to happen again.\n\nHow to respond to challenging behaviour that seeks attention Ignore: Do not look at the child or talk to the child while you are waiting for the challenging behaviour to stop. When the challenging behaviour stops, praise the child right away, even for something very small, such as sitting and being quiet for a few seconds.\n\nIgnore challenging behaviour that is seeking attention if it is safe and okay to do so Remember that when you begin to ignore behaviour to get attention, it will usually get worse before it gets better. This is because your child will usually try harder to get you to notice her/him. When the challenging behaviour stops, praise your child right away, even for something very small, such as sitting and being quiet for a few seconds.\n\nDo not look at the child, talk to the child or shout while you are waiting for the challenging behaviour to stop (this would reward the child with attention). Tip 3\n\nAsk yourself:\n\n Could the behaviour hurt my child or another person?  Is my child scared, hurt or sick (i.e. in need of my attention)? If your answer to both questions is “No”, you can ignore the behaviour.\n\nChallenging behaviour to stop or avoid something Behaviour can help a child stop or avoid something that she/he does not like.\n\nHow to respond to challenging behaviour to avoid something If the routine is challenging for your child, try to:  make the routine easier for your child;  offer help;  use picture schedules;  use countdowns or timers. If your child can do the activity, be clear, kind and firm. Help your child to understand that challenging behaviour will not stop the activity.\n\nSet clear, consistent and appropriate expectations to reduce challenging behaviour that aims to avoid or stop a routine 1 3 2 4 Tip 4\n\n “Clear” – Use words your child can understand.  “Consistent” – Expect the same thing from your child each time and increase your expectations slowly over time.  “Appropriate” – Choose activities and routines at the right level for your child:\n\n– If the activity is too difficult, make it easier or more fun for your child, offering help, praising, setting up the space, singing or finding an easier time to do the activity.\n\n– If the activity is too easy, make it more interesting by varying the materials or teaching new steps."
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "WHO-CST-PARTICIPANTS-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9",
+    "section": "Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING",
+    "source_url": "https://www.who.int/publications/i/item/9789240048911",
+    "support_type": "direct",
+    "excerpt": "Challenging behaviour to get access to a sensation Behaviour can help a child get sensation (a feeling) A child tries to touch strangers’ clothing because the child likes the feeling of fabric.\n\nA child chews on things that are dirty or unsafe, such as items from the ground.\n\nProvide the child with a piece of fabric they can touch instead.\n\nTeach the child to ask for the piece of fabric using words or gestures. Create a necklace that the child can chew on by putting some flexible plastic tubing on a string. Teach the child to chew on the necklace instead of dirty or unsafe things.\n\nFor a child who chews on things that are dirty or unsafe, such as items from the ground:\n\nHow to respond to challenging behaviour to get a sensation Choose a more appropriate way to give the child the sensation. For a child who tries to touch strangers’ clothing because the child likes the feeling of fabric:\n\nA child touches a stranger’s clothing because the child likes to touch fabric. Give the child a piece of fabric to touch instead and teach the child to ask for it using words or gestures. Teach a safe and appropriate behaviour to replace sensation-seeking challenging behaviour.\n\nTip 5\n\n Ask yourself: Does this behaviour put my child at risk? Does this behaviour disrupt my child’s engagement and learning? If not, think about focusing first on another challenging behaviour.  Teach a safe and appropriate behaviour to give access to the same sensation. This behaviour will replace the current challenging behaviour.\n\n Teach your child to ask to get the sensation they want.\n\nBefore, During and After Behaviour"
+   }
+  ]
+ },
+ "qe057": {
+  "query": "Chương trình huấn luyện kỹ năng cho người chăm sóc của WHO gồm những gì?",
+  "http": 200,
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "evidence": [
+   {
+    "citation_id": "C1",
+    "source_id": "WHO-CST-PARTICIPANTS-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9",
+    "section": "Background",
+    "source_url": "https://www.who.int/publications/i/item/9789240048911",
+    "support_type": "direct",
+    "excerpt": "Session 6 focuses on teaching skills for everyday living in small steps using different levels of help. Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. Introduction\n\nviii Can I use this guide on my own without participating in the caregiver skills training? Caregivers who wish to learn the strategies on their own due to personal preference or because there is no local caregiver skills training course being offered are directed to WHO’s eLearning caregiver skills training for families of children with developmental delays or disabilities. This free course is for caregivers to access directly as self-directed online learning. The course is accessible in English here: https://openwho. org/courses/caregiver-skills-training. A free OpenWHO account is necessary to access it. To create an OpenWHO account, go to https://openwho.org/account/new (you will need an email address to register). Other language versions of eLearning caregiver skills training will be made available. Check https://openwho. org/courses for availability. Adaptation and implementation considerations For additional information on adaptation of this guide see Adaptation and implementation guide.\n\nSession 1: Getting children engaged"
+   },
+   {
+    "citation_id": "C2",
+    "source_id": "WHO-CST-PARTICIPANTS-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9",
+    "section": "Background",
+    "source_url": "https://www.who.int/publications/i/item/9789240048911",
+    "support_type": "direct",
+    "excerpt": "WHO’s caregiver skills training was developed to facilitate access to parenting skills and strategies for caregivers of children with developmental delays or disabilities. The target audience is caregivers of children aged 2–9 years with developmental delays or disabilities, with a specific focus on the caregivers of children with delays and impairments in social and communication domains. However, a child does not need to have a diagnosis for caregiver skills training to be used, and the age range can be adjusted slightly depending on the needs of the setting. Overview of CST structure The caregiver skills training intervention is designed to be delivered in nine group sessions and three home visits by trained and supervised non-specialist facilitators. Additional group sessions and home visits can be offered to allow more time for strategies on caregiver wellbeing and for strategies tailored to the needs of caregivers of children who have little or no spoken language. Materials There are five parts of the caregiver skills training package while two additional parts are being developed:  Introduction;  Adaptation and implementation guide;  Facilitators’ guide: group sessions 1–9;  Participants’ guide: group sessions 1–9;  Home visit guide for facilitators;  Caregivers of children who have little or no spoken language: facilitators’ and participants’ guides (forthcoming);  Caregiver wellbeing: facilitators’ and participants’ guides (forthcoming). The introduction provides information on how to use the different materials. How to use this guide This guide is meant to be used by caregivers who are participating in WHO’s caregiver skills training. The guide provides content that will be used during each of the caregiver skills training core group sessions (sessions 1–9). It contains illustrated descriptions of the key messages and tips (skills and strategies) taught in each session as well as goal-setting activities, questions to check your own learning and a template for sharing information on local resources for families (to be adapted to the local context). Content of the group sessions Sessions 1 and 2 focus on getting children engaged in activities (both daily home activities and play) and keeping them engaged. Session 3 focuses on the development of play and home routines as a means of encouraging engagement, communication, positive behaviour and skills for daily living and play. Sessions 4 and 5 focus on recognizing a child’s communication abilities and creating opportunities to promote communication. Session 6 focuses on teaching skills for everyday living in small steps using different levels of help. Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. Introduction"
+   },
+   {
+    "citation_id": "C3",
+    "source_id": "WHO-ECD-GUIDELINE-2020",
+    "title": "Improving early childhood development: WHO guideline",
+    "section": "IMPROVING",
+    "source_url": "https://www.who.int/publications/i/item/97892400020986",
+    "support_type": "indirect",
+    "excerpt": "Implementation of the guideline 33 Implementation considerations 33 Monitoring and evaluation of the quality and implementation of the guideline 33 Supporting local adaptation 33 Dissemination and plans for updating 33 References 35 Annex 1: WHO guidelines and tools that support ECD 39 Annex 2: Questions in PICO format 45 Annex 3: Steering Group 48 Annex 4: Guideline Development Group 49 Annex 5: Authors of systematic reviews 51 Annex 6: Declarations of conflicts of interest 52 Annex 7: GRADE evidence profile tables 54 Figure 1: Components of nurturing care 1 Table 1: Intervention types considered in the evidence/guideline review 12 Table 2: Child and caregiver outcomes for interventions that implement responsive caregiving only, by HICs versus LMICs 15 Table 3: Child and caregiver outcomes for interventions that promote early learning and development, by HICs versus LMICs 19 Table 4: Combined responsive caregiving and early learning versus standard of care 25 Table 5: Combined responsive caregiving and early learning versus caregiving alone 25 Table 6: Combined responsive caregiving and early learning versus nutrition alone 26 ii iiiContents\n\nBFHI Baby-friendly Hospital Initiative BMI body-mass index CI confidence interval ECD early childhood development GDG Guideline Development Group GRADE Grading of Recommendations Assessment, Development and Evaluation methodology HAZ height-for-age Z-score HIC high-income country LMIC low- or middle-income country MCA Department of Maternal, Newborn, Child and Adolescent Health and Ageing MCH Maternal and child health MhGAP Mental Health Gap Action Programme MSD Department of Mental Health and Substance Abuse PICO population, intervention, comparison, outcome RCT randomized controlled trial SD standard deviation SMD standardized mean difference WASH water, sanitation and hygiene WAZ weight-for-age Z-score WHO World Health Organization WHZ weight-for-height (or length) Z-score ACRONYMS iv v"
+   },
+   {
+    "citation_id": "C4",
+    "source_id": "WHO-ECD-GUIDELINE-2020",
+    "title": "Improving early childhood development: WHO guideline",
+    "section": "Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT",
+    "source_url": "https://www.who.int/publications/i/item/97892400020986",
+    "support_type": "indirect",
+    "excerpt": "Combined course on growth assessment and infant and young child feeding counselling This course is designed to give health workers the competencies required to carry out growth assessment and effective counselling for breastfeeding and complementary feeding. It is primarily for health workers in primary health care services and for lay counsellors. The course imparts skills for measuring, plotting and interpreting a child’s growth status (to detect undernutrition or overweight/ obesity), for assessing breastfeeding and complementary feeding to identify any problems, and for counselling caregivers to promote/reinforce appropriate practices and manage growth or feeding problems. www.who.int/nutrition/publications/ infantfeeding/9789241504812/en Guideline: counselling of women to improve breastfeeding practices This guideline provides global, evidence-informed recommendations on breastfeeding counselling, as a public health intervention, to improve breastfeeding practices among pregnant women and mothers who intend to breastfeed, or are currently breastfeeding, and their infants and children. It makes recommendations for breastfeeding counselling, such as frequency, timing, mode and provider of breastfeeding counselling. www.who.int/nutrition/publications/guidelines/ counselling-women-improve-bf-practices/en NetCode toolkit for ongoing monitoring and periodic assessment of the Code The Network for Global Monitoring and Support for Implementation of the International Code of Marketing of Breast-milk Substitutes (NetCode) toolkit aims to reinvigorate and reinforce ongoing monitoring and periodic assessment of the Code and national laws by providing protocols, guidance and tools. Findings and results from implementation of either protocol can be used to advocate for the strengthening of existing legislative and regulatory frameworks.\n\nwww.who.int/nutrition/netcode/toolkit/en"
+   },
+   {
+    "citation_id": "C5",
+    "source_id": "WHO-CST-INTRO-2022",
+    "title": "Caregiver skills training for families of children with developmental delays or disabilities: introduction",
+    "section": "Background",
+    "source_url": "https://www.who.int/publications/i/item/9789240048836",
+    "support_type": "direct",
+    "excerpt": "Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. 1 For further details, see the following:\n\nKasari C, Lawton K, Shih W, Barker TV, Landa R, Lord C et al. (). Caregiver-mediated intervention for low-resourced preschoolers with autism: an RCT. Pediatrics. 2014;134:e72–e79.\n\nKaale A, Smith L, Sponheim E. A randomized controlled trial of preschool-based joint attention intervention for children with autism. J Child Psychol Psychiatry. 2012;53:97–105.\n\nKasari C, Gulsrud A, Paparella T, Hellemann G, Berry K. Randomized comparative efficacy study of parent-mediated interventions for toddlers with autism. J Consult Clin Psychol. 2015;83:554–63.\n\nEducational methods The caregiver skills training course draws on educational methods that are relevant to adult learning, including personal goal-setting, active learning through questions (guided questions for learning) and discussions. The expertise and experiences of participants are brought into group sessions through discussions and when home practice is discussed; participants have the opportunity to benefit from the ideas, experiences and suggestions of others. Active learning is promoted by teaching strategies through modelling (facilitator demonstration) and by having participants practise in the session with feedback and coaching from facilitators. Key to the facilitation of the caregiver skills training course is the creation of a safe and positive learning environment in which participants feel comfortable asking and answering questions, and sharing their ideas and experiences with other caregivers.\n\nWho can provide the caregiver skills training course?\n\nFacilitators should be trained and supervised non-specialists (community health workers, social service workers, nurses, early childhood education facilitators, teachers, experienced caregivers etc.). The selection of facilitators should take account of the potential for sustainability and scalability in the local context. Facilitators must have adequate time – ideally within their regular work schedules – to provide the caregiver skills training group sessions and home visits. Travel time should also be taken into account. Facilitators will preferably have completed high school education or equivalent, while experience of providing care for children with developmental disabilities and facilitating groups will be an asset. Facilitators should be approachable and capable of working well with other adults maintaining a supportive environment in group sessions and providing feedback and coaching in a supportive manner. Facilitators will need to be equipped with training on caregiver skills training skills and strategies both for the facilitation of group sessions and for home visits. Facilitators should receive continuing support and supervision from a trained supervisor. Who can train and supervise the facilitators?"
+   }
+  ]
+ }
+}

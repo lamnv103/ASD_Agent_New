@@ -1,0 +1,19 @@
+{
+  "dense_baseline_v1": {
+    "description": "Phase 6.2 T2.3.1 dense baseline: Vietnamese query embedded as-is (no expansion), exact cosine search over the authorized research view. Research only, never production.",
+    "retriever": "dense",
+    "embedding_profile": "cohere_embed_v4_1536_v1",
+    "db_role": "research_reader",
+    "expected_db_user": "asd_rag_v2_research_reader",
+    "view": "asd_rag.v_research_retrieval_chunks",
+    "similarity_metric": "cosine",
+    "score_type": "cosine_distance",
+    "k_default": 10,
+    "k_max": 50,
+    "k_probe": [5, 10, 20],
+    "max_query_chars": 1000,
+    "query_expansion": false,
+    "query_cache_dir": "data/index/query_embeddings",
+    "log_dir": "logs/retrieval"
+  }
+}

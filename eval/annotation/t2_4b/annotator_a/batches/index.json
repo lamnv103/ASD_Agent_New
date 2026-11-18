@@ -1,0 +1,173 @@
+{
+ "batch_01": {
+  "questions": [
+   "q055",
+   "q061",
+   "q066"
+  ],
+  "pairs": 128
+ },
+ "batch_02": {
+  "questions": [
+   "q038",
+   "q021",
+   "q051"
+  ],
+  "pairs": 132
+ },
+ "batch_03": {
+  "questions": [
+   "q012",
+   "q034",
+   "q035"
+  ],
+  "pairs": 127
+ },
+ "batch_04": {
+  "questions": [
+   "q032",
+   "q044",
+   "q039"
+  ],
+  "pairs": 137
+ },
+ "batch_05": {
+  "questions": [
+   "q052",
+   "q016",
+   "q031"
+  ],
+  "pairs": 119
+ },
+ "batch_06": {
+  "questions": [
+   "q017",
+   "q028",
+   "q043"
+  ],
+  "pairs": 138
+ },
+ "batch_07": {
+  "questions": [
+   "q024",
+   "q014",
+   "q062"
+  ],
+  "pairs": 127
+ },
+ "batch_08": {
+  "questions": [
+   "q045",
+   "q037",
+   "q048"
+  ],
+  "pairs": 121
+ },
+ "batch_09": {
+  "questions": [
+   "q033",
+   "q065",
+   "q001"
+  ],
+  "pairs": 126
+ },
+ "batch_10": {
+  "questions": [
+   "q008",
+   "q019",
+   "q050"
+  ],
+  "pairs": 149
+ },
+ "batch_11": {
+  "questions": [
+   "q041",
+   "q006",
+   "q002"
+  ],
+  "pairs": 148
+ },
+ "batch_12": {
+  "questions": [
+   "q026",
+   "q010",
+   "q007"
+  ],
+  "pairs": 131
+ },
+ "batch_13": {
+  "questions": [
+   "q009",
+   "q057",
+   "q053"
+  ],
+  "pairs": 119
+ },
+ "batch_14": {
+  "questions": [
+   "q064",
+   "q054",
+   "q060"
+  ],
+  "pairs": 135
+ },
+ "batch_15": {
+  "questions": [
+   "q047",
+   "q004",
+   "q005",
+   "q063"
+  ],
+  "pairs": 139
+ },
+ "batch_16": {
+  "questions": [
+   "q013",
+   "q029",
+   "q049",
+   "q042"
+  ],
+  "pairs": 151
+ },
+ "batch_17": {
+  "questions": [
+   "q018",
+   "q022",
+   "q059"
+  ],
+  "pairs": 133
+ },
+ "batch_18": {
+  "questions": [
+   "q015",
+   "q011",
+   "q046",
+   "q003"
+  ],
+  "pairs": 160
+ },
+ "batch_19": {
+  "questions": [
+   "q058",
+   "q030",
+   "q027",
+   "q025"
+  ],
+  "pairs": 150
+ },
+ "batch_20": {
+  "questions": [
+   "q020",
+   "q023",
+   "q036"
+  ],
+  "pairs": 133
+ },
+ "batch_21": {
+  "questions": [
+   "q040",
+   "q056"
+  ],
+  "pairs": 88
+ }
+}

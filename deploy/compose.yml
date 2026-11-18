@@ -1,0 +1,30 @@
+# PostgreSQL 16.15 + pgvector 0.8.6 for asd_rag_v2 (local prototype).
+# Run from the project root:
+#   docker compose -p asd-rag-v2 --env-file .env -f deploy/compose.yml up -d --wait
+services:
+  db:
+    image: pgvector/pgvector@sha256:ccc6e83d6e35e931dc7c5def2022729d5a6c370318d099181995567ff1fb4d6b
+    pull_policy: never
+    container_name: asd-rag-v2-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_SUPERUSER_PASSWORD:?set in .env}
+      ASD_RAG_DB_NAME: ${ASD_RAG_DB_NAME:?set in .env}
+      ASD_RAG_OWNER_PASSWORD: ${ASD_RAG_OWNER_PASSWORD:?set in .env}
+      ASD_RAG_INGEST_PASSWORD: ${ASD_RAG_INGEST_PASSWORD:?set in .env}
+      ASD_RAG_APP_PASSWORD: ${ASD_RAG_APP_PASSWORD:?set in .env}
+      ASD_RAG_RESEARCH_READER_PASSWORD: ${ASD_RAG_RESEARCH_READER_PASSWORD:?set in .env}
+    ports:
+      - "127.0.0.1:${ASD_RAG_DB_PORT:-5433}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/initdb:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d ${ASD_RAG_DB_NAME}"]
+      interval: 3s
+      timeout: 3s
+      retries: 30
+volumes:
+  pgdata:
+    name: asd_rag_v2_pgdata

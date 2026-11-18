@@ -1,0 +1,313 @@
+QUESTION q058: Liều risperidone cho trẻ 5 tuổi là bao nhiêu?  (32 candidates)
+
+### 3F9EEBE2DA | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Methods > Procedures | page -
+Females not using contraceptives that were sexually active, pregnant and/or breastfeeding females were excluded (Gringras et al. 2017).
+
+Eligible children entered a 2-week single-blind placebo run-in period after which, if their impaired sleep continued [defined as ≤ 6 h of continuous sleep AND/OR ≥ 0.5 h sleep latency from light-off in 3 out of 5 nights in the last two weeks, based on parent-reported Sleep and Nap Diary (SND)] (Carney et al. 2012), they were randomly assigned (1:1), via permuted block randomization (using an eCRF system), to receive either PedPRM or placebo for the 13-week double-blind treatment period. Placebo mini-tablets were identical in appearance and formulation to PedPRM mini-tablets but without melatonin. The starting dose was 2 mg PedPRM (2 × 1 mg) or matched placebo (2 × 0 mg) mini-tablets once-daily 30–60 min before habitual bedtime and after or with food. After 3 weeks of double-blind treatment, sleep variables were assessed. If the patient did not improve from baseline by at least 1 h as measured by shortening of SL and/or increase in TST, the dose was escalated to 5 mg PedPRM or a matched number of placebo mini-tablets. Optional decrease in dose was also allowed at all times during the study, based on evaluation of excess drowsiness, behavioral changes or ceasing to respond to study drug according to the double-blind phase dose. Children then continued in the double-blind period on the same dose of PedPRM or matched placebo mini-tablets for the remaining 10 weeks, with an efficacy assessment performed at the end of the 13 weeks double-blind treatment period.
+
+### A3866CCBD4 | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | Tables | page -
+brainsci-10-00441-t003_Table 3Table 3
+Recommendations for prescribing melatonin in children with ASD. Adapted from Bruni et al. (2015) [71].
+| Consider melatonin in children with | Sleep-onset insomnia and/or difficulty awakening up in the morning. |
+| Measure… | DLMO when possible before starting the treatment. |
+| Minimum age for administration | Administration after 6 months of age is generally considered safe. |
+| Time of administration in children | - If used as sleep inductor: 30 min before bedtime. |
+| - If used as chronobiotic: 2–3 h before DLMO or 3–4 h before actual sleep-onset time. |
+| Dosage | If used as a sleep inductor: |
+| - start with 1–3 mg (up to 5 mg in adolescents) |
+| - if needed, increase by 1–3 mg every 1–2 week until effect (maximum 3 mg if < 40 kg; up to 5–6 mg if > 40 kg (see text)). |
+| If used as chronobiotic: |
+| - start with a low dose of 0.2–0.5 mg |
+| - if needed, increase by 0.2–0.5 mg every week until effect |
+| - if no response after 1 week: increase dose by 1 mg every week until effect |
+| - when 1 mg is effective: try lower dose. |
+| Treatment duration | - Treatment duration should be tailored to the specific patient but in general should not be less than 1 month |
+| Stopping successful treatment too early may result in relapse of insomnia. |
+| - Treatment can be withdrawn just before puberty (around 12 years of age) or shortly thereafter. |
+| - Stop melatonin treatment once a year for one week (preferably in summer) after a normal sleep cycle is established. |
+| When melatonin treatment is not effective/loses effectiveness over time | - Check timing of administration. |
+| - Be aware that loss of efficacy of melatonin treatment is most likely caused by slow melatonin metabolism: in some cases, dose reduction is warranted instead of dose escalation. |
+| - Reconsider diagnosis: look for neuropsychiatric and medical comorbidities and treat them. |
+| - Concomitant medications can influence melatonin metabolism: |
+| e.g., ciprofloxacin, cimetidine, fluvoxamine (inhibitors) or carbamazepine, insulin, omeprazole (inducers). |
+| If sleep maintenance problems after start of melatonin treatment | Melatonin dose is probably too high. |
+DLMO = Dim Light Melatonin Onset.
+
+### CC6061C382 | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.1. Melatonin | page -
+Table 3 summarizes some clinical tips on the use of melatonin, proposed during an expert consensus conference [71].
+
+Recently, several studies have been published about the efficacy and safety of pediatric prolonged-release melatonin (PedPRM) in children with ASD. A randomized, double-blind controlled trial [97] in 125 subjects aged 2–17.5 years with ASD or Smith-Magenis syndrome showed that PedPRM mini-tablets (from 2 to 10 mg) significantly improved TST and SOL, with clinically relevant effect sizes. These improvements were well established after the first 3 weeks of treatment and then maintained throughout the entire duration of the study (13 weeks). Notably, 41% of participants responded initially to the low-dose (2 mg) PedPRM and did not require dose escalation; whereas, among the patients requiring a dose increase to the 5 mg PedPRM, half of them responded well, while the other half was eligible for further dose escalation to 10 mg. The authors did not report earlier morning awakenings in the PedPRM-treated group, differently from children treated with immediate-release melatonin [76]. There was no sign of tolerance development. Beside the decreased overall sleep disturbance, children’s externalized disruptive behaviors and caregivers’ quality of life also improved with PedPRM versus placebo [98]. The same authors then followed part of the subjects who completed the previous study up to 104 weeks of treatment, to assess long-term efficacy and safety of PedPRM [99,100]. They concluded that the improvements were maintained throughout the treatment period, and that children showed also longer uninterrupted sleep period and reduction in mid-sleep awakenings [99]. With regard to the tolerability profile, PedPRM seemed to be generally safe, the most frequent adverse reactions being fatigue (6.3%)—often reported after dose escalation and quickly resolved by decreasing the dose, sleepiness (6.3%) and mood swings (4.2%). There was no evidence of delayed growth or pubertal development and the discontinuation of PedPRM was not associated with withdrawal effects nor rebound insomnia.
+
+### 1E0BFFBE62 | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Introduction | page -
+2011).
+
+Paediatric Prolonged-Release Melatonin (Slenyto®, Neurim Pharmaceuticals; PedPRM) is a novel age appropriate formulation developed for sleep disorders in children with neurodevelopmental disabilities that have difficulties swallowing. PedPRM is an oral solid dosage form of prolonged-release melatonin mini-tablets (3 mm in diameter), to be swallowed as a whole and has been designed to gradually release melatonin, mimicking the physiological secretion profile of melatonin to produce sustained plasma levels of melatonin for up to 8–10 h.
+
+We have recently reported on a 13 week, randomized, double-blind, placebo-controlled, parallel group, multi-center (EU and USA) study on the effects of Ped-PRM, in children and adolescents (ages 2–17.5 years old; N = 125) with ASD or SMS (with or without co-occurring ADHD), who had not shown improvement after standard sleep hygiene intervention (Gringras et al. 2017). Study results indicated that PedPRM (2/5 mg) was efficacious and safe compared to placebo for treatment of insomnia in children with ASD or SMS with clinically meaningful improvements shown in total sleep time (TST), duration of uninterrupted sleep (longest sleep episode) and sleep latency (SL) and without causing earlier wake-up time (Gringras et al. 2017). Subjects slept on average 57.5 min longer at night with PedPRM compared to 9.14 min with placebo (adjusted mean treatment difference PedPRM-placebo TST = − 32.43 min; p = 0.034). Sleep Latency (SL) decreased by 39.6 min on average with PedPRM and 12.5 min with placebo (adjusted mean treatment difference SL = − 25.30 min; p = 0.011) without causing earlier wake-up time. Rate of participants attaining clinically meaningful responses in TST and/or SL (increase ≥ 45 min in TST and/or decrease ≥ 15 min in SL) was significantly higher with PedPRM than placebo (68.9% vs. 39.3% respectively; p = 0.001) (Gringras et al. 2017).
+
+The effects of PedPRM intervention compared with placebo on child behavior as well as caregiver’s well-being outcomes in children with ASD and insomnia were studied.
+
+### 28CA134CA8 | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Results > Participants | page -
+Table 1
+Demographic and baseline characteristics of randomized groups
+|  | Circadin® | Placebo | Overall |
+|  | (N = 60) | (N = 65) | (N = 125) |
+|---|---|---|---|
+| Age, years |  |  |  |
+| Mean ± SD | 9.0 ± 4.08 | 8.4 ± 4.24 | 8.7 ± 4.15 |
+| Range | 2, 17 | 2, 17 | 2, 17 |
+| Sex, n (%) |  |  |  |
+| Male | 45 (75.0%) | 47 (72.3%) | 92 (73.6%) |
+| Female | 15 (25.0%) | 18 (27.7%) | 33 (26.4%) |
+| Ethnicity, n (%) |  |  |  |
+| Not Hispanic or Latino | 40 (66.7%) | 49 (75.4%) | 89 (71.2%) |
+| Hispanic or Latino | 12 (20.0%) | 7 (10.8%) | 19 (15.2%) |
+| Other | 8 (13.3%) | 8 (12.3%) | 16 (12.8%) |
+| Unknown | 0 | 1 (1.5%) | 1 (0.8%) |
+| Race, n (%) |  |  |  |
+| White | 57 (95.0%) | 55 (84.6%) | 112 (89.6%) |
+| Black or African American | 1 (1.7%) | 8 (12.3%) | 9 (7.2%) |
+| Other | 3 (5.0%) | 3 (4.6%) | 6 (4.8%) |
+| Asian | 0 | 2 (3.1%) | 2 (1.6%) |
+| Height, cm |  |  |  |
+| Mean ± SD | 133.4 ± 24.17 | 130.4 ± 27.20 | 131.8 ± 25.73 |
+| Range | 89, 180 | 79, 197 | 79, 197 |
+
+### 6EF1D37280 | Swimming Lessons for Children With Autism: Parent and Teacher Experiences | Method > Results | page -
+Table 1.
+Parent and Child Participant Demographics.
+| Participant | Child’s age at time of interview | Age when starting swimming lessons | Number of years in swimming lessons | Gender (child) | Socioeconomic status/community setting | Class size, frequency, and funding |
+|---|---|---|---|---|---|---|
+| P104 | 8 years | 3 years | 4–5 years | Male | Johannesburg East, middle class | 1:1, weekly, privately funded |
+| P106 | 5 years | 4 years | 1 year | Male | Johannesburg East, middle class | 1:1, weekly, privately funded |
+| P107-1P107-2 | 5 years | 4 years | 1 year | Male | Johannesburg North, middle class | 1:1, weekly, privately funded |
+| P108 | 16 years | 6 months | 15 years | Female | Johannesburg North, upper class | 1:1, weekly, privately funded |
+| P110 | 5 years | 4 years | 1 year | Male | Johannesburg North, upper class | 1:1, weekly, privately funded |
+
+### 0440FDD2E6 | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Results > Participants | page -
+Table 1
+Demographic and baseline characteristics of randomized groups
+|  | Circadin® | Placebo | Overall |
+|  | (N = 60) | (N = 65) | (N = 125) |
+|---|---|---|---|
+| Weight, kg |  |  |  |
+| Mean ± SD | 37.86 ± 21.495 | 35.22 ± 23.249 | 36.49 ± 22.374 |
+| Range | 11.7, 90.1 | 9.8, 129.9 | 9.8, 129.9 |
+| BMI, kg/m |  |  |  |
+| Mean ± SD | 19.50 ± 4.899 | 18.79 ± 4.901 | 19.13 ± 4.893 |
+| Range | 12.7, 32.8 | 12.3, 35.3 | 12.3, 35.3 |
+| Disease characteristics |  |  |  |
+| ASD | 58 (96.7%) | 63 (96.9%) | 121 (96.8%) |
+| SMS | 2 (3.3%) | 2 (3.1%) | 4 (3.2%) |
+| ADHD | 16 (26.7%) | 20 (30.8%) | 36 (28.8%) |
+| Epilepsy | 10 (16.7%) | 6 (9.2%) | 16 (12.8%) |
+| Impaired sleep | 60 (100%) | 65 (100%) | 125 (100%) |
+| Medical history |  |  |  |
+| Agitation | 42 (70.0%) | 46 (70.8%) | 88 (70.4%) |
+| Mood swings | 43 (71.7%) | 40 (61.5%) | 83 (66.4%) |
+| Somnolence | 28 (46.7%) | 35 (53.8%) | 63 (50.4%) |
+
+### BAF3D6DAAB | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Results > Participants | page -
+After 3 weeks of double-blind treatment (starting at study week 3), 41% (23 of 56) of the children in the PedPRM treatment group improved their sleep on the 2 mg dose versus 20% (12 of 61) in the placebo group. The remaining subjects 59% (33 of 56) in the PedPRM group and 80% (49 of 61) in the placebo group were escalated (at week 5) to the higher dose of 5 mg PedPRM or the placebo equivalent. We did not find any differences between children improving on 2 versus 5 mg of PedPRM.
+
+### 38842129E2 | Parent-Mediated Interventions for Children and Adolescents With Autism Spectrum Disorders: A Systematic Review and Meta-Analysis | Discussion | page -
+Previous reviews have also identified minor improvements in core symptoms of ASD in children participating in PMIs (10, 13), which was not confirmed in this meta-analysis. However, the clinician-rated core symptom measures favored of the PMIs, with a non-significant but clinically relevant effect.
+
+As early interventions have been developed for children with ASD over the past several years (69), it is expected that most studies target younger children when searching for PMIs. This was confirmed in the current review, where only two of 30 included studies targeted children 5 years of age and older (38, 42), although the age range of the study population in this review 18 months to 17 years. The age range was suggested by the scientific committee, and interest associations which were both appointed by the Danish Health Authority to develop national Clinical Practice Guidelines in Denmark. The inclusion of both children and adolescents was relevant for most of the frameworks in the guideline development and was therefore applied to all of the PICOs.
+
+Typically, interventions targeting social communication are recommended to younger children. This underlines the necessity of using interventions appropriate for the child's age and developmental stage. With respect to the remaining secondary outcomes, a clinically relevant effect regarding clinician rated core symptoms of ASD was seen in favor of PMIs. Moreover, the interventions targeting conduct problems were provided to younger children with ASD aged 2–9 years of age (27, 34, 45); interestingly, some of the studies extended the intervention to be applied to children 4 and 5 years of age to 12 and 13-year-old children (26, 42), suggesting that these kinds of interventions are effective at improving positive behavior in both younger and older children.
+
+### 288798D129 | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.5. Iron | page -
+However, no correlation was found between restless sleep scores—as measured by two sleep questionnaires—and serum ferritin concentration. No improvement was described in other sleep parameters either.
+
+As has been shown, only limited data are currently available for children with ASD. Nevertheless, many authors suggest the administration of iron supplements in this population when low ferritin levels (below 30–50 ng/mL) and poor sleep quality are both present [20,25,164]. The recommended initial dose in the pediatric age is usually 1–2 mg/kg/day of elemental iron divided in 2–3 doses between meals; the clinician may then titrate up to 6 mg/kg/day, in order to reach a serum ferritin concentration of 30–50 ng/mL or more [20,173]. Follow-up visits should be scheduled within 2–3 months of oral iron initiation, to check ferritin levels and to identify potential hinders to iron absorption and adherence to therapy [167]. Notably, the elemental iron should not be administered with milk or dairy products, nor with anti-acids, H2-receptors antagonists, and proton-pump inhibitors, which can affect iron absorption [166]. Compliance to therapy—especially in the pediatric age—has been shown to be the main problem for iron supplementation in children with RLS [167]. Indeed, many factors can affect adherence to treatment: poor palatability, frequent gastrointestinal side effects—such as constipation—[20,174], difficulty in swallowing pills, or teeth staining for liquid preparations [175].
+
+### D507F5FAB4 | A systematic review of ayres sensory integration intervention for children with autism | Abstract > Methods > Stage 3: Data Analysis Using CEC Criteria | page -
+Table 3
+CEC Quality Indicator Ratings for Reviewed Studies
+| CEC QI Criterion | Iwanaga et al. [2014] | Pfeiffer, Koenig, Kinnealey, Sheppard, and Henderson [2011] | Schaaf et al. [2014] |
+|  | Rating | Comments | Rating | Comments | Rating | Comments |
+|---|---|---|---|---|---|---|
+| 4.1 Study describes detailed intervention procedures such as instructional behaviors, critical or active elements, manualized or scripted procedures, dosage, intervention agents' actions, or cites one or more accessible sources that provide this information. 4.2 When relevant, study describes materials (e.g., manipulatives, worksheets, timers, cues, toys), or cites one or more accessible sources providing this information. | Yes | 4.1 Practice described relative to components of ASI fidelity measure (which was not available at time of this study); dosage 1 hr/week for 8–10 months (average of 9.3 months; no specific manual, but intervention followed 10 key therapeutic strategies of ASI Group therapy dosage 1.5 hr/week for 8–10 months (average 9.3 months); activities described briefly (social skill training, communication training, kinetic activities, child–parent play); environment not described 4.2 Provides description of materials, activities and additional resources for ASI intervention | Yes | 4.1 Practice described as SI intervention based on ASI fidelity measure and grounded in Ayres SI treatment theory; dosage 18 sessions, 45 min each for 6 weeks, one child received 17 sessions; intervention followed 10 key therapeutic strategies for ASI Fine motor treatment training and intervention based on fidelity measure developed for this study; Basis for treatment for both groups described and examples provided with literature resources cited 4.2 Specific materials not described but general activities for both groups presented with additional resources provided for ASI intervention | Yes | 4.1 Practice well described as ASI; dosage 3 hr/week, 1‐hr sessions, total of 30 sessions over 10–12 weeks; specific details of intervention provided with reference to manual pending publication at time of study; multiple appropriate sources for more information cited; adherence to fidelity conducted in a feasibility study prior to study and results published elsewhere 4.2 Examples and description of some equipment/materials and f specific activities with multiple appropriate sources for more information |
+| 5. Implementation Fidelity | Practice is implemented with fidelity. |
+Note. Items 6.5, 6.6, 6.7, and 8.2 removed from the table as they applied only to single‐subject studies.
+
+### 611F62233F | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.3. Tryptophan/5-Hydroxytryptophan | page -
+As for 5-HTP, its use in healthy humans has been shown to increase REM sleep at dosages ranging from 200 to 600 mg/day [134].
+
+Trp and 5-HTP appear to be safe and have few and mild side effects. However, in consideration of the possibility of serotonin syndrome, Trp and 5-HTP should not be used in patients currently treated with many antidepressants (such as monoamine oxidase inhibitors, SSRI, or tricyclic antidepressants) [135]. Tremor, nausea, and dizziness have been reported in association with Trp, but almost exclusively when taken at high doses (70–200 mg/kg/day) or in association with SSRI [136]. As for 5-HTP, some patients experience nausea and vomiting when taking it, especially at the beginning of treatment, but such symptoms are benign and usually transitory. It is suggested, to avoid them, to initiate the therapy at low doses and increase them gradually if necessary [135]. Reports of cases of eosinophilia-myalgia syndrome (EMS) in patients taking L-Trp in 1989 should not raise concerns about the use of Trp or 5-HTP as dietary supplements. Investigations found out that a contaminant, rather than Trp itself, had caused this illness: a new bacterial strain, used by a single manufacturer in the fermentation process of Trp, together with insufficient purification of the product, were responsible for the EMS epidemic [137]. Trp was temporarily banned from the market by the FDA, until 2005. Since then, Trp-containing products are available and commonly used as dietary supplements. After 1989, 5-HTP has become popular in place of Trp. Because of its biochemical similarity to Trp, 5-HTP has been under vigilance for its safety, but no ascertained cases of toxicity have emerged, even though 5-HTP is widely used worldwide. Extensive analyses of several sources of 5-HTP did not find toxic contaminants or any other significant impurity [137].
+
+### 7FDAAF414D | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Outcomes | page -
+Table 4
+Intervention characteristics.
+| Study | Intervention description and dosage | Method of delivery to parent | Skills or aims of intervention |
+|---|---|---|---|
+| Hamad et al [49] | Web-based training intervention in behavioral interventionsDosage: intervention approximately 4-8 h within a 3-week periodThree modules | On the Web using Blackboard Vista 4 platformIncluded: short Web-based lectures, practical exercises, video demonstrations of procedures, study questions, and frequent short Web-based quizzes. | • Positive reinforcement: selection and use of reinforcement.• Relationship building: parent and teaching cooperation.• Prompting and prompt fading. |
+| Heitzman-Powell et al [50] | OASIS training intervention Research-to-practiceApplied behavior analysis outreach training model Dosage: Eight modules; timeframe not specified | Training program combines Web-based instructional modules and participation in distance coaching sessions. | • Introduction to ASDaand behavioral treatment;• Basic ABAbprinciples and procedures• Use ABA procedures to teach new skills• Use ABA procedure to reduce challenging behavior• Generalize skills to other settings• Collection and analysis of data for data-based intervention decision-making• Working with treatment teams and other provider |
+| Ingersoll and Berger [43] Ingersoll et al [44] Pickard et al [45] | Project ImPACT on the Web—Website-based training for a naturalistic, developmental-behavioral, parent-meditated intervention for children with ASDDosage: Self-directed—Encourage to complete 1 lesson per week, approximately 80 min for 12 weeks.Therapists assisted—dosage same as self-directed group plus 2 30-min remote coaching sessions per week by trained therapist. | Access to training material was on the Web via personal computer.Included: narrated slideshow with embedded video examples of techniques, written description of lessons, exercises, homework, and reflection questionsTraining program for the therapist-assisted group was administered by trained therapists using videoconferencing software. | • Promote child social communication within the context of play and daily routines |
+| St. Peter et al [46] | Implementation discrete-trial instructions using a video training materialsDosage: video training was 37 min in durationWritten training was a 30-page manual | Written training materials (control) or video training materials (experimental) containing similar content. | • Increase adherence to discrete-trial instruction procedures. |
+
+### C38B2C52ED | The Methodological Quality and Intervention Fidelity of Randomised Controlled Trials Evaluating Social Skills Group Programs in Autistic Adolescents: A Systematic Review and Meta-analysis | Keywords > Discussion > Other Findings | page -
+Failing to support the autonomy of autistic adolescents in identifying and pursuing their own social goals can negatively impact the outcomes of SSGPs (Hodgetts et al., 2018).
+
+Across this body of evidence, there is limited understanding of the impact of dosage (number of sessions) on program outcomes (Gates et al., 2017). To date, only efficacy evaluations of KONTAKT® have considered the impact of dose on the outcomes of autistic youth, finding that a longer, 24-session variant demonstrated nearly twice the effect of a medium 16-session and shorter, 12-session variants (Afsharnejad et al., 2021a, 2021b; Choque Olsson et al., 2017; Jonsson et al., 2018). Although this research provides preliminary insight into the role of dosage in influencing outcomes, there is a need to further understand the efficacy of SSGPs across other cultural and service delivery contexts and the feasibility of these longer programs, given their cost (Wolstencroft et al., 2018). Given these limitations and the continued development of novel SSGPs, the external validity of the programs would be improved by efficacy evaluations with more heterogeneous (Gates et al., 2017) and community-sourced samples.
+
+Lastly, though this review enabled insights into the design of studies published over 12 years evaluating the efficacy of SSGPs via an RCT design, it must be noted that autism-related research is rapidly evolving. As such, the SSGPs evaluated, study methods and approaches do not reflect some of the more contemporary stances in this field, such as the neurodiversity paradigm (Lord et al., 2021). More recent research has suggested that social interaction difficulties experienced by autistic individuals may be due to a mismatch in communication styles between autistic and non-autistic neurotypes (Fletcher-Watson et al., 2019). As such, questions may arise about the appropriateness of SSGPs for autistic individuals. Especially given the potential for unattended and adverse effects (i.e., as a result of masking). Nevertheless, SSGPs are still frequently implemented in clinical settings. These programs likely remain helpful for some individuals to develop the skills they need to meet their social goals and communicate their wants and needs. By nature, a review can only examine what has been done in the past. Going forward, researchers should focus on developing SSGPs co-produced with autistic individuals to enhance the relevance and efficacy of such programs. Likewise, programs that support neurotypicals better communicate with other neurotypes may also be important.
+
+### 5D7C32F39A | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.1. Melatonin | page -
+Melatonin (N-acetyl-5-methoxytryptamine) is a serotonin-derived neurohormone produced by the pineal gland. Its secretion mainly happens during darkness—beginning in the evening and peaking between 2:00 and 4:00 a.m.—and is suppressed by the light [70]. Among its many biological functions (antioxidant properties, anti-inflammatory effects, involvement in early development of neurons and glia), melatonin plays a key role in establishing and regulating the circadian rhythm and has a hypnotic function, via the activation of melatonin receptors MT1 (mainly involved in REM sleep), MT2 (mainly involved in NREM sleep), or both [71,72].
+
+Having well-known chronobiotic and sleep-inducing properties and being perceived as a “natural” substance (due to its endogenous production), melatonin is one of the most frequently prescribed drugs in children and adolescents with sleep problems [12,73,74]. More specifically, a large Australian survey reported that melatonin was prescribed in children with autism and comorbid sleep problems by 85.2% of pediatricians [12]. Initial dosages in children usually range from 1 to 3 mg/night (up to 5 mg/night in adolescents), administered 30–60 min before bedtime. If no improvements are noted, dosage can be titrated by 1–3 mg every 1–2 weeks up to a maximum dose of 10 mg. However, the clinician should consider that patients who have not responded to 6 mg/night are less likely to benefit from a higher dosage [20,75]. No serious adverse events have been associated with melatonin use. The most often reported side effects in children include headache, morning drowsiness, increased enuresis, dizziness, diarrhea, rash and hypothermia [76,77,78]. Earlier morning awakenings were sometimes reported in children supplemented with melatonin [76].
+
+### 78B2206117 | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Interventions | page -
+All interventions were developed with consideration of the geographical isolation of participants, with the aim to ease administration of the intervention and increase feasibility of delivery. Parent training interventions investigated in the included articles are summarized in Table 4.
+
+All interventions were developed by the researchers and varied in dosage and method of delivery. This variation makes synthesis of the research challenging and limits the generalizability of these methods of intervention to the targeted population. Dosage for the interventions ranged from an intensive format of 5 h per day for 5 days, to once-a-week over a number of weeks. The most common dosage was once-a-week sessions, with sessions lasting 1-2 h; however, timeframes ranged from 6-12 weeks [12,43-45]. Additionally, the studies by Heitzman-Powell et al [50] and Wacker et al [47] did not have finite periods, and the duration of intervention continued until all training modules were completed at the participants’ own pace. The lack of comparison regarding the dosage of education and training provided to the parents prevented the identification of an optimal amount of education and training to achieve the maximum benefit to the children.
+
+The methods of delivery for the parent-mediated interventions were equally as wide-ranging, with Hamad et al [49], Heitzman-Powell et al [50], and the study by Ingersoll and Berger [43], Ingersoll et al [44], and Pickard et al [45], requiring parents to access resources on the Web and progress through the content at their own pace. Heitzman-Powell et al [50] coupled the Web-based modules with distant coaching sessions delivered by qualified clinicians. The studies by St. Peter et al [46], Wacker et al [47], and Vismara et al [48] utilized a telehealth delivery model with live, 2-way videoconferencing by qualified clinicians who delivered the intervention in isolation, coupled with a Web-based self-guided website or using teaching materials contained on a DVD. St. Peter et al [46] compared the difference between the effectiveness of delivery methods; training provided using video methods versus training provided via a written manual. Finally, the study by Ingersoll and Berger [43], Ingersoll et al [44], and Pickard et al [45] compared 2 groups; one receiving access to a Web-based training program only and the other having access to the same Web-based training program, but with additional weekly therapist-assistance via videoconferencing.
+
+### 8C9AF85F3A | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.3. Tryptophan/5-Hydroxytryptophan | page -
+Extensive analyses of several sources of 5-HTP did not find toxic contaminants or any other significant impurity [137].
+
+In the pediatric population, Trp and 5-HTP supplementation proved to be effective in reducing NREM parasomnias [138,139]. A clinical trial [139], conducted on 165 children and adolescents diagnosed with primary NREM parasomnia, compared the outcome of patients taking Trp (dose range: 500–4500 mg/day, mean dose of 2400 mg/day) with that of patients who chose not to be supplemented: an improvement in parasomnias was found in 84% of children using Trp, whereas only 47% of children not using it experienced a reduction in parasomnia symptoms (p < 0.001). Another clinical trial [138] proved that in a group of 45 children with sleep terrors, those taking 5-HTP (2 mg/kg/day at bedtime) not only improved their symptoms in a significantly greater proportion than those not being supplemented, but also maintained the improvements at the 6-month follow-up.
+
+Furthermore, Trp seems to reduce night awakenings in children and adolescents. In a pilot study [140] on children aged 7 to 17 years, melatonin supplementation (“ME group”) was compared to melatonin + vitamin B6 + Trp supplementation (“MET group”): after two months of supplementation, a statistically significant reduction of the number of night awakenings was found in the “MET group”, but not in the “ME group”. Similar results were found by another study [141] conducted on a large sample of younger children (748 patients aged 12 to 48 months) that had to undergo audiologic testing requiring the child to be asleep. A solution containing melatonin, Trp and vitamin B6 proved to be significantly more effective than melatonin alone in reducing the number of tests that had to be repeated due to awakening of the child. Such findings suggest the potential benefits of Trp in improving disrupted sleep in the pediatric population.
+
+### 867DFB2E3A | Autism in Viet Nam: A systematic scoping review | sj-docx-1-aut-10.1177_13623613261425838 – Supplemental material for Autism in Viet Nam: A systematic scoping review | page -
+| Category | Value (as printed in chart cache) |
+|---|---|
+| 0-10 | 26 |
+| 11-50 | 29 |
+| 51-100 | 15 |
+| 101-200 | 25 |
+| 201-300 | 14 |
+| 301-400 | 6 |
+| 401-500 | 2 |
+| 500-1000 | 2 |
+| 1001-2000 | 1 |
+| 2001 - 10 000 | 4 |
+| 10 001 - 20 000 | 2 |
+| 40 000 + | 1 |
+| Unclear | 10 |
+
+### C8CA8BB0CC | A systematic review of ayres sensory integration intervention for children with autism | Abstract > Methods > Stage 3: Data Analysis Using CEC Criteria | page -
+Table 3
+CEC Quality Indicator Ratings for Reviewed Studies
+| CEC QI Criterion | Iwanaga et al. [2014] | Pfeiffer, Koenig, Kinnealey, Sheppard, and Henderson [2011] | Schaaf et al. [2014] |
+|  | Rating | Comments | Rating | Comments | Rating | Comments |
+|---|---|---|---|---|---|---|
+| 5.1 The study assesses and reports implementation fidelity related to adherence using direct, reliable measures (e.g., observations using a checklist of critical elements of the practice). 5.2 The study assesses and reports implementation fidelity related to dosage or exposure using direct, reliable measures (e.g., observations or self‐report of the duration, frequency, curriculum coverage of implementation). 5.3 As appropriate, the study assesses and reports implementation fidelity (a) regularly throughout implementation of the intervention, and (b) for each interventionist, each setting, and each participant or other unit of analysis. | No | 5.1 Study refers to principles of ASI, but does not use fidelity measure 5.2 Indicates dosage, but does not use a fidelity measure 5.3 N/A since fidelity not measured | Yes | 5.1 ASI fidelity measure used; all ASI sessions met fidelity criteria of >80; fine motor fidelity measure developed for study including 3 main focus areas, fidelity criteria, and score range to support assessment of fidelity; all fine motor sessions met fidelity criteria of ≥75 5.2 Dosage indicated by session length, number of sessions/week; total number of sessions; subjects completed 18 sessions, except one subject completed 17 5.3 All sessions checked for fidelity | Yes | 5.1 Manualized intervention with adherence to fidelity; reported psychometrics for fidelity measure; all intervention sessions recorded; 10% evaluated and rated for fidelity 5.2 ASI group received all scheduled sessions; usual care group reported weekly services received; total weekly services for both groups reported; no significant differences reported between groups for interventions other than ASI; Attrition reported for both groups; 5.3 10% randomly selected ASI sessions subjected to fidelity checks throughout study, allowing changes to be made to insure fidelity |
+| 6. Internal validity | Independent variable is under control of experimenter. Study describes services provided in control and comparison conditions and phases. Research design provides sufficient evidence that independent variable causes change in dependent variable or variables. Participants stayed with study, so attrition is not a significant threat to internal validity |
+Note. Items 6.5, 6.6, 6.7, and 8.2 removed from the table as they applied only to single‐subject studies.
+
+### 73F19EBFC8 | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | Tables | page -
+brainsci-10-00441-t004_Table 4Table 4
+Recommended dosages of some commonly used antihistamines for treating sleep disorders in children.
+| Antihistamine | Dosage | Effects on Sleep | Refs |
+|---|---|---|---|
+| Diphenhydramine | 0.5 mg/kg up to 25 mg/day | ↓ SOL; ↓ arousal threshold | [111,112] |
+| Hydroxyzine | 0.5–1 mg/kg/day | ↓ SOL; ↓ arousal threshold | [113] |
+| Niaprazine | 1 mg/kg/day | ↓ SOL; ↓ arousal threshold; effect on sleep maintenance (e.g., ↑ TST) | [114,115] |
+| Most common side effects: daytime drowsiness, gastrointestinal disturbances (vomiting, constipation), paradoxical excitation, anti-cholinergic effects [25]. |
+↓ = decrease; ↑ = increase.
+
+### 23FCA96F6C | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.6. Vitamin D | page -
+Moreover, it has been demonstrated that low vitamin D levels are often associated with iron deficiency in children, even if there is no clear etiological explanation for this correlation [182].
+
+A prospective study on a large French pediatric cohort suggested an association between low serum levels of 25(OH)D in the cord blood and an increased risk of being a persistent short sleeper in preschool age [183]. However, another observational study [184] did not confirm the association between cord blood vitamin D deficiency and any sleep parameter, neither objectively nor subjectively assessed, at the age of 2 years. Nevertheless, the same study found that children with vitamin D deficiency at the age of 2 years had significantly shorter night sleep duration and total sleep duration—measured both subjectively and objectively—than those with normal vitamin D levels (p < 0.05). Furthermore, a clinical trial conducted in older Chinese children (age range 8–14 years) showed that 25(OH)D serum levels are positively correlated with sleep duration and that insufficiency/deficiency of vitamin D (25(OH)D ≤ 20 ng/mL) is independently associated with an increased probability of insufficient sleep [185].
+
+In children with ASD—to our knowledge—no adequate interventional study has been carried out to investigate the effects of vitamin D supplementation on sleep. Despite that, in recent years an increasing number of studies have shown lower serum levels of vitamin D in children with ASD than in neurotypical children [186,187]. Consequently, it might be useful to assess vitamin D levels in autistic children with sleep disturbances [18]. A fairly large consensus exists that when a vitamin D deficiency is found, an appropriate dosage for supplementation in all infants and most children is 400–600 international units (IU)/day, i.e., approximately 10–15 μg/day. [188]. However, some authors reported that vitamin D blood levels are more relevant than the administered dose in improving sleep quality, with the most beneficial effects on sleep being obtained for 25(OH)D hematic concentrations of 60–80 ng/mL [189].
+
+### 6067E5211B | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Methods > Procedures | page -
+Children then continued in the double-blind period on the same dose of PedPRM or matched placebo mini-tablets for the remaining 10 weeks, with an efficacy assessment performed at the end of the 13 weeks double-blind treatment period.
+
+All completers of the double blind phase then received open label PedPRM (2/5 mg) according to the final dose in the double-blind phase. Accordingly, in the placebo arm, those who received 2 mini-tablets of placebo received 2 mg PedPRM and those who received 5 placebo mini-tablets received 5 mg PedPRM in the open-label phase. Children then continued in a 91-week open-label follow-up treatment period. After the first 13 weeks of open label treatment there was a second optional dose optimization (2, 5 or 10 mg/day) for those who did not improve by 60 min or more in TST, SL or both from baseline. Subjects then continued open-label on 2, 5 or 10 mg of PedPRM for the remaining period, with efficacy assessment after 26, 39 and 91 weeks of open-label follow-up. The PedPRM treatment period was followed by 2 week single-blind placebo period (withdrawal phase), with the overall study period being 2.2 years.
+
+### 596BBEC1D4 | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.1. Melatonin | page -
+Only a weak effect was found for SE, as several the studies yield negative results for this parameter [30].
+
+Not included in the above-mentioned meta-synthesis, but of interest for its design, is a study conducted on a large sample of autistic children and adolescents over a period of 12 weeks [94]. This RCT showed that controlled-release melatonin at the dosage of 3 mg/night (1 mg immediately released and 2 mg released over a 6 h period), alone or in combination with cognitive-behavioral therapy (CBT), is effective in improving SOL, TST, WASO, and number of awakenings, as measured by actigraphy, with moderate-to-large effect sizes. Furthermore, the authors highlighted that the combination treatment group (CBT + melatonin) had higher rates of patients completing the treatment schedule and of patients obtaining clinically significant changes in sleep measures. This seems to suggest a greater effectiveness of melatonin when administered in association with a cognitive-behavioral intervention, at least in the short term.
+
+From a practical point of view, in some children with autism a major limitation for melatonin treatment is the loss of efficacy after an initial good response [25]. Often, patients in whom the benefits of melatonin disappear after some time have been shown to have a slow metabolism of melatonin, due to a single nucleotide polymorphism in the CYP1A2 gene [95]. This may result in increased melatonin levels during daytime and, consequently, in the loss of the circadian melatonin rhythm, thus explaining the fading of effectiveness of exogenous melatonin over time [96]. As a consequence of these findings, there is now a greater understanding that low (0.5 mg), rather than high doses can work for some children, with diminishing effects for doses over 6 mg [25].
+
+Table 3 summarizes some clinical tips on the use of melatonin, proposed during an expert consensus conference [71].
+
+### 0DD98ED7E3 | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Results > Caregiver Related Outcomes | page -
+Table 4
+Caregivers responses after 3 and 13 weeks of double blind treatment
+| Variable | Group | Adjusted treatment means (SE) [95% CI] | Treatment difference (SE) | 95% CI | p-value* |
+|---|---|---|---|---|---|
+| 3 weeks |  |  |  |  |  |
+| WHO-5 | PedPRM | 1.53 (0.515) [0.51; 2.55] | 1.60 (0.729) | 0.16, 3.05 | 0.030 |
+| Placebo | − 0.07 (0.516) [− 1.09; 0.95] |
+| PSQI | PedPRM | − 1.09 (0.360) [− 1.80, − 0.38] | − 0.75 (0.510) | − 1.76, 0.26 | 0.146 |
+| Placebo | − 0.34 (0.361) [− 1.06, 0.37] |
+| ESS | PedPRM | − 0.84 (0.395) [− 1.62, − 0.06] | − 1.04 (0.561) | − 2.15, 0.07 | 0.067 |
+| Placebo | 0.02 (0.396) [− 0.59, 0.99] |
+| 13 weeks |  |  |  |  |  |
+| WHO-5 | PedPRM | 1.43 (0.565) [0.31, 2.55] | 2.17 (0.831) | 0.53, 3.82 | 0.010 |
+| Placebo | − 0.75 (0.608) [− 1.95, 0.46] |
+*MMRM analysis compared to placebo
+
+### 89C6ED89D3 | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.2. Antihistamines | page -
+The common doses recommended by manufacturers and/or by experimental studies for these drugs are summarized in Table 4.
+
+Despite that the use of antihistamines is widespread in the pediatric population, randomized controlled studies in children are lacking [18], and this is even more true in ASD [19]. The most often used antihistamine drug, diphenhydramine hydrochloride, has generally been studied in adults [114,116]. For adults, the usual dosage ranges from 25 to 50 mg/day while in children, the recommended dosage is 0.5 mg/kg/day up to a maximum of 25 mg/day. However, only one study investigated the effectiveness of this medication in children with sleep disorders aged 2 to 12 years [111], reporting reduced SOL and night awakenings. On the contrary, a more recent RCT [112] in children younger than 2 years showed that diphenhydramine was not more effective than placebo neither in reducing awakenings nor in improving parental satisfaction of their children’s sleep. Also, hydroxyzine [113], and niaprazine [114,115] have been used to treat sleep disturbances in children: their usual dosage and effects on sleep are reported in Table 4. A randomized double-blind placebo-controlled trial [117] was conducted to test the efficacy of the antihistamine trimeprazine on sleep disturbances of infants aged 6 to 27 months, showing that this compound is clinically ineffective in treating this condition.
+
+Other antihistamine compounds often used as sleep-inducing medications in adults include doxylamine, pyrilamine, cyproheptadine, and promethazine [107], even though they are more rarely used to treat pediatric insomnia.
+
+### 91BA4533CB | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.3. Tryptophan/5-Hydroxytryptophan | page -
+Tryptophan or L-tryptophan (Trp) is an essential amino acid, necessary for the biosynthesis of proteins. After ingestion, it participates in many metabolic pathways where it is converted into different bioactive molecules (such as serotonin, melatonin, kynurenine, and the vitamin niacin) [124]. 5-hydroxytryptophan (5-HTP) is the intermediate metabolite in the biosynthesis of serotonin from Trp and it easily crosses the blood–brain barrier. It is obtained from hydroxylation of Trp by the enzyme Trp-hydroxylase. As this is the rate-limiting step in serotonin synthesis, therapeutic doses of 5-HTP effectively increase the biosynthesis of serotonin in the CNS [25,125].
+
+The mechanisms through which Trp/5-HTP influence sleep appear to be multiple and not completely understood. It is well established that by increasing the CNS concentration of serotonin, 5-HTP provides substrates for melatonin production and enhances serotonin-mediated regulation of sleep. The serotonergic system—in the past considered slow wave sleep-inducing but later regarded as wake-promoting—might actually have different effects on sleep that depend on its degree and timing of activation. Serotonin may indeed directly inhibit sleep, but subsequently induce a cascade of physiological processes that enhance sleep, mediated by yet to be identified sleep-promoting factors [126,127].
+
+Trp at doses of 1 g/day or more has been shown to increase TST and decrease sleep latency and arousal after sleep onset in adults with insomnia [128,129]. It has not an opioid-like effect and does not prevent desired arousal from sleep, causing none [130] to negligible alterations of the physiological sleep architecture (minimal decrease in REM sleep and increase in NREM sleep) [131]. In subjects with neuropsychiatric syndromes and self-reported sleep disturbances, Trp given at bedtime (dosages from 1.2 g to 3 g) was found to increase the amount of slow wave sleep, without altering the amount of REM sleep [132]. Furthermore, Trp dietary intake in the general population has recently been shown to be positively associated with self-reported sleep duration [133]. As for 5-HTP, its use in healthy humans has been shown to increase REM sleep at dosages ranging from 200 to 600 mg/day [134].
+
+### 34076FD7DC | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines | page -
+Sleep pills should be considered to be an additional treatment option to improve sleep in children when non-pharmacological interventions are unsuccessful [17]. However, in children with ASD pharmacological treatment is sometimes convenient as a first-line strategy together with non-pharmacological approaches, given the greater severity of sleep disturbances in these patients [25]. Both prescription hypnotic drugs and OTC sleep-promoting agents might be useful in clinical practice. Due to the scarcity of controlled studies, there is no sleep medication approved by the FDA and only one—prolonged-release melatonin for the treatment of insomnia—approved by the EMA for children and adolescents with ASD. Sleep-promoting agents are therefore widely prescribed off-label, the most commonly used off-label medications being sedating antihistamines (e.g., diphenhydramine or hydroxyzine), melatonin, α2-receptor agonists (e.g., clonidine), benzodiazepines, pyrimidine derivatives (e.g., zaleplon and zolpidem), antipsychotics (e.g., risperidone and quetiapine), and sedating antidepressants (e.g., trazodone and mirtazapine) [68].
+
+Some of the above-mentioned agents—i.e., antihistamines and melatonin—are available over the counter in many countries all over the world. Non-prescription medications—including OTC drugs, nutritional supplements, and herbal remedies—are indeed widespread therapies for sleep disturbances in children, as they are generally easily accessible and well accepted by caregivers. Furthermore, oral non-prescription treatments are often considered to be a “safe choice” by clinicians, as they usually have less significant side effects in comparison to some prescription hypnotic drugs—such as antipsychotics and antidepressants [12,69].
+
+Here we describe the oral non-prescription treatments and nutritional supplements most commonly used for sleep problems in children with ASD: melatonin, antihistamines, tryptophan, carnosine, vitamin D, iron, other multivitamin and mineral supplements, and herbal remedies.
+
+### 2DB811FA5E | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Intellectual Assessment > Stanford-Binet - 5th Edition (SB-5) | page -
+The Stanford-Binet - 5 th Edition (SB-5; Roid, 2003) is used to assess intellectual abilities in individuals ages 2 to 85. It generates five-factor scores in Fluid Reasoning, Knowledge, Quantitative Reasoning, Visual-Spatial Process, and Working Memory. The SB-5 provides both verbal and nonverbal IQ scores, which are especially useful in testing autistic individuals who are non-speaking or have limited language abilities. It takes 45 to 75 min to complete. Individuals with ASD were included in the standardization sample. The SB-5 has good internal consistency reliability (0.98; DiStefano & Dombrowski, 2006), test–retest reliability (0.86; DiStefano & Dombrowski, 2006), median interrater reliability (0.90; Roid, 2003), and concurrent validity (0.90 with SB-4, and 0.78 with Woodcock-Johnson III; Roid, 2003). The SB-5 also provides an Abbreviated Battery IQ (ABIQ), which is based on two routing subtests: One nonverbal (Object Series/Matrices) and one verbal (Vocabulary). Correlations between the ABIQ and full-scale IQ are strong (Twomey et al., 2018).
+
+### 113022146B | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Methods > Procedures | page -
+Children (ages 2–17.5 years) with: (1) physician-diagnosed ASD according to ICD-10 or DSM-IV/DSM-5 criteria, or NGD [while the protocol allowed SMS, Angelman syndrome, and Bourneville’s disease (tuberous sclerosis), eventually only SMS patients participated] along with (2) chronic sleep disturbances (minimum 3 months of impaired sleep defined as ≤ 6 h of continuous sleep AND/OR ≥ 0.5 h sleep latency from light-off in 3 of 5 nights based on parent report and patient medical history) were included.
+
+Children without documented history of sleep hygiene intervention at screening, underwent 4 weeks of booklet-assisted basic parent-led sleep behavioral interventions based on a previously studied and standardized sleep behavior treatment (Montgomery et al. 2004). This period ensured that children whose sleep disorder was amenable to treatment with non-pharmacological intervention were not randomized, along with serving as an opportunity for wash-out from any hypnotics.
+
+Exclusion criteria included other sleep disorders according to medical history, use of prohibited medication or melatonin within 2 weeks prior to screening, allergy to melatonin or lactose (an excipient of the mini-tablet) or unresponsive to previous of PRM (Slenyto®, Neurim Pharmaceuticals) therapy and participation in a clinical trial within the last 3 months prior to the study. Females not using contraceptives that were sexually active, pregnant and/or breastfeeding females were excluded (Gringras et al. 2017).
+
+### 3FAC8EE555 | Mental Health Medications | What are antidepressants? | page -
+Antidepressants are medications used to treat depression. In some cases, health care providers may prescribe antidepressants to treat other health conditions, such as anxiety, pain, and insomnia.
+
+Commonly prescribed types of antidepressants are:
+
+- Selective serotonin reuptake inhibitors (SSRIs) - Serotonin-norepinephrine reuptake inhibitors (SNRIs) - Norepinephrine-dopamine reuptake inhibitors (NDRIs)
+
+These medications are commonly prescribed because they improve the symptoms of a broad group of depressive and anxiety disorders. They are also associated with fewer side effects than older antidepressants. Although older antidepressants, such as tricyclics and monoamine oxidase inhibitors (MAOIs), are associated with more side effects, they may be the best option for some people.
+
+Antidepressants take time—usually 4−8 weeks—to work, and problems with sleep, appetite, energy, and concentration often improve before mood lifts. Giving a medication a chance to work is important before deciding whether it is right for you.
+
+Common side effects of SSRIs and other antidepressants include upset stomach, headache, or sexual dysfunction. The side effects are generally mild and tend to go away with time. People who are sensitive to the side effects of these medications sometimes benefit from starting with a low dose, increasing the daily dose very slowly, and changing when or how they take the medication (for example, at bedtime or with food).
+
+Esketamine is an FDA-approved medication for treatment-resistant depression, which may be diagnosed when a person’s symptoms do not improve after trying at least two antidepressants. Esketamine is delivered as a nasal spray in a health care provider’s office, a clinic, or a hospital. It often acts rapidly, typically within a couple of hours, to relieve depression symptoms. People usually continue to take an oral antidepressant to maintain the improvement in their symptoms.
+
+Combining antidepressants with other medications or supplements that act on the serotonin system, such as triptans (often used to treat migraine headaches) and St. John’s wort (a dietary supplement), can cause a rare but life-threatening illness called serotonin syndrome. Symptoms of serotonin syndrome include agitation, muscle twitches, hallucinations (seeing or hearing things others do not see or hear), high temperature, and unusual blood pressure changes. For most people, the risk of such extreme reactions is low. It is important for health care providers to consider all possible interactions and use extra care in prescribing and monitoring medication combinations that have an above-average risk.
+
+**Note**: Insome cases, children, teenagers, and young adults under 25 may experience an increase in suicidal thoughts or behavior when taking antidepressants, especially in the first few weeks after starting the medication or when the dose is changed. People of all ages taking antidepressants should be watched closely, especially during the first few weeks of treatment.
+
+If you or someone you know is struggling or having thoughts of suicide, call or text the 988 Suicide & Crisis Lifeline at **988** or chat at 988lifeline.org. In life-threatening situations, call **911**.
+
+### 019D0A3447 | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Discussion | page -
+These effects might benefit both the caregivers and the children, making caregivers more able to cope and potentially reducing stress in the parent–child relationship.
+
+So far, two placebo controlled studies have looked into the effects of melatonin on behavioral aspects in children with neurodevelopmental disorders and insomnia. Only one of them has reported significant effects of melatonin compared to placebo on behavioral aspects of children with ASD and insomnia (Wright et al. 2011). In that study, children with ASD and sleep problems who were not amenable to behavioral management strategies received immediate release melatonin (mean dose 7 mg; range 2–10 mg) and placebo for 3 months in a crossover design. There was a significant improvement in overall daytime behavior with the immediate release melatonin compared with placebo as measured by the Developmental Behavior Checklist (DBC) (Wright et al. 2011). Whereas a change in total DBC score reportedly concurs with a change in total SDQ (Rice et al. 2018), no differences in treatment effects in any of the five attributes of the DBC checklist (disruptive behavior, self-absorbed, communication disturbance, anxiety and social relating difficulties) were observed (Wright et al. 2011) despite the higher doses used there compared to our study (prolonged release formulation, mean dose 3.8 mg; range 2–5 mg). In another study with immediate release melatonin, with similar design to the present study, child behavior and family functioning outcomes tended to favor melatonin but were not significant. These differences across studies may thus be related to its release formulation (immediate vs. prolonged release), and the lack of significant effects in previous studies could be due to the little additional sleep gained on immediate release melatonin (Gringras et al. 2012).
+
+A limitation in our study was that the effects of the higher dose (10 mg) of PedPRM treatment on behavior was not explored. The 10 mg dose was allowed only in the later open label follow up phase to further improve sleep in subjects who did not respond to the lower doses (Maras et al. 2018). Unfortunately, no behavioral data were collected at the late phases. Future trials should consider measuring the effects of higher PedPRM doses on child behavior.
+
+### 778B1016FB | Sleeping without Prescription: Management of Sleep Disorders in Children with Autism with Non-Pharmacological Interventions and Over-the-Counter Treatments | 4. Oral Over-the-Counter Medicines > 4.5. Iron | page -
+However, it should be noted that data correlating ferritin concentration with sleep parameters in autistic children are unclear and further research is needed. Some authors [170] described in a group of 102 children (68 with ASD, 16 with developmental delay, and 18 controls) an association between low serum ferritin levels and sleep fragmentation with reduced SE, but a cause/effect relationship could not be confirmed. Moreover, in a retrospective study [171] enrolling 53 children with ASD, it was found that serum ferritin was significantly lower in patients with ASD and poor SE, compared to those with good SE, as measured by polysomnography. This study also reported that PLMD was significantly more frequent in children with ASD than in controls, but there was no significant difference in ferritin levels between autistic patients with and without PLMD. In another study [172], the effect of iron supplementation in 33 children with ASD and restless sleep was investigated. After 8 weeks of treatment with 6 mg/kg/day of elemental iron, the children’s restlessness in bed improved significantly, as well as mean ferritin levels (from 16 μg/L to 29 μg/L), hemoglobin, and mean corpuscular volume. However, no correlation was found between restless sleep scores—as measured by two sleep questionnaires—and serum ferritin concentration. No improvement was described in other sleep parameters either.
+

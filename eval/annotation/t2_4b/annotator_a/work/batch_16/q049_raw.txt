@@ -1,0 +1,372 @@
+QUESTION q049: WHO khuyến nghị gì để cải thiện phát triển trẻ thơ?  (34 candidates)
+
+### [1] FD25F8AA2C | Improving early childhood development: WHO guideline | RECOMMENDATION 4 | page 42-43
+Rationale Various factors were taken into account in making this recommendation. Based on the review, the findings for maternal outcomes (anxiety and depression) were consistent. The meta-analyses reported an improvement in the severity of depressive and anxiety symptoms in the perinatal period, yielding effect sizes of moderate strength. The GDG considered the indirect benefits of improved maternal mental health on caregiving and child development outcomes to merit a strong recommendation.
+
+Remarks The remarks in this section are intended to inform considerations for implementation of the recommendation.
+
+• Given the high prevalence of common mental disorders among women in the antenatal and postpartum period, and the acceptability of programmes aimed at them, interventions targeted to these women need to be more widely implemented. Integrating them into services for improving ECD should help them gain greater coverage.
+
+• Prevention services should be available in addition to services that treat mental health difficulties.
+
+• Information related to the ‘how’ of programmes— i.e. how they are successfully implemented with regards to the training, supervision and compensation of delivery agents, key programme characteristics, and relevant barriers or facilitators—were not commonly reported. More of this type of information would be useful in order to improve the overall quality and reproducibility of implementation.
+
+• Interventions need to be adapted to the local sociocultural setting.
+
+• Most interventions were based in clinics and hospitals. There were only a few community- or workplace-based programmes. Embedding these interventions in local community centres, faith-based organizations and other community settings should be explored in future research.
+
+• All of the interventions targeted expectant or new mothers. However, expectant fathers should also be considered stakeholders for these interventions in order to target relevant risk factors for maternal and child health (e.g. intimate partner violence and lack of involvement of fathers in parental care). WHO recommends:
+
+• Psychosocial interventions to support maternal mental health should be integrated into early childhood health and development services. Strength of recommendation: Strong; Certainty of evidence: Moderate
+
+The GDG highlighted several areas where there is insufficient evidence and where further research is required. These include:
+
+1. The most effective responsive caregiving interventions that are feasible and scaleable in LMICs.
+
+2. The effectiveness of caregiving/parenting interventions on child outcomes by population and setting.
+
+3. Subgroup analysis for particular population groups (e.g. child and caregiver characteristics) on the effectiveness of interventions to improve responsive caregiving and facilitate early learning opportunities.
+
+4. Costing of interventions, and data on resources required, to provide policy-makers with information to plan programmes.
+
+5. The reliability and validity of tools employed to assess child and caregiving outcomes, as a large variety of tools are used, and many are unstandardized.
+
+6. Optimization of combined nutrition and caregiving strategies.
+
+7. Clear definitions and reporting guidelines are needed for interventions categorized as responsive caregiving, early learning promotion, and support for socioemotional and behavioural development.
+
+### [2] DCF6057E3D | Improving early childhood development: WHO guideline | KEY QUESTION I | page 28
+Certainty of evidence Responsive caregiving improved ECD and caregiver outcomes. The overall certainty of evidence was rated as Moderate.
+
+Balance of benefits and harms The studies demonstrated benefits to children and caregivers, while harmful impacts were not found. Long-term outcome data are not available, so it is difficult to equate early benefits with long-term effects. It was also noted that early interventions may be helpful but not sufficient for long-term gains. With current data, assumptions regarding the long term cannot be made. In a study in a humanitarian crisis setting, responsive care benefitted maternal mood and improved caregivers’ involvement with their infants. Values and preferences Several qualitative studies have reported that parents and caregivers value interventions that support their children’s development and learning (e.g. Gladstone et al., 2018; Jain et al., 2018). In these studies, the value of early ECD outcome is perceived to be important for educational achievement. Therefore, responsive caregiving is likely highly valued, if overall ECD is considered. However, individual outcomes, e.g. responsiveness, may not be equally valued. The overall value of ECD outcomes is not presently linked to outcomes several years later, limiting the value attributed.
+
+Acceptability Qualitative reports note acceptability of interventions, interest in topics, and perceived benefits by caregivers and delivery agents. This appears to be also true for highrisk populations, based on other WHO guidelines and statements (see Annex 1, in particular section c. ). Black and colleagues (2017) reported increased investment since 2010 available for programmes that support ECD, and increasing numbers of countries with national policies and/or strategies for ECD, indicating acceptability in the form of national engagement and demand for interventions.
+
+Resource implications The limited available evidence indicates that interventions are cost-effective and therefore favours implementation. Gowani and colleagues (2014) reported the cost of a responsive caregiving intervention integrated in an existing health service in Pakistan as US$ 48 per child per year. However, the available data are not equated with outcomes.
+
+High variability in costs depends on delivery mechanisms, whether they are integrated into existing platforms and the quality of those delivery platforms. In LMICs, community health worker and primary health care facilities were the platforms for implementation. In settings where home visiting services or community groups do not already exist or where resources are not being adequately allocated for ECD, such interventions are likely to increase costs.
+
+### [3] E749CFCA70 | Improving early childhood development: WHO guideline | IDENTIFICATION OF KEY QUESTIONS AND OUTCOMES | page 18
+MCA and MSD jointly convened a virtual meeting of the GDG in September 2017 in order to scope the content of the proposed guideline, formulate the key questions and determine the critical outcomes. The report of a multi-stakeholder technical consultation that was convened by WHO in August 2017 – Operationalizing Nurturing Care – at which more than 70 representatives of programme implementers, donors, United Nations agencies and national governments participated, was considered at the scoping meeting. The participants also noted the evidence summarized in the 2017 Lancet series (Lancet, 2017).
+
+The GDG prioritized five areas for development of recommendations to improve ECD outcomes:
+
+1. responsive caregiving;
+
+2. increasing play and opportunities for early learning;
+
+3. interventions to support socioemotional and behavioural development;
+
+4. integrated nutrition and responsive caregiving interventions; and
+
+5. supporting maternal mental health. The GDG considered the available evidence and relevance of each area to different geographical and health system contexts. The group also acknowledged the importance of areas such as nutrition and environmental health, including WASH, to establishing environments that are conducive to ECD.
+
+The GDG recognized that terms such as ‘responsive caregiving’ and ‘nurturing care’ are used among programme implementers and researchers but are not formally included in WHO recommendations. The importance of promoting and supporting ECD among children caught up in emergency settings was also noted. With respect to the timing of interventions and the period at which outcome measures were assessed for impact, the GDG prioritized interventions in the first 3 years of life even though outcomes may only be measured at 5 years, e.g. school attainment.
+
+### [4] 1984C117D6 | Improving early childhood development: WHO guideline | KEY QUESTION I | page 27-28
+Additional meta-analyses requested by the GDG During the May 2018 GDG meeting, and following presentation and discussion of the systematic review Caregiving interventions to support early child development in the first three years of life: report of the systematic review of evidence , the GDG requested the review team to conduct additional analyses. The GDG noted:
+
+• Studies had been categorized into those that implemented: i.) responsive caregiving interventions; or ii.) early learning interventions. Studies were then included in the meta-analysis of only one intervention type.
+
+• The GDG concluded that the available evidence did not permit disaggregation of the effects of responsive caregiving interventions from those of early learning interventions.
+
+• It was difficult to clearly differentiate studies that only implemented responsive caregiving interventions from those that implemented only early learning interventions because insufficient information was provided in publications to determine whether/how each was implemented. The GDG therefore agreed to limit key question I to interventions that were solely responsive caregiving and key question II to interventions that were solely early learning. However, the GDG requested that the systematic review team conduct complementary analyses to evaluate the combined effect of both interventions on ECD outcomes.
+
+The GDG also made suggestions related to studies that reported several outcome measures for any ECD domain, i.e. language or mother domain. The GDG recommended that studies that had been excluded because they recruited low-birth-weight infants or those with specific disabilities should be included. It also recommended that studies with fewer than 85 subjects that had been excluded from the review should be included. 14 15Evidence and recommendations
+
+After the meeting, the systematic review team updated the protocol which was then reviewed and agreed by the GDG chairs and a sub-group identified by the GDG. The systematic review team completed the analyses in early September 2018, and shared them with the GDG prior to a virtual meeting that was convened on 17 September 2018.
+
+Based on the updated analyses, the GDG reviewed and formulated recommendations for key questions I and II. Additional description of the decision-making process is provided below.
+
+Summary of the considerations of the members of the GDG for determining the direction and strength of the recommendation A recommendation was formulated, informed by the evidence presented and with explicit consideration of the factors listed next.
+
+Certainty of evidence Responsive caregiving improved ECD and caregiver outcomes. The overall certainty of evidence was rated as Moderate.
+
+### [5] 361CC4B3C8 | Improving early childhood development: WHO guideline | KEY QUESTIONS | page 14
+Key questions were developed by the GDG. They reflect areas for inquiry to inform policy and programme needs of Member States and partners. Questions were framed using the population, intervention, comparison, outcome (PICO) format. ( See Annex 2 ). I. What is the effectiveness of responsive caregiving interventions in the first 3 years of life on ECD? II. What is the effectiveness of caregiving interventions that promote early learning in the first 3 years of life on ECD?
+
+III. What is the effectiveness of caregiving interventions to support socioemotional and behavioural development in the first 3 years of life on ECD? IV. What is the effectiveness of integrated caregiving and nutrition interventions in the first 3 years of life on ECD and child growth outcomes? V. What is the role of supporting maternal mental health as a key influence on ECD outcomes?
+
+### [6] D1FE538624 | Improving early childhood development: WHO guideline | IMPROVING | page 5-6
+Implementation of the guideline 33 Implementation considerations 33 Monitoring and evaluation of the quality and implementation of the guideline 33 Supporting local adaptation 33 Dissemination and plans for updating 33 References 35 Annex 1: WHO guidelines and tools that support ECD 39 Annex 2: Questions in PICO format 45 Annex 3: Steering Group 48 Annex 4: Guideline Development Group 49 Annex 5: Authors of systematic reviews 51 Annex 6: Declarations of conflicts of interest 52 Annex 7: GRADE evidence profile tables 54 Figure 1: Components of nurturing care 1 Table 1: Intervention types considered in the evidence/guideline review 12 Table 2: Child and caregiver outcomes for interventions that implement responsive caregiving only, by HICs versus LMICs 15 Table 3: Child and caregiver outcomes for interventions that promote early learning and development, by HICs versus LMICs 19 Table 4: Combined responsive caregiving and early learning versus standard of care 25 Table 5: Combined responsive caregiving and early learning versus caregiving alone 25 Table 6: Combined responsive caregiving and early learning versus nutrition alone 26 ii iiiContents
+
+BFHI Baby-friendly Hospital Initiative BMI body-mass index CI confidence interval ECD early childhood development GDG Guideline Development Group GRADE Grading of Recommendations Assessment, Development and Evaluation methodology HAZ height-for-age Z-score HIC high-income country LMIC low- or middle-income country MCA Department of Maternal, Newborn, Child and Adolescent Health and Ageing MCH Maternal and child health MhGAP Mental Health Gap Action Programme MSD Department of Mental Health and Substance Abuse PICO population, intervention, comparison, outcome RCT randomized controlled trial SD standard deviation SMD standardized mean difference WASH water, sanitation and hygiene WAZ weight-for-age Z-score WHO World Health Organization WHZ weight-for-height (or length) Z-score ACRONYMS iv v
+
+### [7] 6C114887B7 | Autism intervention meta-analysis of early childhood studies (Project AIM): updated systematic review and secondary analysis | Abstract > Introduction | page 
+Autism is a relatively common diagnosis, with current estimates suggesting approximately 1-4% of the population is affected.1 2 3 Early childhood interventions are often strongly recommended for young autistic children to promote skill gain in areas that might contribute to positive long term outcomes.4 5 Pediatricians and other physicians are often the first line of care directing families of autistic children to early childhood interventions to support their development. Therefore, physicians should be familiar with the available interventions and the landscape of evidence supporting them to make practice recommendations. However, the types of early childhood interventions recommended for this population vary widely in terms of approach and intensity, and current best practice guidelines differ across countries. For example, in the United States, the most commonly recommended treatment is early intensive behavioral intervention, an approach that incorporates operant conditioning, targets functional skills, and is characterized by a recommended intensity of 20-40 hours per week.6 In contrast, the National Institute for Health and Care Excellence in England concluded that only two intervention approaches have sufficient evidence to support their use. These relatively low intensity interventions are pediatric autism communication therapy, and joint attention, symbolic play, engagement and regulation (JASPER), which target early social communication in the context of natural interactions.7 Previous attempts to synthesize intervention evidence to generate consistent clinical guidelines have been hindered by a number of factors: heterogenous intervention approaches that prevented aggregation of evidence; low standards of evidence for designating practices as evidence based; limited evaluation of intervention outcomes; overreliance on vote counting over quantitative synthesis; and a rapidly transforming evidence base. Consequently, doctors, clinicians, and families have to navigate confusing and often conflicting guidance on which supports are the most likely to be efficacious for autistic children.
+
+### [8] E885B1B867 | Improving early childhood development: WHO guideline | RECOMMENDATION 4 | page 43
+6. Optimization of combined nutrition and caregiving strategies. 7. Clear definitions and reporting guidelines are needed for interventions categorized as responsive caregiving, early learning promotion, and support for socioemotional and behavioural development.
+
+8. Data that report on caregivers other than mothers, and measure outcomes on other caregivers.
+
+9. Mechanisms for facilitating effective multi-sectoral approaches to improve ECD.
+
+10. Effective processes to achieve implementation of ECD-specific interventions at scale.
+
+11. Successful implementation of psychosocial interventions for maternal mental health with regards to the training, supervision and compensation to health care providers, delivery within community settings, and reporting of relevant barriers or facilitators.
+
+12. Studies on maternal mental health that report on child health and development outcomes in addition to mental health outcomes.
+
+### [9] DE34817F15 | Improving early childhood development: WHO guideline | QUESTIONS IN PICO FORMAT | page 57
+44 45Annex 2: Questions in PICO format
+
+### [10] 83348B1289 | Improving early childhood development: WHO guideline | KEY QUESTION IV | page 61
+Dr Sushila Nayar School of Public Health Mahatma Gandhi Institute of Medical Sciences Sewagram, Maharashtra, India Ghassan Issa General Coordinator, Arab Resource Collective Director, Arab Network for Early Childhood Care and Development Beirut, Lebanon Steward Kabaka Focal person for Early Childhood Development Ministry of Health Nairobi, Kenya Betty Kirkwood Professor of Epidemiology & International Health Maternal & Child Health Intervention
+
+### [11] 3EF7AA5FA3 | Improving early childhood development: WHO guideline | EVIDENCE AND RECOMMENDATIONS | page 23-24
+• Caregiving interventions to support early child development in the first three years of life: report of the systematic review of evidence (Jeong, Franchett & Yousafzai, 2018).
+
+www.who.int/maternal_child_adolescent/guidelines/SR_ Caregiving_interventions_ECD_Jeong_Final_Nov2018.pdf?ua=1
+
+This review addressed key questions I – IV (see pages 14-27 ) and additional analysis.
+
+• Psychotherapeutic interventions for common maternal mental health problems among women to improve early childhood development in low- and middle-income countries: report of systematic review and meta-analysis of RCTs (Rahman et al., 2018).
+
+www.who.int/maternal_child_adolescent/guidelines/SR_Psych_ Therapeutic_interventions_ECD_Rahman_Final_Sept2018.pdf?ua=1
+
+This review addressed key question V (see pages 28-30 ). The reviews followed the procedures of the Cochrane handbook for systematic reviews of interventions (Higgins & Green, 2011). Details of the search strategies undertaken and the methodologies employed are given in the reviews.
+
+Different tools were used in each of the studies to evaluate both childhood development and caregiving outcomes. These are detailed in the respective systematic reviews. 10 11Evidence and recommendations
+
+The descriptions of the different types of interventions considered in the reviews are given in Table 1. Table 1: Intervention types considered in the evidence/guideline review Intervention focus Description and type of interventions Types of interventions not considered Responsive caregiving These interventions target the caregiver-child dyad to promote responsive caregiver-child interactions and strengthen the parent-child relationship. They encourage and support sensitivity and responsiveness (care that is prompt, consistent, contingent, and appropriate to the child’s cues, signals, behaviours and needs) or secure attachment. Interventions that improve caregivers’ abilities to incorporate the child’s signals and perspective can be undertaken in the context of, but not limited to, play and communication or feeding. They include, but are not limited to, facilitating the caregiver to be attuned to and identify the child’s needs and wants, to follow the child’s lead, help the child to focus, support the child’s exploration and scaffold development.
+
+• Interventions that relate to caregiving more generally, but without a primary focus on promoting positive caregiver-child interactions.
+
+• Interventions that focus on infant and young child feeding or exclusive breastfeeding, without an emphasis on responsiveness between caregiver and child.
+
+• Interventions that exclusively target caregivers (e.g. through provision of information or education), rather than targeting the caregiverchild dyad to facilitate and encourage quality caregiver-child interactions.
+
+### [12] 562D186B27 | Improving early childhood development: WHO guideline | SUPPORTING LOCAL ADAPTATION | page 45
+Local adaptation of the guideline will be supported through WHO country offices and ministries of health. National guidelines, such as for antenatal, newborn and child care, that are likely to be affected by the recommendations will be specifically reviewed in order to integrate approaches where relevant. National training courses and pre- and in-service training on maternal, newborn and child health and nutrition should be reviewed for opportunities to integrate materials.
+
+National child health or similar programmes will coordinate local adaptation and implementation. Research institutions will be expected to facilitate the adaptation and contextualization. United Nations agencies, the World Bank Group and other partners such as the Partnership for Maternal, Newborn, Child and Adolescent Health and the ECD Action Network, should play a key role in dissemination of the guideline and in catalysing uptake in national guidelines, policies and practice tools.
+
+### [13] 1C8375B813 | Improving early childhood development: WHO guideline | PURPOSE OF THE GUIDELINE | page 10
+This guideline provides global, evidence-informed recommendations on improving ECD. The objective is to identify ECD-specific interventions and feasible approaches that are effective in improving developmental outcomes in children. The recommendations in this guideline are intended for a wide audience, including policy-makers, development agencies and implementing partners, district and sub-national health managers, health workers and nongovernmental organizations.
+
+### [14] D4EC3BF01D | Improving early childhood development: WHO guideline | RECOMMENDATION 1 | page 29
+Rationale The recommendation reflects the evidence demonstrating the efficacy of interventions for responsive caregiving for improving several domains of ECD. The GDG considered that the second part of the recommendation, i.e. that parents and caregivers should be supported, was an important and logical implication that warranted being explicitly stated. In formulating the recommendation and determining its strength, the GDG, in addition to the evidence for efficacy of interventions, also took into account the discussions and available literature on other factors mentioned above, particularly those on values and preferences and acceptability. Remarks A challenge in the literature is the wide application of definitions of responsive caregiving – a component of nurturing care - which have not been consistently operationalized in studies. Also, the GDG acknowledged some overlap in differentiating interventions for responsive caregiving and early learning. The additional analyses combining interventions as requested by the GDG acknowledged the overlap across intervention strategies, its representativeness, and its potential to improve outcomes.
+
+While general conclusions can be drawn about the impact of interventions to improve ECD, the key question did not ask whether a specific caregiving intervention had greater or lower effects on ECD than another. Furthermore, studies were not designed to address this question. Any comparisons of caregiving interventions should be interpreted with caution given the range of definitions and the variation in the implementation approaches. The ability to measure the outcomes of responsive caregiving early in life is limited, as it relies on mostly parent-report tools. Gains in this area may emerge later in life and are thought to be important for sustained impacts in other areas.
+
+WHO recommends:
+
+• All infants and children should receive responsive care during the first 3 years of life;
+
+• Parents and other caregivers should be supported to provide responsive care. Strength of recommendation: Strong; Certainty of evidence: Moderate (for responsive care) 16 17Evidence and recommendations
+
+### [15] AE7A946933 | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 52
+Findings and results from implementation of either protocol can be used to advocate for the strengthening of existing legislative and regulatory frameworks. www.who.int/nutrition/netcode/toolkit/en
+
+Optimal feeding of low-birth-weight infants in lowand middle-income countries This guideline contains recommendations for a specific high-risk population including on what to feed low-birthweight infants, when to start feeding, how to feed, how often and how much to feed. The implementation of these guidelines in LMICs is expected to improve care and survival of low-birth-weight infants. www.who.int/maternal_child_adolescent/documents/ infant_feeding_low_bw/en Management of children with severe acute malnutrition This guideline provides global, evidence-informed recommendations on a number of specific issues related to the management of severe acute malnutrition in infants and children. It gives guidance on the care of infants and children with severe malnutrition, including in the context of HIV. This guideline includes recommendations on play and stimulation of these children. http://apps.who.int/iris/bitstream/10665/95584/1/9789241 506328_eng.pdf?ua=1 Protecting, promoting and supporting breastfeeding in facilities providing maternity and newborn services This publication updates the Ten steps to successful breastfeeding. It provides global, evidence-informed recommendations on protection, promotion and support of optimal breastfeeding in facilities providing maternity and newborn services, as a public health intervention. It is intended to contribute to discussions among stakeholders when selecting or prioritizing appropriate actions in their efforts to achieve the Sustainable Development Goals and the global targets for 2025. The document presents the key recommendations, a summary of the supporting evidence and a description of the considerations that contributed to the deliberations and consensus decision-making. www.who.int/nutrition/publications/guidelines/ breastfeeding-facilities-maternity-newborn/en Implementation guidance: protecting, promoting and supporting breastfeeding in facilities providing maternity and newborn services – the revised Babyfriendly Hospital Initiative This document updates the Ten steps to successful breastfeeding and contains the latest version of the guidance for implementing the Baby-friendly Hospital Initiative (BFHI) in facilities providing maternity and newborn services, as well as guidance for coordination and management of the BFHI at national (or subnational where applicable) level. The core purpose of the BFHI is to ensure that mothers and newborns receive timely and appropriate care before and during their stay in a facility providing maternity and newborn services, to enable the establishment of optimal feeding of newborns, which promotes their health and development. Given the proven importance of breastfeeding, the BFHI protects, promotes and supports breastfeeding, while enabling timely and appropriate care and feeding of newborns who are not breastfed. www.who.int/nutrition/publications/infantfeeding/bfhiimplementation/en
+
+### [16] 5589C37261 | Improving early childhood development: WHO guideline | RELEVANT WHO GUIDELINES AND TOOLS THAT SUPPORT ECD | page 14
+WHO recommendations for improving infant and child health are included in a range of guidelines, tools and training materials. Many of these are relevant for improving ECD. Areas of child health and public health for which WHO guidelines are relevant include neonatal care; infant and young child nutrition; environmental health; prevention and treatment of childhood illnesses; violence and injury prevention; prevention of obesity and promotion of physical activity; caregiver mental health; and support for children with developmental difficulties or disability.
+
+These are grouped in seven categories (see the following list). A fuller description of each is included in Annex 1 .
+
+a. Infant and young child feeding
+
+b. Responsive caregiving and opportunities for early learning
+
+c. Antenatal, pregnancy care and delivery
+
+d. Violence and injury prevention and support for children with disability
+
+e. Mental health
+
+f. Environmental health
+
+g. Neonatal care and the prevention and treatment of severe morbidity in young children
+
+h. Diet, physical activity and health POPULATION OF INTEREST This guideline focuses on interventions and approaches toward infants and children less than 3 years of age and their parents and caregivers.
+
+### [17] 17EDB88FFE | Improving early childhood development: WHO guideline | KEY QUESTION IV | page 37-38
+24 25Evidence and recommendations
+
+Summary of the considerations of the members of the GDG for determining the direction and strength of the recommendation The GDG formulated a recommendation informed by the evidence presented and with explicit consideration of the factors listed next.
+
+Quality of evidence The certainty of evidence across different outcomes varied from Low to High. Overall, the certainty of evidence was considered Moderate. Balance of benefits and harms In the review, benefits to children’s development were found (especially those at risk from undernutrition), while harmful impacts were not found. Some GDG members were concerned that some countries are now beginning to have a problem of children becoming overweight, and this should be taken into account. The group found that the evidence favours the intervention, but the intervention varied considerably in different studies. The size of the benefits varied, but all were consistent in a positive direction. Values and preferences The GDG considered there was no important variability in values and preferences. Families perceive value in ‘wholechild’ approaches (DiGirolamo et al., 2014). Acceptability These interventions appear to be acceptable, although there was some concern over the ability of the health services to absorb additional tasks. For example, in the context of HIV, integration of interventions with general MCH interventions has been difficult to achieve due to competing demands on time and the ability of staff to take on additional tasks.
+
+Black and colleagues (2017) reported increased investment since 2010 available for programmes that support ECD and increasing numbers of countries with national policies and/or strategies for ECD, indicating acceptability in the form of national engagement and demand for interventions.
+
+### [18] 41BF54556C | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD | page 51
+WHO recommendations for improving infant and child health are included in a range of guidelines, tools and training materials. Many of these are relevant for improving ECD. Areas of child health and public health for which WHO guidelines are relevant include neonatal care; infant and young child nutrition; environmental health; prevention and treatment of childhood illnesses; violence and injury prevention; prevention of obesity and promotion of physical activity; caregiver mental health; and support for children with developmental difficulties or disability.
+
+a. Infant and young child feeding Ensuring that infants are provided with optimal feeding from birth helps to improve ECD. Breastfeeding counselling: a training course Exclusive and continued breastfeeding significantly contribute to ECD. This course is designed to provide health workers with the skills needed to support mothers and their children to breastfeed optimally. It includes guides for the course director and trainers, a participant’s manual, a booklet with overhead figures, a slide book and annexes.
+
+www.who.int/maternal_child_adolescent/documents/ who_cdr_93_3/en Infant and young child feeding counselling: an integrated course This integrated infant feeding counselling course is designed to give health workers the competencies required to carry out effective counselling for breastfeeding, HIV and infant feeding and complementary feeding. It is designed for a five-day training of health workers in primary health care services and for lay counsellors.
+
+www.who.int/nutrition/publications/ infantfeeding/9789241594745/en ANNEX 1:
+
+### [19] 714C3F1BFF | Improving early childhood development: WHO guideline | TARGET AUDIENCE | page 15-17
+This guideline is directed at: Development agencies and implementing partners : To guide maternal and child health (MCH) care programmes and other related sectors with respect to the provision of services and linkages to improve ECD District and sub-national health managers: To guide MCH care programmes with respect to the provision of services to improve ECD Health workers:
+
+To guide end-users regarding expectations for providing services to improve ECD Nongovernmental agencies:
+
+To guide MCH care programmes with respect to the provision of services to improve ECD Policy-makers:
+
+To inform national policies and programmes for promoting health, growth and development regarding what is needed to effectively improve ECD PERSONS AFFECTED BY THE RECOMMENDATIONS This guideline directly affects all parents and primary caregivers of infants and young children. 2 3Introduction
+
+This guideline was developed in accordance with the evidence-informed guideline development methods described in the WHO handbook for guideline development (WHO, 2014a). The process included: identification of priority questions and outcomes; retrieval of evidence, assessment and synthesis of the evidence; formulation of recommendations; and planning for the implementation, dissemination, impact evaluation and updating of the guideline.
+
+### [20] FEF56568A5 | Improving early childhood development: WHO guideline | PRESENTATION OF THE RECOMMENDATIONS | page 21-23
+The discussion points around each of the key questions are presented, covering the following contents:
+
+• summary of evidence from systematic reviews for each of the questions;
+
+• summary of considerations for determining the direction and strength of the recommendations, which includes:
+
+– quality of evidence;
+
+– balance of benefits and harms;
+
+– values and preferences (of pregnant women and mothers);
+
+– acceptability (to health workers, lay or peer counsellors);
+
+– resource implications;
+
+– equity;
+
+– feasibility.
+
+• at the end of each section, a short summary brings together:
+
+– the recommendation;
+
+– the rationale;
+
+– additional remarks for consideration in implementing the recommendations. Three options for the type of recommendation were agreed by the GDG, namely:
+
+1. Strong: communicates that the recommendation is based on the confidence that the desirable effects of adherence to the recommendation outweigh the undesirable consequences;
+
+2. Context-specific recommendation (recommended only in specific contexts);
+
+3. Not recommended.
+
+The GDG also reserved the option of making no recommendation.
+
+In presenting the summary of evidence from systematic reviews for each of the interventions, standardized statements of effects were used for different combinations of the magnitude of effect and the quality of evidence (assessed using GRADE). See Annex 7 for evidence profiles.
+
+In the GDG discussions, the relevance of the acceptability and feasibility of recommendations to the end user (decision-makers, health care providers, health service users and end-beneficiaries) and also cost and equity considerations were assessed qualitatively rather than on statistical significance.
+
+8 9Guideline development process
+
+Two systematic reviews, based on the key questions for improving ECD, provided the evidence for the recommendations:
+
+### [21] BE9B0C2F91 | Improving early childhood development: WHO guideline | SCOPE | page 14
+The broad aim of this guideline is to improve ECD. The objectives are to:
+
+i. identify ECD-specific interventions that are effective in improving developmental outcomes in children;
+
+ii. identify effective, feasible approaches to deliver interventions to improve ECD.
+
+The guideline prioritizes aspects of child health for which there are presently no WHO recommendations focussed on ECD-specific interventions. It will facilitate consideration of policy and investments, as well as daily care practices to promote and support ECD in households and communities. It will also inform the development of indicators that can be used for monitoring national and sub-national tracking of programmes with responsibility for delivering interventions to improve ECD.
+
+### [22] D0E0652381 | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 52-53
+Given the proven importance of breastfeeding, the BFHI protects, promotes and supports breastfeeding, while enabling timely and appropriate care and feeding of newborns who are not breastfed. www.who.int/nutrition/publications/infantfeeding/bfhiimplementation/en
+
+b. Responsive caregiving and opportunities for early learning Responsive caregiving and opportunities for early learning, starting from birth, are core components of nurturing care and essential for all young children to develop their full potential.
+
+Care for child development These materials guide health workers and other counsellors as they help families build stronger relationships with their children and solve prob lems in caring for their children at home. “Care for child development” recommends play and communication activities for families to stimulate the learning of their children. Also, through play and communication, adults learn how to be sensitive to the needs of children and respond appropriately to meet them. www.who.int/maternal_child_adolescent/documents/care_ child_development/en Caring for the child’s health growth and development These materials guide health workers and other providers as they counsel caregivers on infant and young child feeding, responsive caregiving and opportunities for early learning through play and communication, prevention of childhood illness and timely care-seeking. They are part of a 3-part set entitled Caring for newborns and children in the community and are appropriate for use by community health workers. www.who.int/maternal_child_adolescent/documents/childhealthy-growth-development/en Early childhood development and disability This discussion paper provides a brief overview of issues pertaining to ECD and disability. It lays the foundation for a long-term strategic and collaborative process aimed at improving the developmental outcomes, participation and protection of young children with disabilities. It promotes dialogue between United Nations agencies and relevant stakeholders to identify sustainable strategies which build on existing efforts and expand on multisectoral approaches to guarantee the rights of young children with disabilities and their families.
+
+http://apps.who.int/iris/bitstream/10665/75355/1/97892415 04065_eng.pdf
+
+c. Antenatal, childbirth and postnatal care Healthy birth, including the prevention and management of preterm births and low birth weight, is important to optimize child development outcomes. Recommendations on antenatal care for a positive pregnancy experience Updated in 2015, this publication contains numerous recommendations that have a direct bearing on ECD outcomes. These include: nutrition in pregnancy including iron, folate and other micronutrient supplements; assessments of partner violence; tobacco and other substance abuse; obstetric care; management of common infectious diseases; community-based interventions to improve communication and support; and antenatal care contact schedules.
+
+### [23] 9720A33285 | Improving early childhood development: WHO guideline | PLANS FOR UPDATING THE GUIDELINE | page 11
+The WHO Steering Group will continue to follow research developments in the area of interventions to improve ECD. After five years, or if significant new evidence emerges before then or there are concerns that one or more recommendations in the guideline may no longer be valid, relevant WHO departments will coordinate a guideline update.
+
+### [24] D8486E48B2 | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 55
+It is intended to inform and motivate individual and collective action by health care professionals to prevent damage to children’s health from exposure to air pollution. www.who.int/ceh/publications/air-pollution-child-health/en
+
+g. Neonatal care and the prevention and treatment of severe morbidity in young children Ensuring good health from the neonatal period to later childhood is essential for optimal child development. Survive and thrive: transforming care for every small and sick newborn. Key findings. This publication recommends that nurses work in partnership with families, teach caregivers to care for infants and meet their developmental needs with skin-to-skin contact, responsive feeding with breast milk, routine caregiving, and stimulating the infant’s senses with touching, talking, singing, and gentle motion. Engaging primary caregivers in the care of the newborn increases caregiver bonding with the newborn and competencies in caring for their child, making the transition to home easier.
+
+https://apps.who.int/iris/bitstream/handle/10665/276655/ WHO-FWC-MCA-18.11-eng.pdf?ua=1 Managing possible serious bacterial infection in young infants when referral is not feasible This document provides guidance on care for use in resourcelimited settings or in settings where families with sick young infants do not accept or cannot access referral care, but can be managed in outpatient settings by an appropriately trained health worker. The guideline seeks to provide programmatic guidance on the role of community health workers and home visits in identifying signs of serious infections in neonates and young infants.
+
+www.who.int/maternal_child_adolescent/documents/ bacterial-infection-infants/en Integrated management of childhood illness A comprehensive set of materials exists including treatment algorithms related to general danger signs; young infant; cough or difficult breathing; diarrhoea; fever; ear infections; malnutrition and anaemia; HIV; and well-child care. In-person and distance learning modules are also available. www.who.int/maternal_child_adolescent/ documents/9789241506823/en
+
+### [25] 64D6F22795 | Improving early childhood development: WHO guideline | GUIDELINE DEVELOPMENT GROUP | page 61-63
+48 49Annex 4: Guideline Development Group
+
+Joerg Meerpohl (Methodologist) University Medical Centre Freiburg, Germany Linda Richter Distinguished Professor DSI-NRF Centre of Excellence in Human Development University of the Witwatersrand Johannesburg, South Africa Mark Tomlinson Professor Institute for Life Course Health Research Stellenbosch University Stellenbosch, South Africa Susan Walker Professor of Nutrition Tropical Medicine Tropical Medicine Research Institute University of the West Indies Kingston, Jamaica ANNEX 4:
+
+GUIDELINE DEVELOPMENT GROUP (continued)
+
+World Health Organization recommendations on caregiving interventions to support early child development in the first 3 years of life: report of the systematic review of evidence Joshua Jeong Department of Global Health and Population, Harvard T H Chan School of Public Health, Boston, MA, United States Emily Franchett Department of Global Health and Population, Harvard T H Chan School of Public Health, Boston, MA, United States Aisha Yousafzai* Department of Global Health and Population, Harvard T H Chan School of Public Health, Boston, MA, United States
+
+World Health Organization recommendation on psychotherapeutic interventions for common maternal mental health problems among women to improve early childhood development in low- and middle-income countries: report of systematic review and meta-analysis of RCTs Atif Rahman* Human Development Research Foundation, Rawalpindi, Pakistan, and University of Liverpool, Liverpool, United Kingdom Jane Fisher School of Public Health and Preventive Medicine, Monash University, Melbourne, Victoria, Australia Ahmed Waqas Human Development Research Foundation, Rawalpindi, Pakistan and CMH Lahore Medical College & Institute of Dentistry,
+
+### [26] 03FC082C1C | Improving early childhood development: WHO guideline | RECOMMENDATIONS | page 11-12
+In order to improve early childhood development, WHO recommends: All infants and children should receive responsive care during the first 3 years of life; parents and other caregivers should be supported to provide responsive care. Strength of recommendation: Strong Quality of evidence: Moderate (for responsive care) RESPONSIVE CAREGIVING1 All infants and children should have early learning activities with their parents and other caregivers during the first 3 years of life; parents and other caregivers should be supported to engage in early learning with their infants and children. Strength of recommendation: Strong Quality of evidence: Moderate (for early learning) PROMOTE EARL Y LEARNING2 INTEGRATE CAREGIVING AND NUTRITION INTERVENTIONS3 Support for responsive care and early learning should be included as part of interventions for optimal nutrition of infants and young children. Strength of recommendation: Strong Quality of evidence: Moderate Psychosocial interventions to support maternal mental health should be integrated into early childhood health and development services.
+
+Strength of recommendation: Strong Quality of evidence: Moderate SUPPORT MATERNAL MENTAL HEALTH4 viii ix
+
+x 1
+
+### [27] 1D823B0DC1 | Improving early childhood development: WHO guideline | BACKGROUND | page 13-14
+caregivers need to be supported through policies and services in order to have knowledge, skills, time and material resources for appropriate child care. Figure: Components of nurturing care Given the critical importance of enabling children to make the best start in life, the health sector has an important role and responsibility to support nurturing care. Many interventions for reproductive, maternal, newborn and child health (including for nutrition, mental health and HIV prevention and care) have a direct impact on ECD. Moreover, the health sector has access to families and caregivers during this period and therefore has specific opportunities.
+
+Until now WHO has not had guidelines specifically on interventions for improving ECD. Many existing WHO guidelines related to reproductive, maternal, newborn and child health (including for nutrition, caregiver mental health, HIV prevention and care, and prevention of noncommunicable diseases), refer to the importance of early childhood development. However, they do not INTRODUCTION x 1Introduction
+
+address ECD-specific interventions such as those related to responsive caregiving and early learning opportunities. In order to provide clear and specific guidance on approaches for improving ECD, MCA in collaboration with MSD developed this guideline with a particular focus on caregiving, opportunities for early learning and communication, and improving the mental health of mothers. The guideline provides global, evidenceinformed recommendations on approaches to improve ECD.
+
+### [28] 399C8682E3 | Improving early childhood development: WHO guideline | Annex 7: GRADE evidence profile tables | page 69
+1 Two studies found significant improvements (Jin et al., 2007; Walkup et al., 2009); one study found no effects (Wagner et al., 2002). 2 No studies with data to contribute to pooled estimate. 3 One study (Love et al., 2005) found statistically significant improvements; the other studies reported no impact. 4 Studies all from HICs.
+
+5 Over half the studies have a small sample size. 6 Some studies reported positive effects (Caughy et al., 2004; Love et al., 2005); other studies reported no impact (Goodson et al., 2000; Wagner et al., 2002).
+
+7 Wide CI around the pooled estimate.
+
+### [29] 41B41C1F77 | Improving early childhood development: WHO guideline | Annex 1: WHO guidelines and tools that support ECD > WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT | page 53
+http://apps.who.int/iris/bitstream/10665/204270/1/WHO_ RHR_15.22_eng.pdf?ua=1 Postnatal care of the mother and newborn This guideline focuses on postnatal care of mothers and newborns in resource-limited settings in LMICs. Recommendations address timing, number and place of postnatal contacts, and content of postnatal care for all mothers and babies during the six weeks after birth, including assessment of mothers and newborns to detect problems or complications. The primary audience is health professionals who are responsible for providing postnatal care to women and newborns. http://apps.who.int/iris/bitstream/10665/97603/1/978924150 6649_eng.pdf Standards for improving quality of maternal and newborn care in health facilities This publication provides a framework for improving the quality of care for mothers and newborns around the time of childbirth. It encompasses both the provision and experience of care around eight domains of quality that should be assessed, improved and monitored within the context of health system building blocks. www.who.int/maternal_child_adolescent/documents/ improving-maternal-newborn-care-quality/en Network for improving quality of care for maternal, newborn and child health This website provides access to resources, country examples, country data, webinars and podcasts, and facilitates exchange with peers on latest evidence and challenges and how to address them.
+
+www.qualityofcarenetwork.org
+
+d. Violence and injury prevention and support for children with disability Ensuring a safe and secure environment, especially for children with disability, is central to a nurturing care environment.
+
+INSPIRE: seven strategies for ending violence against children INSPIRE is an evidence-based resource for everyone involved with preventing and responding to violence against children and adolescents – from government to grassroots, and from civil society to the private sector. It represents a select group of strategies based on the best available evidence to help countries and communities intensify their focus on the prevention programmes and services with the greatest potential to reduce violence against children. The seven strategies are: implementation and enforcement of laws; norms and values; safe environments; parent and caregiver support; income and economic strengthening; response and support services; and education and life skills. http://apps.who.int/iris/ bitstream/10665/207717/1/9789241565356-eng.pdf
+
+### [30] 658D04AABA | Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis | Data Availability > Introduction | page 
+Additionally, little attention has been given previously to the role of intervention implementation characteristics as potential moderators of program effects on child or caregiving outcomes. Considering the diversity of contexts and populations in which parenting programs are implemented, there is a need to investigate whether certain implementation factors are associated with differential program effectiveness.
+
+Therefore, the present study aimed to provide a comprehensive global review of the effectiveness of parenting interventions delivered during the first 3 years of life on both ECD and parent-level outcomes. This study updates, synthesizes, and expands on previous reviews by (1) adopting an inclusive definition of parenting interventions as those that aim to improve caregiver interactions, behaviors, knowledge, beliefs, attitudes, or practices with their children in order to improve ECD; (2) focusing on interventions targeting caregivers and children during the first 3 years of life; (3) considering a broad set of both ECD and caregiver outcomes; and (4) including studies across low-, middle-, and high-income countries. The primary aim was to quantify the pooled effectiveness of parenting interventions delivered during the first 3 years of life on ECD and parenting-related outcomes. The secondary aim was to explore whether effects on ECD and parenting outcomes differed by country income level, child age, intervention content, duration, delivery, setting, and study quality.
+
+### [31] 295BC64679 | Improving early childhood development: WHO guideline | RECOMMENDATION 3 | page 39
+The interventions could increase inequity if services are provided only to the high-resource groups that are more likely to access services.
+
+Feasibility The group concluded that it was probably feasible to implement the interventions. The co-delivery of this type of intervention has been demonstrated, even in low-resource and refugee settings (Morris et al., 2012), when the required system and other support is provided. However, implementation could dilute other work of, for example, community health workers. It would be feasible if other support were provided, as it depends on health worker time, support and supervision. Qualitative synthesis of implementation processes on integration of interventions comprising nutrition and caregiving is available (Yousafzai & Aboud, 2014). Subgroup analyses The interventions were analysed by whether they targeted malnourished children compared with universal implementation (no targeting). In each comparison, the effect sizes for benefit in development outcomes are higher for malnourished children than for children in the universally implemented studies, and there are mixed results on growth outcomes.
+
+WHO recommends:
+
+• Support for responsive care and early learning should be included as part of interven - tions for optimal nutrition of infants and young children. Strength of recommendation: Strong; Quality of evidence: Moderate 26 27Evidence and recommendations
+
+### [32] D39D6156DF | Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis | Data Availability > Discussion | page 
+Part of this effort will require establishing standardized measurement tools for assessing socioemotional development and behavioral problems that can be used reliably and cross-culturally in the context of interventions with young children [51].
+
+Second, we analyzed the impact of parenting interventions on parents themselves and found improvements in parenting knowledge, parenting practices, and parent–child interactions. However, 40% of studies aimed at improving ECD did not measure a single parenting outcome. Given that the primary focus of parenting interventions is to support parents and improve the caregiving environment, it is critical to measure parenting as a way of understanding how interventions impact ECD [21,52]. More mediation analyses are needed to empirically substantiate program theories of change and identify the key caregiving mechanisms by which parenting programs lead to improved ECD outcomes [36,53–55].
+
+We found little evidence to support that parenting interventions reduced parental depressive symptoms. By covering a broader set of parenting interventions and including studies in HICs, our results extend the findings of a prior meta-analysis that found that stimulation interventions did not significantly reduce maternal depressive symptoms in LMICs [21]. This overall null effect on depressive symptoms is likely due to the fact that few of the parenting interventions had an explicit psychological component to address parental mental health. However, one notable exception was a parenting group intervention in Uganda that integrated sessions on not only stimulation and responsive caregiving but also parental emotion regulation, coping strategies, and principles of cognitive behavioral therapy. This intervention found medium-sized reductions in maternal depression [36]. While bundling multiple components together (e.g., mental health and parenting) to create intervention packages is recommended in the literature [5], additional research is needed to determine the independent and additive benefits of particular components (e.g., those that target mental health versus parenting) in order to optimize intervention effects on outcomes.
+
+In spite of the observational evidence that fathers are critically important for ECD [56], only 7 parenting interventions in this review (7%) engaged fathers to some degree [34–40], and only 1 study measured paternal outcomes from fathers directly (who only comprised 5% of the respondents in this study) [39]. A prior review has drawn attention to the limited number of parenting interventions with fathers and the program implementation barriers that limit fathers’ participation in parenting interventions across global contexts [57]. More research is needed to determine how to optimize the design and delivery of parenting programs so that they are inclusive of fathers and can achieve benefits for maternal and paternal parenting and ECD [58].
+
+### [33] 1BCE9C1A5F | Improving early childhood development: WHO guideline | RECOMMENDATION 2 | page 32
+Rationale The recommendation reflects the evidence which demonstrates the efficacy of interventions for early learning for improving several domains of ECD. The GDG considered that the second part of the recommendation, i.e. that parents and caregivers should be supported, was an important and logical implication that warranted being explicitly stated. In formulating the recommendation and its strength, the GDG, in addition to the evidence for efficacy of interventions, also took into account the discussions and available literature on other factors mentioned above, particularly those on values and preferences and acceptability. Remarks A challenge in the literature is the wide application of definitions of early learning – components of nurturing care - which have not been consistently operationalized in studies. The additional analyses combining interventions as requested by the GDG acknowledged the overlap across intervention strategies, their representativeness, and their potential to improve outcomes.
+
+While general conclusions can be drawn about the impact of interventions to improve ECD, the key question did not ask whether a specific caregiving intervention had greater or lower effects on ECD than another. Furthermore, studies were not designed to address this question. Any comparisons of caregiving interventions should be interpreted with caution given the range of definitions and the variation in the implementation approaches.
+
+WHO recommends:
+
+• All infants and children should have early learning activities with their parents and other caregivers during the first 3 years of life;
+
+• Parents and other caregivers should be supported to engage in early learning with their infants and children.
+
+Strength of recommendation: Strong; Quality of evidence: Moderate (for responsive care)
+
+### [34] ADBF2CCDE9 | Improving early childhood development: WHO guideline | Annex 7: GRADE evidence profile tables | page 71
+1 n = 4 no effects; n = 3 mixed effects by subscale; n = 1 significant improvements. 2 Studies all from HICs.
+
+3 95% CIs for Shaw et al. (2009) and Hiscock et al. (2008) are not overlapping. Shaw et al. (2009) and Barlow et al. (2015), found significant declines; Hiscock et al. (2008) and Hiscock et al. (2018) found no effects. 4 Barlow et al. (2015) found significant improvements; Caldera et al. (2007) found no effects. 5 Data not suitable to conduct meta-analysis. 6 n = 2 found no effects; n = 1 found significant improvements; n = 1 found mixed results across measures. 7 Breitenstein et al. (2012) and Caldera et al. (2007) found significant improvements; Gross et al. (2009) found no effects.
+

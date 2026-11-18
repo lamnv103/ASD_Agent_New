@@ -1,0 +1,15 @@
+{
+  "validated_at": "2026-11-15T15:35:54.655002+00:00",
+  "final_a_count": 2791,
+  "final_b_count": 2791,
+  "merged_count": 2791,
+  "no_duplicates": true,
+  "source_file_hashes": {
+    "fts_blind_annotation_package_annotator_a_2026-11-15.jsonl": "e669143442fa47ab4e850f2f5624398baac7b16a405f7469f50cfd003815a39d",
+    "fts_blind_annotation_package_annotator_b_2026-11-15.jsonl": "ecb0df2cebb3115071c05a3e81c76d9364dcc1cb31bbc8f61614183eef01ccb3",
+    "annotation_code_map_2026-11-15.jsonl": "d8c5322a39288de7695caaa5500c795e648beca28c02b020691a90762683af66"
+  },
+  "coverage_complete": false,
+  "missing_a": 1191,
+  "missing_b": 125
+}

@@ -1,0 +1,19 @@
+{
+ "source_id": "NIH-NIMH-CHILDREN",
+ "status": "proposal_pending_human_review_quarantine_kept",
+ "original_file": "data/raw/source_library/originals/NIH-NIMH-CHILDREN/snapshot-20261017-831beee50434.html",
+ "original_sha256": "831beee5043409ab9dc62704c00da2d043348bf2cba3bb19cb65f5e0cf750158",
+ "corpus_file": "data/corpus/gaps/NIH-NIMH-CHILDREN.md",
+ "corpus_sha256": "9a87949aac3a80b6817637d43ecff7d0276571020616781da8115904c371e119",
+ "defect": "list items inside a 2-column HTML table were run together when tags were stripped",
+ "list_items": 19,
+ "items_verbatim_in_original": 19,
+ "items_present_in_v2_1_table_chunk": 19,
+ "v2_1_table_chunk": {
+  "chunk_index": 3,
+  "content_sha256": "1f4ddfa1cda1052788f1bdd118e9e11200fb15f2d29f99bd56095f3007195da6",
+  "tokens": 278,
+  "content": "| Younger children | Older children |\n| Have frequent tantrums or are irritable much of the time; Often seem fearful or worried; Complain about frequent stomachaches or headaches with no known medical cause; Are in constant motion and cannot sit quietly (except when they are engaged in an activity they enjoy, such as watching videos or playing video games); Sleep too much or too little, have frequent nightmares, or seem sleepy during the day; Are not interested in playing with other children or have difficulty making friends; Struggle academically or have experienced a recent decline in grades; Repeat actions or check things many times (for example, repeatedly checking to make sure a door is locked) out of fear that something bad may happen | Have lost interest in things that they used to enjoy; Have low energy; Sleep too much or too little or seem sleepy throughout the day; Have periods of highly elevated energy and activity and require much less sleep than usual; Spend more and more time alone and avoid social activities with friends or family; Diet or exercise excessively or fear gaining weight; Engage in self-harm behaviors (such as cutting or burning their skin); Smoke, drink, or use drugs; Engage in risky or destructive behavior alone or with friends; Have thoughts of suicide; Say that they think someone is trying to control their mind or that they hear things that other people cannot hear |"
+ },
+ "sensitive_content": "older-children list includes self-harm and suicidal thoughts: route to safety branch"
+}

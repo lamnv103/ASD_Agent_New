@@ -1,0 +1,27 @@
+{
+ "a": {
+  "id": "agent_A_opus",
+  "type": "ai_model",
+  "model": "claude-opus-5-5",
+  "note": "fresh subagent; sees only annotator_a package/batches + guideline"
+ },
+ "b": {
+  "id": "agent_B_sonnet",
+  "type": "ai_model",
+  "model": "claude-sonnet-5-5",
+  "note": "fresh subagent; sees only annotator_b package/batches + guideline"
+ },
+ "adjudicator": {
+  "id": "agent_C_opus_adjudicator",
+  "type": "ai_model",
+  "model": "claude-opus-5-5",
+  "note": "fresh subagent; sees disagreements only (both grades + rationales), no retrieval origin/rank"
+ },
+ "special_case_authority": {
+  "id": "project_owner",
+  "type": "human",
+  "note": "q057/q016/q041: adjudicator agent proposes, owner may confirm or override"
+ },
+ "decision": "2026-11-15: project owner approved AI annotation (student research/demo project). Labels are recorded as AI dual annotation (silver), not human.",
+ "note": "coordinator file; never given to annotators"
+}

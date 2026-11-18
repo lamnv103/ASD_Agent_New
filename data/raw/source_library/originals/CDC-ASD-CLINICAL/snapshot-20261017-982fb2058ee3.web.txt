@@ -1,0 +1,106 @@
+Clinical Testing and Diagnosis for Autism Spectrum Disorder | Autism Spectrum Disorder (ASD) | CDC (https://www.cdc.gov/autism/hcp/diagnosis/index.html)
+citeturn66view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.cdc.gov/autism/hcp/diagnosis/index.html","lineno":null}); Total lines: 129
+L0: cite0†Skip directly to site content cite1†Skip directly to search L1: 
+L2: cite2†Autism Spectrum Disorder (ASD) L3: 
+L4: [Button: Explore This Topic ]
+L5: 
+L6: [Button: Search]
+L7: 
+L8: [Input: Search]
+L9: 
+L10: [Input: Search]
+L11: 
+L12: cite2†Autism Spectrum Disorder (ASD) Menu
+L13: 
+L14: [Input: Search]
+L15: 
+L16: cite2†Autism Spectrum Disorder (ASD) L17: 
+L18: 
+L19: 
+L20: cite3†Clinical Testing and Diagnosis cite4†Information on ASD for Healthcare Providers cite5†View Menu L21: 
+L22: # Clinical Testing and Diagnosis for Autism Spectrum Disorder
+L23: 
+L24: May 8, 2025
+L25: ## Key points
+L26: 
+L27:   * Diagnosing autism spectrum disorder (ASD) usually relies on two main sources of information: parents' or caregivers' descriptions of their child's development and a professional's observation of the child's behavior.
+L28:   * The American Psychiatric Association's Diagnostic and Statistical Manual, Fifth Edition (DSM-5) provides standardized criteria to help diagnose ASD.
+L29: 
+L30: cite6†Image: Young child playing with colorful blocks L31: ## Diagnostic Tools for ASD
+L32: 
+L33: There are many tools to assess ASD in young children, but no single tool should be used as the basis for diagnosis. Diagnostic tools usually rely on two main sources of information—parents' or caregivers' descriptions of their child's development and a professional's observation of the child's behavior.
+L34: In some cases, the primary care provider might choose to refer the child and family to a specialist for further assessment and diagnosis. Such specialists include neurodevelopmental pediatricians, developmental-behavioral pediatricians, child neurologists, geneticists, and early intervention programs that provide assessment services.
+L35: ### DSM-5 Diagnostic Criteria for Autism Spectrum Disorder
+L36: 
+L37: In addition to diagnostic tools, the American Psychiatric Association's cite7†Diagnostic and Statistical Manual, Fifth Edition (DSM-5)†dsm.psychiatryonline.org provides standardized criteria to help diagnose ASD.
+L38: ## More Diagnostic Resources for ASD
+L39: 
+L40: In some cases, the primary care provider might choose to refer the child and family to a specialist for further assessment and diagnosis. Such specialists include neurodevelopmental pediatricians, developmental-behavioral pediatricians, child neurologists, geneticists, and early intervention programs that provide assessment services.
+L41: For more information on screening, diagnosis, prevalence and more, please visit: cite8†https://iacc.hhs.gov/resources/about-autism/toolkits/†iacc.hhs.gov L42: ## Diagnostic Criteria for ASD
+L43: 
+L44: The American Psychiatric Association's cite7†Diagnostic and Statistical Manual, Fifth Edition (DSM-5)†dsm.psychiatryonline.org provides standardized criteria to help diagnose ASD.
+L45: 
+L46: To meet diagnostic criteria for ASD according to DSM-5, a child must have persistent deficits in each of three areas of social communication and interaction (see A.1. through A.3. below) plus at least two of four types of restricted, repetitive behaviors (see B.1. through B.4. below).
+L47: ### A. Persistent deficits in social communication and social interaction across multiple contexts, as manifested by the following, currently or by history (examples are illustrative, not exhaustive; see text):
+L48:   1. Deficits in social-emotional reciprocity, ranging, for example, from abnormal social approach and failure of normal back-and-forth conversation; to reduced sharing of interests, emotions, or affect; to failure to initiate or respond to social interactions
+L49:   2. Deficits in nonverbal communicative behaviors used for social interaction, ranging, for example, from poorly integrated verbal and nonverbal communication; to abnormalities in eye contact and body language or deficits in understanding and use of gestures; to a total lack of facial expressions and nonverbal communication
+L50:   3. Deficits in developing, maintaining, and understanding relationships, ranging, for example, from difficulties adjusting behavior to suit various social contexts; to difficulties in sharing imaginative play or in making friends; to absence of interest in peers
+L51: Specify current severity:
+L52: 
+L53: Severity is based on social communication impairments and restricted, repetitive patterns of behavior. For either criterion, severity is described in 3 levels:^{[A]}
+L54: 
+L55:   * Level 3 – requires very substantial support
+L56:   * Level 2 – Requires substantial support
+L57:   * Level 1 – requires support
+L58: ### B. Restricted, repetitive patterns of behavior, interests, or activities, as manifested by at least two of the following, currently or by history (examples are illustrative, not exhaustive; see text):
+L59:   1. Stereotyped or repetitive motor movements, use of objects, or speech (e.g., simple motor stereotypes, lining up toys or flipping objects, echolalia, idiosyncratic phrases).
+L60:   2. Insistence on sameness, inflexible adherence to routines, or ritualized patterns of verbal or nonverbal behavior (e.g., extreme distress at small changes, difficulties with transitions, rigid thinking patterns, greeting rituals, need to take same route or eat same food every day).
+L61:   3. Highly restricted, fixated interests that are abnormal in intensity or focus (e.g., strong attachment to or preoccupation with unusual objects, excessively circumscribed or perseverative interests).
+L62:   4. Hyper- or hyporeactivity to sensory input or unusual interest in sensory aspects of the environment (e.g. apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects, visual fascination with lights or movement).
+L63: Specify current severity:
+L64: 
+L65: Severity is based on social communication impairments and restricted, repetitive patterns of behavior. For either criterion, severity is described in 3 levels:^{[A]}
+L66: 
+L67:   * Level 3 – requires very substantial support
+L68:   * Level 2 – Requires substantial support
+L69:   * Level 1 – requires support
+L70: ### C. Symptoms must be present in the early developmental period (but may not become fully manifest until social demands exceed limited capacities, or may be masked by learned strategies in later life).
+L71: 
+L72: ### D. Symptoms cause clinically significant impairment in social, occupational, or other important areas of current functioning.
+L73: ### E. These disturbances are not better explained by intellectual disability (intellectual developmental disorder) or global developmental delay. Intellectual disability and autism spectrum disorder frequently co-occur; to make comorbid diagnoses of autism spectrum disorder and intellectual disability, social communication should be below that expected for general developmental level.
+L74: #### Note:
+L75: 
+L76:   * Individuals with a well-established DSM-IV diagnosis of autistic disorder, Asperger's disorder, or pervasive developmental disorder not otherwise specified should be given the diagnosis of autism spectrum disorder. Individuals who have marked deficits in social communication, but whose symptoms do not otherwise meet criteria for autism spectrum disorder, should be evaluated for social (pragmatic) communication disorder.
+L77: 
+L78: Specify if:
+L79:   * With or without accompanying intellectual impairment
+L80:   * With or without accompanying language impairment
+L81:   * Associated with a known medical or genetic condition or environmental factor
+L82:     * Coding note: Use additional code to identify the associated medical or genetic condition.
+L83:   * Associated with another neurodevelopmental, mental, or behavioral disorder
+L84:     * Coding note: Use additional code[s] to identify the associated neurodevelopmental, mental, or behavioral disorder[s].
+L85:   * With catatonia (refer to the criteria for catatonia associated with another mental disorder
+L86:     * Coding note: Use additional code 293.89 catatonia associated with autism spectrum disorder to indicate the presence of the comorbid catatonia.
+L87: May 8, 2025
+L88: 
+L89: cite9†Sources cite10†Share L90: 
+L91: Content Source:
+L92: 
+L93: cite11†National Center on Birth Defects and Developmental Disabilities L94: 
+L95: Sources
+L96:   * Tadevosyan-Leyfer O, Dowd M, Mankoski R, et al. cite12†A principal components analysis of the Autism Diagnostic Interview-Revised.†pubmed.ncbi.nlm.nih.gov J Am Acad Child Adolesc Psychiatry. 2003;42(7):864-872.
+L97:   * Lord C, Rutter M, Le Couteur A. cite13†Autism Diagnostic Interview-Revised: a revised version of a diagnostic interview for caregivers of individuals with possible pervasive developmental disorders.†pubmed.ncbi.nlm.nih.gov J Autism Dev Disord. 1994;24(5):659-685.
+L98:   * Lord C, Risi S, Lambrecht L, et al. cite14†The autism diagnostic observation schedule-generic: a standard measure of social and communication deficits associated with the spectrum of autism.†pubmed.ncbi.nlm.nih.gov J Autism Dev Disord. 2000;30(3):205-223.
+L99:   * Van Bourgondien ME, Marcus LM, Schopler E. cite15†Comparison of DSM-III-R and childhood autism rating scale diagnoses of autism.†pubmed.ncbi.nlm.nih.gov J Autism Dev Disord. 1992;22(4):493-506.
+L100:   * Gilliam JE. Gilliam Autism Rating Scale – Second Edition (GARS-2). Austin, TX: Pro-Ed, 1995.
+L101:   * American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 5th ed. Arlington, VA: American Psychiatric Association; 2013.
+L102: ## cite2†Autism Spectrum Disorder (ASD)  L103: 
+L104: ASD is a developmental disability that can cause significant social, communication, and behavioral challenges.
+L105: 
+L106: cite16†View All L107: 
+L108: ### cite17†For Everyone L109: 
+L110:   * cite18†About L111:   * cite19†Signs and Symptoms L112:   * cite20†Screening L113:   * cite21†Treatment L114:   * cite22†Living with Autism Spectrum Disorder L115:   * cite23†Frequently Asked Questions (FAQs) L116:   * cite24†Data and Statistics L117:   * cite25†Materials and Resources L118:   * cite26†View all L119: ### cite27†Health Care Providers L120: 
+L121:   * cite3†Clinical Testing and Diagnosis L122:   * cite4†Information on ASD for Healthcare Providers L123: 
+L124: ### cite28†Public Health L125: 
+L126:   * cite29†Autism Partner Toolkit L127: 
+L128: cite30†Sign up for Email Updates†tools.cdc.gov 

@@ -1,0 +1,467 @@
+{
+  "expected": 875,
+  "reviewed": 875,
+  "remaining": 0,
+  "progress_fraction": 1.0,
+  "status": "AI_REVIEW_COMPLETE_PENDING_HUMAN_EXPERT_REVIEW",
+  "reviewer_type": "AI only; human expert review pending",
+  "grade_counts": {
+    "0": 80,
+    "1": 436,
+    "2": 305,
+    "3": 53,
+    "needs_review": 1
+  },
+  "review_status_counts": {
+    "completed": 749,
+    "needs_review": 126
+  },
+  "question_level_grade_counts": {
+    "Trẻ tự kỷ học bơi có lợi gì và cần lưu ý an toàn gì?": {
+      "1": 9,
+      "2": 10,
+      "0": 1
+    },
+    "Nên sàng lọc tự kỷ cho trẻ vào độ tuổi nào?": {
+      "0": 1,
+      "2": 6,
+      "1": 4
+    },
+    "Nên ưu tiên can thiệp tại nhà do cha mẹ hay tại trường?": {
+      "1": 6,
+      "3": 1,
+      "2": 15
+    },
+    "Trẻ 15 tháng chưa nói từ nào có đáng lo không?": {
+      "needs_review": 1,
+      "1": 2,
+      "0": 2
+    },
+    "Liệu pháp điều hòa cảm giác có hiệu quả không?": {
+      "1": 9,
+      "2": 18,
+      "3": 1,
+      "0": 1
+    },
+    "Trẻ tự kỷ kèm ADHD lại hay mất ngủ thì hỗ trợ thế nào?": {
+      "2": 3,
+      "0": 1,
+      "1": 6
+    },
+    "Can thiệp do cha mẹ thực hiện có hiệu quả không?": {
+      "2": 10,
+      "1": 12
+    },
+    "Tiêu chuẩn DSM-5 cho tự kỷ gồm những gì?": {
+      "0": 2,
+      "3": 3,
+      "1": 1,
+      "2": 6
+    },
+    "Giao tiếp thay thế (AAC) có làm trẻ chậm nói hơn không?": {
+      "1": 3,
+      "2": 4,
+      "3": 1
+    },
+    "Vắc-xin có gây tự kỷ không?": {
+      "0": 2,
+      "1": 5
+    },
+    "Hành vi lặp lại ở trẻ tự kỷ gồm những gì?": {
+      "1": 10,
+      "3": 1,
+      "2": 3
+    },
+    "Khi trẻ tự kỷ bước vào tuổi teen, cần chú ý những thay đổi tâm lý nào?": {
+      "2": 10,
+      "0": 3,
+      "1": 11
+    },
+    "Những yếu tố nào làm tăng nguy cơ tự kỷ?": {
+      "3": 1,
+      "2": 1,
+      "1": 17
+    },
+    "Con 2 tuổi chưa nói, không chỉ tay: đó có thể là dấu hiệu gì, sàng lọc ở đâu, can thiệp ra sao?": {
+      "2": 1,
+      "0": 4,
+      "1": 6
+    },
+    "Kén ăn và rối loạn tiêu hóa ở trẻ tự kỷ có liên quan không?": {
+      "2": 5,
+      "1": 6,
+      "3": 1
+    },
+    "Thử nghiệm SenITA cho kết quả gì?": {
+      "0": 2,
+      "1": 4,
+      "2": 6
+    },
+    "Liệu pháp tích hợp cảm giác có đáng chi phí không?": {
+      "1": 12,
+      "0": 2,
+      "2": 1
+    },
+    "Tế bào gốc có chữa được tự kỷ không?": {
+      "0": 2,
+      "1": 5,
+      "2": 1
+    },
+    "Tự kỷ được chẩn đoán như thế nào?": {
+      "2": 5,
+      "3": 1,
+      "1": 5,
+      "0": 2
+    },
+    "Sở thích hạn hẹp có ảnh hưởng đến việc học không?": {
+      "0": 3,
+      "1": 7,
+      "2": 2
+    },
+    "Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?": {
+      "3": 1,
+      "1": 7,
+      "2": 9
+    },
+    "Trẻ tự kỷ kén ăn nghiêm trọng thì đánh giá và can thiệp thế nào?": {
+      "0": 1,
+      "2": 16,
+      "1": 5,
+      "3": 3
+    },
+    "Trẻ mất kỹ năng đã có (thoái lui) thì cần làm gì?": {
+      "0": 1,
+      "1": 4
+    },
+    "Nghiên cứu về tự kỷ ở Việt Nam hiện nay ra sao?": {
+      "3": 1,
+      "2": 6,
+      "1": 10,
+      "0": 1
+    },
+    "Hôm nay thời tiết thế nào?": {
+      "0": 4,
+      "1": 3
+    },
+    "Cha mẹ có thể làm gì để thúc đẩy phát triển trong 3 năm đầu?": {
+      "2": 11,
+      "3": 13,
+      "1": 7
+    },
+    "Ayres Sensory Integration khác các can thiệp cảm giác khác thế nào?": {
+      "2": 5,
+      "1": 2,
+      "3": 1
+    },
+    "Tự kỷ phổ biến như thế nào ở trẻ em?": {
+      "3": 1,
+      "0": 2,
+      "1": 15
+    },
+    "Trẻ tự kỷ nhạy cảm với âm thanh vì sao?": {
+      "0": 1,
+      "1": 6,
+      "2": 7,
+      "3": 1
+    },
+    "Trẻ chậm nói có phải là tự kỷ không?": {
+      "3": 1,
+      "2": 8,
+      "1": 10,
+      "0": 1
+    },
+    "Con tôi hay nhại lại lời người khác, đó là gì?": {
+      "0": 2,
+      "1": 4
+    },
+    "WHO khuyến nghị gì để cải thiện phát triển trẻ thơ?": {
+      "2": 4,
+      "1": 3,
+      "0": 2,
+      "3": 2
+    },
+    "\"Chú ý chung\" (joint attention) là gì và tập thế nào?": {
+      "1": 9,
+      "2": 15,
+      "0": 3
+    },
+    "Có thuốc nào điều trị tự kỷ không?": {
+      "0": 1,
+      "2": 3,
+      "1": 6
+    },
+    "Dấu hiệu sớm của tự kỷ ở trẻ 18 tháng là gì?": {
+      "2": 2,
+      "1": 9
+    },
+    "Can thiệp sớm mang lại lợi ích gì?": {
+      "2": 14,
+      "1": 5,
+      "3": 4
+    },
+    "Melatonin có giúp trẻ tự kỷ ngủ tốt hơn không?": {
+      "3": 1,
+      "1": 6,
+      "2": 4
+    },
+    "Sàng lọc và chẩn đoán sớm tự kỷ ở Việt Nam được thực hiện thế nào?": {
+      "3": 1,
+      "1": 9,
+      "2": 2
+    },
+    "Trẻ tự kỷ thường gặp những khó khăn giao tiếp nào?": {
+      "1": 10,
+      "2": 4
+    },
+    "Chế độ ăn không gluten, không casein có chữa tự kỷ không?": {
+      "1": 4,
+      "2": 1
+    },
+    "ADOS-2 là gì?": {
+      "1": 6,
+      "2": 4
+    },
+    "Trẻ tự kỷ có hay bị động kinh không?": {
+      "2": 4,
+      "1": 4,
+      "0": 1
+    },
+    "Trẻ tự kỷ có hay gặp vấn đề tiêu hóa không?": {
+      "1": 13,
+      "2": 5
+    },
+    "Can thiệp hành vi (ABA) cho trẻ tự kỷ gồm những gì?": {
+      "3": 3,
+      "2": 8,
+      "1": 9
+    },
+    "Cha mẹ làm gì khi trẻ có hành vi thách thức ở nhà?": {
+      "1": 13,
+      "2": 5,
+      "0": 3
+    },
+    "Làm sao hỗ trợ trẻ tự kỷ chưa biết nói?": {
+      "2": 2,
+      "1": 15,
+      "0": 4
+    },
+    "Làm sao phòng tránh trẻ tự kỷ đi lạc, bỏ chạy?": {
+      "1": 10,
+      "2": 5,
+      "0": 1
+    },
+    "Huấn luyện kỹ năng xã hội cho thiếu niên tự kỷ có hiệu quả không?": {
+      "1": 7,
+      "3": 1,
+      "2": 11
+    },
+    "M-CHAT-R/F là gì và độ chính xác ra sao?": {
+      "3": 4,
+      "1": 4,
+      "2": 8
+    },
+    "Trẻ 2 tuổi thường làm được những gì?": {
+      "0": 3,
+      "1": 5
+    },
+    "Can thiệp NDBI là gì?": {
+      "1": 7,
+      "3": 4,
+      "2": 1
+    },
+    "Tự kỷ ở tuổi dậy thì có những thách thức gì?": {
+      "1": 10,
+      "0": 1
+    },
+    "Tự kỷ ở trẻ gái có biểu hiện khác trẻ trai không?": {
+      "1": 9,
+      "0": 1,
+      "2": 1
+    },
+    "Liều risperidone cho trẻ 5 tuổi là bao nhiêu?": {
+      "1": 3
+    },
+    "Làm sao hỗ trợ trẻ tự kỷ hòa nhập ở trường phổ thông?": {
+      "2": 9,
+      "1": 6
+    },
+    "Mốc phát triển của trẻ 9 tháng là gì?": {
+      "1": 7,
+      "2": 2,
+      "0": 4
+    },
+    "Câu chuyện xã hội (social stories) ở trường có hiệu quả không?": {
+      "2": 7,
+      "1": 4
+    },
+    "Chương trình huấn luyện kỹ năng cho người chăm sóc của WHO gồm những gì?": {
+      "3": 1,
+      "2": 5,
+      "1": 4,
+      "0": 1
+    },
+    "Có thể nhận ra dấu hiệu tự kỷ ở trẻ dưới 12 tháng không?": {
+      "1": 4,
+      "2": 3
+    },
+    "Trẻ không quay lại khi gọi tên có phải dấu hiệu tự kỷ?": {
+      "1": 3,
+      "2": 4,
+      "0": 4
+    },
+    "Tự kỷ có chữa khỏi được không?": {
+      "1": 4,
+      "0": 1
+    },
+    "Khi nào cha mẹ nên lo lắng về sự phát triển của con?": {
+      "2": 1,
+      "1": 3,
+      "0": 1
+    },
+    "Trẻ tự kỷ có hay bị ADHD hoặc lo âu kèm theo không?": {
+      "1": 2,
+      "2": 1
+    },
+    "Dấu hiệu chậm phát triển ở trẻ 4 tháng?": {
+      "1": 5,
+      "0": 5
+    },
+    "Rối loạn phổ tự kỷ là gì?": {
+      "2": 1,
+      "1": 3
+    },
+    "Con tôi 3 tuổi hay xếp đồ thành hàng, có phải bị tự kỷ không?": {
+      "0": 3,
+      "1": 2
+    }
+  },
+  "needs_review_ids": [
+    "823196BD3EE44EA4",
+    "7DC1211CDE5E45A6",
+    "C57DC8B0C3524C96",
+    "D42ECCFEF68B44FE",
+    "3F1A88E90B66468B",
+    "15146CE4B98C4CA3",
+    "BF9106BD32764726",
+    "E47A9706B94D41EB",
+    "B1C7DCF891944CE0",
+    "0C99C0EF31BE44F6",
+    "A74D1311F4214B7B",
+    "6227D8991D1E44E1",
+    "C24C15BDC6194AAA",
+    "E9BC316F53ED41DC",
+    "F8F960C59BAC4D0F",
+    "7A496C65332E4457",
+    "1C25FEEC7AAC437F",
+    "4581D078326D4152",
+    "D3B3B4D558D541F7",
+    "6D1D952B5E044822",
+    "0E1956B076E8460D",
+    "A962A4B5A2394401",
+    "3B8D4692F4B044B9",
+    "CCCD190E8CE348E0",
+    "714907FE9EC9440B",
+    "847474A6D8CB47DF",
+    "B8937B9C6FC448CA",
+    "633AFBE97C6C466C",
+    "6285FFE362644552",
+    "2EC4B2D4496A4E13",
+    "C4D1CAD7CA6B4907",
+    "29CE5EBE6BA34340",
+    "A9D314BA177F4EC1",
+    "BC6F03837B6541E3",
+    "ADE614DDAF704EA5",
+    "7DE10089DE614A83",
+    "037D9FC135074C94",
+    "C12221826FF24212",
+    "7E143F1B61484823",
+    "89CF853E6CEC40CA",
+    "14426AC64C724DD8",
+    "7F0F92AFF00F4416",
+    "373651B8BA564D85",
+    "81C4AB6080AA4536",
+    "1137A45C6338489F",
+    "A9A595CE15B649BD",
+    "5DF027B8DFF74185",
+    "31C0C8D98A364AC1",
+    "FD9B0D9A267549E0",
+    "1E3F8CAD6AA9432A",
+    "EA7362F293F04AB8",
+    "1F197FE6D95546D7",
+    "483EC825A6C241E1",
+    "F5CD06A942BC4B68",
+    "A42AD5F6A1314E93",
+    "73FF2E1CA05F4447",
+    "5A8E041422DF4517",
+    "BA787114CB134B00",
+    "14E12D7E13B0406F",
+    "90521E698B8D4967",
+    "04C68F4ECFC248F0",
+    "6C86883AA5964CC4",
+    "40750187FA764CA1",
+    "365B4A7165CF4CEF",
+    "28B219DE3ECA4233",
+    "EDB4A28878A9432D",
+    "5080470B66ED41FB",
+    "BDF16750F42B48CA",
+    "D62A00A6E3B243FA",
+    "081C12A0C29445AC",
+    "6B667BD501634BE8",
+    "3F6451F77D074165",
+    "5E26B371AEF44002",
+    "EB7A15D61E3D4A68",
+    "128C33D7E7414E69",
+    "60E2F32AFDCA4D48",
+    "8FA3A3BE1AA44D06",
+    "63FB678EDC324CE0",
+    "B24004A8D1774739",
+    "F7A9D66992834450",
+    "D61088940A6C4175",
+    "6E8177A19CED4DAE",
+    "51AC85C847314D6D",
+    "61239D24D879456B",
+    "6166FA203916474C",
+    "11769688F53D49BC",
+    "71A25C7A6F174698",
+    "61E7E23791FF4227",
+    "C17C2EC9810B4A28",
+    "109482C6F49E4745",
+    "23C5CCDF0CD24BAC",
+    "0D4114F243F8481E",
+    "EAA72FD3A14942EC",
+    "06C6354E8DA74F09",
+    "340E4CCBB0744597",
+    "014503FD240B4F16",
+    "09FFDB34BB3148C9",
+    "9202E8E67C154AD3",
+    "22AC592827ED4E82",
+    "FA4535D54FF546D5",
+    "C0D6357C247849EB",
+    "72751120CF404F33",
+    "8B18DBECCC6843C8",
+    "F918137D2EE949A8",
+    "CDB0EFBB18514287",
+    "CBADC02D457D46C4",
+    "09D4B4BECB12402E",
+    "1B34B471C0064CCF",
+    "F8FA120F91D4437F",
+    "7379533354214785",
+    "53694477808D4EBD",
+    "7A4B982F17FA482A",
+    "436E1660BFE44537",
+    "AF354D8D242746D8",
+    "C046629E1BB14707",
+    "8136AB122A044939",
+    "671785F9025A4A44",
+    "73F466A377BD4280",
+    "79133B28C2C7464F",
+    "5D7CC9D9AED948CB",
+    "38D31BBB58674B06",
+    "880DF786CFAD4CCB",
+    "4A4589D585084483",
+    "0F1CE5172ACF453B",
+    "E3ECCCD022EE4C84",
+    "4B6DCE0343204465"
+  ],
+  "existing_file_preserved_as_input": "eval\\annotation\\t2_4c\\t2_4c_ai_review_results.jsonl"
+}

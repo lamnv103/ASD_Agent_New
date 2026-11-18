@@ -1,0 +1,38 @@
+{"annotation_code": "2E4DBCE99A", "grade": 0, "rationale": "Bảng danh sách nghiên cứu, không nói vắc-xin.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "4394FF4385", "grade": 0, "rationale": "Về ADHD đồng mắc ASD, không nói vắc-xin.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "0CE6A709F8", "grade": 0, "rationale": "Về các chương trình nghiên cứu giao tiếp.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "6B0DD38E52", "grade": 0, "rationale": "Về lo âu đồng mắc ở ASD.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "4916617F3D", "grade": 0, "rationale": "Bàn về phơi nhiễm dioxin ở Việt Nam, không nói vắc-xin.", "evidence_span": "", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "CD3183AE78", "grade": 1, "rationale": "Nêu các yếu tố môi trường liên quan tự kỷ, không nhắc vắc-xin.", "evidence_span": "Autism can be associated with known environmental factors that can include exposures such as valproate, intrauterine alcohol exposure, prematurity", "confidence": "low", "needs_review": false, "review_note": ""}
+{"annotation_code": "47FF7695DE", "grade": 0, "rationale": "Về sự tham gia cộng đồng trong nghiên cứu.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "1215EFF13B", "grade": 0, "rationale": "Bảng số liệu cỡ mẫu, không liên quan.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "23ED5E9057", "grade": 2, "rationale": "Nhắc tranh cãi vắc-xin gây tự kỷ xuất phát từ nghiên cứu đã bị rút lại.", "evidence_span": "the alleged role of routine childhood vaccinations in autism and GI tract dysfunction, infamously suggested in a now retracted study", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "F5E0CDAA5B", "grade": 0, "rationale": "Chỉ định DSM và tài liệu tham khảo.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "99CB00BFFF", "grade": 0, "rationale": "Tóm tắt nghiên cứu ADHD, lo âu ở ASD.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "7CE3EFE8DE", "grade": 0, "rationale": "Tóm tắt tổng quan tự kỷ Việt Nam, không nói vắc-xin.", "evidence_span": "", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "8BEA3CC421", "grade": 0, "rationale": "Bảng danh sách nghiên cứu.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "36C228F279", "grade": 0, "rationale": "Về lo âu, vận động ở ASD/ADHD.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "FC2E2F5090", "grade": 1, "rationale": "Liệt kê yếu tố nguy cơ tự kỷ đã biết, không có vắc-xin.", "evidence_span": "the available evidence suggests that the following may put children at greater risk for developing ASD", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "8AD333E16F", "grade": 0, "rationale": "Khoảng trống nghiên cứu tự kỷ Việt Nam.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "401DD3275F", "grade": 0, "rationale": "Bảng công cụ chẩn đoán.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "4778573810", "grade": 1, "rationale": "Nêu nguyên nhân tự kỷ phức tạp do gen và môi trường, bối cảnh chung.", "evidence_span": "global understandings of autism recognise the aetiology of autism to be complex, with interactive genetic and environmental factors", "confidence": "low", "needs_review": false, "review_note": ""}
+{"annotation_code": "9D14048A69", "grade": 0, "rationale": "Về động kinh và tự kỷ.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "94C77BEAB6", "grade": 1, "rationale": "Nêu nguyên nhân di truyền của một phần tự kỷ, không nói vắc-xin.", "evidence_span": "fragile X DNA testing, which causes 2 to 5% of autism", "confidence": "low", "needs_review": false, "review_note": ""}
+{"annotation_code": "69D86A7CB6", "grade": 0, "rationale": "Về đi lạc và khuyết tật trí tuệ.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "1CCFBE61D2", "grade": 0, "rationale": "Mục tiêu nghiên cứu ADHD, lo âu.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "47BBE51075", "grade": 0, "rationale": "Về thuốc trừ sâu và tự kỷ, không nói vắc-xin.", "evidence_span": "", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "20819FAE70", "grade": 0, "rationale": "Về lo âu ở ASD/ADHD.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "E458367C58", "grade": 0, "rationale": "Về vấn đề tiêu hoá ở trẻ tự kỷ, không nói vắc-xin.", "evidence_span": "", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "DE826E489F", "grade": 0, "rationale": "Về tic và Tourette ở tự kỷ.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "FDE6855C0A", "grade": 0, "rationale": "Bối cảnh Việt Nam, không liên quan.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "B54454EBD2", "grade": 0, "rationale": "Về căn nguyên chung của bệnh đồng mắc, không nói vắc-xin.", "evidence_span": "", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "BA8EA6F7E7", "grade": 0, "rationale": "Nói tiêm vắc-xin phế cầu thấp liên quan viêm tai, không phải nguyên nhân tự kỷ.", "evidence_span": "", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "A43BD5468A", "grade": 0, "rationale": "Chỉ là dòng tham khảo thêm.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "4552B83A8A", "grade": 0, "rationale": "Về sàng lọc tự kỷ.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "DD2850B236", "grade": 0, "rationale": "Về niềm tin nguyên nhân và dioxin, không nói vắc-xin.", "evidence_span": "", "confidence": "medium", "needs_review": false, "review_note": ""}
+{"annotation_code": "A060EFA2F5", "grade": 0, "rationale": "Bảng danh sách nghiên cứu.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "A5F8816C61", "grade": 0, "rationale": "Về đánh giá chẩn đoán ASD.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "6433A29935", "grade": 0, "rationale": "Về chẩn đoán, tham gia cộng đồng ở Việt Nam.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "E86D43641C", "grade": 0, "rationale": "Về miễn dịch, tự miễn ở tự kỷ.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "CB50BDA9CA", "grade": 0, "rationale": "Tỷ lệ ASD ở Việt Nam.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}
+{"annotation_code": "5E877E4A0C", "grade": 0, "rationale": "Về hệ vi sinh đường ruột ở ASD.", "evidence_span": "", "confidence": "high", "needs_review": false, "review_note": ""}

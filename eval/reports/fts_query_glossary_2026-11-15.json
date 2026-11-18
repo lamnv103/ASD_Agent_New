@@ -1,0 +1,3726 @@
+{
+ "version": "query_glossary_vi_en_v1",
+ "sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+ "file": "config/query_glossary_vi_en_v1.json",
+ "glossary": {
+  "version": "query_glossary_vi_en_v1",
+  "created": "2026-11-15",
+  "decision": "Phase 6.2 T0 C4: controlled VI->EN expansion, no LLM, no translation API, never replaces the Vietnamese query",
+  "rules": [
+   "An entry fires only when one of its Vietnamese triggers occurs in the question (word-boundary match, longest trigger first; matched words are consumed).",
+   "English terms are translations or accepted spelling/abbreviation variants of the trigger only: no added symptom, diagnosis, cause or intent.",
+   "Matching uses the question as written (NFC, lower case). Only when the question has NO Vietnamese diacritics is it matched against the accent-stripped triggers.",
+   "A term is a phrase (phraseto_tsquery) unless prefixed 'all:' (every word required, any order: plainto_tsquery).",
+   "UK and US spellings are both listed because the 'english' config stems them to different lexemes (behaviour/behavior).",
+   "Upper-case acronyms and letter+digit tokens in the question (ADHD, AAC, DSM-5, ADOS-2, M-CHAT-R/F, NDBI, ABA, WHO, SenITA) are passed through as English terms.",
+   "Development caveat: entries were written from the vocabulary of the 66 retrieval_eval_v1 questions (dev = test). Results on those questions are optimistic; a held-out question set is required before any claim of generalisation."
+  ],
+  "generic_not_expanded": [
+   "trẻ",
+   "trẻ em",
+   "con",
+   "con tôi",
+   "bé",
+   "là gì",
+   "như thế nào",
+   "thế nào",
+   "không",
+   "có",
+   "những gì",
+   "ra sao",
+   "bao nhiêu"
+  ],
+  "age_patterns": [
+   {
+    "vi_regex": "(\\d{1,2})\\s*tháng",
+    "en": [
+     "{n} months",
+     "{n}-month-old",
+     "{n} month"
+    ]
+   },
+   {
+    "vi_regex": "(\\d{1,2})\\s*tuổi",
+    "en": [
+     "{n} years",
+     "{n}-year-old",
+     "{n} year"
+    ]
+   },
+   {
+    "vi_regex": "(\\d{1,2})\\s*năm đầu",
+    "en": [
+     "first {n} years"
+    ]
+   }
+  ],
+  "entries": [
+   {
+    "id": "asd_full",
+    "vi": [
+     "rối loạn phổ tự kỷ",
+     "asd"
+    ],
+    "en": [
+     "autism spectrum disorder",
+     "ASD"
+    ]
+   },
+   {
+    "id": "autism",
+    "vi": [
+     "tự kỷ"
+    ],
+    "en": [
+     "autism",
+     "autistic",
+     "ASD"
+    ]
+   },
+   {
+    "id": "prevalence",
+    "vi": [
+     "phổ biến",
+     "tỷ lệ mắc",
+     "tỷ lệ"
+    ],
+    "en": [
+     "prevalence",
+     "prevalent"
+    ]
+   },
+   {
+    "id": "risk_factor",
+    "vi": [
+     "yếu tố nguy cơ",
+     "nguy cơ"
+    ],
+    "en": [
+     "risk factor",
+     "risk factors",
+     "risk"
+    ]
+   },
+   {
+    "id": "cure",
+    "vi": [
+     "chữa khỏi",
+     "chữa được",
+     "chữa"
+    ],
+    "en": [
+     "cure",
+     "cured",
+     "curable"
+    ]
+   },
+   {
+    "id": "research",
+    "vi": [
+     "nghiên cứu"
+    ],
+    "en": [
+     "research",
+     "study",
+     "studies"
+    ]
+   },
+   {
+    "id": "vietnam",
+    "vi": [
+     "việt nam"
+    ],
+    "en": [
+     "Vietnam",
+     "Viet Nam",
+     "Vietnamese"
+    ]
+   },
+   {
+    "id": "girls",
+    "vi": [
+     "trẻ gái",
+     "bé gái"
+    ],
+    "en": [
+     "girls",
+     "female",
+     "females"
+    ]
+   },
+   {
+    "id": "boys",
+    "vi": [
+     "trẻ trai",
+     "bé trai"
+    ],
+    "en": [
+     "boys",
+     "male",
+     "males"
+    ]
+   },
+   {
+    "id": "early_signs",
+    "vi": [
+     "dấu hiệu sớm"
+    ],
+    "en": [
+     "early signs",
+     "early sign"
+    ]
+   },
+   {
+    "id": "signs",
+    "vi": [
+     "dấu hiệu",
+     "biểu hiện"
+    ],
+    "en": [
+     "signs",
+     "sign"
+    ]
+   },
+   {
+    "id": "development",
+    "vi": [
+     "sự phát triển",
+     "phát triển"
+    ],
+    "en": [
+     "development",
+     "developmental"
+    ]
+   },
+   {
+    "id": "concern",
+    "vi": [
+     "lo lắng",
+     "đáng lo"
+    ],
+    "en": [
+     "concern",
+     "concerns",
+     "concerned",
+     "worried"
+    ]
+   },
+   {
+    "id": "respond_name",
+    "vi": [
+     "gọi tên"
+    ],
+    "en": [
+     "all:respond name",
+     "all:responds name"
+    ]
+   },
+   {
+    "id": "puberty",
+    "vi": [
+     "tuổi dậy thì",
+     "dậy thì"
+    ],
+    "en": [
+     "puberty",
+     "pubertal"
+    ]
+   },
+   {
+    "id": "challenges",
+    "vi": [
+     "thách thức"
+    ],
+    "en": [
+     "challenges",
+     "challenge"
+    ]
+   },
+   {
+    "id": "regression",
+    "vi": [
+     "thoái lui",
+     "thoái triển"
+    ],
+    "en": [
+     "regression"
+    ]
+   },
+   {
+    "id": "skill_loss",
+    "vi": [
+     "mất kỹ năng"
+    ],
+    "en": [
+     "loss of skills",
+     "lost skills",
+     "skill loss"
+    ]
+   },
+   {
+    "id": "communication_difficulty",
+    "vi": [
+     "khó khăn giao tiếp"
+    ],
+    "en": [
+     "communication difficulties",
+     "communication difficulty"
+    ]
+   },
+   {
+    "id": "aac",
+    "vi": [
+     "giao tiếp thay thế",
+     "giao tiếp bổ trợ và thay thế",
+     "aac"
+    ],
+    "en": [
+     "augmentative and alternative communication",
+     "AAC"
+    ]
+   },
+   {
+    "id": "communication",
+    "vi": [
+     "giao tiếp"
+    ],
+    "en": [
+     "communication",
+     "communicate"
+    ]
+   },
+   {
+    "id": "nonverbal",
+    "vi": [
+     "chưa biết nói"
+    ],
+    "en": [
+     "nonverbal",
+     "non-verbal",
+     "minimally verbal",
+     "non-speaking"
+    ]
+   },
+   {
+    "id": "speech_delay",
+    "vi": [
+     "chậm nói"
+    ],
+    "en": [
+     "speech delay",
+     "language delay",
+     "delayed speech"
+    ]
+   },
+   {
+    "id": "talk",
+    "vi": [
+     "chưa nói",
+     "nói"
+    ],
+    "en": [
+     "talk",
+     "talking",
+     "speak",
+     "speech",
+     "words"
+    ]
+   },
+   {
+    "id": "joint_attention",
+    "vi": [
+     "chú ý chung"
+    ],
+    "en": [
+     "joint attention"
+    ]
+   },
+   {
+    "id": "social_stories",
+    "vi": [
+     "câu chuyện xã hội"
+    ],
+    "en": [
+     "social stories",
+     "social story"
+    ]
+   },
+   {
+    "id": "school",
+    "vi": [
+     "tại trường",
+     "ở trường",
+     "trường học",
+     "trường"
+    ],
+    "en": [
+     "school",
+     "schools",
+     "school-based"
+    ]
+   },
+   {
+    "id": "social_skills_training",
+    "vi": [
+     "huấn luyện kỹ năng xã hội",
+     "kỹ năng xã hội"
+    ],
+    "en": [
+     "social skills training",
+     "social skills"
+    ]
+   },
+   {
+    "id": "adolescents",
+    "vi": [
+     "thiếu niên",
+     "vị thành niên",
+     "tuổi teen"
+    ],
+    "en": [
+     "adolescents",
+     "adolescent",
+     "adolescence",
+     "teenagers",
+     "teens"
+    ]
+   },
+   {
+    "id": "effectiveness",
+    "vi": [
+     "hiệu quả"
+    ],
+    "en": [
+     "effective",
+     "effectiveness",
+     "efficacy"
+    ]
+   },
+   {
+    "id": "repetitive_behaviour",
+    "vi": [
+     "hành vi lặp lại"
+    ],
+    "en": [
+     "repetitive behaviours",
+     "repetitive behaviors",
+     "repetitive behaviour",
+     "repetitive behavior",
+     "restricted, repetitive"
+    ]
+   },
+   {
+    "id": "picky_eating",
+    "vi": [
+     "kén ăn"
+    ],
+    "en": [
+     "picky eating",
+     "food selectivity",
+     "selective eating"
+    ]
+   },
+   {
+    "id": "assessment",
+    "vi": [
+     "đánh giá"
+    ],
+    "en": [
+     "assessment",
+     "evaluation"
+    ]
+   },
+   {
+    "id": "intervention",
+    "vi": [
+     "can thiệp"
+    ],
+    "en": [
+     "intervention",
+     "interventions"
+    ]
+   },
+   {
+    "id": "challenging_behaviour",
+    "vi": [
+     "hành vi thách thức"
+    ],
+    "en": [
+     "challenging behaviour",
+     "challenging behavior",
+     "challenging behaviours",
+     "challenging behaviors",
+     "problem behaviour",
+     "problem behavior"
+    ]
+   },
+   {
+    "id": "home",
+    "vi": [
+     "tại nhà",
+     "ở nhà"
+    ],
+    "en": [
+     "home",
+     "home-based"
+    ]
+   },
+   {
+    "id": "wandering",
+    "vi": [
+     "đi lạc",
+     "bỏ chạy"
+    ],
+    "en": [
+     "wandering",
+     "elopement",
+     "running away"
+    ]
+   },
+   {
+    "id": "restricted_interests",
+    "vi": [
+     "sở thích hạn hẹp"
+    ],
+    "en": [
+     "restricted interests",
+     "circumscribed interests"
+    ]
+   },
+   {
+    "id": "learning",
+    "vi": [
+     "việc học",
+     "học tập"
+    ],
+    "en": [
+     "learning",
+     "academic"
+    ]
+   },
+   {
+    "id": "diagnosis",
+    "vi": [
+     "chẩn đoán"
+    ],
+    "en": [
+     "diagnosis",
+     "diagnosed",
+     "diagnostic"
+    ]
+   },
+   {
+    "id": "mchat",
+    "vi": [
+     "m-chat-r/f",
+     "m-chat"
+    ],
+    "en": [
+     "M-CHAT",
+     "M-CHAT-R/F",
+     "Modified Checklist for Autism in Toddlers"
+    ]
+   },
+   {
+    "id": "accuracy",
+    "vi": [
+     "độ chính xác"
+    ],
+    "en": [
+     "accuracy",
+     "sensitivity",
+     "specificity",
+     "positive predictive value"
+    ]
+   },
+   {
+    "id": "screening",
+    "vi": [
+     "sàng lọc"
+    ],
+    "en": [
+     "screening",
+     "screen"
+    ]
+   },
+   {
+    "id": "age",
+    "vi": [
+     "độ tuổi"
+    ],
+    "en": [
+     "age"
+    ]
+   },
+   {
+    "id": "dsm5",
+    "vi": [
+     "dsm-5",
+     "dsm 5",
+     "dsm5"
+    ],
+    "en": [
+     "DSM-5"
+    ]
+   },
+   {
+    "id": "dsm5_criteria",
+    "vi": [
+     "tiêu chuẩn"
+    ],
+    "en": [
+     "diagnostic criteria",
+     "criteria"
+    ]
+   },
+   {
+    "id": "adhd",
+    "vi": [
+     "tăng động giảm chú ý",
+     "adhd"
+    ],
+    "en": [
+     "ADHD",
+     "attention-deficit/hyperactivity disorder",
+     "attention deficit hyperactivity disorder"
+    ]
+   },
+   {
+    "id": "anxiety",
+    "vi": [
+     "lo âu"
+    ],
+    "en": [
+     "anxiety"
+    ]
+   },
+   {
+    "id": "co_occurring",
+    "vi": [
+     "kèm theo",
+     "đi kèm",
+     "kèm"
+    ],
+    "en": [
+     "co-occurring",
+     "comorbid",
+     "comorbidity"
+    ]
+   },
+   {
+    "id": "gastrointestinal",
+    "vi": [
+     "vấn đề tiêu hóa",
+     "rối loạn tiêu hóa",
+     "tiêu hóa"
+    ],
+    "en": [
+     "gastrointestinal",
+     "GI",
+     "digestive"
+    ]
+   },
+   {
+    "id": "early_intervention",
+    "vi": [
+     "can thiệp sớm"
+    ],
+    "en": [
+     "early intervention"
+    ]
+   },
+   {
+    "id": "benefits",
+    "vi": [
+     "lợi ích",
+     "có lợi",
+     "lợi"
+    ],
+    "en": [
+     "benefits",
+     "benefit"
+    ]
+   },
+   {
+    "id": "ndbi",
+    "vi": [
+     "ndbi"
+    ],
+    "en": [
+     "NDBI",
+     "naturalistic developmental behavioral intervention",
+     "naturalistic developmental behavioural intervention"
+    ]
+   },
+   {
+    "id": "parent_mediated",
+    "vi": [
+     "can thiệp do cha mẹ thực hiện",
+     "do cha mẹ thực hiện"
+    ],
+    "en": [
+     "parent-mediated intervention",
+     "parent-implemented intervention",
+     "parent-mediated",
+     "parent-implemented"
+    ]
+   },
+   {
+    "id": "parents",
+    "vi": [
+     "cha mẹ",
+     "bố mẹ",
+     "phụ huynh"
+    ],
+    "en": [
+     "parent",
+     "parents"
+    ]
+   },
+   {
+    "id": "caregiver_skills_training",
+    "vi": [
+     "chương trình huấn luyện kỹ năng cho người chăm sóc",
+     "huấn luyện kỹ năng cho người chăm sóc"
+    ],
+    "en": [
+     "caregiver skills training",
+     "CST"
+    ]
+   },
+   {
+    "id": "caregiver",
+    "vi": [
+     "người chăm sóc"
+    ],
+    "en": [
+     "caregiver",
+     "caregivers"
+    ]
+   },
+   {
+    "id": "who",
+    "vi": [
+     "who",
+     "tổ chức y tế thế giới"
+    ],
+    "en": [
+     "WHO",
+     "World Health Organization"
+    ]
+   },
+   {
+    "id": "aba",
+    "vi": [
+     "can thiệp hành vi",
+     "aba"
+    ],
+    "en": [
+     "applied behavior analysis",
+     "applied behaviour analysis",
+     "ABA",
+     "behavioral intervention",
+     "behavioural intervention"
+    ]
+   },
+   {
+    "id": "sleep",
+    "vi": [
+     "giấc ngủ",
+     "ngủ"
+    ],
+    "en": [
+     "sleep"
+    ]
+   },
+   {
+    "id": "insomnia",
+    "vi": [
+     "mất ngủ"
+    ],
+    "en": [
+     "insomnia"
+    ]
+   },
+   {
+    "id": "non_pharmacological",
+    "vi": [
+     "không dùng thuốc"
+    ],
+    "en": [
+     "non-pharmacological",
+     "nonpharmacological"
+    ]
+   },
+   {
+    "id": "melatonin",
+    "vi": [
+     "melatonin"
+    ],
+    "en": [
+     "melatonin"
+    ]
+   },
+   {
+    "id": "medication",
+    "vi": [
+     "thuốc"
+    ],
+    "en": [
+     "medication",
+     "medications",
+     "drug",
+     "drugs",
+     "pharmacological"
+    ]
+   },
+   {
+    "id": "treatment",
+    "vi": [
+     "điều trị"
+    ],
+    "en": [
+     "treatment",
+     "treat"
+    ]
+   },
+   {
+    "id": "inclusion",
+    "vi": [
+     "hòa nhập",
+     "hoà nhập"
+    ],
+    "en": [
+     "inclusion",
+     "inclusive",
+     "mainstream"
+    ]
+   },
+   {
+    "id": "swimming",
+    "vi": [
+     "học bơi",
+     "bơi"
+    ],
+    "en": [
+     "swimming",
+     "swim"
+    ]
+   },
+   {
+    "id": "safety",
+    "vi": [
+     "an toàn"
+    ],
+    "en": [
+     "safety",
+     "safe"
+    ]
+   },
+   {
+    "id": "sensory_integration",
+    "vi": [
+     "tích hợp cảm giác",
+     "điều hòa cảm giác",
+     "điều hoà cảm giác"
+    ],
+    "en": [
+     "sensory integration",
+     "sensory integration therapy"
+    ]
+   },
+   {
+    "id": "ayres",
+    "vi": [
+     "ayres sensory integration"
+    ],
+    "en": [
+     "Ayres Sensory Integration",
+     "ASI"
+    ]
+   },
+   {
+    "id": "sensory_interventions",
+    "vi": [
+     "can thiệp cảm giác"
+    ],
+    "en": [
+     "sensory-based interventions",
+     "sensory-based intervention",
+     "sensory interventions"
+    ]
+   },
+   {
+    "id": "sensory",
+    "vi": [
+     "cảm giác"
+    ],
+    "en": [
+     "sensory"
+    ]
+   },
+   {
+    "id": "therapy",
+    "vi": [
+     "liệu pháp"
+    ],
+    "en": [
+     "therapy"
+    ]
+   },
+   {
+    "id": "sound_sensitivity",
+    "vi": [
+     "nhạy cảm với âm thanh",
+     "nhạy cảm âm thanh"
+    ],
+    "en": [
+     "sound sensitivity",
+     "noise sensitivity",
+     "auditory sensitivity",
+     "sensitivity to sound",
+     "sensitivity to noise"
+    ]
+   },
+   {
+    "id": "trial",
+    "vi": [
+     "thử nghiệm"
+    ],
+    "en": [
+     "trial"
+    ]
+   },
+   {
+    "id": "senita",
+    "vi": [
+     "senita"
+    ],
+    "en": [
+     "SenITA"
+    ]
+   },
+   {
+    "id": "cost",
+    "vi": [
+     "chi phí"
+    ],
+    "en": [
+     "cost",
+     "costs",
+     "cost-effectiveness",
+     "cost-effective"
+    ]
+   },
+   {
+    "id": "milestones",
+    "vi": [
+     "mốc phát triển",
+     "mốc"
+    ],
+    "en": [
+     "developmental milestones",
+     "milestones",
+     "milestone"
+    ]
+   },
+   {
+    "id": "recommendations",
+    "vi": [
+     "khuyến nghị"
+    ],
+    "en": [
+     "recommendations",
+     "recommends",
+     "recommendation"
+    ]
+   },
+   {
+    "id": "ecd",
+    "vi": [
+     "phát triển trẻ thơ",
+     "phát triển sớm"
+    ],
+    "en": [
+     "early childhood development",
+     "ECD"
+    ]
+   },
+   {
+    "id": "developmental_delay",
+    "vi": [
+     "chậm phát triển"
+    ],
+    "en": [
+     "developmental delay",
+     "developmental delays",
+     "delayed development"
+    ]
+   },
+   {
+    "id": "pointing",
+    "vi": [
+     "chỉ tay"
+    ],
+    "en": [
+     "pointing",
+     "point"
+    ]
+   },
+   {
+    "id": "psychological",
+    "vi": [
+     "tâm lý"
+    ],
+    "en": [
+     "psychological",
+     "mental health"
+    ]
+   },
+   {
+    "id": "vaccine",
+    "vi": [
+     "vắc-xin",
+     "vắc xin",
+     "vaccine"
+    ],
+    "en": [
+     "vaccine",
+     "vaccines",
+     "vaccination",
+     "vaccinations"
+    ]
+   },
+   {
+    "id": "cause",
+    "vi": [
+     "gây ra",
+     "gây"
+    ],
+    "en": [
+     "cause",
+     "causes"
+    ]
+   },
+   {
+    "id": "dose",
+    "vi": [
+     "liều lượng",
+     "liều"
+    ],
+    "en": [
+     "dose",
+     "dosage"
+    ]
+   },
+   {
+    "id": "risperidone",
+    "vi": [
+     "risperidone"
+    ],
+    "en": [
+     "risperidone"
+    ]
+   },
+   {
+    "id": "stem_cell",
+    "vi": [
+     "tế bào gốc"
+    ],
+    "en": [
+     "stem cell",
+     "stem cells"
+    ]
+   },
+   {
+    "id": "gfcf_diet",
+    "vi": [
+     "không gluten, không casein",
+     "không gluten không casein"
+    ],
+    "en": [
+     "gluten-free",
+     "casein-free",
+     "GFCF",
+     "gluten free",
+     "casein free"
+    ]
+   },
+   {
+    "id": "diet",
+    "vi": [
+     "chế độ ăn"
+    ],
+    "en": [
+     "diet"
+    ]
+   },
+   {
+    "id": "lining_up",
+    "vi": [
+     "xếp đồ thành hàng",
+     "xếp thành hàng"
+    ],
+    "en": [
+     "lining up",
+     "lines up",
+     "line up"
+    ]
+   },
+   {
+    "id": "echolalia",
+    "vi": [
+     "nhại lại lời",
+     "nhại lời",
+     "nhại lại"
+    ],
+    "en": [
+     "echolalia",
+     "repeats words",
+     "repeat words",
+     "repeating words"
+    ]
+   },
+   {
+    "id": "ados",
+    "vi": [
+     "ados-2",
+     "ados"
+    ],
+    "en": [
+     "ADOS-2",
+     "ADOS",
+     "Autism Diagnostic Observation Schedule"
+    ]
+   },
+   {
+    "id": "epilepsy",
+    "vi": [
+     "động kinh"
+    ],
+    "en": [
+     "epilepsy",
+     "epileptic",
+     "seizure disorder"
+    ]
+   }
+  ]
+ },
+ "corpus_check": {
+  "terms_checked": 263,
+  "terms_with_zero_chunks": [
+   "WHO",
+   "auditory sensitivity",
+   "curable",
+   "delayed development",
+   "delayed speech",
+   "loss of skills",
+   "sensitivity to noise",
+   "stem cell",
+   "stem cells"
+  ],
+  "chunk_counts": {
+   "12 month": 73,
+   "12 months": 73,
+   "12-month-old": 2,
+   "15 month": 12,
+   "15 months": 12,
+   "15-month-old": 2,
+   "18 month": 32,
+   "18 months": 32,
+   "18-month-old": 2,
+   "2 year": 36,
+   "2 years": 36,
+   "2-year-old": 2,
+   "3 year": 64,
+   "3 years": 64,
+   "3-year-old": 2,
+   "4 month": 10,
+   "4 months": 10,
+   "4-month-old": 1,
+   "5 year": 27,
+   "5 years": 27,
+   "5-year-old": 2,
+   "9 month": 16,
+   "9 months": 16,
+   "9-month-old": 2,
+   "AAC": 94,
+   "ABA": 52,
+   "ADHD": 186,
+   "ADOS": 70,
+   "ADOS-2": 11,
+   "ASD": 692,
+   "ASI": 45,
+   "Autism Diagnostic Observation Schedule": 22,
+   "Ayres Sensory Integration": 14,
+   "CST": 2,
+   "DSM-5": 48,
+   "ECD": 111,
+   "GFCF": 1,
+   "GI": 40,
+   "M-CHAT": 25,
+   "M-CHAT-R/F": 32,
+   "Modified Checklist for Autism in Toddlers": 15,
+   "NDBI": 64,
+   "SenITA": 23,
+   "Viet Nam": 35,
+   "Vietnam": 28,
+   "Vietnamese": 27,
+   "WHO": 0,
+   "World Health Organization": 8,
+   "academic": 36,
+   "accuracy": 65,
+   "adolescence": 220,
+   "adolescent": 220,
+   "adolescents": 220,
+   "age": 652,
+   "all:respond name": 12,
+   "all:responds name": 12,
+   "anxiety": 218,
+   "applied behavior analysis": 15,
+   "applied behaviour analysis": 5,
+   "assessment": 508,
+   "attention deficit hyperactivity disorder": 22,
+   "attention-deficit/hyperactivity disorder": 16,
+   "auditory sensitivity": 0,
+   "augmentative and alternative communication": 22,
+   "autism": 719,
+   "autism spectrum disorder": 147,
+   "autistic": 389,
+   "behavioral intervention": 86,
+   "behavioural intervention": 18,
+   "benefit": 140,
+   "benefits": 140,
+   "boys": 46,
+   "caregiver": 344,
+   "caregiver skills training": 11,
+   "caregivers": 344,
+   "casein free": 2,
+   "casein-free": 2,
+   "cause": 78,
+   "causes": 78,
+   "challenge": 299,
+   "challenges": 299,
+   "challenging behavior": 71,
+   "challenging behaviors": 71,
+   "challenging behaviour": 32,
+   "challenging behaviours": 32,
+   "circumscribed interests": 5,
+   "co-occurring": 67,
+   "communicate": 467,
+   "communication": 467,
+   "communication difficulties": 9,
+   "communication difficulty": 9,
+   "comorbid": 145,
+   "comorbidity": 145,
+   "concern": 160,
+   "concerned": 160,
+   "concerns": 160,
+   "cost": 102,
+   "cost-effective": 32,
+   "cost-effectiveness": 32,
+   "costs": 102,
+   "criteria": 274,
+   "curable": 0,
+   "cure": 3,
+   "cured": 3,
+   "delayed development": 0,
+   "delayed speech": 0,
+   "development": 603,
+   "developmental": 391,
+   "developmental delay": 46,
+   "developmental delays": 46,
+   "developmental milestones": 29,
+   "diagnosed": 153,
+   "diagnosis": 290,
+   "diagnostic": 195,
+   "diagnostic criteria": 32,
+   "diet": 42,
+   "digestive": 5,
+   "dosage": 48,
+   "dose": 35,
+   "drug": 31,
+   "drugs": 31,
+   "early childhood development": 16,
+   "early intervention": 47,
+   "early sign": 5,
+   "early signs": 5,
+   "echolalia": 6,
+   "effective": 775,
+   "effectiveness": 775,
+   "efficacy": 151,
+   "elopement": 14,
+   "epilepsy": 16,
+   "epileptic": 3,
+   "evaluation": 419,
+   "female": 78,
+   "females": 78,
+   "first 3 years": 29,
+   "food selectivity": 49,
+   "gastrointestinal": 32,
+   "girls": 51,
+   "gluten free": 3,
+   "gluten-free": 3,
+   "home": 209,
+   "home-based": 15,
+   "inclusion": 193,
+   "inclusive": 193,
+   "insomnia": 27,
+   "intervention": 972,
+   "interventions": 972,
+   "joint attention": 47,
+   "language delay": 6,
+   "learning": 325,
+   "line up": 60,
+   "lines up": 60,
+   "lining up": 60,
+   "loss of skills": 0,
+   "lost skills": 2,
+   "mainstream": 32,
+   "male": 72,
+   "males": 72,
+   "medication": 173,
+   "medications": 173,
+   "melatonin": 28,
+   "mental health": 114,
+   "milestone": 96,
+   "milestones": 96,
+   "minimally verbal": 18,
+   "naturalistic developmental behavioral intervention": 21,
+   "naturalistic developmental behavioural intervention": 1,
+   "noise sensitivity": 1,
+   "non-pharmacological": 20,
+   "non-speaking": 3,
+   "non-verbal": 3,
+   "nonpharmacological": 1,
+   "nonverbal": 52,
+   "parent": 704,
+   "parent-implemented": 4,
+   "parent-implemented intervention": 3,
+   "parent-mediated": 36,
+   "parent-mediated intervention": 26,
+   "parents": 704,
+   "pharmacological": 31,
+   "picky eating": 1,
+   "point": 230,
+   "pointing": 230,
+   "positive predictive value": 14,
+   "prevalence": 154,
+   "prevalent": 154,
+   "problem behavior": 18,
+   "problem behaviour": 5,
+   "psychological": 53,
+   "pubertal": 5,
+   "puberty": 4,
+   "recommendation": 196,
+   "recommendations": 196,
+   "recommends": 196,
+   "regression": 82,
+   "repeat words": 3,
+   "repeating words": 3,
+   "repeats words": 3,
+   "repetitive behavior": 61,
+   "repetitive behaviors": 61,
+   "repetitive behaviour": 8,
+   "repetitive behaviours": 8,
+   "research": 526,
+   "restricted interests": 7,
+   "restricted, repetitive": 26,
+   "risk": 255,
+   "risk factor": 18,
+   "risk factors": 18,
+   "risperidone": 3,
+   "running away": 1,
+   "safe": 62,
+   "safety": 86,
+   "school": 311,
+   "school-based": 15,
+   "schools": 311,
+   "screen": 262,
+   "screening": 262,
+   "seizure disorder": 3,
+   "selective eating": 5,
+   "sensitivity": 180,
+   "sensitivity to noise": 0,
+   "sensitivity to sound": 3,
+   "sensory": 317,
+   "sensory integration": 85,
+   "sensory integration therapy": 32,
+   "sensory interventions": 12,
+   "sensory-based intervention": 21,
+   "sensory-based interventions": 21,
+   "sign": 81,
+   "signs": 81,
+   "skill loss": 1,
+   "sleep": 167,
+   "social skills": 129,
+   "social skills training": 16,
+   "social stories": 44,
+   "social story": 44,
+   "sound sensitivity": 2,
+   "speak": 35,
+   "specificity": 463,
+   "speech": 129,
+   "speech delay": 1,
+   "stem cell": 0,
+   "stem cells": 0,
+   "studies": 1179,
+   "study": 1179,
+   "swim": 47,
+   "swimming": 47,
+   "talk": 95,
+   "talking": 95,
+   "teenagers": 10,
+   "teens": 36,
+   "therapy": 202,
+   "treat": 100,
+   "treatment": 404,
+   "trial": 324,
+   "vaccination": 4,
+   "vaccinations": 4,
+   "vaccine": 4,
+   "vaccines": 4,
+   "wandering": 21,
+   "words": 129,
+   "worried": 10
+  }
+ },
+ "expansions_for_eval_questions": {
+  "q001": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "asd_full",
+     "trigger": "rối loạn phổ tự kỷ",
+     "terms": [
+      "autism spectrum disorder",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "là",
+    "gì"
+   ]
+  },
+  "q002": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "prevalence",
+     "trigger": "phổ biến",
+     "terms": [
+      "prevalence",
+      "prevalent"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "như",
+    "thế",
+    "nào",
+    "ở",
+    "em"
+   ]
+  },
+  "q003": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "risk_factor",
+     "trigger": "nguy cơ",
+     "terms": [
+      "risk factor",
+      "risk factors",
+      "risk"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "những",
+    "yếu",
+    "tố",
+    "nào",
+    "làm",
+    "tăng"
+   ]
+  },
+  "q004": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "cure",
+     "trigger": "chữa khỏi",
+     "terms": [
+      "cure",
+      "cured",
+      "curable"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "được"
+   ]
+  },
+  "q005": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "research",
+     "trigger": "nghiên cứu",
+     "terms": [
+      "research",
+      "study",
+      "studies"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "vietnam",
+     "trigger": "việt nam",
+     "terms": [
+      "Vietnam",
+      "Viet Nam",
+      "Vietnamese"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "về",
+    "ở",
+    "hiện",
+    "nay",
+    "ra",
+    "sao"
+   ]
+  },
+  "q006": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "girls",
+     "trigger": "trẻ gái",
+     "terms": [
+      "girls",
+      "female",
+      "females"
+     ]
+    },
+    {
+     "concept": "signs",
+     "trigger": "biểu hiện",
+     "terms": [
+      "signs",
+      "sign"
+     ]
+    },
+    {
+     "concept": "boys",
+     "trigger": "trẻ trai",
+     "terms": [
+      "boys",
+      "male",
+      "males"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "ở",
+    "khác"
+   ]
+  },
+  "q007": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "early_signs",
+     "trigger": "dấu hiệu sớm",
+     "terms": [
+      "early signs",
+      "early sign"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "age:18 tháng",
+     "trigger": "18 tháng",
+     "terms": [
+      "18 months",
+      "18-month-old",
+      "18 month"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "của",
+    "ở",
+    "là",
+    "gì"
+   ]
+  },
+  "q008": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "parents",
+     "trigger": "cha mẹ",
+     "terms": [
+      "parent",
+      "parents"
+     ]
+    },
+    {
+     "concept": "concern",
+     "trigger": "lo lắng",
+     "terms": [
+      "concern",
+      "concerns",
+      "concerned",
+      "worried"
+     ]
+    },
+    {
+     "concept": "development",
+     "trigger": "sự phát triển",
+     "terms": [
+      "development",
+      "developmental"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "khi",
+    "nào",
+    "nên",
+    "về",
+    "của"
+   ]
+  },
+  "q009": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "respond_name",
+     "trigger": "gọi tên",
+     "terms": [
+      "all:respond name",
+      "all:responds name"
+     ]
+    },
+    {
+     "concept": "signs",
+     "trigger": "dấu hiệu",
+     "terms": [
+      "signs",
+      "sign"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "quay",
+    "lại",
+    "khi",
+    "phải"
+   ]
+  },
+  "q010": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "signs",
+     "trigger": "dấu hiệu",
+     "terms": [
+      "signs",
+      "sign"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "age:12 tháng",
+     "trigger": "12 tháng",
+     "terms": [
+      "12 months",
+      "12-month-old",
+      "12 month"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "thể",
+    "nhận",
+    "ra",
+    "ở",
+    "dưới"
+   ]
+  },
+  "q011": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "puberty",
+     "trigger": "tuổi dậy thì",
+     "terms": [
+      "puberty",
+      "pubertal"
+     ]
+    },
+    {
+     "concept": "challenges",
+     "trigger": "thách thức",
+     "terms": [
+      "challenges",
+      "challenge"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "ở",
+    "những",
+    "gì"
+   ]
+  },
+  "q012": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "skill_loss",
+     "trigger": "mất kỹ năng",
+     "terms": [
+      "loss of skills",
+      "lost skills",
+      "skill loss"
+     ]
+    },
+    {
+     "concept": "regression",
+     "trigger": "thoái lui",
+     "terms": [
+      "regression"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "đã",
+    "thì",
+    "cần",
+    "làm",
+    "gì"
+   ]
+  },
+  "q013": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "communication_difficulty",
+     "trigger": "khó khăn giao tiếp",
+     "terms": [
+      "communication difficulties",
+      "communication difficulty"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "thường",
+    "gặp",
+    "những",
+    "nào"
+   ]
+  },
+  "q014": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "nonverbal",
+     "trigger": "chưa biết nói",
+     "terms": [
+      "nonverbal",
+      "non-verbal",
+      "minimally verbal",
+      "non-speaking"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "làm",
+    "sao",
+    "hỗ",
+    "trợ"
+   ]
+  },
+  "q015": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "aac",
+     "trigger": "giao tiếp thay thế",
+     "terms": [
+      "augmentative and alternative communication",
+      "AAC"
+     ]
+    },
+    {
+     "concept": "speech_delay",
+     "trigger": "chậm nói",
+     "terms": [
+      "speech delay",
+      "language delay",
+      "delayed speech"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "làm",
+    "hơn"
+   ]
+  },
+  "q016": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "joint_attention",
+     "trigger": "chú ý chung",
+     "terms": [
+      "joint attention"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "joint",
+    "attention",
+    "là",
+    "gì",
+    "và",
+    "tập",
+    "thế",
+    "nào"
+   ]
+  },
+  "q017": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "social_stories",
+     "trigger": "câu chuyện xã hội",
+     "terms": [
+      "social stories",
+      "social story"
+     ]
+    },
+    {
+     "concept": "school",
+     "trigger": "ở trường",
+     "terms": [
+      "school",
+      "schools",
+      "school-based"
+     ]
+    },
+    {
+     "concept": "effectiveness",
+     "trigger": "hiệu quả",
+     "terms": [
+      "effective",
+      "effectiveness",
+      "efficacy"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "social",
+    "stories"
+   ]
+  },
+  "q018": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "social_skills_training",
+     "trigger": "huấn luyện kỹ năng xã hội",
+     "terms": [
+      "social skills training",
+      "social skills"
+     ]
+    },
+    {
+     "concept": "adolescents",
+     "trigger": "thiếu niên",
+     "terms": [
+      "adolescents",
+      "adolescent",
+      "adolescence",
+      "teenagers",
+      "teens"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "effectiveness",
+     "trigger": "hiệu quả",
+     "terms": [
+      "effective",
+      "effectiveness",
+      "efficacy"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "cho"
+   ]
+  },
+  "q019": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "repetitive_behaviour",
+     "trigger": "hành vi lặp lại",
+     "terms": [
+      "repetitive behaviours",
+      "repetitive behaviors",
+      "repetitive behaviour",
+      "repetitive behavior",
+      "restricted, repetitive"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "ở",
+    "gồm",
+    "những",
+    "gì"
+   ]
+  },
+  "q020": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "picky_eating",
+     "trigger": "kén ăn",
+     "terms": [
+      "picky eating",
+      "food selectivity",
+      "selective eating"
+     ]
+    },
+    {
+     "concept": "assessment",
+     "trigger": "đánh giá",
+     "terms": [
+      "assessment",
+      "evaluation"
+     ]
+    },
+    {
+     "concept": "intervention",
+     "trigger": "can thiệp",
+     "terms": [
+      "intervention",
+      "interventions"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "nghiêm",
+    "trọng",
+    "thì",
+    "và",
+    "thế",
+    "nào"
+   ]
+  },
+  "q021": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "parents",
+     "trigger": "cha mẹ",
+     "terms": [
+      "parent",
+      "parents"
+     ]
+    },
+    {
+     "concept": "challenging_behaviour",
+     "trigger": "hành vi thách thức",
+     "terms": [
+      "challenging behaviour",
+      "challenging behavior",
+      "challenging behaviours",
+      "challenging behaviors",
+      "problem behaviour",
+      "problem behavior"
+     ]
+    },
+    {
+     "concept": "home",
+     "trigger": "ở nhà",
+     "terms": [
+      "home",
+      "home-based"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "làm",
+    "gì",
+    "khi"
+   ]
+  },
+  "q022": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "wandering",
+     "trigger": "đi lạc",
+     "terms": [
+      "wandering",
+      "elopement",
+      "running away"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "làm",
+    "sao",
+    "phòng",
+    "tránh"
+   ]
+  },
+  "q023": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "restricted_interests",
+     "trigger": "sở thích hạn hẹp",
+     "terms": [
+      "restricted interests",
+      "circumscribed interests"
+     ]
+    },
+    {
+     "concept": "learning",
+     "trigger": "việc học",
+     "terms": [
+      "learning",
+      "academic"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "ảnh",
+    "hưởng",
+    "đến"
+   ]
+  },
+  "q024": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "diagnosis",
+     "trigger": "chẩn đoán",
+     "terms": [
+      "diagnosis",
+      "diagnosed",
+      "diagnostic"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "được",
+    "như",
+    "thế",
+    "nào"
+   ]
+  },
+  "q025": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "mchat",
+     "trigger": "m-chat-r/f",
+     "terms": [
+      "M-CHAT",
+      "M-CHAT-R/F",
+      "Modified Checklist for Autism in Toddlers"
+     ]
+    },
+    {
+     "concept": "accuracy",
+     "trigger": "độ chính xác",
+     "terms": [
+      "accuracy",
+      "sensitivity",
+      "specificity",
+      "positive predictive value"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "là",
+    "gì",
+    "và",
+    "ra",
+    "sao"
+   ]
+  },
+  "q026": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "screening",
+     "trigger": "sàng lọc",
+     "terms": [
+      "screening",
+      "screen"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "age",
+     "trigger": "độ tuổi",
+     "terms": [
+      "age"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "nên",
+    "cho",
+    "vào",
+    "nào"
+   ]
+  },
+  "q027": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "dsm5_criteria",
+     "trigger": "tiêu chuẩn",
+     "terms": [
+      "diagnostic criteria",
+      "criteria"
+     ]
+    },
+    {
+     "concept": "dsm5",
+     "trigger": "dsm-5",
+     "terms": [
+      "DSM-5"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "cho",
+    "gồm",
+    "những",
+    "gì"
+   ]
+  },
+  "q028": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "screening",
+     "trigger": "sàng lọc",
+     "terms": [
+      "screening",
+      "screen"
+     ]
+    },
+    {
+     "concept": "diagnosis",
+     "trigger": "chẩn đoán",
+     "terms": [
+      "diagnosis",
+      "diagnosed",
+      "diagnostic"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "vietnam",
+     "trigger": "việt nam",
+     "terms": [
+      "Vietnam",
+      "Viet Nam",
+      "Vietnamese"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "và",
+    "sớm",
+    "ở",
+    "được",
+    "thực",
+    "hiện",
+    "thế",
+    "nào"
+   ]
+  },
+  "q029": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "adhd",
+     "trigger": "adhd",
+     "terms": [
+      "ADHD",
+      "attention-deficit/hyperactivity disorder",
+      "attention deficit hyperactivity disorder"
+     ]
+    },
+    {
+     "concept": "anxiety",
+     "trigger": "lo âu",
+     "terms": [
+      "anxiety"
+     ]
+    },
+    {
+     "concept": "co_occurring",
+     "trigger": "kèm theo",
+     "terms": [
+      "co-occurring",
+      "comorbid",
+      "comorbidity"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "hay",
+    "bị",
+    "hoặc"
+   ]
+  },
+  "q030": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "gastrointestinal",
+     "trigger": "vấn đề tiêu hóa",
+     "terms": [
+      "gastrointestinal",
+      "GI",
+      "digestive"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "hay",
+    "gặp"
+   ]
+  },
+  "q031": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "early_intervention",
+     "trigger": "can thiệp sớm",
+     "terms": [
+      "early intervention"
+     ]
+    },
+    {
+     "concept": "benefits",
+     "trigger": "lợi ích",
+     "terms": [
+      "benefits",
+      "benefit"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "mang",
+    "lại",
+    "gì"
+   ]
+  },
+  "q032": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "intervention",
+     "trigger": "can thiệp",
+     "terms": [
+      "intervention",
+      "interventions"
+     ]
+    },
+    {
+     "concept": "ndbi",
+     "trigger": "ndbi",
+     "terms": [
+      "NDBI",
+      "naturalistic developmental behavioral intervention",
+      "naturalistic developmental behavioural intervention"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "là",
+    "gì"
+   ]
+  },
+  "q033": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "parent_mediated",
+     "trigger": "can thiệp do cha mẹ thực hiện",
+     "terms": [
+      "parent-mediated intervention",
+      "parent-implemented intervention",
+      "parent-mediated",
+      "parent-implemented"
+     ]
+    },
+    {
+     "concept": "effectiveness",
+     "trigger": "hiệu quả",
+     "terms": [
+      "effective",
+      "effectiveness",
+      "efficacy"
+     ]
+    }
+   ],
+   "unmapped_words": []
+  },
+  "q034": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "caregiver_skills_training",
+     "trigger": "chương trình huấn luyện kỹ năng cho người chăm sóc",
+     "terms": [
+      "caregiver skills training",
+      "CST"
+     ]
+    },
+    {
+     "concept": "who",
+     "trigger": "who",
+     "terms": [
+      "WHO",
+      "World Health Organization"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "của",
+    "gồm",
+    "những",
+    "gì"
+   ]
+  },
+  "q035": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "aba",
+     "trigger": "can thiệp hành vi",
+     "terms": [
+      "applied behavior analysis",
+      "applied behaviour analysis",
+      "ABA",
+      "behavioral intervention",
+      "behavioural intervention"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "cho",
+    "gồm",
+    "những",
+    "gì"
+   ]
+  },
+  "q036": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "sleep",
+     "trigger": "giấc ngủ",
+     "terms": [
+      "sleep"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "non_pharmacological",
+     "trigger": "không dùng thuốc",
+     "terms": [
+      "non-pharmacological",
+      "nonpharmacological"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "cải",
+    "thiện",
+    "cho",
+    "thế",
+    "nào"
+   ]
+  },
+  "q037": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "melatonin",
+     "trigger": "melatonin",
+     "terms": [
+      "melatonin"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "sleep",
+     "trigger": "ngủ",
+     "terms": [
+      "sleep"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "giúp",
+    "tốt",
+    "hơn"
+   ]
+  },
+  "q038": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "medication",
+     "trigger": "thuốc",
+     "terms": [
+      "medication",
+      "medications",
+      "drug",
+      "drugs",
+      "pharmacological"
+     ]
+    },
+    {
+     "concept": "treatment",
+     "trigger": "điều trị",
+     "terms": [
+      "treatment",
+      "treat"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "nào"
+   ]
+  },
+  "q039": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "inclusion",
+     "trigger": "hòa nhập",
+     "terms": [
+      "inclusion",
+      "inclusive",
+      "mainstream"
+     ]
+    },
+    {
+     "concept": "school",
+     "trigger": "ở trường",
+     "terms": [
+      "school",
+      "schools",
+      "school-based"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "làm",
+    "sao",
+    "hỗ",
+    "trợ",
+    "phổ",
+    "thông"
+   ]
+  },
+  "q040": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "swimming",
+     "trigger": "học bơi",
+     "terms": [
+      "swimming",
+      "swim"
+     ]
+    },
+    {
+     "concept": "benefits",
+     "trigger": "có lợi",
+     "terms": [
+      "benefits",
+      "benefit"
+     ]
+    },
+    {
+     "concept": "safety",
+     "trigger": "an toàn",
+     "terms": [
+      "safety",
+      "safe"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "gì",
+    "và",
+    "cần",
+    "lưu",
+    "ý",
+    "gì"
+   ]
+  },
+  "q041": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "therapy",
+     "trigger": "liệu pháp",
+     "terms": [
+      "therapy"
+     ]
+    },
+    {
+     "concept": "sensory_integration",
+     "trigger": "điều hòa cảm giác",
+     "terms": [
+      "sensory integration",
+      "sensory integration therapy"
+     ]
+    },
+    {
+     "concept": "effectiveness",
+     "trigger": "hiệu quả",
+     "terms": [
+      "effective",
+      "effectiveness",
+      "efficacy"
+     ]
+    }
+   ],
+   "unmapped_words": []
+  },
+  "q042": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "ayres",
+     "trigger": "ayres sensory integration",
+     "terms": [
+      "Ayres Sensory Integration",
+      "ASI"
+     ]
+    },
+    {
+     "concept": "sensory_interventions",
+     "trigger": "can thiệp cảm giác",
+     "terms": [
+      "sensory-based interventions",
+      "sensory-based intervention",
+      "sensory interventions"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "khác",
+    "các",
+    "khác",
+    "thế",
+    "nào"
+   ]
+  },
+  "q043": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "sound_sensitivity",
+     "trigger": "nhạy cảm với âm thanh",
+     "terms": [
+      "sound sensitivity",
+      "noise sensitivity",
+      "auditory sensitivity",
+      "sensitivity to sound",
+      "sensitivity to noise"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "vì",
+    "sao"
+   ]
+  },
+  "q044": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "trial",
+     "trigger": "thử nghiệm",
+     "terms": [
+      "trial"
+     ]
+    },
+    {
+     "concept": "senita",
+     "trigger": "senita",
+     "terms": [
+      "SenITA"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "cho",
+    "kết",
+    "quả",
+    "gì"
+   ]
+  },
+  "q045": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "therapy",
+     "trigger": "liệu pháp",
+     "terms": [
+      "therapy"
+     ]
+    },
+    {
+     "concept": "sensory_integration",
+     "trigger": "tích hợp cảm giác",
+     "terms": [
+      "sensory integration",
+      "sensory integration therapy"
+     ]
+    },
+    {
+     "concept": "cost",
+     "trigger": "chi phí",
+     "terms": [
+      "cost",
+      "costs",
+      "cost-effectiveness",
+      "cost-effective"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "đáng"
+   ]
+  },
+  "q046": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "age:2 tuổi",
+     "trigger": "2 tuổi",
+     "terms": [
+      "2 years",
+      "2-year-old",
+      "2 year"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "thường",
+    "làm",
+    "được",
+    "những",
+    "gì"
+   ]
+  },
+  "q047": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "milestones",
+     "trigger": "mốc phát triển",
+     "terms": [
+      "developmental milestones",
+      "milestones",
+      "milestone"
+     ]
+    },
+    {
+     "concept": "age:9 tháng",
+     "trigger": "9 tháng",
+     "terms": [
+      "9 months",
+      "9-month-old",
+      "9 month"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "của",
+    "là",
+    "gì"
+   ]
+  },
+  "q048": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "parents",
+     "trigger": "cha mẹ",
+     "terms": [
+      "parent",
+      "parents"
+     ]
+    },
+    {
+     "concept": "development",
+     "trigger": "phát triển",
+     "terms": [
+      "development",
+      "developmental"
+     ]
+    },
+    {
+     "concept": "age:3 năm đầu",
+     "trigger": "3 năm đầu",
+     "terms": [
+      "first 3 years"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "thể",
+    "làm",
+    "gì",
+    "để",
+    "thúc",
+    "đẩy",
+    "trong"
+   ]
+  },
+  "q049": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "who",
+     "trigger": "who",
+     "terms": [
+      "WHO",
+      "World Health Organization"
+     ]
+    },
+    {
+     "concept": "recommendations",
+     "trigger": "khuyến nghị",
+     "terms": [
+      "recommendations",
+      "recommends",
+      "recommendation"
+     ]
+    },
+    {
+     "concept": "ecd",
+     "trigger": "phát triển trẻ thơ",
+     "terms": [
+      "early childhood development",
+      "ECD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "gì",
+    "để",
+    "cải",
+    "thiện"
+   ]
+  },
+  "q050": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "age:15 tháng",
+     "trigger": "15 tháng",
+     "terms": [
+      "15 months",
+      "15-month-old",
+      "15 month"
+     ]
+    },
+    {
+     "concept": "talk",
+     "trigger": "chưa nói",
+     "terms": [
+      "talk",
+      "talking",
+      "speak",
+      "speech",
+      "words"
+     ]
+    },
+    {
+     "concept": "concern",
+     "trigger": "đáng lo",
+     "terms": [
+      "concern",
+      "concerns",
+      "concerned",
+      "worried"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "từ",
+    "nào"
+   ]
+  },
+  "q051": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "signs",
+     "trigger": "dấu hiệu",
+     "terms": [
+      "signs",
+      "sign"
+     ]
+    },
+    {
+     "concept": "developmental_delay",
+     "trigger": "chậm phát triển",
+     "terms": [
+      "developmental delay",
+      "developmental delays",
+      "delayed development"
+     ]
+    },
+    {
+     "concept": "age:4 tháng",
+     "trigger": "4 tháng",
+     "terms": [
+      "4 months",
+      "4-month-old",
+      "4 month"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "ở"
+   ]
+  },
+  "q052": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "age:2 tuổi",
+     "trigger": "2 tuổi",
+     "terms": [
+      "2 years",
+      "2-year-old",
+      "2 year"
+     ]
+    },
+    {
+     "concept": "talk",
+     "trigger": "chưa nói",
+     "terms": [
+      "talk",
+      "talking",
+      "speak",
+      "speech",
+      "words"
+     ]
+    },
+    {
+     "concept": "pointing",
+     "trigger": "chỉ tay",
+     "terms": [
+      "pointing",
+      "point"
+     ]
+    },
+    {
+     "concept": "signs",
+     "trigger": "dấu hiệu",
+     "terms": [
+      "signs",
+      "sign"
+     ]
+    },
+    {
+     "concept": "screening",
+     "trigger": "sàng lọc",
+     "terms": [
+      "screening",
+      "screen"
+     ]
+    },
+    {
+     "concept": "intervention",
+     "trigger": "can thiệp",
+     "terms": [
+      "intervention",
+      "interventions"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "đó",
+    "thể",
+    "là",
+    "gì",
+    "ở",
+    "đâu",
+    "ra",
+    "sao"
+   ]
+  },
+  "q053": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "co_occurring",
+     "trigger": "kèm",
+     "terms": [
+      "co-occurring",
+      "comorbid",
+      "comorbidity"
+     ]
+    },
+    {
+     "concept": "adhd",
+     "trigger": "adhd",
+     "terms": [
+      "ADHD",
+      "attention-deficit/hyperactivity disorder",
+      "attention deficit hyperactivity disorder"
+     ]
+    },
+    {
+     "concept": "insomnia",
+     "trigger": "mất ngủ",
+     "terms": [
+      "insomnia"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "lại",
+    "hay",
+    "thì",
+    "hỗ",
+    "trợ",
+    "thế",
+    "nào"
+   ]
+  },
+  "q054": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "intervention",
+     "trigger": "can thiệp",
+     "terms": [
+      "intervention",
+      "interventions"
+     ]
+    },
+    {
+     "concept": "home",
+     "trigger": "tại nhà",
+     "terms": [
+      "home",
+      "home-based"
+     ]
+    },
+    {
+     "concept": "parents",
+     "trigger": "cha mẹ",
+     "terms": [
+      "parent",
+      "parents"
+     ]
+    },
+    {
+     "concept": "school",
+     "trigger": "tại trường",
+     "terms": [
+      "school",
+      "schools",
+      "school-based"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "nên",
+    "ưu",
+    "tiên",
+    "do",
+    "hay"
+   ]
+  },
+  "q055": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "picky_eating",
+     "trigger": "kén ăn",
+     "terms": [
+      "picky eating",
+      "food selectivity",
+      "selective eating"
+     ]
+    },
+    {
+     "concept": "gastrointestinal",
+     "trigger": "rối loạn tiêu hóa",
+     "terms": [
+      "gastrointestinal",
+      "GI",
+      "digestive"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "và",
+    "ở",
+    "liên",
+    "quan"
+   ]
+  },
+  "q056": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "adolescents",
+     "trigger": "tuổi teen",
+     "terms": [
+      "adolescents",
+      "adolescent",
+      "adolescence",
+      "teenagers",
+      "teens"
+     ]
+    },
+    {
+     "concept": "psychological",
+     "trigger": "tâm lý",
+     "terms": [
+      "psychological",
+      "mental health"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "khi",
+    "bước",
+    "vào",
+    "cần",
+    "chú",
+    "ý",
+    "những",
+    "thay",
+    "đổi",
+    "nào"
+   ]
+  },
+  "q057": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "vaccine",
+     "trigger": "vắc-xin",
+     "terms": [
+      "vaccine",
+      "vaccines",
+      "vaccination",
+      "vaccinations"
+     ]
+    },
+    {
+     "concept": "cause",
+     "trigger": "gây",
+     "terms": [
+      "cause",
+      "causes"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": []
+  },
+  "q058": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "dose",
+     "trigger": "liều",
+     "terms": [
+      "dose",
+      "dosage"
+     ]
+    },
+    {
+     "concept": "risperidone",
+     "trigger": "risperidone",
+     "terms": [
+      "risperidone"
+     ]
+    },
+    {
+     "concept": "age:5 tuổi",
+     "trigger": "5 tuổi",
+     "terms": [
+      "5 years",
+      "5-year-old",
+      "5 year"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "cho",
+    "là",
+    "bao",
+    "nhiêu"
+   ]
+  },
+  "q059": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "stem_cell",
+     "trigger": "tế bào gốc",
+     "terms": [
+      "stem cell",
+      "stem cells"
+     ]
+    },
+    {
+     "concept": "cure",
+     "trigger": "chữa được",
+     "terms": [
+      "cure",
+      "cured",
+      "curable"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": []
+  },
+  "q060": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "diet",
+     "trigger": "chế độ ăn",
+     "terms": [
+      "diet"
+     ]
+    },
+    {
+     "concept": "gfcf_diet",
+     "trigger": "không gluten, không casein",
+     "terms": [
+      "gluten-free",
+      "casein-free",
+      "GFCF",
+      "gluten free",
+      "casein free"
+     ]
+    },
+    {
+     "concept": "cure",
+     "trigger": "chữa",
+     "terms": [
+      "cure",
+      "cured",
+      "curable"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": []
+  },
+  "q061": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "age:3 tuổi",
+     "trigger": "3 tuổi",
+     "terms": [
+      "3 years",
+      "3-year-old",
+      "3 year"
+     ]
+    },
+    {
+     "concept": "lining_up",
+     "trigger": "xếp đồ thành hàng",
+     "terms": [
+      "lining up",
+      "lines up",
+      "line up"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "tôi",
+    "hay",
+    "phải",
+    "bị"
+   ]
+  },
+  "q062": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [],
+   "unmapped_words": [
+    "hôm",
+    "nay",
+    "thời",
+    "tiết",
+    "thế",
+    "nào"
+   ]
+  },
+  "q063": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "echolalia",
+     "trigger": "nhại lại lời",
+     "terms": [
+      "echolalia",
+      "repeats words",
+      "repeat words",
+      "repeating words"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "tôi",
+    "hay",
+    "người",
+    "khác",
+    "đó",
+    "là",
+    "gì"
+   ]
+  },
+  "q064": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "speech_delay",
+     "trigger": "chậm nói",
+     "terms": [
+      "speech delay",
+      "language delay",
+      "delayed speech"
+     ]
+    },
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "phải",
+    "là"
+   ]
+  },
+  "q065": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "ados",
+     "trigger": "ados-2",
+     "terms": [
+      "ADOS-2",
+      "ADOS",
+      "Autism Diagnostic Observation Schedule"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "là",
+    "gì"
+   ]
+  },
+  "q066": {
+   "glossary_version": "query_glossary_vi_en_v1",
+   "glossary_sha256": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+   "diacritics": true,
+   "concepts": [
+    {
+     "concept": "autism",
+     "trigger": "tự kỷ",
+     "terms": [
+      "autism",
+      "autistic",
+      "ASD"
+     ]
+    },
+    {
+     "concept": "epilepsy",
+     "trigger": "động kinh",
+     "terms": [
+      "epilepsy",
+      "epileptic",
+      "seizure disorder"
+     ]
+    }
+   ],
+   "unmapped_words": [
+    "hay",
+    "bị"
+   ]
+  }
+ }
+}

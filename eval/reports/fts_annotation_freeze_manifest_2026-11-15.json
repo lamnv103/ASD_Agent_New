@@ -1,0 +1,36 @@
+{
+ "purpose": "T2.4-B freeze (R8/R10): these files must not change while annotation is running. The glossary is not edited from annotation labels; FTS-A/B/C and dense are not re-run or tuned on these questions. Glossary v2 only after annotation, evaluated on a held-out question set.",
+ "frozen_at": "2026-11-15",
+ "sha256": {
+  "config/query_glossary_vi_en_v1.json": "aad39e342768ed6cf32fdb68745727ca85a168b1bff92fac7bfb9f178a625144",
+  "config/fts_profiles.json": "8ace29e32da1f23f8acfe7363611fb2849cc0cb28613555e1ad0fffd61d2a49e",
+  "config/retrieval_profiles.json": "17595edc4726dfacc851f155ebcce3847c0a1f9ac2d139006f14ebac6a53ad6d",
+  "app/retrieval/fts.py": "d2100ebf3b24ec3b2dabd29287da67f1019b47557b2f34aa34c268713bbb1f3e",
+  "app/retrieval/dense.py": "46561e4bbc9c9583ee74bbec9c5f548b3631325c62ee0bdc5d4001d0955e314f",
+  "app/retrieval/research_reader.py": "3bf30477c739d26ff960d76a8c0dce54193cfc2ba13e58ee9449b014f8e8fad8",
+  "eval/reports/fts_candidate_pool_2026-11-15.jsonl": "851dc4710eef4ec3b9231a182ca3d9c00006af8c5c94549208414c504e5e7e12",
+  "eval/reports/fts_candidate_pool_key_2026-11-15.jsonl": "0de3cc6c65753221650b9939702f2c68950d810ece7a9b3f9b38c44c402787f7",
+  "eval/reports/fts_candidate_pool_manifest_2026-11-15.csv": "e9e7c072b501778a7bbe7263456bdb998c2f328a9a782d6d039df156e74a608a",
+  "eval/datasets/retrieval_eval_v1.jsonl": "7704bb510c9ab4a545d9195b18ffa2dc32f10b705df909a9201e11c96f104c2b",
+  "eval/datasets/retrieval_eval_v1_merged_2026-11-14.jsonl": "6bd3ad7868f9fc2aa5c8079c4d7d14116a06c721ec55537b466a9960a3eae7ab",
+  "eval/annotation/t2_4b/annotator_a/fts_blind_annotation_package_annotator_a_2026-11-15.jsonl": "e669143442fa47ab4e850f2f5624398baac7b16a405f7469f50cfd003815a39d",
+  "eval/annotation/t2_4b/annotator_a/fts_blind_annotation_package_annotator_a_2026-11-15.csv": "3d9e056b31d733d01152d2e572edb5b9986b664604de872d7540a555b00b07e0",
+  "eval/annotation/t2_4b/annotator_b/fts_blind_annotation_package_annotator_b_2026-11-15.jsonl": "ecb0df2cebb3115071c05a3e81c76d9364dcc1cb31bbc8f61614183eef01ccb3",
+  "eval/annotation/t2_4b/annotator_b/fts_blind_annotation_package_annotator_b_2026-11-15.csv": "a6d0bc6cdb2fe5746f514c957148f3f1bd09da0c51f6b61bb0637094d61d44e4",
+  "eval/annotation/t2_4b/annotation_guidelines_t2_4b_2026-11-15.md": "b8cd502599616c9945c0a5cdb3666c4fdcdc1d61f3a12cde76ed5b0acc5727a1"
+ },
+ "do_not_distribute_to_annotators": [
+  "eval/reports/fts_candidate_pool_key_2026-11-15.jsonl",
+  "eval/reports/fts_candidate_pool_2026-11-15.jsonl (contains chunk_id/item_id)",
+  "eval/reports/fts_run_record_2026-11-15.json",
+  "eval/annotation/t2_4b/coordinator/",
+  "eval/datasets/*",
+  "any eval/reports/* file"
+ ],
+ "glossary_v2_backlog": [
+  "WHO -> World Health Organization (WHO is an English stopword)",
+  "keep 'stem cell' as an explicit absence signal for q059 (0 chunks)",
+  "review 7 other zero-match terms on evidence only: auditory sensitivity, curable, delayed development, delayed speech, loss of skills, sensitivity to noise, stem cells"
+ ],
+ "revision_note": "2026-11-15: guideline examples replaced before distribution (removed examples that mirrored eval questions q066/q041/q016 and earlier AI judgments); guideline sha 4647c1be3282 -> b8cd50259961. Packages unchanged."
+}

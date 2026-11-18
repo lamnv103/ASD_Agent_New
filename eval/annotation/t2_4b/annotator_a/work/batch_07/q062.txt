@@ -1,0 +1,218 @@
+QUESTION q062: Hôm nay thời tiết thế nào?  (20 candidates)
+
+### A74B7AF70C | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Results | page -
+Table 2
+Prevalence of ASD among children aged 18 and 30 months
+|  | Count | Percentage (%) | Lower bound of 95% CI (%) | Upper bound of 95% CI (%) |
+|---|---|---|---|---|
+| City/province |
+| Ha Noi | 46 | 0.836 | 0.613 | 1.114 |
+| Thai Binh | 41 | 0.697 | 0.501 | 0.944 |
+| Hoa Binh | 43 | 0.730 | 0.529 | 0.982 |
+| Area |
+| Rural | 74 | 0.580 | 0.456 | 0.728 |
+| Urban | 56 | 1.238 | 0.937 | 1.605 |
+| Gender |
+| Girl | 23 | 0.287 | 0.182 | 0.431 |
+| Boy | 107 | 1.155 | 0.947 | 1.393 |
+| Age (months) |
+| 18–23 | 55 | 0.772 | 0.582 | 1.003 |
+| 24–30 | 75 | 0.739 | 0.582 | 0.925 |
+| Mother age |
+| Less than 29 | 81 | 0.695 | 0.553 | 0.864 |
+| 29 to 39 | 41 | 1.010 | 0.725 | 1.367 |
+| 40 and older | 8 | 0.511 | 0.221 | 1.003 |
+| Mother’s education |
+| Primary education | 32 | 0.652 | 0.461 | 0.921 |
+| Secondary education | 46 | 0.787 | 0.590 | 1.049 |
+| High school | 32 | 0.936 | 0.663 | 1.321 |
+| University/College | 20 | 0.645 | 0.416 | 0.997 |
+| Mother’s occupation |
+
+### 89B250D164 | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Methods > Research sites | page -
+The research was implemented in one city (Hanoi, capital of Vietnam) and two provinces (Thai Binh province in the Red River Delta Region and Hoa Binh province in the Northern Midlands and Mountainous Region). These research sites were purposively selected as they have typical characteristics of the region in which they are located in terms of socio-economic conditions, population structure and health system.
+
+### 3D295A37CA | Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey | Significance for public health | page -
+This first nationally representative and population-based survey adds empirical data about autism spectrum disorder (ASD) amongst children aged 18 to 30 months in Vietnam. Using M-CHAT as screening tool and DSM-IV criteria for confirmation, ASD amongst children aged 18 and 30 months shows an increasing trend with the prevalence as high as 0.758% in 2018. Early detection and intervention should be conducted to provide affected child with the potential for a better life.
+
+### D79D8C8CB7 | Attention-Deficit/Hyperactivity Disorder: What You Need to Know | Reprints | page -
+The information in this publication is in the public domain and may be reused or copied without permission. However, you may not reuse or copy images. Please [cite the National Institute of Mental Health] (https://www.nimh.nih.gov/site-info/citing-nimh-publications-and-webpages "Citing NIMH Publications and Webpages") as the source. [Read our copyright policy] (https://www.nimh.nih.gov/site-info/policies#part_2718 "Website Policies") to learn more about our guidelines for reusing NIMH content.
+
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES National Institutes of Health NIH Publication No. 24-MH-8300 Revised 2024
+
+### E0DEB6A6E4 | Screening for Autism Spectrum Disorder | Developmental diagnosis > Important | page -
+A diagnosis of ASD now includes several conditions that used to be diagnosed separately: autistic disorder, pervasive developmental disorder not otherwise specified (PDD-NOS), and Asperger syndrome. Your doctor or other healthcare provider can help you understand and navigate the diagnostic process.
+
+For Health Care Providers Clinical Testing and Diagnosis for Autism Spectrum Disorder
+
+Image: A doctor is monitoring a young child's development.
+
+Talk with your child's doctor to help you and your family understand and navigate the diagnostic process for ASD.
+
+### B5CE49BB81 | Improving early childhood development: WHO guideline | KEY QUESTION IV | page 59-60
+Important:
+
+• Play frequency
+
+• Exclusive breastfeeding
+
+• Recent illnesses
+
+• Care-seeking (for childhood illnesses)
+
+• Risk of childhood illnesses
+
+• Neonatal mortality MATERNAL Important:
+
+• Anxiety symptoms
+
+• Depressive symptoms
+
+• Maternal involvement 46 47Annex 2: Questions in PICO format
+
+Mercedes Bonet Semenas Sexual and Reproductive Health and Research Marie-Noël Bruné Drisse Environment, Climate Change and Health Robert Alexander Butchart Social Determinants of Health Neerja Chowdhary Mental Health and Substance Abuse Alarcos Cieza Noncommunicable Diseases Bernadette Daelmans Maternal, Newborn, Child and Adolescent Health and Ageing Mercedes De Onis Nutrition and Food Safety Tarun Dua Mental Health and Substance Abuse Lawrence Grummer-Strawn Nutrition and Food Safety Berit Sabine Kieselbach Social Determinants of Health Elanie Marks NCD Management-Screening, Diagnosis and Treatment Juan Pablo Pena-Rosas Nutrition and Food Safety Martina Penazzato Global HIV, Hepatitis and STIs Programmes Nigel Rollins Maternal, Newborn, Child and Adolescent Health and Ageing Juana Willumsen Health Promotion ANNEX 3:
+
+### 9449B3F217 | Autism Spectrum Disorder: What Do We Know and Where Do We Go? | Tables | page -
+| AAC | Augmentative and alternative communication |
+| ADHD | Attention-deficit/hyperactivity disorder |
+| ADI-R | Autism Diagnostic Interview-Revised |
+| ADOS | Autism Diagnostic Observation Schedule |
+| AFQ | Automated fiber quantification |
+| ASD | Autism spectrum disorder |
+| CNV | Copy number variants |
+| CSF | Cerebrospinal fluid |
+| DTI | Diffusion tensor imaging |
+| EEG | Electroencephalogram |
+| EWASs | Epigenome-wide association studies |
+| fMRI | Functional magnetic resonance imaging |
+| GI | Gastrointestinal |
+| GSH | Glutathione |
+| GWASs | Genome-wide association studies |
+| ID | Intellectual disability |
+| IDO | Indoleamine 2,3 dioxygenase |
+| IVIG | Intravenous immunoglobulin |
+| MAR | Maternal antibody-related |
+| MCP-1 | Monocyte chemoattractant protein-1 |
+| MEG | Magnetoencephalography |
+| MIA | Maternal immune activation |
+| MRI | Magnetic resonance imaging |
+| NDBI | Naturalistic behavioral intervention |
+| NK | Natural killer cells |
+| PECS | Picture exchange communication system |
+| PRSs | Polygenic risk scores |
+| ROS | Reactive oxygen species |
+| RRB | Restrained repetitive behaviors |
+| SAH | S-adenosylhomocysteine |
+| SAM | S-adenosylmethionine |
+| ToM | Theory of Mind |
+| Treg | Regulatory T cells |
+| TNF | Tumor necrosis factor-α |
+| VUSs | Variants of uncertain significance |
+
+### 0D271B4922 | Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey | Key words > Design and methods > Measurements of ASD > Phase 1: Screening | page -
+After a thorough review of different ASD screening tools, the Modified Checklist for Autism in Toddlers (M-CHAT) was utilized for the screening phase of our study. This tool was also the most common and easy-to-use for early ASD screening in children aged 16 and 30 months in both primary and tertiary health facilities. However, the American Academy of Pediatrics (AAP) has issued guidelines for ASD screening at 18 and 24 months since there had evidence for efficacy of screening in community settings. M-CHAT is a self-administered parental questionnaire consisting of 23 (yes-no) items. The M-CHAT is available in at least 22 languages including Vietnamese. Validation studies show the positive predictive value (PPV) of M-CHAT varies from 0.57 to 0.65 in low-risk samples. From a public health perspective, using M-CHAT improves early ASD detection for the entire population while being an easy-to-perform and low-cost tool. In Vietnam, M-CHAT is the main screening tool for children 16-30 months used in both primary and tertiary hospitals with a higher PPV (0.7583) than the PPV in other high-income countries. In our study, M-CHAT-R/F was not chosen as these tools require much more time and resource for follow-up screening. All screenings were conducted by a trained health staff with the participation of the children’s parents and/or caregivers.
+
+### 7D73EB727A | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Results | page -
+Table 2
+Prevalence of ASD among children aged 18 and 30 months
+|  | Count | Percentage (%) | Lower bound of 95% CI (%) | Upper bound of 95% CI (%) |
+|---|---|---|---|---|
+| 1 | 39 | 0.645 | 0.459 | 0.881 |
+| 2 | 69 | 0.799 | 0.622 | 1.010 |
+| 3 | 22 | 0.847 | 0.532 | 1.280 |
+| Economic status |
+| Non-poor | 118 | 0.750 | 0.622 | 0.898 |
+| Near poor/poor | 12 | 0.773 | 0.400 | 1.347 |
+| Total | 130 | 0.752 | 0.629 | 0.893 |
+
+### 67071D227D | About Autism Spectrum Disorder | Treatment | page -
+Current treatments for ASD seek to reduce symptoms that interfere with daily functioning and quality of life. ASD affects each person differently, meaning that people with ASD have unique strengths and challenges and different treatment needs.2 ^{ }Treatment plans usually involve multiple professionals and are catered to the individual.
+
+Keep Reading Treatment and Intervention for Autism Spectrum Disorder
+
+### CC9B310DB1 | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Introduction | page -
+Autism spectrum disorders (ASD) refer to a range of conditions characterized by some degree of impaired social behavior, communication and language, and a narrow range of interests and activities that are both unique to the individual and carried out repetitively [1]. ASD often impose significant emotional and economic burden on people with these disorders and their families [1, 2]. The impairments associated with ASD are present during the life-course [3] and are considered to have a substantial functional, social and financial impacts on affected individuals, their families and society.
+
+Autism spectrum disorders prevalence appears to be increasing worldwide, with reported prevalence of about 0.5–1% [4]. In European countries, the prevalence of ASD, with an age range of birth to adulthood, varied from 0.019 to 7.2% [5]. The prevalence of ASD in the US in 2012 was 1.13% [6]. A recent systematic review reported the increasing trend in prevalence of ASD in South Asia, ranging from 0.09% in India to 1.07% in Sri Lanka [7]. ASD prevalence estimates were 0.118% in China in the last few years [8] and 2.64% in South Korea in 2011 [9].
+
+In Vietnam, hospital statistics show that the number of cases of ASD admitted to the National Pediatrics Hospital increased more than threefold during the period 2000–2007 [10, 11] and fourfold during the period 2008–2010 [12]. A small-scale population-based study done by Giang et al. in 2012 in Thai Binh (a northern province of Vietnam) found the prevalence of ASD among children aged 18–24 months was 0.46% [13]. Another study conducted in Thai Nguyen in 2013 found that the prevalence of ASD among children aged 18–60 months was 0.52% [14]. In 2014, a screening program by Yen et al. [15] implemented among 94,186 children aged 18–60 months in three provinces/cities in the North of Vietnam found an ASD prevalence of 0.415%.
+
+To provide information about epidemiologic aspects of ASD in Vietnam, this study investigated the prevalence of autism spectrum disorders and examined their relation to selected socio-demographic factors among children aged 18–30 months in three northern cities/provinces in Vietnam in 2017.
+
+### F588EDC15E | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Discussion | page -
+Our study is one of few population-based studies of prevalence of ASD in children in Vietnam. Our findings show that the prevalence of ASD among children aged 18–30 months in northern Vietnam was 0.752% or 75.2 per 10,000 children. This is higher than figures reported by previous surveys in Vietnam (i.e. 0.46% [11] in 2007, 0.416–0.52% in 2013–2014 [13–15]) suggesting that ASD prevalence among the children in Vietnam may be increasing, consistent with the global trend of ASD currently.
+
+The prevalence of ASD among the children found in this study is quite similar to the average prevalence of ASD in the world (0.76%) [28]. The prevalence of ASD among the children in Vietnam is lower than that of high-income countries (e.g. 2.41% among children and adolescents in the USA in 2014–2016 [29], 1% in Finland and Sweden and 1.5% in Denmark in 2011 [30]) as well as in Asia (e.g. 1.8% in children in Japan in 2008 [31], and 2.6% in 7- to 12-year-old children in South Korea [9]). The prevalence of ASD among children in Vietnam found in this study is similar to the figure of 0.9% in India in 2015 [32].
+
+Odds of ASD for boys were higher than for girls. This is consistent with previous findings from other countries [33–37]. The discussion on gender also might need to be reviewed, as it is complex and is still not well investigated internationally.
+
+While this may be so in older children it is unlikely to be a relevant consideration in children aged 18–30 months. It has also been suggested that sex chromosomal genes, and/or sex hormones, can lower the risk of ASD in girls [38].
+
+Our study revealed that the prevalence of ASD was higher among children living in urban environments. This is concordant with findings from other studies in the world [39, 40]. Increasing degree of urbanization was associated with higher risk of ASD [41, 42]. It suggests that environment-related factors might contribute to this disparity. The exposure to hazardous air pollutants during pregnancy and early childhood may have potential association with increased risk for ASD [43–45] while hazardous air pollutants usually concentrate in urban environments. Hygiene practices commonly in urban areas lowered microbial exposure in pregnancy and neonatal life that affects the risk for ASD [46].
+
+### 93553C5AFA | Teen Depression: More Than Just Moodiness | Do I have depression? | page -
+- Do you often feel sad, anxious, worthless, or even “empty”? - Have you lost interest in activities you used to enjoy? - Do you get easily frustrated, irritable, or angry? - Do you find yourself withdrawing from friends and family? - Are your grades dropping? - Have your eating or sleeping habits changed? - Have you experienced any fatigue or memory loss? - Have you thought about suicide or harming yourself?
+
+**Depression looks different for everyone. You might have many of the symptoms listed above or just a few.**
+
+### 3DD78D81D0 | Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey | Key words > Introduction | page -
+Autism spectrum disorders (ASDs) are the greatest burden of life-long neurodevelopmental disorders in children and adolescents with an estimated prevalence of 62/10,000 children worldwide. ASDs are characterized by ‘impaired social behavior, communication and language, and a narrow range of interests and activities that are both unique to the individual and carried out repetitively’. Although accurate and representative numbers are difficult to obtain, empirical studies in the last 50 years show that prevalence of the ASDs appears to be increasing significantly worldwide. The reasons of this rapid increase are still not known.
+
+Autism spectrum disorders (ASDs) are the greatest burden of life-long neurodevelopmental disorders in children and adolescents with an estimated prevalence of 62/10,000 children worldwide. ASDs are characterized by ‘impaired social behavior, communication and language, and a narrow range of interests and activities that are both unique to the individual and carried out repetitively’. Although accurate and representative numbers are difficult to obtain, empirical studies in the last 50 years show that prevalence of the ASDs appears to be increasing significantly worldwide. The reasons of this rapid increase are still not known.
+
+The first signs and symptoms of ASDs could be observed during the first 12 to 18 months of life. The screening for ASDs is recommended for all children aged 18 months or older. In Vietnam, there has currently no large-scale study using validated tools to investigate the prevalence of ASDs. We, therefore, conducted this national representative survey to explore the ASD prevalence and its association with socio-economic status, parental characteristics among children aged 18 and 30 months in seven provinces in Vietnam.
+
+### 8DB7FC1367 | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Introduction | page -
+To provide information about epidemiologic aspects of ASD in Vietnam, this study investigated the prevalence of autism spectrum disorders and examined their relation to selected socio-demographic factors among children aged 18–30 months in three northern cities/provinces in Vietnam in 2017.
+
+In this study, we used M-CHAT for screening ASD among the studied children as it has been widely used in other settings [16]. M-CHAT was proven to be an accessible, low-cost option for universal toddler screening [17]. The M-CHAT has also been validated internationally and estimated to have the positive predictive value (PPV) varying from 0.57 to 0.65 in low-risk samples [18–20]. M-CHAT has been translated into multiple languages [21] including Vietnamese. M-CHAT is currently being used as the main screening tool in clinical settings by physicians at the Vietnam National Pediatric Hospital with a positive predictive value (PPV) as high as 0.763 in 6583 children aged 18–24 months [13]. However, despite high PPV, sensitivity and specificity have not been clearly determined [22] and it is necessary to identify the percentage of false negatives [23]. We used DSM-IV for diagnosis of ASD because it has been previously applied in a variety of settings [7], including Vietnam [13]. In 2013, DSM-V was introduced and changed ASD diagnostic criteria, particularly eliminating diagnosis of a number of subtypes [24]. However, DSM-V was shown to be likely to decrease the number of individuals diagnosed with ASD [25–27].
+
+### D564AAE60F | Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey |  | page -
+Contributions: LTV, HVM, and DMD designed the study and coordinated the data collection. LTV collected the data, later analysed by LTV, HVM, BTTH, and DMD. LTV, HVM and DMD drafted the manuscript and revised it in collaboration with other authors. All authors read and approved the final manuscript.
+
+Background: Early detection of autism spectrum disorders (ASDs) is essential given the under-reported cases in low- and middle-income countries. This first national representative survey was conducted to explore the prevalence of ASDs amongst 18 and 30 months in seven provinces in Vietnam.
+
+Design and methods: During 2017-2018, a national cross-sectional and population-based survey for autism spectrum disorder (ASD) amongst 40,243 children aged 18 to 30 months was conducted in 7 provinces representing the socio-economic regions of Vietnam. M-CHAT was used to screen children and then confirmed by diagnostic assessment using DSM-IV criteria.
+
+Results: The prevalence of ASDs amongst children aged 18 and 30 months in Vietnam was high (0.758% or 1 in 132 children). Urban setting, male gender, and hereditable genes were associated with ASD prevalence.
+
+Conclusions: ASDs amongst children aged 18 and 30 months in Vietnam tend to be increasing and are similar to this rate in other middle-income countries but lower than that in Western countries. This under-recognized public health problem amongst children should be addressed by early detection and intervention for families with affected children.
+
+### E7FBFF70C2 | Comparative screening accuracy of the Modified Checklist for Autism in Toddlers, Revised with Follow-Up (M-Chat-R/F) for early autism spectrum disorder: a systematic review | Abstract > Introduction | page -
+Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterised by ongoing difficulties in social interactions and communication, as well as limited and repetitive behavioural patterns, interests, or activities. The impact of ASD globally is significant; as of 2021, around 61.8 million people were diagnosed with autism, resulting in a worldwide age-adjusted prevalence rate of 788.3 for every 100 000 individuals. Notably, ASD is listed among the top ten contributors to non-fatal health issues for those under 20 years old. Data from the CDC’s Autism and Developmental Disabilities Monitoring Network demonstrates an increase in the estimated prevalence of ASD, rising from 27.6 per 1000 children (1 in 36) in the 2020 surveillance year to 32.2 per 1000 children (1 in 31) in the 2022 surveillance year.
+
+This growing prevalence is also reflected regionally. In Malaysia, the count of autistic children registered with the Department of Social Welfare has skyrocketed by 663% over the past ten years, increasing from 6991 in 2013 to 53 323 in 2023. This exponential increase is largely attributed to heightened public awareness, broader diagnostic criteria, and improvements in diagnostic screening practices rather than a true biological increase in incidence alone. In parallel, the prevalence within Malaysian schools has risen, with the highest rates reported in the Federal Territories of Labuan and Kuala Lumpur, where 2022 data showed prevalence rates of 17.36 per 1000 children (1 in 58) and 15.42 per 1000 children (1 in 65), respectively.
+
+However, substantial obstacles exist in the realm of early diagnosis. This delay is concerning, as late diagnosis is often linked to limited public knowledge and varying levels of autism awareness among primary care and family physicians, who are often the first point of contact. The urgency of early detection is underscored by the broader context of youth mental health; recent data highlights the escalating burden of neurodevelopmental and mental health disorders among children globally, and particularly in Asia, making effective primary care screening an imperative public health priority.
+
+### 6D32D6DB88 | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Background | page -
+Autism spectrum disorders are increasing worldwide and in Vietnam. This study reports the prevalence of autism spectrum disorders and examines their relation to selected socio-demographic factors among children aged 18 and 30 months in three northern cities/provinces in Vietnam, 2017.
+
+### DEBD08A5D8 | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Results | page -
+Table 4
+Binary logistic regression analyses of correlates of autism among children aged 18 and 30 months with interaction term
+|  | Odds ratio | Lower level of 95% CI | Upper level of 95% CI |
+|---|---|---|---|
+| 40 and older | 0.89 | 0.30 | 2.61 |
+| Father’s education |
+| Primary education | 1 |  |  |
+| Secondary education | 1.10 | 0.64 | 1.89 |
+| High school | 1.29 | 0.63 | 2.60 |
+| University/College | 1.34 | 0.58 | 3.13 |
+| Father’s occupation |
+| Government staff | 1 |  |  |
+| Private sector staff | 1.73 | 0.83 | 3.61 |
+| Farmer | 0.64 | 0.25 | 1.66 |
+| Unstable job | 1.86 | 0.87 | 3.94 |
+| Others | 2.74 | 0.93 | 8.08 |
+| Number of children in the family |
+| 1 | 1 |  |  |
+| 2 | 1.14 | 0.75 | 1.74 |
+| 3 | 1.17 | 0.63 | 2.19 |
+| Economic status |
+| Non-poor | 1 |  |  |
+| Near poor/poor | 1.06 | 0.56 | 2.00 |
+
+### DFC30C040B | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Methods > Research participants | page -
+Children aged 18 and 30 months in Vietnam who were living with their parents or caregivers at the time of research.
+

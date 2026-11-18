@@ -1,0 +1,337 @@
+﻿query_id,retriever,rank,chunk_id,score_type,score,status,query
+q001_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,1,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,21.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,2,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0002,ts_rank_cd,19.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,3,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0011,ts_rank_cd,17.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,4,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0012,ts_rank_cd,17.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,5,ASD-OA-PMC9003052@PMC distributed version 1#section_v2_1#0013,ts_rank_cd,15.4,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,6,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0000,ts_rank_cd,15.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,7,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0000,ts_rank_cd,15.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,8,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,15.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,9,ASD-CSV-007@snapshot-20261017-2a36db9fd179#section_v2_1#0003,ts_rank_cd,14.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_b_glossary_and_v1,10,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0001,ts_rank_cd,14.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,1,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,21.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,2,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0002,ts_rank_cd,19.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,3,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0011,ts_rank_cd,17.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0012,ts_rank_cd,17.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,5,ASD-OA-PMC9003052@PMC distributed version 1#section_v2_1#0013,ts_rank_cd,15.4,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0000,ts_rank_cd,15.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,7,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0000,ts_rank_cd,15.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,15.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,9,ASD-CSV-007@snapshot-20261017-2a36db9fd179#section_v2_1#0003,ts_rank_cd,14.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,fts_c_glossary_or_v1,10,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0001,ts_rank_cd,14.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,1,CDC-ASD-CLINICAL@snapshot-20261017-982fb2058ee3#section_v2_1#0007,ts_rank_cd,3.8,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,2,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,3.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,3,ASD-CSV-007@snapshot-20261017-2a36db9fd179#section_v2_1#0015,ts_rank_cd,2.4,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,4,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0000,ts_rank_cd,2.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,5,ASD-CSV-038@snapshot-20261017-3eb466122957#section_v2_1#0000,ts_rank_cd,2.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,6,ASD-CSV-038@snapshot-20261017-3eb466122957#section_v2_1#0003,ts_rank_cd,2.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,7,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0006,ts_rank_cd,2.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,8,ASD-NEW-001@snapshot-20261017-7805dc60a910#section_v2_1#0014,ts_rank_cd,2.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,9,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,2.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_diacritics,t5_7_exp1c_isolated,10,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0035,ts_rank_cd,2.0,ok,Rối loạn phổ tự kỷ là gì?
+q001_no_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,1,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,21.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,2,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0002,ts_rank_cd,19.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,3,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0011,ts_rank_cd,17.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,4,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0012,ts_rank_cd,17.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,5,ASD-OA-PMC9003052@PMC distributed version 1#section_v2_1#0013,ts_rank_cd,15.4,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,6,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0000,ts_rank_cd,15.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,7,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0000,ts_rank_cd,15.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,8,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,15.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,9,ASD-CSV-007@snapshot-20261017-2a36db9fd179#section_v2_1#0003,ts_rank_cd,14.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_b_glossary_and_v1,10,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0001,ts_rank_cd,14.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,1,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,21.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,2,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0002,ts_rank_cd,19.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,3,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0011,ts_rank_cd,17.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0012,ts_rank_cd,17.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,5,ASD-OA-PMC9003052@PMC distributed version 1#section_v2_1#0013,ts_rank_cd,15.4,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0000,ts_rank_cd,15.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,7,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0000,ts_rank_cd,15.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,15.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,9,ASD-CSV-007@snapshot-20261017-2a36db9fd179#section_v2_1#0003,ts_rank_cd,14.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,fts_c_glossary_or_v1,10,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0001,ts_rank_cd,14.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,1,CDC-ASD-CLINICAL@snapshot-20261017-982fb2058ee3#section_v2_1#0007,ts_rank_cd,3.8,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,2,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,3.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,3,ASD-CSV-007@snapshot-20261017-2a36db9fd179#section_v2_1#0015,ts_rank_cd,2.4,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,4,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0000,ts_rank_cd,2.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,5,ASD-CSV-038@snapshot-20261017-3eb466122957#section_v2_1#0000,ts_rank_cd,2.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,6,ASD-CSV-038@snapshot-20261017-3eb466122957#section_v2_1#0003,ts_rank_cd,2.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,7,ASD-CSV-078@snapshot-20261017-e028758ec231#section_v2_1#0006,ts_rank_cd,2.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,8,ASD-NEW-001@snapshot-20261017-7805dc60a910#section_v2_1#0014,ts_rank_cd,2.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,9,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,2.0,ok,Roi loan pho tu ky la gi?
+q001_no_diacritics,t5_7_exp1c_isolated,10,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0035,ts_rank_cd,2.0,ok,Roi loan pho tu ky la gi?
+q025_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,1,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0025,ts_rank_cd,2.351544,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,2,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0027,ts_rank_cd,1.8347745,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,3,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0029,ts_rank_cd,1.3691614,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,4,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0030,ts_rank_cd,1.3590909,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,5,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0026,ts_rank_cd,1.0537537,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,6,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0005,ts_rank_cd,0.9047619,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,7,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0014,ts_rank_cd,0.64043117,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,8,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0012,ts_rank_cd,0.57712215,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,9,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0011,ts_rank_cd,0.52643806,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_b_glossary_and_v1,10,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0018,ts_rank_cd,0.5,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,1,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0025,ts_rank_cd,28.0,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,2,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0039,ts_rank_cd,21.0,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,3,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0029,ts_rank_cd,19.0,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0030,ts_rank_cd,19.0,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,5,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0026,ts_rank_cd,15.333333,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0011,ts_rank_cd,15.133333,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,7,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0027,ts_rank_cd,14.0,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,8,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0004,ts_rank_cd,13.333333,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0012,ts_rank_cd,12.333333,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,fts_c_glossary_or_v1,10,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0011,ts_rank_cd,11.333333,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,1,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0025,ts_rank_cd,2.351544,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,2,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0027,ts_rank_cd,1.8347745,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,3,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0029,ts_rank_cd,1.3691614,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,4,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0030,ts_rank_cd,1.3590909,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,5,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0026,ts_rank_cd,1.0537537,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,6,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0005,ts_rank_cd,0.9047619,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,7,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0014,ts_rank_cd,0.64043117,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,8,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0012,ts_rank_cd,0.57712215,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,9,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0011,ts_rank_cd,0.52643806,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_diacritics,t5_7_exp1c_isolated,10,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0018,ts_rank_cd,0.5,ok,M-CHAT-R/F là gì và độ chính xác ra sao?
+q025_no_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,1,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0025,ts_rank_cd,2.351544,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,2,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0027,ts_rank_cd,1.8347745,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,3,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0029,ts_rank_cd,1.3691614,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,4,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0030,ts_rank_cd,1.3590909,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,5,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0026,ts_rank_cd,1.0537537,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,6,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0005,ts_rank_cd,0.9047619,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,7,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0014,ts_rank_cd,0.64043117,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,8,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0012,ts_rank_cd,0.57712215,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,9,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0011,ts_rank_cd,0.52643806,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_b_glossary_and_v1,10,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0018,ts_rank_cd,0.5,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,1,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0025,ts_rank_cd,28.0,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,2,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0039,ts_rank_cd,21.0,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,3,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0029,ts_rank_cd,19.0,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0030,ts_rank_cd,19.0,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,5,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0026,ts_rank_cd,15.333333,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0011,ts_rank_cd,15.133333,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,7,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0027,ts_rank_cd,14.0,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,8,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0004,ts_rank_cd,13.333333,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC6487529@PMC distributed version 1#section_v2_1#0012,ts_rank_cd,12.333333,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,fts_c_glossary_or_v1,10,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0011,ts_rank_cd,11.333333,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,1,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0025,ts_rank_cd,2.351544,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,2,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0027,ts_rank_cd,1.8347745,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,3,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0029,ts_rank_cd,1.3691614,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,4,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0030,ts_rank_cd,1.3590909,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,5,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0026,ts_rank_cd,1.0537537,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,6,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0005,ts_rank_cd,0.9047619,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,7,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0014,ts_rank_cd,0.64043117,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,8,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0012,ts_rank_cd,0.57712215,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,9,ASD-CSV-002@snapshot-20261017-21dc8929f5a6#section_v2_1#0011,ts_rank_cd,0.52643806,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q025_no_diacritics,t5_7_exp1c_isolated,10,ASD-CSV-029@snapshot-20261017-333b6e82d086#section_v2_1#0018,ts_rank_cd,0.5,ok,M-CHAT-R/F la gi va do chinh xac ra sao?
+q036_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,1,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,0.17633891,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,2,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,0.15183793,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0039,ts_rank_cd,0.14979488,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0041,ts_rank_cd,0.11720404,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,5,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0003,ts_rank_cd,0.07037402,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,6,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,0.04054054,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,7,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0011,ts_rank_cd,0.037593987,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0014,ts_rank_cd,0.023923445,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0009,ts_rank_cd,0.022857143,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_b_glossary_and_v1,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0012,ts_rank_cd,0.021929825,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,1,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,38.8,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,2,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0016,ts_rank_cd,32.8,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,30.8,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0001,ts_rank_cd,26.0,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,5,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0040,ts_rank_cd,25.0,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,6,ASD-OA-PMC4271434@PMC distributed version 1#section_v2_1#0006,ts_rank_cd,24.0,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,7,ASD-OA-PMC4271434@PMC distributed version 1#section_v2_1#0016,ts_rank_cd,22.0,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,22.0,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC4271434@PMC distributed version 1#section_v2_1#0014,ts_rank_cd,21.0,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,fts_c_glossary_or_v1,10,ASD-OA-PMC9003052@PMC distributed version 1#section_v2_1#0023,ts_rank_cd,20.4,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,1,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,0.46014494,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,2,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,0.39285713,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0003,ts_rank_cd,0.25396827,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0039,ts_rank_cd,0.21020067,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,5,ASD-CSV-095@snapshot-20261017-113db93f3075#section_v2_1#0006,ts_rank_cd,0.18831168,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,6,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0041,ts_rank_cd,0.12037037,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,7,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,0.06797235,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0004,ts_rank_cd,0.06666667,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,0.06666667,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_diacritics,t5_7_exp1c_isolated,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0010,ts_rank_cd,0.044444446,ok,Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?
+q036_no_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,1,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,0.17633891,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,2,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,0.15183793,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0039,ts_rank_cd,0.14979488,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0041,ts_rank_cd,0.11720404,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,5,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0003,ts_rank_cd,0.07037402,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,6,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,0.04054054,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,7,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0011,ts_rank_cd,0.037593987,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0014,ts_rank_cd,0.023923445,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0009,ts_rank_cd,0.022857143,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_b_glossary_and_v1,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0012,ts_rank_cd,0.021929825,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,1,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,38.8,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,2,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0016,ts_rank_cd,32.8,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,30.8,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0001,ts_rank_cd,26.0,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,5,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0040,ts_rank_cd,25.0,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,6,ASD-OA-PMC4271434@PMC distributed version 1#section_v2_1#0006,ts_rank_cd,24.0,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,7,ASD-OA-PMC4271434@PMC distributed version 1#section_v2_1#0016,ts_rank_cd,22.0,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,22.0,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC4271434@PMC distributed version 1#section_v2_1#0014,ts_rank_cd,21.0,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,fts_c_glossary_or_v1,10,ASD-OA-PMC9003052@PMC distributed version 1#section_v2_1#0023,ts_rank_cd,20.4,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,1,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,0.46014494,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,2,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,0.39285713,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0003,ts_rank_cd,0.25396827,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0039,ts_rank_cd,0.21020067,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,5,ASD-CSV-095@snapshot-20261017-113db93f3075#section_v2_1#0006,ts_rank_cd,0.18831168,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,6,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0041,ts_rank_cd,0.12037037,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,7,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,0.06797235,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0004,ts_rank_cd,0.06666667,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0005,ts_rank_cd,0.06666667,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q036_no_diacritics,t5_7_exp1c_isolated,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0010,ts_rank_cd,0.044444446,ok,Cai thien giac ngu cho tre tu ky khong dung thuoc the nao?
+q038_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,1,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,1.1736122,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,2,CDC-ASD-TREATMENT@CDC public article reader captured 2026-10-30#section_v2_1#0006,ts_rank_cd,1.1629273,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,0.47672972,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,4,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0031,ts_rank_cd,0.43861473,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,5,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0010,ts_rank_cd,0.20347412,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,6,ASD-SUP-PMC12658592@PMC12658592.1; acquired 2026-10-30#section_v2_1#0040,ts_rank_cd,0.2,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,7,ASD-OA-PMC13393316@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,0.16666667,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,8,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0039,ts_rank_cd,0.14444445,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,9,NIH-NIMH-ASD-2025@NIH Publication No. 25-MH-8084; Revised 2025#section_v2_1#0011,ts_rank_cd,0.13809524,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_b_glossary_and_v1,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0001,ts_rank_cd,0.12230735,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,1,NIH-NIMH-MEDICATIONS@snapshot-20261017-265ac64c9bc6#section_v2_1#0010,ts_rank_cd,32.4,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,2,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,23.0,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0001,ts_rank_cd,22.0,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0002,ts_rank_cd,20.0,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,5,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0001,ts_rank_cd,20.0,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,6,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0024,ts_rank_cd,19.4,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,7,NIH-NIMH-MEDICATIONS@snapshot-20261017-265ac64c9bc6#section_v2_1#0006,ts_rank_cd,19.4,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC13005892@PMC distributed version 1#section_v2_1#0004,ts_rank_cd,19.0,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,19.0,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,fts_c_glossary_or_v1,10,NIH-NIDCD-ASD-COMMUNICATION-2020@NIH Pub. No. 97–4315; April 2020#section_v2_1#0006,ts_rank_cd,18.4,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,1,NIH-NIMH-MEDICATIONS@snapshot-20261017-265ac64c9bc6#section_v2_1#0010,ts_rank_cd,8.424928,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,2,CDC-ASD-TREATMENT@CDC public article reader captured 2026-10-30#section_v2_1#0006,ts_rank_cd,1.9232199,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,1.8365396,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0004,ts_rank_cd,1.7212766,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,5,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0031,ts_rank_cd,1.5333333,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,6,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,1.4098732,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,7,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0003,ts_rank_cd,1.3959649,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,1.3928138,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0039,ts_rank_cd,1.2305144,ok,Có thuốc nào điều trị tự kỷ không?
+q038_diacritics,t5_7_exp1c_isolated,10,NIH-NIMH-ADHD@NIH Publication No. 24-MH-8300; Revised 2024#section_v2_1#0006,ts_rank_cd,1.1661905,ok,Có thuốc nào điều trị tự kỷ không?
+q038_no_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,1,CDC-ASD-TREATMENT@CDC public article reader captured 2026-10-30#section_v2_1#0006,ts_rank_cd,1.1771885,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,2,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,1.1736122,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,0.47672972,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,4,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0031,ts_rank_cd,0.43861473,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,5,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0010,ts_rank_cd,0.20347412,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,6,ASD-SUP-PMC12658592@PMC12658592.1; acquired 2026-10-30#section_v2_1#0040,ts_rank_cd,0.2,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,7,ASD-OA-PMC13393316@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,0.16666667,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,8,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0039,ts_rank_cd,0.14444445,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,9,NIH-NIMH-ASD-2025@NIH Publication No. 25-MH-8084; Revised 2025#section_v2_1#0011,ts_rank_cd,0.13809524,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_b_glossary_and_v1,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0001,ts_rank_cd,0.12230735,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,1,NIH-NIMH-MEDICATIONS@snapshot-20261017-265ac64c9bc6#section_v2_1#0010,ts_rank_cd,32.4,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,2,ASD-OA-PMC4742252@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,23.0,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0001,ts_rank_cd,22.0,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-062@snapshot-20261017-ae3af4714e9d#section_v2_1#0002,ts_rank_cd,20.0,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,5,ASD-CSV-091@snapshot-20261017-d0bfc4f35cad#section_v2_1#0001,ts_rank_cd,20.0,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,6,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0024,ts_rank_cd,19.4,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,7,NIH-NIMH-MEDICATIONS@snapshot-20261017-265ac64c9bc6#section_v2_1#0006,ts_rank_cd,19.4,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC13005892@PMC distributed version 1#section_v2_1#0004,ts_rank_cd,19.0,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,19.0,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,fts_c_glossary_or_v1,10,NIH-NIDCD-ASD-COMMUNICATION-2020@NIH Pub. No. 97–4315; April 2020#section_v2_1#0006,ts_rank_cd,18.4,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,1,NIH-NIMH-MEDICATIONS@snapshot-20261017-265ac64c9bc6#section_v2_1#0010,ts_rank_cd,8.424928,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,2,CDC-ASD-TREATMENT@CDC public article reader captured 2026-10-30#section_v2_1#0006,ts_rank_cd,1.9232199,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0002,ts_rank_cd,1.8365396,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,4,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0004,ts_rank_cd,1.7212766,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,5,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0031,ts_rank_cd,1.5333333,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,6,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0015,ts_rank_cd,1.4098732,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,7,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0003,ts_rank_cd,1.3959649,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0000,ts_rank_cd,1.3928138,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0039,ts_rank_cd,1.2305144,ok,Co thuoc nao dieu tri tu ky khong?
+q038_no_diacritics,t5_7_exp1c_isolated,10,NIH-NIMH-ADHD@NIH Publication No. 24-MH-8300; Revised 2024#section_v2_1#0006,ts_rank_cd,1.1661905,ok,Co thuoc nao dieu tri tu ky khong?
+q041_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,1,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0033,ts_rank_cd,0.5153855,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,2,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0031,ts_rank_cd,0.2545045,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,3,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,0.25,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,4,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0006",ts_rank_cd,0.21204819,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,5,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0007",ts_rank_cd,0.2,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,6,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0039",ts_rank_cd,0.14166667,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,7,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0032,ts_rank_cd,0.10970874,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,8,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0013,ts_rank_cd,0.099726774,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,9,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0026,ts_rank_cd,0.097222224,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_b_glossary_and_v1,10,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0044,ts_rank_cd,0.09698276,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,1,ASD-CSV-017@PMC12208088.2; acquired 2026-10-30#section_v2_1#0009,ts_rank_cd,18.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,2,ASD-CSV-084@snapshot-20261017-b09029e5368f#section_v2_1#0039,ts_rank_cd,17.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,3,WHO-ECD-GUIDELINE-2020@2020 English edition#section_v2_1#0029,ts_rank_cd,16.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,4,ASD-SUP-PMC12658592@PMC12658592.1; acquired 2026-10-30#section_v2_1#0005,ts_rank_cd,15.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,5,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0031,ts_rank_cd,13.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-011@snapshot-20261017-d2b24dd227f9#section_v2_1#0022,ts_rank_cd,12.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,7,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0016,ts_rank_cd,12.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,8,WHO-ECD-GUIDELINE-2020@2020 English edition#section_v2_1#0053,ts_rank_cd,12.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,9,ASD-CSV-084@snapshot-20261017-b09029e5368f#section_v2_1#0031,ts_rank_cd,11.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,fts_c_glossary_or_v1,10,ASD-CSV-089@snapshot-20261017-9ad7387ead22#section_v2_1#0021,ts_rank_cd,11.0,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,1,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0017,ts_rank_cd,3.2453523,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,2,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0047",ts_rank_cd,3.1630037,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,3,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0033,ts_rank_cd,2.7430067,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,4,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0039,ts_rank_cd,2.300392,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,5,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0044,ts_rank_cd,2.1114058,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,6,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0035",ts_rank_cd,2.1054583,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,7,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0026,ts_rank_cd,2.10049,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,8,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0166",ts_rank_cd,2.0196078,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,9,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0001,ts_rank_cd,1.7055153,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_diacritics,t5_7_exp1c_isolated,10,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0045",ts_rank_cd,1.5349326,ok,Liệu pháp điều hòa cảm giác có hiệu quả không?
+q041_no_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,1,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0033,ts_rank_cd,0.5153855,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,2,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0031,ts_rank_cd,0.2545045,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,3,ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0030,ts_rank_cd,0.25,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,4,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0006",ts_rank_cd,0.21204819,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,5,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0007",ts_rank_cd,0.2,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,6,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0039",ts_rank_cd,0.14166667,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,7,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0032,ts_rank_cd,0.10970874,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,8,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0013,ts_rank_cd,0.099726774,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,9,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0026,ts_rank_cd,0.097222224,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_b_glossary_and_v1,10,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0044,ts_rank_cd,0.09698276,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,1,ASD-CSV-017@PMC12208088.2; acquired 2026-10-30#section_v2_1#0009,ts_rank_cd,18.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,2,ASD-CSV-084@snapshot-20261017-b09029e5368f#section_v2_1#0039,ts_rank_cd,17.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,3,WHO-ECD-GUIDELINE-2020@2020 English edition#section_v2_1#0029,ts_rank_cd,16.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,4,ASD-SUP-PMC12658592@PMC12658592.1; acquired 2026-10-30#section_v2_1#0005,ts_rank_cd,15.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,5,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0031,ts_rank_cd,13.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-011@snapshot-20261017-d2b24dd227f9#section_v2_1#0022,ts_rank_cd,12.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,7,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0016,ts_rank_cd,12.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,8,WHO-ECD-GUIDELINE-2020@2020 English edition#section_v2_1#0053,ts_rank_cd,12.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,9,ASD-CSV-084@snapshot-20261017-b09029e5368f#section_v2_1#0031,ts_rank_cd,11.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,fts_c_glossary_or_v1,10,ASD-CSV-089@snapshot-20261017-9ad7387ead22#section_v2_1#0021,ts_rank_cd,11.0,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,1,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0017,ts_rank_cd,3.2453523,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,2,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0047",ts_rank_cd,3.1630037,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,3,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0033,ts_rank_cd,2.7430067,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,4,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0039,ts_rank_cd,2.300392,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,5,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0044,ts_rank_cd,2.1114058,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,6,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0035",ts_rank_cd,2.1054583,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,7,ASD-SUP-PMC10783429@PMC10783429.1; acquired 2026-10-30#section_v2_1#0026,ts_rank_cd,2.10049,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,8,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0166",ts_rank_cd,2.0196078,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,9,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0001,ts_rank_cd,1.7055153,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q041_no_diacritics,t5_7_exp1c_isolated,10,"NIHR-SENITA-2022@Health Technology Assessment 26(29), June 2022; PDF acquired 2026-10-30#section_v2_1#0045",ts_rank_cd,1.5349326,ok,Lieu phap dieu hoa cam giac co hieu qua khong?
+q058_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_b_glossary_and_v1,,,ts_rank_cd,,no_results,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,1,ASD-CSV-095@snapshot-20261017-113db93f3075#section_v2_1#0035,ts_rank_cd,7.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,2,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0091,ts_rank_cd,7.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0020,ts_rank_cd,6.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-095@snapshot-20261017-113db93f3075#section_v2_1#0007,ts_rank_cd,5.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,5,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0020,ts_rank_cd,5.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-089@snapshot-20261017-9ad7387ead22#section_v2_1#0036,ts_rank_cd,4.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,7,ASD-OA-PMC10018050@PMC distributed version 1#section_v2_1#0013,ts_rank_cd,4.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0016,ts_rank_cd,4.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0022,ts_rank_cd,4.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,fts_c_glossary_or_v1,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0024,ts_rank_cd,4.0,ok,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_diacritics,t5_7_exp1c_isolated,,,ts_rank_cd,,no_results,Liều risperidone cho trẻ 5 tuổi là bao nhiêu?
+q058_no_diacritics,fts_a_baseline_v1,,,ts_rank_cd,,no_results,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_b_glossary_and_v1,,,ts_rank_cd,,no_results,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,1,ASD-CSV-095@snapshot-20261017-113db93f3075#section_v2_1#0035,ts_rank_cd,7.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,2,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0091,ts_rank_cd,7.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,3,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0020,ts_rank_cd,6.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,4,ASD-CSV-095@snapshot-20261017-113db93f3075#section_v2_1#0007,ts_rank_cd,5.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,5,ASD-SUP-PMC6590432@PMC6590432.1; acquired 2026-10-30#section_v2_1#0020,ts_rank_cd,5.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,6,ASD-CSV-089@snapshot-20261017-9ad7387ead22#section_v2_1#0036,ts_rank_cd,4.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,7,ASD-OA-PMC10018050@PMC distributed version 1#section_v2_1#0013,ts_rank_cd,4.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,8,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0016,ts_rank_cd,4.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,9,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0022,ts_rank_cd,4.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,fts_c_glossary_or_v1,10,ASD-OA-PMC7407189@PMC distributed version 1#section_v2_1#0024,ts_rank_cd,4.0,ok,Lieu risperidone cho tre 5 tuoi la bao nhieu?
+q058_no_diacritics,t5_7_exp1c_isolated,,,ts_rank_cd,,no_results,Lieu risperidone cho tre 5 tuoi la bao nhieu?

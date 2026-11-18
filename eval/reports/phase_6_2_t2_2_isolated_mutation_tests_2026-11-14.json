@@ -1,0 +1,730 @@
+{
+ "port_is_live": false,
+ "checks": 90,
+ "passed": 90,
+ "failed": [],
+ "by_group": {
+  "A_permissions": "45/45",
+  "B_authorization": "13/13",
+  "C_leaks": "16/16",
+  "D_negative_cases": "16/16"
+ },
+ "fingerprint": {
+  "chunks": 5470,
+  "research_vectors": 2338,
+  "production_vectors": 0,
+  "chunks_md5": "e40dc061c8686922e74b0e9957358e64",
+  "vectors_md5": "1b1c15ce4cb4c041f8319f26601f5c8f",
+  "columns_md5": "c4135ca2cb27cb02273415faacc6bfb8",
+  "production_views_md5": "b63f0f676ecba6175e16c895ebd85638",
+  "research_006_view_md5": "50381072d6f11c83c27a085fd5663803",
+  "approvals_and_rights_flags": 0,
+  "acl_app": "6f37ef6d4ca3723926746059f3f24eb5",
+  "acl_ingest": "cbe075cbe0cb0620f18c909fc0fc8623",
+  "acl_owner": "1f3a7a583ea621bb0bd65dd236be2e8c",
+  "acl_public_relations": "d41d8cd98f00b204e9800998ecf8427e",
+  "roles": "asd_rag_v2_app,asd_rag_v2_ingest,asd_rag_v2_owner,asd_rag_v2_research_reader",
+  "authorizations": [
+   [
+    1,
+    false,
+    "542cce21378b302312f6f509ba69db0fc346b98d2c47bc0e639775a6d12b4fd3"
+   ],
+   [
+    2,
+    true,
+    "59c3d6cfa4716863a93ab9f6a995d06ab7b80ceae8e60f90cb3836b4d6a58919"
+   ]
+  ],
+  "migrations": [
+   "001",
+   "002",
+   "003",
+   "004",
+   "005",
+   "006",
+   "007"
+  ]
+ },
+ "results": [
+  {
+   "group": "A_permissions",
+   "check": "allow: SELECT chunk_id, embedding, content, content_tsv FROM v_research_retri",
+   "pass": true,
+   "detail": "allowed"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM chunks LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM research_chunk_embeddings LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table research_chunk_embeddings"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM research_embedding_authorizations LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table research_embedding_authorizations"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM research_embedding_authorization_chunks",
+   "pass": true,
+   "detail": "denied permission denied for table research_embedding_authorization_chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM v_research_embedding_candidates LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for view v_research_embedding_candidates"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM chunk_embeddings LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table chunk_embeddings"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM documents LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table documents"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM sources LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table sources"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM source_rights LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table source_rights"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM rights_assessments LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table rights_assessments"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM v_retrieval_ready_chunks LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for view v_retrieval_ready_chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM v_embedding_eligible_documents LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for view v_embedding_eligible_documents"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM v_chunk_provenance LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for view v_chunk_provenance"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM retrieval_logs LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table retrieval_logs"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT 1 FROM schema_migrations LIMIT 1",
+   "pass": true,
+   "detail": "denied permission denied for table schema_migrations"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: INSERT INTO retrieval_logs (query_hash, retrieval_method) VALUES (repe",
+   "pass": true,
+   "detail": "denied permission denied for table retrieval_logs"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: UPDATE chunks SET content = 'x' WHERE false",
+   "pass": true,
+   "detail": "denied permission denied for table chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: DELETE FROM research_chunk_embeddings WHERE false",
+   "pass": true,
+   "detail": "denied permission denied for table research_chunk_embeddings"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: UPDATE research_embedding_authorizations SET revoked_at = NULL WHERE f",
+   "pass": true,
+   "detail": "denied permission denied for table research_embedding_authorizations"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: INSERT INTO research_embedding_authorization_chunks SELECT * FROM rese",
+   "pass": true,
+   "detail": "denied permission denied for table research_embedding_authorization_chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: TRUNCATE chunks",
+   "pass": true,
+   "detail": "denied permission denied for table chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: TRUNCATE research_chunk_embeddings",
+   "pass": true,
+   "detail": "denied permission denied for table research_chunk_embeddings"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: CREATE TABLE asd_rag.probe_reader (i int)",
+   "pass": true,
+   "detail": "denied permission denied for schema asd_rag"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: CREATE TABLE public.probe_reader (i int)",
+   "pass": true,
+   "detail": "denied permission denied for schema public"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: CREATE TEMP TABLE probe_reader (i int)",
+   "pass": true,
+   "detail": "denied permission denied to create temporary tables in database \"asd_rag_v2\""
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: CREATE VIEW asd_rag.probe_reader AS SELECT 1",
+   "pass": true,
+   "detail": "denied permission denied for schema asd_rag"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: CREATE FUNCTION asd_rag.probe_reader() RETURNS int LANGUAGE sql AS 'SE",
+   "pass": true,
+   "detail": "denied permission denied for schema asd_rag"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: ALTER VIEW v_research_retrieval_chunks RENAME TO probe_reader",
+   "pass": true,
+   "detail": "denied must be owner of view v_research_retrieval_chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: DROP VIEW v_research_retrieval_chunks",
+   "pass": true,
+   "detail": "denied must be owner of view v_research_retrieval_chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: ALTER TABLE chunks ADD COLUMN probe int",
+   "pass": true,
+   "detail": "denied must be owner of table chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: DROP TABLE chunks",
+   "pass": true,
+   "detail": "denied must be owner of table chunks"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SET ROLE asd_rag_v2_ingest",
+   "pass": true,
+   "detail": "denied permission denied to set role \"asd_rag_v2_ingest\""
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SET ROLE asd_rag_v2_owner",
+   "pass": true,
+   "detail": "denied permission denied to set role \"asd_rag_v2_owner\""
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SET ROLE asd_rag_v2_app",
+   "pass": true,
+   "detail": "denied permission denied to set role \"asd_rag_v2_app\""
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT pg_read_file('postgresql.conf')",
+   "pass": true,
+   "detail": "denied permission denied for function pg_read_file"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: COPY (SELECT 1) TO PROGRAM 'true'",
+   "pass": true,
+   "detail": "denied permission denied to COPY to or from an external program"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: SELECT lo_import('/etc/hostname')",
+   "pass": true,
+   "detail": "denied permission denied for function lo_import"
+  },
+  {
+   "group": "A_permissions",
+   "check": "deny: CREATE SCHEMA probe_reader",
+   "pass": true,
+   "detail": "denied permission denied for database asd_rag_v2"
+  },
+  {
+   "group": "A_permissions",
+   "check": "refused (non-updatable view): UPDATE v_research_retrieval_chunks SET content = 'x' WH",
+   "pass": true,
+   "detail": "error:ObjectNotInPrerequisiteState cannot update view \"v_research_retrieval_chunks\""
+  },
+  {
+   "group": "A_permissions",
+   "check": "refused (non-updatable view): DELETE FROM v_research_retrieval_chunks WHERE false",
+   "pass": true,
+   "detail": "error:ObjectNotInPrerequisiteState cannot delete from view \"v_research_retrieval_chunks\""
+  },
+  {
+   "group": "A_permissions",
+   "check": "refused (non-updatable view): INSERT INTO v_research_retrieval_chunks (chunk_id) VALU",
+   "pass": true,
+   "detail": "error:ObjectNotInPrerequisiteState cannot insert into view \"v_research_retrieval_chunks\""
+  },
+  {
+   "group": "A_permissions",
+   "check": "GRANT … TO PUBLIC by the reader changes nothing",
+   "pass": true,
+   "detail": {
+    "warning": [
+     "no privileges were granted for \"v_research_retrieval_chunks\""
+    ],
+    "acl_unchanged": true
+   }
+  },
+  {
+   "group": "A_permissions",
+   "check": "session runs as the reader itself",
+   "pass": true,
+   "detail": [
+    "asd_rag_v2_research_reader",
+    "asd_rag_v2_research_reader"
+   ]
+  },
+  {
+   "group": "A_permissions",
+   "check": "default_transaction_read_only = on",
+   "pass": true,
+   "detail": "on"
+  },
+  {
+   "group": "B_authorization",
+   "check": "exactly one active authorization",
+   "pass": true,
+   "detail": [
+    [
+     2,
+     "cohere_embed_v4_1536_v1"
+    ]
+   ]
+  },
+  {
+   "group": "B_authorization",
+   "check": "view rows == active allowlist (with vectors)",
+   "pass": true,
+   "detail": {
+    "view": 2291,
+    "allowlist": 2291,
+    "extra": 0,
+    "missing": 0
+   }
+  },
+  {
+   "group": "B_authorization",
+   "check": "one row per chunk",
+   "pass": true,
+   "detail": 2291
+  },
+  {
+   "group": "B_authorization",
+   "check": "D-1 chunks absent (47)",
+   "pass": true,
+   "detail": {
+    "d1": 47,
+    "visible": 0
+   }
+  },
+  {
+   "group": "B_authorization",
+   "check": "only active authorization id",
+   "pass": true,
+   "detail": [
+    2
+   ]
+  },
+  {
+   "group": "B_authorization",
+   "check": "profile/model/dimension correct",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "group": "B_authorization",
+   "check": "verified completeness only",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "group": "B_authorization",
+   "check": "unfiltered top-10 contains excluded chunks (control)",
+   "pass": true,
+   "detail": 9
+  },
+  {
+   "group": "B_authorization",
+   "check": "view top-10: 10 rows, none excluded (filter before LIMIT)",
+   "pass": true,
+   "detail": {
+    "rows": 10
+   }
+  },
+  {
+   "group": "B_authorization",
+   "check": "no quarantined or non-current document",
+   "pass": true,
+   "detail": 2
+  },
+  {
+   "group": "B_authorization",
+   "check": "all C5 predicates in view definition",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "group": "B_authorization",
+   "check": "security_barrier view",
+   "pass": true,
+   "detail": [
+    "security_barrier=true"
+   ]
+  },
+  {
+   "group": "B_authorization",
+   "check": "plan: all filters evaluated under the Limit node (top node = Limit)",
+   "pass": true,
+   "detail": {
+    "is_current_via": "partial index documents_one_current_per_source"
+   }
+  },
+  {
+   "group": "C_leaks",
+   "check": "role attributes least-privilege",
+   "pass": true,
+   "detail": [
+    false,
+    false,
+    false,
+    false,
+    true,
+    false,
+    false,
+    5
+   ]
+  },
+  {
+   "group": "C_leaks",
+   "check": "no role membership (either direction)",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "group": "C_leaks",
+   "check": "table privileges: only the retrieval view",
+   "pass": true,
+   "detail": [
+    [
+     "asd_rag.v_research_retrieval_chunks",
+     "v"
+    ]
+   ]
+  },
+  {
+   "group": "C_leaks",
+   "check": "no write privilege on the view",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "group": "C_leaks",
+   "check": "no column-level grants elsewhere",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "group": "C_leaks",
+   "check": "no sequence privileges",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "group": "C_leaks",
+   "check": "schema: USAGE on asd_rag + public only, CREATE nowhere",
+   "pass": true,
+   "detail": [
+    [
+     "public",
+     true,
+     false
+    ],
+    [
+     "asd_rag",
+     true,
+     false
+    ]
+   ]
+  },
+  {
+   "group": "C_leaks",
+   "check": "database: CONNECT only (no CREATE, no TEMP)",
+   "pass": true,
+   "detail": [
+    true,
+    false,
+    false
+   ]
+  },
+  {
+   "group": "C_leaks",
+   "check": "no SECURITY DEFINER function outside pg_catalog",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "group": "C_leaks",
+   "check": "executable asd_rag functions = trigger function only (PUBLIC default, not callable)",
+   "pass": true,
+   "detail": [
+    [
+     "research_embedding_guard"
+    ]
+   ]
+  },
+  {
+   "group": "C_leaks",
+   "check": "no default privileges",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "group": "C_leaks",
+   "check": "view depends only on research + corpus tables (no production/rights objects)",
+   "pass": true,
+   "detail": [
+    "chunks",
+    "documents",
+    "embedding_profiles",
+    "research_chunk_embeddings",
+    "research_embedding_authorization_chunks",
+    "research_embedding_authorization_sources",
+    "research_embedding_authorizations",
+    "sources"
+   ]
+  },
+  {
+   "group": "C_leaks",
+   "check": "production views do not reference research objects",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "group": "C_leaks",
+   "check": "asd_rag_v2_app cannot read the retrieval view",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "group": "C_leaks",
+   "check": "asd_rag_v2_ingest cannot read the retrieval view",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "group": "C_leaks",
+   "check": "role settings recorded",
+   "pass": true,
+   "detail": [
+    [
+     [
+      "search_path=asd_rag, public",
+      "default_transaction_read_only=on",
+      "statement_timeout=60s"
+     ]
+    ]
+   ]
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "positive control: allowed chunk present",
+   "pass": true,
+   "detail": {
+    "present": 1,
+    "total": 2291,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "authorization revoked → nothing visible",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 0,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "chunk removed from allowlist (exclusion) → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "allowlist hash ≠ chunk hash → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "document quarantined → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2248,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "document not current → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2248,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "chunk not retrieval-eligible → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "unverified structure status → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "wrong corpus version (authorization chunking_profile) → nothing visible",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 0,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "vector embeds other content (vector hash ≠ chunk hash) → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "wrong model id on vector → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "vector under another embedding profile → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "provenance broken (document moved to another source) → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2248,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "source not core/gaps → absent",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2248,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "research row of a non-allowlisted chunk with a vector stays invisible",
+   "pass": true,
+   "detail": {
+    "present": 0,
+    "total": 2290,
+    "baseline": 2291
+   }
+  },
+  {
+   "group": "D_negative_cases",
+   "check": "second active authorization for the profile is rejected (unique index)",
+   "pass": true,
+   "detail": "UniqueViolation: duplicate key value violates unique constraint \"research_authorizations_one_active_per_profile\""
+  }
+ ]
+}

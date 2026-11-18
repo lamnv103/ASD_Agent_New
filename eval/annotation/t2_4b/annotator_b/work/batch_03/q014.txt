@@ -1,0 +1,636 @@
+QUESTION q014: Làm sao hỗ trợ trẻ tự kỷ chưa biết nói?  (58 candidates)
+
+### 52B8A2E1B1 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 1. Introduction | page -
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by persistent difficulties in social communication and restricted, repetitive behaviors [1,2]. Developmental differences in cognition and language are associated features of the autism phenotype [1]. Current estimates note that about 20–30% of individuals on the autism spectrum remain minimally verbal (MV), meaning they use few or no functional spoken words in daily communication [3,4,5,6]. These data highlight the urgent need for targeted and early interventions. However, identifying MV individuals and selecting appropriate treatments remains challenging, partly due to the absence of standardized and widely accepted diagnostic criteria for MV ability [7]. This lack of consensus not only complicates early identification in clinical settings but also hinders the reliable characterization and comparison of MV profiles across studies, limiting the generalizability of research findings. Indeed, MV children often present with complex and heterogeneous developmental profiles, including co-occurring cognitive and behavioral challenges [8]. Their difficulties extend beyond spoken language, affecting nonverbal communication channels such as joint attention, gestures, and symbolic play [9]. These impairments can hinder inclusion, social-emotional development, and autonomy [10,11,12].
+
+In recent years, scientific and policy attention on interventions for MV autistic children has grown significantly. Since 2010, when the National Institutes of Health identified this population as a research priority, several strategic documents, most notably the Interagency Autism Coordinating Committee Strategic Plan, have underscored the need for targeted support. The latest update [13] emphasizes the urgent need to develop stratification and prognostic biomarkers that can identify which autistic children are most likely to benefit from specific interventions, as well as biomarkers and interventions that promote language development during early sensitive developmental periods.
+
+### AD6413E657 | Early Autism Screening: A Comprehensive Review | 1. Introduction | page -
+Autism spectrum disorder (ASD), a key topic in today’s clinical industry throughout the globe, refers to a pervasive developmental disorder that hinders an individual’s skills in socialisation, creates repetitive behaviours, and impacts expressive or verbal communication with disruptions ranging from moderate to severe [1]. The symptoms of autism are more visible and easy to identify in children two to three years of age. According to [2], one out of every 68 children has autism. Consequently, various screening methods have been developed by leading medical experts and psychiatrists across the world seeking to identify autistic traits in their primitive stage so as to readily provide the necessary medications [3].
+
+Diagnosing ASD is a challenging task since there are currently multiple clinical techniques available, with most typically involving long-term observation and in-depth evaluation by licensed healthcare professionals [4,5,6]. Conventional diagnostic procedures for ASD require medical professionals to conduct a clinical assessment of the patient’s developmental age based on a variety of domains (e.g., behaviour excesses, communication, self-care, social skills). This widely accepted approach is referred to as clinical judgment (CJ) [7]. Until recently, most clinicians have used the Diagnostic and Statistical Manual fourth edition (DSM-IV) as the underlying criteria for diagnosing autistic behaviours [8]. The DSM-IV classifies autism under the category of common pervasive development disorders (PDDs). This class includes the symptoms and areas of development that need to be observed in order to identify any PDDs. The DSM-IV introduced four diagnostic subcategories of PDDs: Asperger disorder, pervasive development disorder—not otherwise specified (PDD-NOS), Rett’s disorder, and childhood disintegrative disorder (CDD). In 2013, the DSM-IV was revised, which posed a significant challenge to the way individuals are assessed as being on the ASD spectrum and necessitated refinements of existing diagnosis as well as screening techniques.
+
+There are many clinical and self-screening methods available to assess individuals with ASD. The most popular clinical methods include Autism Diagnostic Interview-Revised (ADI-R), Autism Diagnostic Observation Schedule (ADOS), Childhood Autism Rating Scale (CARS), Joseph Picture self-concept scale, and the social responsiveness scale [9,10,11,12]. These are clinical methods used for formal ASD diagnosis and treatment planning [13]. The techniques, like ADI-R and ADOS, have been clinically proven to be effective instruments in differentiating autism from other related developmental disorders, and having adequate validity and sensitivity [14]. However, they have been criticised for being time consuming, having long questionnaires and scoring methods, and requiring licensed clinicians and observers to administer them [15,16,17,18].
+
+### DF743DE708 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 110-115
+Body: turning or moving towards something, taking someone’s hand to put it on an object (to get help), pulling someone by the hand, turning or nodding the head, gesturing with the head Hands: pointing to something, showing or giving an object to someone, reaching, grabbing or pushing something away Key message 1  Children may use challenging behaviour to communicate when other ways of communicating are difficult.  These are ways children communicate:
+
+Hands: using sign language Eyes: looking at someone; looking quickly at something and then at someone, staring at something Face: facial expressions, smiling, moving the eyebrows etc.
+
+Challenging behaviour: Screaming, throwing things, breaking things, falling to the floor, biting, scratching, hitting other people or themselves Key Message 1, continued Key message 2  Focus on your child and look and listen to her/him to notice what they are interested in and when they are trying to communicate with you.  When your child is interested or communicating, these are great opportunities to connect with the child and help her/him learn new things.
+
+Look and listen to notice when your child is communicating Communication goals Eye gaze or body movements Grabs, reaches or pulls you by the hand Points to ask Show or points to share interest Makes sounds 1 word 2 words together 3 or more words together How my child communicates now My child’s next step Use any gesture to ask; make a sound Point to ask Point or show to share interest; make a sound Try to make sounds more often; shape a sound into 1 word Add more words; combine 2 words Add more words; combine 3 words Longer sentences Put an X next to ways your child uses to communicate: Put an X next to your child’s next step to communicate:
+
+Lalitha’s story Part 2: Saanvi’s communication  Children can use words, behaviour without words, or challenging behaviour to try to send you a message.  What is your child trying to say to you?  Is your child:
+
+− asking for something?
+
+### 478ECE39D5 | Milestones by 2 Years | Tips and activities > What You Can Do for Your 2-year-old | page -
+Image: child pointing at book parents are holding and reading
+
+As your child's first teacher, you can help his or her development.
+
+As your child's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your child's doctor and teachers if you have questions or for more ideas on how to help your child's development.
+
+* Help your child learn how words sound, even if he can't say them clearly yet. For example, if your child says, "or nana," say "You want more banana."
+
+* Watch your child closely during playdates. Children this age play next to each other, but do not know how to share and solve problems. Show your child how to deal with conflicts by helping her share, take turns, and use words when possible.
+
+* Have your child help you get ready for mealtime, by letting him carry things to the table, such as plastic cups or napkins. Thank your child for helping.
+
+### 7CE7F3A365 | Assessment of Autism Spectrum Disorder |  | page -
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by challenges in social interaction and communication and the presence of restricted interests and repetitive behaviors. The importance of early detection of ASD and subsequent early intervention is well documented. Efforts have been made over the years to clarify ASD diagnostic criteria and develop predictive, accurate screening tools and evidence-based, standardized diagnostic instruments to aid in the identification of ASD. In this article, we review the most recent changes in ASD diagnostic criteria in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision, summarize evidence-based instruments for ASD screening and diagnostic evaluations as well as the assessment of co-occurring conditions in ASD, the impact of COVID-19 on ASD assessment, and directions for future research in the field of ASD assessment.
+
+Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by challenges in social interaction and communication, and the presence of restricted interests and repetitive behaviors (Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision [DSM-5-TR]; American Psychiatric Association [APA], 2022). Recent data indicate that one in 44 children in the United States (Maenner et al., 2021) and one in 160 children internationally (World Health Organization, 2013) has a diagnosis of ASD. Critical to accurate diagnosis and appropriate treatment planning is an evidence-based approach to assessment. Consistent with this special issue’s focus on evidence-based assessment guidelines for both clinical practice and research, this article provides a synthesis of available literature that describes the range of evidence-based evaluation approaches for ASD, from screening to diagnosis. We begin with reviewing the most commonly used, evidence-based instruments for screening and diagnostic evaluation of ASD. We then discuss the importance and implications of early screening and diagnosis, consider best practices for the evaluation of co-occurring conditions, and describe the impact of COVID-19 on recent autism diagnostic practices. We end the article with future directions for novel approaches to autism assessment.
+
+### A46CFCC41D | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 4. Discussion | page -
+This paper has systematically reviewed the peer-reviewed literature published since 2014 on the frequency and nature of GIS in children with ASD and adolescents and their relationship to regression in ASD, ASD severity language and communication, challenging behavior, comorbid psychopathology, sensory issues, and sleep problems. Table 2 summarizes the findings of this review regarding how key factors are associated with the presentation of GIS in autistic children and adolescents.
+
+The evidence reveals that GIS are more common in children with ASD and adolescents than in children with TD and that GIS are unrelated to age and persistent over time. There is a large variation between the rates of GIS prevalence reported by individual studies, as has been previously noted [6]. This review also reveals contradictory evidence on whether the prevalence of GIS is associated with gender.
+
+Over half of the studies that examined the association between ASD symptoms and GIS concluded that GIS did not have a significant association with ASD severity [36,52,53], but other studies reported that GIS was associated with ASD severity. Studies prior to 2014 have also described contradictory results [4]. Therefore, definite conclusions concerning the relationship between ASD severity and GIS are yet to be drawn.
+
+There is limited but valuable data from Reynolds et al. [51] supporting the existence of an association between GIS and regression in ASD. These findings concur with previous research. Valicenti-McDermott et al. (2008) [17] found that children with ASD who presented with language regression had more GIS than those without language regression. Similarly, Niehus and Lord (2006) [65] found that the medical records of children with ASD and regression indicated significantly more parental reports of bloody stools than of those with ASD and no regression did. However, Reynolds et al. [51] contrasts with other research in which developmental regression was not significantly associated with GIS [18,19].
+
+Evidence concerning the relationship between GIS and language and communication is also somewhat inconclusive. There was no difference in the verbal ability of children with and without GIS [49], and yet constipation was associated with speech problems and feeding problems [47]. This finding concurs with earlier research that children with ASD with GIS showed higher levels of social impairment than those without GIS [20]. This latter study also found that younger, more socially impaired and nonverbal children had increased odds of constipation. However, other previous research found no difference between the verbal ability of children with and without reported pain abdominal pain, or constipation [18], or rates of GI complaints [21].
+
+### 160B27ED8F | Autism Spectrum Disorder: Communication Problems in Children | What research is being conducted to improve communication in children with ASD? | page -
+The federal government’s Autism CARES Act of 2014 brought attention to the need to expand research and improve coordination among all of the components of the National Institutes of Health (NIH) that fund ASD research. These include the National Institute of Mental Health (NIMH), along with the National Institute on Deafness and Other Communication Disorders (NIDCD), the *Eunice Kennedy Shriver* National Institute of Child Health and Human Development (NICHD), the National Institute of Environmental Health Sciences (NIEHS), the National Institute of Neurological Disorders and Stroke (NINDS), the National Institute of Nursing Research (NINR), and the National Center for Complementary and Integrative Health (NCCIH).
+
+Together, five institutes within the NIH (NIMH, NIDCD, NICHD, NIEHS, and NINDS) support the Autism Centers of Excellence (ACE), a program of research centers and networks at universities across the country. Here, scientists study a broad range of topics, from basic science investigations that explore the molecular and genetic components of ASD to translational research studies that test new types of behavioral therapies. Some of these studies involve children with ASD who have limited speech and language skills, and could lead to testing new treatments or therapies. You can visit the NIH Clinical Trials website and enter the search term “autism” for information about current trials, their locations, and who may participate.
+
+The NIDCD supports additional research to improve the lives of people with ASD and their families. An NIDCD-led workshop focused on children with ASD who have limited speech and language skills, resulting in two groundbreaking articles.1 Another NIDCD workshop on measuring language in children with ASD resulted in recommendations calling for a standardized approach for evaluating language skills. The benchmarks will make it easier, and more accurate, to compare the effectiveness of different therapies and treatments.
+
+NIDCD-funded researchers in universities and organizations across the country are also studying:
+
+- Ways to reliably test for developmental delays in speech and language in the first year of life, with the ultimate goal of developing effective treatments to address the communication challenges faced by many with ASD. - How parents can affect the results of different types of language therapies for children with ASD. - Enhanced ways to improve communication between children with and without ASD. This could involve a communication board with symbols and pictures, or even a smartphone app. - Techniques to help researchers better understand how toddlers with ASD perceive words, and the problems they experience with words. - Cost-effective ways to prevent or reduce the impact of conditions affecting speech, language, and social skills in high-risk children (for example, younger siblings of children with ASD). - The development of software to help people with ASD who struggle with speech to communicate complex thoughts and interact more effectively in society.
+
+### AA8FD87FC7 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 115-117
+− asking for something to stop? − trying to share something with you? − trying to tell you that she/he is scared, tired, hungry or excited? Key message 3 When you notice your child communicating, find out what message your child is trying to send you Respond with words and gestures to all your child’s communication, even when it is unclear Tip 1  Gestures give children another way to communicate.  Responding to all communication, even if it is unclear or odd, encourages children to communicate and helps them to learn new and more complex ways in which they can communicate. Pointing to the object Holding up and showing the object Giving the object  Respond with Show and say – Use a gesture (show) and a word (say) to all your child’s communication, even when it is unclear.  Gestures you can use include:
+
+Use words and gestures that match your child’s language level Tip 2  This means that:
+
+− sometimes you should talk using the same level of language that your child has now; − sometimes you show the child how to talk in a more complex way (their next step).
+
+If your child is − quiet, uses sounds or unclear words: sometimes you shape sounds into a word, sometimes you use a word. If your child is talking using − 1 word at a time: sometimes you use 1 word, sometimes 2 words; − 2-word combinations: sometimes you use 2 words together, sometimes 3 words; − 3–4 word phrases: sometimes you use 3–4-word phrases, sometimes you use longer phrases; − sentences: you can use sentences.  This way your child will: − remain motivated and not frustrated; − continue to practise her/his current communication skills; − learn more complex communication skills (their next step).  Remember always to use a gesture by pointing to what you are talking about, showing your child the object or giving the object to your child.  Gestures help your child understand your communication better.
+
+### 5A30474FC9 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 2. Methods > 2.2. Eligibility Criteria | page -
+Studies were eligible if they included participants younger than 18 years with a formal diagnosis of ASD and minimally verbal status, evaluated communication-focused interventions, and used randomized, non-randomized, pilot, or observational study designs. Only peer-reviewed articles published in English or Italian (or with an available English translation) were considered. Case reports, reviews, editorials, conference abstracts, and studies not meeting the predefined eligibility criteria were excluded. Full eligibility criteria are reported in the Supplementary Materials.
+
+### A0D80E7227 | Autism Spectrum Disorder: Communication Problems in Children | Where can I find additional information about ASD? | page -
+Information from other NIH Institutes and Centers that participate in ASD research is available on the NIH Health Information page by searching on the term “autism.”
+
+In addition, the NIDCD maintains a directory of organizations that provide information on the normal and disordered processes of hearing, balance, taste, smell, voice, speech, and language.
+
+For more information, contact us at:
+
+**NIDCD Information Clearinghouse** 1 Communication Avenue Bethesda, MD 20892-3456 Toll-free Voice: (800) 241-1044 Toll-free TTY: (800) 241-1055 Email: nidcdinfo@nidcd.nih.gov
+
+NIH Pub. No. 97–4315 April 2020
+
+---
+
+1. Kasari, C., Brady, N., Lord, C., & Tager-Flusberg, H. (2013). Assessing the minimally verbal school-aged child with autism spectrum disorder. Autism Research, 6(6), 479–493. doi: 10.1002/aur.1334. Review.
+
+Tager-Flusberg, H., & Kasari, C. (2013). Minimally verbal school-aged children with autism spectrum disorder: the neglected end of the spectrum. Autism Research, 6(6), 468–478. doi: 10.1002/aur.1329. Review.
+
+\* Note: PDF files require a viewer such as the free Adobe Reader.
+
+Last Updated Date:
+
+April 13, 2020
+
+### BD1DE30955 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 2. Methods > 2.4. Strategy for Data Synthesis | page -
+Due to heterogeneity in methods and outcomes, a narrative synthesis was conducted. Sub-analyses examined: (a) sample characteristics (age, gender, ethnicity, autism severity, Nonverbal Intellectual Quotient (NVIQ), definitions of MV status, and comorbidities); (b) intervention technical features (intensity, frequency, duration); (c) outcome measures; and (d) effects by intervention type.
+
+Interventions were categorized by theoretical orientation (e.g., NDBI, AAC-based, parent- or peer-mediated). Findings were summarized descriptively, highlighting patterns of improvement and contextual differences across studies.
+
+### 685B8E5084 | Autism Spectrum Disorder: Communication Problems in Children | How does ASD affect communication? | page -
+They also may be unable to understand body language and the meanings of different vocal tones. Taken together, these difficulties affect the ability of children with ASD to interact with others, especially people their own age. Below are some patterns of language use and behaviors that are often found in children with ASD.
+
+- **Repetitive or rigid language.** Often, children with ASD who can speak will say things that have no meaning or that do not relate to the conversations they are having with others. For example, a child may count from one to five repeatedly amid a conversation that is not related to numbers. Or a child may continuously repeat words he or she has heard—a condition called echolalia. Immediate echolalia occurs when the child repeats words someone has just said. For example, the child may respond to a question by asking the same question. In delayed echolalia, the child repeats words heard at an earlier time. The child may say “Do you want something to drink?” whenever he or she asks for a drink. Some children with ASD speak in a high-pitched or sing-song voice or use robot-like speech. Other children may use stock phrases to start a conversation. For example, a child may say, “My name is Tom,” even when he talks with friends or family. Still others may repeat what they hear on television programs or commercials. - **Narrow interests and exceptional abilities.** Some children may be able to deliver an in-depth monologue about a topic that holds their interest, even though they may not be able to carry on a two-way conversation about the same topic. Others may have musical talents or an advanced ability to count and do math calculations. Approximately 10 percent of children with ASD show “savant” skills, or extremely high abilities in specific areas, such as memorization, calendar calculation, music, or math. - **Uneven language development.** Many children with ASD develop some speech and language skills, but not to a normal level of ability, and their progress is usually uneven. For example, they may develop a strong vocabulary in a particular area of interest very quickly. Many children have good memories for information just heard or seen. Some may be able to read words before age five, but may not comprehend what they have read. They often do not respond to the speech of others and may not respond to their own names. As a result, these children are sometimes mistakenly thought to have a hearing problem. - **Poor nonverbal conversation skills.** Children with ASD are often unable to use gestures—such as pointing to an object—to give meaning to their speech. They often avoid eye contact, which can make them seem rude, uninterested, or inattentive. Without meaningful gestures or other nonverbal skills to enhance their oral language skills, many children with ASD become frustrated in their attempts to make their feelings, thoughts, and needs known.
+
+They may act out their frustrations through vocal outbursts or other inappropriate behaviors.
+
+### 5142D6D2C3 | Parallel paths: A narrative review exploring autism and its co-occurring conditions | AUTISM PRESENTATION ASSOCIATED WITH KNOWN ENVIRONMENTAL EXPOSURES > Autoimmune conditions | page -
+There is evidence of abnormal immune response in autism. T cell function response in autism may be more skewed towards a proinflammatory state (Th1 response) which correlates with more severe autism[121,122]. There is also evidence of abnormal cytokine production with increased levels of proinflammatory cytokines such as IL-1β, IL-2, IL-6, IL-8 and IL-12 as well as decreased levels of regulatory cytokines such as IL-10 and TGF-β1, which correlate with more severe symptoms of autism[122,123]. These abnormalities, aside from correlating with the severity of autism, may predispose them to autoimmune conditions.
+
+The above-mentioned abnormalities suggest that autoimmune conditions may be more common in autistic children, with epidemiologic studies looking into the association of rheumatologic and autoimmune conditions and autism having been carried out.
+
+Zerbo et al[124] conducted a case-control study using the Kaiser Permanente database looking for the incidence of autoimmune conditions in autism. This study demonstrated that autoimmune conditions were more common in children, however, this was driven by psoriasis, which was found to occur twice as common as in neurotypical controls. Other autoimmune conditions like juvenile idiopathic arthritis, type 1 DM, and lupus among 41 other autoimmune conditions did not reach statistical significance. A nationwide study from Taiwan using a national health insurance database found that autistic people had a higher incidence of type 1 DM and in general autoimmune conditions as a whole were more common in autistic people. However, this may have been driven by an increased incidence of type 1 DM; other autoimmune conditions did not seem to reach statistical significance[116]. Neither of these studies found a statistical correlation between celiac disease, Crohn’s disease, and autism.
+
+Although not an autoimmune condition, chronic pain syndromes such as fibromyalgia are more common in autistic people. These conditions are characterized by chronic pain in the absence of apparent noxious stimuli. Bursch reported that 20% of the patients with chronic pain followed in the pain clinic at the University of California, Los Angeles had autistic traits[125]. This could be attributed to the neurosensory dysfunction seen in autistic patients, which may increase pain perception. Many of these patients were not diagnosed with autism at the time of evaluation in the pain clinic[111]. Hypermobile joints, which may predispose to chronic pain, have also been found more commonly in autistic children; the same can be said for Ehlers-Danlos syndrome, which is characterized by joint hypermobility, arthralgia, Marfanoid habitus, joint dislocations and hyperextensible skin[126].
+
+Another association between autoimmunity and autism has been found with regard to the risk of autism in children from families with a history of autoimmunity. A meta-analysis found that children from families with a history of autoimmunity had a 28% higher risk of autism. Rheumatoid arthritis, thyroid disorders, and psoriasis were some of the autoimmune conditions included in the studies used in the meta-analysis[127].
+
+### C4D4B4F7D2 | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 3. Results > 3.3. GIS and ASD Severity | page -
+However, Yang et al. [59] found that children with and without GIS had significantly different levels of social interaction and stereotyped behaviors.
+
+Further evidence of the relationship between GIS and ASD symptoms and the existence of a gut–immune–brain axis was provided by studies that have investigated differences in the gut microbiota composition of children with ASD and the presence of GIS. Rose et al. [52] investigated differences in biological signatures in terms of immune dysfunction and microbiota composition in a sample of children with ASD (n = 102) aged from 3 to 12 years old. The results showed the microbiota composition of the children with GIS differed from that of those without GIS and they produced increased levels of mucosa-relevant cytokines. Rose et al. concluded that this suggested that chronic gut inflammation plays a part in ASD pathogenesis. Tomova et al. [56] also provided evidence that the gut microbiota plays a role in ASD. They identified changes in the fecal microbiota in children with ASD to determine its role in the development of GI disorders and other manifestations of ASD. The fecal microflora of a small sample of children with ASD (n = 10), siblings (n = 9), and healthy children (n = 10) was investigated, and parental questionnaires were used to collect data on GIS. The fecal microbiota of the children with ASD showed a significant decrease of the Bacteroidetes/Firmicutes ratio, and an elevated amount of Lactobacillus spp. Results also showed a trend in the incidence of elevated Desulfovibrio spp. in children with ASD. In addition, there was a very strong association of the amount of Desulfovibrio spp. with the severity of ASD according to the Autism Diagnostic Interview (ADI) restricted/repetitive behavior subscale score [62]. The participants demonstrated a strong positive correlation of ASD severity with the severity of GI dysfunction. Supplementing the diet with probiotics normalized the Bacteroidetes/Firmicutes ratio, Desulfovibrio spp., and the amount of Bifidobacterium spp. in feces of children with ASD. Shaahan et al. [54] also evaluated the efficacy and tolerability of a probiotic in children with ASD (n = 30; 5–9 years; mean age (84.77 ± 16.37 months)). In this small trial with no placebo group, assessors were unblinded, and participants were receiving behavioral therapy. Children with ASD were gender/age-matched with healthy controls who were relatives. Three probiotic strains of Lactobacillus acidophilus were administered for 12 weeks.
+
+### 8CB57E4932 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 4. Discussion | page -
+In recent years, scientific attention to interventions aimed at MV autistic children has grown significantly. The results of this systematic review map the range of communication-based interventions available for MV autistic children and illustrate how these approaches are implemented across various developmental profiles and social contexts. Although the overall number of studies remains modest, the variety of intervention types, settings, and outcome domains offer valuable insight into how different strategies are applied to support language and social interaction in this population. A previous Cochrane review published in 2018 [4] included only two RCTs, reflecting the scarcity of high-quality evidence available at the time. Both studies were limited in sample size and scope, and no firm conclusions could be drawn regarding intervention efficacy. In contrast, the present review includes 18 studies. This substantial expansion in both quantity and methodological diversity indicates growing research attention and allows for a more comprehensive analysis of intervention types, outcomes, and implementation contexts. The current review thus provides a much-needed update to the field and helps orient future research directions. Unlike previous reviews, which primarily focused on randomized controlled trials or specific intervention models, the broader inclusion criteria adopted in the present review provide additional insights into the diversity of communication interventions currently available for minimally verbal autistic children. The inclusion of pilot, quasi-experimental, and observational studies allowed the identification of innovative and emerging approaches, as well as implementation strategies in real-world educational and clinical settings that would not have been captured by more restrictive reviews. While our findings are broadly consistent with the recent systematic review and meta-analysis by Pope et al. [16], which highlighted the effectiveness of NDBIs, the present review broadens these conclusions by showing that structured behavioral, AAC-based, music-based, and hybrid interventions may also provide potentially clinically meaningful benefits when tailored to children’s individual developmental profiles. Collectively, these findings support a personalized, multimodal approach rather than a single preferred intervention model.
+
+### 6B2D640533 | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Introduction | page -
+(2) found greater impairment in adaptive functioning among children with ASD and clinically significant ADHD symptoms in comparison to children with ASD and fewer ADHD symptoms. In contrast, Ashwood et al. (15) found significant associations between reduced adaptive functioning and autism symptoms, but not with ADHD symptoms.
+
+The prevalence of anxiety disorders in the general population is 6.5% (16), ranging from 3 to 24% in various studies (17). Anxiety is among the most common mental health problems in ASD (4, 8). Similarly to ADHD, higher frequencies of anxiety difficulties (11–84%) have been reported in children with ASD in comparison to the general population (18) and up to 40% are diagnosed with at least one DSM anxiety disorder at some point in their lives (19, 20). Anxiety disorders may include features of excessive fear and related behavioral disturbances (1). Some studies have noted that ASD is a vulnerability for stress and anxiety (20). In contrast, according to some cross-sectional research, anxiety may be an underlying cause of several symptoms of ASD. For example, anxiety affects the stereotypical and rigid behaviors (21) and social functioning difficulties (22) that children with an ASD often face. Furthermore, anxiety in children with ASD has a negative impact on adaptive functioning, daily living skills (DLS), and relationships with peers, teachers, and family (23, 24). For example, Factor et al. (25) found more social difficulties in youth with ASD and anxiety symptoms in comparison to youth with only ASD. Most of the studies that examined ASD and anxiety were cross-sectional ones, and anxiety symptoms were assessed using different anxiety scales.
+
+Rates of anxiety in the presence of ADHD in the general population range from 13 to 50%, and these comorbidities together are associated with greater risk of long term impairments than children with either condition (26). However, only a few studies have examined the frequency or the clinical impact of anxiety in children with both ASD and ADHD. Craig et al. (27) found that individuals with ASD and ADHD had higher frequency of anxiety, as compared to individuals with only ASD. Since having ASD and ADHD is already known to negatively affect functioning (2, 10, 14, 15), it is assumed that having anxiety in addition to ADHD will have additive negative impact on children with ASD. Other studies have suggested that some of the anxiety symptoms overlap with ASD symptoms (21, 22).
+
+In light of this, it is possible that the clinical presentation in ASD would not be worsened by having anxiety symptoms. Therefore, is it important to further investigate the contribution of having anxiety symptoms in ASD with comorbid ADHD on various aspects of the clinical presentation.
+
+### BFF25858DD | About Autism Spectrum Disorder | Overview | page -
+People with ASD may behave, communicate, interact, and learn in ways that are different from most other people. There is often nothing about how they look that sets them apart from other people. The abilities of people with ASD can vary significantly. For example, some people with ASD may have advanced conversation skills whereas others may be nonverbal. Some people with ASD need a lot of help in their daily lives; others can work and live with little to no support.
+
+ASD begins before the age of 3 years and can last throughout a person's life, although symptoms may change over time. Some children show ASD symptoms within the first 12 months of life. In others, symptoms may not show up until 24 months of age or later. Some children with ASD gain new skills and meet developmental milestones until around 18 to 24 months of age, and then they stop gaining new skills or lose the skills they once had.
+
+As children with ASD become adolescents and young adults, they may have difficulties developing and maintaining friendships, communicating with peers and adults, or understanding what behaviors are expected in school or on the job. They may come to the attention of healthcare providers because they also have conditions such as anxiety, depression, or attention-deficit/hyperactivity disorder (ADHD), which occur more often in people with ASD than in people without ASD.
+
+Autism Partner Toolkit
+
+CDC's partner toolkit includes links to free resources and materials on ASD.
+
+### 8FB595DEA8 | Parallel paths: A narrative review exploring autism and its co-occurring conditions | AUTISM PRESENTATION ASSOCIATED WITH KNOWN ENVIRONMENTAL EXPOSURES > GI CCs | page -
+GI problems are frequently reported among autistic children. These conditions contribute significantly to the disease burden associated with autism, though estimates of their prevalence vary substantially due to differences in sampling and measurement, as well as the heterogenous presentation of autism[90,91]. Many causal and therapeutic hypotheses of autism involve the GI system, including the concept that there is a specific GI pathology associated with autism, triggered by altered immune function or increased intestinal permeability[10]. Though some studies suggest that autistic children may be at higher risk for gluten sensitivity, lactase deficiencies, and even intestinal inflammation, a unique GI pathophysiology specific to this population is yet to be identified[92]. Current clinical practice guidelines, designed for evaluation and management of autism by primary care physicians, do not include routine consideration of potential GI or digestive problems[93,94]. Common problems, like gastroesophageal reflux or constipation, can present atypically, manifesting as stereotypical behaviors or aggression. Consequently, GI problems that may be easily recognized in a neurotypical child may go undiagnosed in autistic children. Many autistic children may be nonverbal or minimally verbal, making it difficult for them to clearly communicate information about pain or discomfort. Indeed, even autistic individuals who have acquired verbal communication skills may struggle with describing subjective experiences or symptoms. It is posited that autistic patients perceive and process pain differently from their neurotypical counterparts, due to alterations in pain perception, transmission, modulation, and expression. The interaction between molecular and neurophysiological pathways of pain processing in this population can result in unique cognitive and behavioral strategies for coping with discomfort[95]. Consequently, the challenge of identifying and studying GI dysfunction in autism warrants adoption of a lower referral threshold to a gastroenterologist if a GI disturbance is suspected[92].
+
+### 496EE16D8F | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors |  | page -
+High rates of attention deficit/hyperactivity disorder (ADHD) and anxiety symptoms have been documented in autism spectrum disorder (ASD), and have been associated with social and adaptive impairments. The study examined the frequency of clinically elevated ADHD and anxiety symptoms in an ASD group in comparison to a non-clinical group, compared the clinical presentation in the ASD group with and without ADHD and anxiety, assessed which child and familial variables add to the severity of Inattention, Hyperactivity/Impulsivity (HI), and anxiety symptoms, and evaluated whether having clinically elevated ADHD and/or anxiety symptoms adds to the prediction of adaptive functioning in ASD. The study included 260 participants diagnosed with ASD (mean age: 7.5 ± 1.1), using standardized tests. The rate of clinically elevated ADHD and anxiety symptoms in ASD was 62.7 and 44.6%, respectively, and symptom severity was significantly greater than the non-clinical sample. The entire population was divided into four subgroups: ASD alone, ASD+ADHD, ASD+anxiety, ASD+ADHD+anxiety, based on the parental behavioral questionnaire. The ASD alone group showed less severe autism symptoms in comparison to the other groups. Having ASD+ADHD symptoms was associated with greater impairments in socialization adaptive skills. Only the group with ASD+ADHD+anxiety was associated with poorer daily living adaptive skills. Regression analyses for prediction of ADHD and anxiety symptoms revealed that being a female and having lower adaptive skills scores predicted higher Inattention severity; being older, having better cognition, and more severe Restrictive Repetitive Behavior symptoms predicted more severe HI symptoms; being older and having more severe social impairments predicted higher anxiety scores. A regression analysis for the prediction of adaptive skills revealed that in addition to cognition and autism severity, the severity of Inattention symptoms added to the prediction of overall adaptive skills. In light of these findings, clinicians should diagnose these comorbidities in ASD early on, and provide effective interventions to reduce their negative impact on functioning, thereby improving outcome.
+
+### 8221475CB2 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 6: Teaching new skills in small steps and levels of help | page 163-166
+We focus on self-care skills for everyday life but you can also use these strategies to teach other skills, such as play skills and skills for other home routines.
+
+LEVEL 1: Show and say Show your child what to do and say the step in words your child can understand. If your child does not try it, say the step one more time to remind the child. LEVEL 2: *ive a little physical help to start or finish the action. In this example, the caregiver takes the child’s hand and gently helps him to start to pull the zipper from the bottom. Then the child finishes the step. LEVEL 3: Give a lot of physical help by gently taking the child’s hand and doing the whole action from start to finish. Giving more help The highest level of help Levels of help Let your child learn! Give the lowest level of help needed for your child to be successful Tip 2 Try to give the lowest level of help whenever possible: − If your child is successful, continue to use the lower level of help. − If your child is not successful, keep the higher level of support for a little longer. Show and say (lowest level of help) Show and say Wait for the child to try. Say again if the child does not try Praise the child for trying Give a little physical help - to get the action started Get the action started Let the child finish Praise the child for trying Give a lot of physical help - to help the child to do the whole action Help the child to do the whole action Praise the child for trying You can also use these levels of help when you are teaching your child new ways to play  Use language that your child can understand.  Give similar instructions each time.  Stay positive and praise your child every time she/he tries the step.
+
+Give clear and consistent instructions and praise your child for trying Tip 3 To teach your child a big task or routine, you will focus on different small steps over time.
+
+ Each time you practise, ask yourself:  Is the step we are working on too hard? Is there a different step that would be better to teach first?  Is the step we are working on too easy? Can my child already do this step with little or no help? If yes, then I can teach the next small step in the big task. $sk yourself can I teach a different step? Tip 4
+
+Our goal was for the child to learn the first step. 1ow the child can do the first step, we need a new goal. The child needs help to get her head in the shirt so mother will give a reminder and say the step again.
+
+Our new goal is for the child to put the shirt over her head.
+
+### 49235819AB | Milestones by 6 Months | Tips and activities > More Parenting Tips and Activities | page -
+* Sing to your baby and play music. This will help his brain develop.
+
+* Limit screen time (TV, tablets, phones, etc.) to video calling with loved ones. Screen time is not recommended for children younger than 2 years of age. Babies learn by talking, playing, and interacting with others.
+
+* When your baby looks at something, point to it and talk about it.
+
+* Put your baby on her tummy or back and put toys just out of reach. Encourage her to roll over to reach the toys.
+
+* Learn to read your baby's moods. If he's happy, keep doing what you are doing. If he's upset, take a break and comfort your baby.
+
+* Talk with your baby's doctor about when to start solid foods and what foods are choking risks. Breast milk or formula is still the most important source of "food" for your baby.
+
+* Learn when your baby is hungry or full. Pointing to foods, opening his mouth to a spoon, or getting excited when seeing food are signs that he is hungry. Others, like pushing food away, closing his mouth, or turning his head away from food tells you that he's had enough.
+
+* Help your baby learn she can calm down. Talk softly, hold, rock, or sing to her, or let her suck on her fingers or a pacifier. You may offer a favorite toy or stuffed animal while you hold or rock her.
+
+* Hold your baby up while she sits. Let her look around and give her toys to look at while she learns to balance herself.
+
+* Hold your baby with both of your hands securely under her arms and let her stand. Look around with your baby and name what you can see while she is standing.
+
+* Introduce your baby to different sounds and voices. For example, whisper, clap, or make funny noises. See if your baby looks or is curious and see which sounds she prefers.
+
+* Playing on the floor or play mat with your baby every day helps him to move, learn, and explore.
+
+* When he drops a toy on the floor, pick it up and give it back. This game helps him learn cause and effect.
+
+May 15, 2026
+
+Sources and Page Info Share
+
+Content Source
+
+National Center on Birth Defects and Developmental Disabilities (NCBDDD)
+
+About This Page
+
+Published: September 4, 2025
+
+Updated: May 16, 2026
+
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+
+Reviewed: May 16, 2026
+
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+Sources
+
+### 7626839581 | Milestones by 2 Months | Tips and activities > What you can do for your 2-month-old | page -
+Image: A baby of two months is lying on the ground and looking up at someone holding a toy
+
+As your baby’s first teacher, you can help his or her development.
+
+As your baby's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your baby's doctor and teachers if you have questions or for more ideas on how to help your baby's development.
+
+* Respond positively to your baby. Act excited, smile, and talk to him when he makes sounds. This teaches him to take turns "talking" back and forth in conversation.
+
+* Talk, read, and sing to your baby to help her develop and understand language.
+
+* Spend time cuddling and holding your baby. This will help him feel safe and cared for. You will not spoil your baby by holding or responding to him.
+
+### 646A7C93F6 | Autism in Viet Nam: A systematic scoping review | Gaps in the literature | page -
+To the best of our knowledge, there exists no published review of autism in Vietnamese cultural contexts, and as such there is currently no broad understanding of the landscape of autism research in Vietnamese cultural contexts. In establishing the topography of research conducted in Vietnamese cultural contexts, comparisons can be made as to how the research being conducted compares to research that the global autism community prioritises (primarily in the Western world; Pellicano et al., 2014; Roche et al., 2021). Such an endeavour would allow for future research to better serve the Vietnamese autism community. In addition to establishing the landscape of autism research in Vietnamese cultural contexts, it is important to evaluate the quality of research, particularly as the broader, global field of autism research has often found issues with research quality (Bottema-Beutel et al., 2023; Roche et al., 2021; Russell et al., 2019; Warren et al., 2011). Such an investigation could bolster future empirical research. Furthermore, there is growing recognition of the importance of meaningful and active autism community involvement in research (Fletcher-Watson et al., 2019) alongside clear reporting of such information (Tan et al., 2025). Community involvement is thought to allow for research to better meet the needs of the autism community, allow for more authentic research to be conducted and provide a sense of belonging to the autism community within the field of research (Stark et al., 2021). The need to explore autism community involvement in Vietnamese cultural contexts is made more pertinent considering the importance of diversifying the communities represented in autism research (Cameron et al., 2022; Fletcher-Watson et al., 2019; Pellicano et al., 2014).
+
+The current review aims to address the following research questions:
+
+- What is the landscape of autism research in Vietnamese cultural contexts (both within and outside of Viet Nam)?
+
+- What is the quality of autism research within Vietnamese cultural contexts?
+
+- What is the extent of autism community involvement in autism research in Vietnamese cultural contexts?
+
+### 48E9B453A2 | Clinical Testing and Diagnosis for Autism Spectrum Disorder | Diagnostic Criteria for ASD > E. These disturbances are not better explained by intellectual disability (intellectual developmental disorder) or global developmental delay. Intellectual disability and autism spectrum disorder frequently co-occur; to make comorbid diagnoses of autism spectrum disorder and intellectual disability, social communication should be below that expected for general developmental level. > Note: | page -
+* Individuals with a well-established DSM-IV diagnosis of autistic disorder, Asperger's disorder, or pervasive developmental disorder not otherwise specified should be given the diagnosis of autism spectrum disorder. Individuals who have marked deficits in social communication, but whose symptoms do not otherwise meet criteria for autism spectrum disorder, should be evaluated for social (pragmatic) communication disorder.
+
+Specify if:
+
+* With or without accompanying intellectual impairment
+
+* With or without accompanying language impairment
+
+* Associated with a known medical or genetic condition or environmental factor
+
+* Coding note: Use additional code to identify the associated medical or genetic condition.
+
+* Associated with another neurodevelopmental, mental, or behavioral disorder
+
+* Coding note: Use additional code[s] to identify the associated neurodevelopmental, mental, or behavioral disorder[s].
+
+* With catatonia (refer to the criteria for catatonia associated with another mental disorder
+
+* Coding note: Use additional code 293.89 catatonia associated with autism spectrum disorder to indicate the presence of the comorbid catatonia.
+
+May 8, 2025
+
+Sources Share
+
+Content Source:
+
+National Center on Birth Defects and Developmental Disabilities
+
+Sources
+
+* Tadevosyan-Leyfer O, Dowd M, Mankoski R, et al. A principal components analysis of the Autism Diagnostic Interview-Revised. J Am Acad Child Adolesc Psychiatry. 2003;42(7):864-872.
+
+* Lord C, Rutter M, Le Couteur A. Autism Diagnostic Interview-Revised: a revised version of a diagnostic interview for caregivers of individuals with possible pervasive developmental disorders. J Autism Dev Disord. 1994;24(5):659-685.
+
+* Lord C, Risi S, Lambrecht L, et al. The autism diagnostic observation schedule-generic: a standard measure of social and communication deficits associated with the spectrum of autism. J Autism Dev Disord. 2000;30(3):205-223.
+
+* Van Bourgondien ME, Marcus LM, Schopler E. Comparison of DSM-III-R and childhood autism rating scale diagnoses of autism. J Autism Dev Disord. 1992;22(4):493-506.
+
+* Gilliam JE. Gilliam Autism Rating Scale – Second Edition (GARS-2). Austin, TX: Pro-Ed, 1995.
+
+* American Psychiatric Association. Diagnostic and statistical manual of mental disorders. 5th ed. Arlington, VA: American Psychiatric Association; 2013.
+
+### 1CA84802CC | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Discussion | page -
+Elopement places children with developmental disabilities at risk of serious injury or even death. Despite its clear relevance to the safety and well-being of this population, there has been a paucity of research on this subject to date. This represents the first study to report the prevalence and correlates of wandering in a nationally representative sample of school-age children in the United States with developmental conditions.
+
+In the present study, the prevalence and correlates of elopement were examined for three carefully-chosen, mutually-exclusive condition groups: ASD-only, without ID or DD; ASD with ID and/or DD; ID and/or DD without ASD. In an unpublished, preliminary analysis of the Pathways data, Rice et. al., of the CDC, took a different approach by comparing elopement rates across four groups: ASD with or without DD; ASD with ID; ID without ASD; DD without ID or ASD [9]. The key difference between these approaches is in the grouping of children with ASD and DD. Whereas Rice et. al.’s approach combined the ASD-only and ASD+DD children into a single group and compared them to the ASD+ID children, our approach grouped together the ASD+DD and ASD+ID children and compared them to those with ASD-only. This distinction is important, given that all diagnostic classifications in the Pathways survey were based on parent report, and that no attempt was made to independently assess cognitive functioning. Since the Pathways survey specifically defined DD as “a developmental delay that affects [the child’s] ability to learn,” it is probable that some of the children that were classified as having ASD+DD (without ID) actually had ID or significant cognitive impairment. Previous studies that utilized sources other than parent report to assess the prevalence of cognitive impairment among children with ASDs have concluded that up to 70% of individuals on the autism spectrum may be affected by ID [10, 11]. A landmark epidemiological study that directly assessed the majority of children identified with ASDs in a U.S. township found that 49% had ID [12]. The prevalence of ID was higher, at 64%, in a population-based study of 987 children with ASD in a major U.S. metropolitan area [13]. A series of other multi-site, population-based studies that utilized medical and educational records found that 31–45% of children with ASDs had an IQ of 70 or less, with an additional 23–24% meeting the criteria for “borderline” ID [14–17]. These estimates are substantially higher than the parent-reported prevalence of ID among children with ASD (303/1420; 21%) in the Pathways sample. By contrast, 65% (924/1420) of the ASD cohort had cognitive impairment when defined as parent report of ID and/or DD.
+
+### A5EC49DC14 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 118-121
+Wait to give your child room to communicate Tip 3 Stay quiet and wait for your child to communicate (just a few seconds). While you are waiting, look and listen for:  sounds;  words;  gestures;  eye gaze (when your child is looking at something).  Avoid asking questions – e.g. Do not say “What happened?” or “Did the tower crash?”  Avoid testing your child with questions – e.g. Do not say “What colour is this block?”  Avoid telling your child what to say – e.g. Do not say “Say ‘crash!’ Say ‘crash!’ Talk about what your child is looking at and doing Tip 4  This shows your child that you have noticed what she/he is paying attention to.
+
+ Notice where your child’s eyes are looking and what your child is doing.  Talk about (say) what your child is doing or looking at.  Remember always to use a gesture by pointing to what you are talking about, showing your child the object or giving the object to your child.  Gestures help your child understand your communication better.
+
+ Choose two play or home activities that you will do with your child or involve your child in (e.g. play, hand-washing, snack etc.). These could be the same activities you did before, or something different. Choose things you do almost every day.
+
+ When you do the activity, plan to spend 5 minutes focusing on your child’s communication and trying to engage your child.  Remember to practise the tips from this session: Home practice activity
+
+1. Respond with words and gestures to all your child’s communication, even when it is unclear.
+
+2. Use words and gestures that match your child’s language level.
+
+3. Wait to give your child room to communicate.
+
+4. Talk about what your child is looking at and doing.
+
+Key messages  Children communicate using words, behaviour without words, and challenging behaviour.
+
+ Look and listen to notice when your child is communicating.  When you notice your child communicating, find out what message your child is trying to send you.
+
+Tips Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Instructions: Choose the best answer for each question from the options below by putting a mark beside the option you choose. Afterward, check your answers and circle the correct option.
+
+### 87634D80BE | Food Selectivity in Children with Autism: Guidelines for Assessment and Clinical Interventions | 2. Diagnosis and Prognosis of Food Selectivity in Autism > 2.2. Hypotheses of the Multidimensional Phenomenon | page -
+Parent-reported food allergies were nearly 2.5 times more common in children with ASD (prevalence of 13.1%) than in children without ASD (5.4%). These results indicate that food allergies commonly co-occur with ASD, which may have etiological implications.
+
+Moreover, food selectivity could be due to problems in sensory processing (abnormal multimodal sensory responses). Concerning this main approach, food selectivity can be considered a manifestation of the altered sensory response and behavioral rigidity; yet food selectivity manifests itself through preferences regarding consistency (67%), appearance (58%), taste (45%), smell (36%), temperature (22%), [2]. Likewise, sensory processing anomalies, common in individuals with ASD, could be part of the possible mechanisms underlying food selectivity [15]. Essentially, children with ASD and food selectivity are hypersensitive to the consistency (soft, gelatinous, crunchy, hard); the taste; the smells (also of the people around them); the visual aspects (shape, color, and presentation); the temperature of the food (touching); and also to sensory stimuli that surround the environment in which the meal is consumed [39]. To date, sensorial anomalies are connected to autism diagnosis since such behaviors regard multiple sensorial stimuli and sense organs. The majority of autistic children could show hyper/hypo stimulation to tactile, gustative, olfactive, proprioceptive, and visual stimuli [40]. As a result, such sensorial dysregulation influences undoubtedly the mealtimes of children. As aforementioned, some characteristics of food (taste, smell, texture, temperature, colors) are shown by children in single or multiple combinations as well as in sameness, and some rigid behaviors can be displayed through the following stimuli as food presentation, cutlery, brand, and packaging [2,9,18,34,41,42,43,44]. Another study [45] compared oral sensory processing among children with (n = 53) and without ASD (n = 58), aged 3–11 years, examining the relationships between atypical oral sensory processing, food selectivity, and fruit/vegetable consumption in children with ASD. The results showed that more children with ASD had atypical sensory processing than children without ASD, highlighting how among children with ASD, those with atypical oral sensory sensitivity rejected more foods and ate fewer vegetables than those with typical oral sensory sensitivity. Recently, an experimental study was tempted to underline a connection between visual perception and food neophobia [46]. The present study examined whether children with ASD and TDC differed in their visual perception of food stimuli at both the sensorimotor and affective levels; a potential link between visual perception and food neo-phobia was also investigated. Subsequently, 11 children with ASD and 11 with TDC were tested.
+
+### D8CBB057D6 | Variations in Anxiety and Related Psychiatric Comorbidity Levels Among Youths With Individual Diagnoses of Autism Spectrum Disorder or Attention Deficit Hyperactivity Disorder and Those With Both Diagnoses | Data compiled and results gathered | page -
+In individuals with ASD, a high frequency of anxiety is detected due to the stress and anxiety associated with social interactions [4]. Identifying early-life markers of ASD and ADHD as individually evolving conditions has been well looked into with hopes of establishing a deeper understanding of disease and early markers.
+
+Salley et al. reported that people with ASD demonstrated the highest communication and social interaction deficit while those with ASD + ADHD had the second highest deficiency [12]. Those who were diagnosed with ASD had a greater communication impairment than those with ADHD [12]. These findings may correlate with signs of anxiety such as social phobia. Overlapping symptoms between ASD and anxiety may be suggestive of the increased level of social interaction deficits in ASD and ASD + ADHD groups, as compared to individuals diagnosed with ADHD [11]. In ASD individuals, communication deficits were proven to be an overlapping symptom that has links to social anxiety disorders. All of these could lead individuals who have ASD to have increased separation anxiety, especially children who lack social interaction and communication skills. These findings suggest that individuals with ASD are more likely to have social phobia and anxiety symptoms.
+
+A study conducted by Jensen et al., found that female children with ADHD had a higher prevalence of anxiety disorder than their male counterparts [9]. The study also identified a lower rate of ADHD children having a co-occurring anxiety disorder, which the authors attributed to clinicians identifying the symptoms as a reaction to the stressful situations encountered by these individuals [9]. They also found that the development of anxiety was more likely to be identified in the adolescent stage of development. This could potentially be attributed to the increased social interaction that comes with progressing age, which could induce more stressful situations. The results of this study support the idea that children with ADHD, ASD, and co-occurring ADHD and ASD face higher levels of anxiety and comorbid psychiatric conditions.
+
+Pan et al. evaluated the relationship between motor skills in those with ASD and ADHD among children in Taiwan [6]. Motor skills performance in children with ASD and ADHD was noted to be worse than their TD peers in the categories of gross motor development, locomotor, and object control skills [6]. These findings illustrate the motor deficits children with ASD and ADHD face, which could induce limitations in socialization and interaction with other children and lead to higher levels of anxiety. Further, studies into the effects of impaired motor skills in children with ASD and ADHD are needed to understand the implications motor disorders have on children's anxiety.
+
+### 6599F85CC5 | Autism in Viet Nam: A systematic scoping review | Results > Participatory methods | page -
+The third research question examined the extent of autism community involvement in research. In this review, the autism community is defined as autistic individuals, their families and caregivers, and professionals who are directly interacting with the autistic individual (e.g. education or medical professionals). The vast majority of studies did not state any autism community involvement (93%, n = 128). A limited number of studies included explicit autism community involvement (3%, n = 4) or had unclear autism community involvement (4%, n = 5). Within the studies that included autism community involvement, involvement was made explicit through identification of autistic (and non-autistic) researchers (Smith, Rabba, Datta, et al., 2023a), study co-design with the Hanoi Club of Parents of Children with ASD (conducted in Viet Nam; Ha & Whittaker, 2023), through advisory groups of Vietnamese parents of autistic children (conducted in Australia; Smith, Rabba, Dang, et al., 2023a; Smith, Rabba, Datta, et al., 2023b), and through autistic individuals and their family members shaping a PhotoVoice exhibition through which to disseminate the results of the research (conducted in Viet Nam; Ha, 2018). Instances whereby community involvement was unclear had ambiguity in the framing of the wording of the involvement of different members of the autism community, often with no explicit description of their role in the research process but an implication that autism community members were involved. Examples of ambiguity include the autism community involved through the terms ‘support’, ‘collaboration’ and ‘facilitation’, with exact procedures not outlined (Dieu, 2022; Ha et al., 2014; G. T.-H. Le et al., 2024; Poon et al., 2022). In a singular case, the research projects that were reported on in separate articles stated autism community involvement, but the specific involvement in each aspect of the reported studies was unclear (see Ha & Whittaker, 2016).
+
+### 1F6DF4DBE7 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 6: Teaching new skills in small steps and levels of help | page 156-160
+&ircle the small step you will teach first. Today we will focus on breaking this routine into small steps.
+
+We will pick one step to begin to teach the child My name is Mimi and I am the caregiver for my grandson, Abel, who was diagnosed with a developmental disability when he was three years old. Abel is different. He does not say much, and he can spend hours sitting by himself. He likes to hum to himself, look up at the lights and move his fingers in front of his eyes. Other people think this behaviour is strange, but I think it is fine because it seems to calm him down. He will not usually look at you – but I have taught him a few songs that we like to sing together, and he seems to like it when I tell him stories before bed. Mimi’s story: Teaching a routine in small steps I wanted Abel to learn how to do more things on his own like wash his hands. At first, we were having a difficult time getting him to do anything at all. I was just doing everything for him.
+
+Then I learned how to break each activity down into very small steps to help him understand what he needed to do. I taught him just one small step at a time and provided him with lots of help at first. I started by teaching him to dry his hands because it is an easy step and he likes the feeling of the towel on his hands. I still need to help with steps that are difficult.
+
+I give him lots of encouragement just by saying what he is doing, like “Abel, we are washing hands!” I think learning to do these small steps on his own makes us both feel proud of him.
+
+With a lot of practice and encouragement, Abel is now able to do many of the steps to wash his hand by himself! I still need to help Abel to turn on the tap and put the soap in his hands. But now after a lot of practice, Abel can rub the soap in his hands, put it back in the tray, scrub his hands under the water until the soap is gone, and dry his hands on a towel. I still need to help to turn off the tap, but Abel is doing most of the work himself. With some help, he is learning to dress himself too.
+
+ You can help your child to learn new skills for everyday life by helping them and practising with them every day.
+
+ The skills for everyday life that we will talk about in this session are getting dressed and undressed and washing hands.
+
+### 7D261C6135 | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 3. Results > 3.5. GIS and Language/Communication | page -
+Two studies have investigated GIS and their association with language and communication ability. Neumeyer et al. [47] conducted a large study with children registered with the 15 Autism Speaks, autism treatment network registry sites. They used clinician-reported diagnoses and examined whether co-occurring medical conditions commonly coexist in the same children, in two ages groups of children under (n = 2114) and over six years old (n = 1221). This study found that constipation was associated with speech problems in both age groups: (younger children, 8.09%; O/E = 1.20; p < 0.001; older children, 6.39%; O/E = 1.21; p < 0.001). In addition, speech problems were also associated with feeding problems: (younger children, 9.74%; O/E = 1.23; p < 0.001; older children, 4.42%; O/E = 1.27). These findings are in contrast to those of Prosperi et al. [48] who found no difference in the verbal ability of children with and without GIS. Prosperi et al. [49] used parental reports to examine associations between verbal and nonverbal children with ASD with GIS (n = 30) in comparison to those without GIS (n = 55). They found that associated behaviors included frequent clearing of throat, swallowing and/tics, signing and/or whining; moaning and/or groaning, and aggressive behaviors. Children differed in the modality that they used to express discomfort according to their verbal ability. Those without verbal skills used screaming, sighing, and/or whining and moaning and/or groaning more to express their discomfort. They concluded that associated behaviors may be useful to identify GIS in nonverbal children and that they may help develop objective measures to identify GIS in those who are nonverbal.
+
+### D62A01E8C6 | Autism Spectrum Disorder: Communication Problems in Children | How are the speech and language problems of ASD treated? | page -
+If a doctor suspects a child has ASD or another developmental disability, he or she usually will refer the child to a variety of specialists, including a speech-language pathologist. This is a health professional trained to treat individuals with voice, speech, and language disorders. The speech-language pathologist will perform a comprehensive evaluation of the child’s ability to communicate, and will design an appropriate treatment program. In addition, the speech-language pathologist might make a referral for a hearing test to make sure the child’s hearing is normal.
+
+Teaching children with ASD to improve their communication skills is essential for helping them reach their full potential. There are many different approaches, but the best treatment program begins early, during the preschool years, and is tailored to the child’s age and interests. It should address both the child’s behavior and communication skills and offer regular reinforcement of positive actions. Most children with ASD respond well to highly structured, specialized programs. Parents or primary caregivers, as well as other family members, should be involved in the treatment program so that it becomes part of the child’s daily life.
+
+For some younger children with ASD, improving speech and language skills is a realistic goal of treatment. Parents and caregivers can increase a child’s chance of reaching this goal by paying attention to his or her language development early on. Just as toddlers learn to crawl before they walk, children first develop pre-language skills before they begin to use words. These skills include using eye contact, gestures, body movements, imitation, and babbling and other vocalizations to help them communicate. Children who lack these skills may be evaluated and treated by a speech-language pathologist to prevent further developmental delays.
+
+For slightly older children with ASD, communication training teaches basic speech and language skills, such as single words and phrases. Advanced training emphasizes the way language can serve a purpose, such as learning to hold a conversation with another person, which includes staying on topic and taking turns speaking.
+
+Some children with ASD may never develop oral speech and language skills. For these children, the goal may be learning to communicate using gestures, such as sign language. For others, the goal may be to communicate by means of a symbol system in which pictures are used to convey thoughts. Symbol systems can range from picture boards or cards to sophisticated electronic devices that generate speech through the use of buttons to represent common items or actions.
+
+### DAC9C8D091 | Milestones by 9 Months | Tips and activities > What You Can Do for Your 9-month-old | page -
+Image: older brother holding toy to show baby sister
+
+As your baby’s first teacher, you can help his or her development. Older siblings can help.
+
+As your baby's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your baby's doctor and teachers if you have questions or for more ideas on how to help your baby's development.
+
+* Repeat your baby's sounds and say simple words using those sounds. For example, if your baby says "bababa," repeat "bababa," then say "book."
+
+* Place toys on the ground or on a play mat a little out of reach and encourage your baby to crawl, scoot, or roll to get them. Celebrate when she reaches them.
+
+* Teach your baby to wave "bye-bye" or shake his head "no." For example, wave and say "bye-bye" when you are leaving. You can also teach simple baby sign language to help your baby tell you what he wants before he can use words.
+
+### 991F916013 | Milestones by 6 Months | Tips and activities > What You Can Do for Your 6-month-old | page -
+Image: dad reading a book to his daughter in his lap
+
+As your baby’s first teacher, you can help his or her development.
+
+As your baby's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your baby's doctor and teachers if you have questions or for more ideas on how to help your baby's development.
+
+* Use "back and forth" play with your baby. When your baby smiles, you smile; when he makes sounds, you copy them. This helps him learn to be social.
+
+* "Read" to your baby every day by looking at colorful pictures in magazines or books and talk about them. Respond to her when she babbles and "reads" too. For example, if she makes sounds, say "Yes, that's the doggy!"
+
+* Point out new things to your baby and name them. For example, when on a walk, point out cars, trees, and animals.
+
+### F3ED994AB8 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 3. Results > 3.6. Speech-, Music-, and Imitation-Based Interventions | page -
+Speech-, music-, and imitation-based interventions represent innovative approaches to promote verbal production in MV or nonverbal autistic children by leveraging rhythm, melody, and motor imitation.
+
+Auditory-Motor Mapping Training (AMMT), described by Chenausky et al. [46], combines intoned bi-syllabic speech with bilateral rhythmic drumming on tuned instruments, based on the premise that simultaneous auditory–motor activation strengthens speech-related cortical networks. Results showed significant improvements in phonemic accuracy and generalization to untrained items.
+
+Similarly, Sandiford et al. [57] evaluated the Melodic-Based Communication Therapy (MBCT), which pairs target words with specific melodies and rhythmic clapping. In this randomized pilot study, MBCT elicited more imitative verbal attempts and greater parent-reported novel word use at home compared to standard speech-language therapy.
+
+In a RCT, Yoder and Layton [58] compared four input modalities (speech only, sign only, simultaneous speech + sign, alternating speech + sign) in 60 MV autistic children. Modalities including spoken input produced greater spontaneous spoken word use than sign alone, particularly in children with stronger baseline verbal imitation.
+
+Overall, these findings suggest that melodic, rhythmic, and imitation-based interventions can enhance speech development in MV children, with pre-treatment imitation ability emerging as a key moderator of outcomes.
+
+### 7FFEF0E20F | Attention-Deficit/Hyperactivity Disorder: What You Need to Know | How can I help my child? | page -
+- Be patient, flexible, and understanding. ADHD can be frustrating both for people who have it and the people in their lives. ADHD may make it hard for your child to perform certain tasks or behaviors. Some children may need to use different strategies to help them succeed. - Use clear, simple, direct language to explain rules and expectations. Reward behaviors that meet these expectations with positive reinforcement. Provide consistent praise or rewards for acting in a desired way. - Offer practical help, such as on tasks like cleaning and organizing, or simply be present and engaged while your child works, which can give them a sense of accountability and motivation and help them stay focused and on track. - Provide opportunities to explore different activities and interests. Help your child discover their unique talents and build confidence in their abilities.
+
+If you or someone you know is struggling or having thoughts of suicide, call or text the 988 Suicide and Crisis Lifeline at **988** or chat at 988lifeline.org. In life-threatening situations, call **911**.
+
+### A11E133989 | Prevalence of autism spectrum disorders and their relation to selected socio-demographic factors among children aged 18–30 months in northern Vietnam, 2017 | Keywords > Introduction | page -
+Autism spectrum disorders (ASD) refer to a range of conditions characterized by some degree of impaired social behavior, communication and language, and a narrow range of interests and activities that are both unique to the individual and carried out repetitively [1]. ASD often impose significant emotional and economic burden on people with these disorders and their families [1, 2]. The impairments associated with ASD are present during the life-course [3] and are considered to have a substantial functional, social and financial impacts on affected individuals, their families and society.
+
+Autism spectrum disorders prevalence appears to be increasing worldwide, with reported prevalence of about 0.5–1% [4]. In European countries, the prevalence of ASD, with an age range of birth to adulthood, varied from 0.019 to 7.2% [5]. The prevalence of ASD in the US in 2012 was 1.13% [6]. A recent systematic review reported the increasing trend in prevalence of ASD in South Asia, ranging from 0.09% in India to 1.07% in Sri Lanka [7]. ASD prevalence estimates were 0.118% in China in the last few years [8] and 2.64% in South Korea in 2011 [9].
+
+In Vietnam, hospital statistics show that the number of cases of ASD admitted to the National Pediatrics Hospital increased more than threefold during the period 2000–2007 [10, 11] and fourfold during the period 2008–2010 [12]. A small-scale population-based study done by Giang et al. in 2012 in Thai Binh (a northern province of Vietnam) found the prevalence of ASD among children aged 18–24 months was 0.46% [13]. Another study conducted in Thai Nguyen in 2013 found that the prevalence of ASD among children aged 18–60 months was 0.52% [14]. In 2014, a screening program by Yen et al. [15] implemented among 94,186 children aged 18–60 months in three provinces/cities in the North of Vietnam found an ASD prevalence of 0.415%.
+
+To provide information about epidemiologic aspects of ASD in Vietnam, this study investigated the prevalence of autism spectrum disorders and examined their relation to selected socio-demographic factors among children aged 18–30 months in three northern cities/provinces in Vietnam in 2017.
+
+### 792F17DDF9 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 273-274
+Tips
+
+1. Respond with words and gestures to all your child’s communication, even when it is unclear.
+
+2. Use words and gestures that match your child’s language level.
+
+3. Wait to give your child room to communicate.
+
+4. Talk about what your child is looking at and doing.
+
+Key messages  Children communicate using words, behaviour without words, and challenging behaviour.  Look and listen to notice when your child is communicating.  When you notice your child communicating, find out what message your child is trying to send you.
+
+Tips
+
+1. Break the skill into small steps and teach your child one small step at a time.
+
+2. Let your child learn! Give the lowest level of help needed for your child to be successful.
+
+3. Give clear and consistent instructions and praise your child for trying.
+
+4. Ask yourself:
+
+can I teach a different step?
+
+Key messages  Your child can learn new skills for everyday life by practising with your help.
+
+### 8E2671F01B | Autism in Viet Nam: A systematic scoping review | The Vietnamese context | page -
+Receiving a diagnosis of autism has been found to often be distressing for the autistic individual as well as their family, due to the stigmatisation of autism in Viet Nam and the resulting social and economic consequences of receiving an autism diagnosis (Boyle & Bailey, 2022; Ha et al., 2014; A. P. Nguyen & Nguyen, 2023; Phan et al., 2020; Yến-Khanh, 2022). Stigmatisation occurs at a linguistic and cultural level, such as the direct Vietnamese translation of autism (‘bệnh tự kỷ’) as ‘autism sickness’, perhaps reflecting that autism is diagnostically recognised by the World Health Organization within the International Classification of Diseases, as well as through the understanding that autism is caused by ancestral sins, karmic demerit and other Vietnamese folk lore narratives (D’Antonio & Shin, 2009; Ha et al., 2014). Generally, global understandings of autism recognise the aetiology of autism to be complex, with interactive genetic and environmental factors likely contributing to markers of autism (Wang et al., 2025). In certain cultural contexts, aetiological understandings of autism not only include complex genetic and environmental interactions but also include conceptualisations of autism as being caused by social and spiritual factors, such as karma and punishment from God in Indian contexts (Vats et al., 2024) and witchcraft in Kenyan contexts (Cloete & Obaigwa, 2019). Given the uniqueness of Vietnamese culture and history and the consequential nuances of the experiences of the Vietnamese autism community, it is thus important to understand the landscape of research that pertains to the autism community in this specific context. The Vietnamese autism community is understood in this review as autistic individuals, their families and caregivers, and professionals who directly interact with the autistic individual (e.g. education or medical professionals).
+
+### 08D26CF35F | Parallel paths: A narrative review exploring autism and its co-occurring conditions | AUTISM PRESENTATION ASSOCIATED WITH KNOWN ENVIRONMENTAL EXPOSURES > Neurological conditions | page -
+Developmental regression could mark the onset of an epileptic encephalopathy. Sleep disorders, which are highly prevalent in autistic children, may be further exacerbated by the presence of epileptic seizures.
+
+While the bidirectional and temporal relationship between childhood epilepsy and autism remains unclear, autism is commonly observed in infants with epileptic encephalopathy (such as infantile spasms); epilepsy could lead to autism and, reversely, abnormal brain circuitry underlying autism could predispose the brain to seizures. Early intervention targeting social and cognitive challenges in this population may positively influence developmental outcomes. However, diagnosing autism early in patients with epilepsy is challenging due to the variability in clinical phenotypes[17].
+
+Although there is no specific epilepsy syndrome associated with autism, common biological and molecular pathways between both have been suggested. Common neurobiological factors may contribute to atypical brain development, leading to both conditions. Some of the mechanisms that are thought to be present in both conditions are: Abnormalities in synaptic growth, imbalance in neuronal excitation-inhibition and abnormal synaptic plasticity. With our increasing knowledge of genetic etiologies, it has been described that several genes are implicated in both autism and epilepsy, mainly related to abnormalities in ion channels (SCN1A, SCN2A, GRIN2D, CACNA1), synaptic function and structure (PCDH19, CDKL5), transcription regulators (SYNGAP1, MECP2) with special focus on mTOR pathway in mTOR-pathies (TSC1, TSC2, GATOR). One of the genetic pathways that is most classically described is between infantile spasms and autism in the context of tuberous sclerosis complex[17]. Knowledge about the common underpinning mechanisms is crucial in discovering future drug therapies and in delivering precision medicine.
+
+Hirosawa et al[45] reported higher rates of interictal epileptiform discharges (IED) in autistic children compared to their neurotypical peers. These findings may not suggest that IED is pathogenic in these children, but might reflect epiphenomenal or compensatory processes[46].
+
+Little is known about the impact of epilepsy on social and cognitive function in autistic children, making our understanding of how epilepsy influences social communication or repetitive behaviors challenging. Here, we may differentiate between patients with early severe epilepsy who develop autism, and on the other hand, autistic children that are developing epilepsy. Autistic children with co-occurring epilepsy often demonstrate more severe core autism symptoms and disruptive behaviors than those without epilepsy[17]. There are different known risk factors that increase the likelihood of epilepsy in this population, such as ID, syndromic autism and female gender.
+
+### FC73EA0EF4 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 103-110
+Date, time, location Home visit 1 Call to check in Session 1 Introduction – Getting children engaged Call to check in Session 2 Keeping children engaged Call to check in Session 3 Helping children to share engagement in play and home routines Text message reminder about next session Session 4 Understanding communication Text message reminder about next session Session 5 Promoting communication Home visit 2 (between sessions 5 and 6) Session 6 Teaching new skills in small steps and levels of help Text message reminder about next session Session 7 Preventing challenging behaviour – helping children to stay engaged and regulated Call to check in Text message reminder about next session Home visit 3 Additional sessions Overview Target routines we tried:
+
+1) 2) Good things that happened:
+
+1)
+
+2)
+
+3)
+
+Things I can try next time: 1)
+
+2)
+
+3)
+
+Home practice review What we will learn today  Today we will learn about communication.  We will start by talking about the ways your child is communicating now.
+
+ Then we will start to learn strategies to help advance your child’s communication skills.
+
+Personal goals My child’s communication goals (next steps) are: 1)
+
+2)
+
+What I can do to help my child reach these goals: 1)
+
+2)
+
+3) It’s difficult for Saanvi to communicate and tell her mother what she wants. Because Saanvi is sitting next to the water jug, Lalitha thinks that Saanvi is thirsty. She thinks Saanvi is trying to tell her that she wants some water by crying. Lalitha is trying to help Saanvi learn the word “water” so that she can ask for water with words instead of crying. She gives Saanvi a cup with some water in it and says “water”.
+
+Lalitha’s story Part 1: Introduction to communication Lalitha sees Saanvi moving toward her and the cup. She sees Saanvi look up at her. She understands this is Saanvi’s way of asking for more water. Every time Lalitha gives her water, she says “water” when she hands Saanvi the cup. Then one day, Saanvi made a sound – “ugh” – when Lalitha was pouring water.
+
+Children communicate using words, behaviour without words, and challenging behaviour Words: clear words, unclear words or something that sounds similar to a word, like “ca” for “cat” Odd words: repetitive sounds, words or phrases, echoed words, repetition of words and phrases heard from videos or books Sounds: crying, yelling, whining, sounds that means “yes” or “no” etc.
+
+### 872412D65F | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Introduction | page -
+Autism spectrum disorder (ASD) is a neurobehavioral disorder defined by social- communication deficits and restricted and repetitive behaviors that are typically detectable in early childhood and continue into adulthood (1). ASD-specific behaviors have been found to negatively impact various aspects of the lives of individuals with this disorder (2). The highly heterogeneous nature of ASD is often reflected in the child's characteristics, including clinical variability in the severity of autism symptoms, cognitive ability, and language skills (3). In addition, substantial individual differences are apparent with regard to the occurrence of co-morbidities such as attention-deficit/hyperactivity disorder (ADHD) and anxiety (4–9).
+
+ADHD is a common neurodevelopmental disorder with a prevalence estimated at 7.2% in the general population (10). ADHD is characterized by a persistent pattern of inattention and/or hyperactivity and impulsivity that is pervasive across settings and leads to various degrees of functional impairment (11, 12). Children and adolescents with ASD have shown high rates of ADHD symptoms (16–85%) (5–7, 9) and overlap between ASD and ADHD symptoms has been described as well (13). However, the recognition that the diagnoses of ADHD and ASD can occur together has been formalized only in the DSM-5 (1). Previous studies have examined the co-morbidity of ADHD in ASD and described more severe autism symptoms (14), higher rates of cognitive impairment (10), more deficits in adaptive skills (2, 15) and lower quality of life (10) in individuals with ASD and ADHD in comparison to ASD alone. These studies were all cross-sectional and groups were not based on having an ADHD diagnosis but rather on ADHD symptom severity. These studies used different ADHD rating scales and behavioral checklists, completed by different informants (parents, teachers or both) (2, 10, 14, 15). Using standardized tests, Sprenger et al. reported a greater severity of autistic symptoms in children with ASD and ADHD symptoms, especially in the social interaction domain, than in those with ASD alone (14). Sikora et al. (2) found greater impairment in adaptive functioning among children with ASD and clinically significant ADHD symptoms in comparison to children with ASD and fewer ADHD symptoms. In contrast, Ashwood et al. (15) found significant associations between reduced adaptive functioning and autism symptoms, but not with ADHD symptoms.
+
+### CCE01FE52F | Milestones by 15 Months | Tips and activities > What You Can Do for Your 15-month-old | page -
+Image: child walking and waving
+
+As your child's first teacher, you can help his or her development.
+
+As your child's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your child's doctor and teachers if you have questions or for more ideas on how to help your child's development.
+
+* Help your child learn to speak. A child's early words are not complete. Repeat and add to what he says. He may say "ba" for ball and you can say "Ball, yes, that's a ball."
+
+* Tell your child the names of objects when he points to them and wait a few seconds to see if he makes any sounds before handing it to him. If he does make a sound, acknowledge him, and repeat the name of the object. "Yes! Cup."
+
+* Find ways to let your child help with everyday activities. Let her get her shoes to go outside, put the snacks in the bag for the park, or put the socks in the basket.
+
+### F2F4633C9B | The Methodological Quality and Intervention Fidelity of Randomised Controlled Trials Evaluating Social Skills Group Programs in Autistic Adolescents: A Systematic Review and Meta-analysis | End matter (original) > Appendix 1 | page -
+Table 4
+Description of programs targeting social competence evaluated via a randomised controlled trial
+| Program | Description | Aim | Principles | Components | Targeted skills | Session format |
+|---|---|---|---|---|---|---|
+| KONTAKT®a | Structured manualised SSGP | Improve social interaction and motivation, communication, awareness of self and others, problem-solving, and self-confidence | CBT, computer-based cognitive training, behavioural activation, psychoeducation, observational learning, and parent involvement | Individualised goals, group rules, group discussions, role play, emotion-processing training, group activities, tailored homework, and unstructured socialisation. Extended version: leading a session (including activities and discussion), activities outside the clinic (real-life practice) | Verbal and nonverbal Conversational skills, learning about autism, group situations, understanding oneself and others, handling misunderstandings, disagreements, sarcasm, rejection, teasing & bullying, humour, new situations, staying in contact | Opening the session, Homework assignment follow-up, group exercise, snack time, Group discussion, homework assignment, closing the session |
+| MASSIb | Structured psychosocial program | Promoting social skills development | CBT, psychoeducation, ABA, Individual & group therapy, parent education, didactic teaching | Individualised plan, emphasis on corrective, positive social learning experiences, modelling new skills, feedback, and explicit teaching about autism and anxiety | Verbal and nonverbal Conversational skills, learning about autism and anxiety, group situations, emotion regulation, handling rejection | NA |
+| PEERS®c | Manualised parent-assisted SSGP | Learning how to make and maintain friends | Psychoeducation, CBT, didactic teaching, parent involvement (PwP: peer mediation) | Homework assignments, concrete behavioural rules, modelling and role-play, practising the newly learned skill, individualised homework | Conversational and friendship skills, handling misunderstandings, disagreements, sarcasm, rejection, teasing, bullying, bad reputations, rumours & gossip, humour, good sportsmanship, get-togethers | Review homework (P/T), parent education (P), social skills lesson (role-play & feedback) (P), Assigning new Homework (P), review the session (P & T) |
+| SDARId | Unstructured performance-based SSGP | Experience in successful engagement in social skills. motivating interactions | Social performance approach, with minimal didactic teaching | Structured and unstructured activities | Verbal and nonverbal conversational skills, understanding oneself and others, Cooperation, self-regulation | Activities, free play break, games |
+
+### 74BB2E5391 | Variations in Anxiety and Related Psychiatric Comorbidity Levels Among Youths With Individual Diagnoses of Autism Spectrum Disorder or Attention Deficit Hyperactivity Disorder and Those With Both Diagnoses | Data compiled and results gathered | page -
+Discussion
+
+We conducted a literature review on the differing levels of anxiety and psychiatric comorbidities in children with ADHD, ASD, and co-occurring diseases. Clinicians have recognized an increased prevalence of anxiety and psychiatric comorbidities such as gender dysphoria and impaired locomotor skills in children with various diagnoses. The levels of anxiety and psychiatric comorbidities appear to be intertwined as cases of gender dysphoria have been observed to cause increased levels of anxiety [14]. Anxiety also potentially stems from limited motor skills in children with ADHD, ASD, or co-occurring ADHD and ASD as they are limited in their interaction capabilities with peers [6]. Although children with ADHD, ASD, and co-occurring ADHD and ASD may not directly have anxiety stemming from their diagnosis, the associated psychiatric comorbidities may lead to increasing their anxiety levels.
+
+In a study conducted by Guttmann-Steintmetz et al., the particular focus was on anxiety symptoms present in boys and in groups with ASD, ADHD, and ADHD + ASD [2]. They also explored symptoms of chronic multiple tic disorder (CMTD). They found that mother’s ratings did not vary between groups of ASD + ADHD and CMTD + ADHD, but the teacher’s ratings showed a higher differentiation in the “irritable” and “acts restless” categories for those with ASD + ADHD in comparison to CMTD + ADHD [2]. Whether they had comorbid ASD or CMTD, individuals with ADHD were found to have higher levels of GAD and separation anxiety disorder (SAD) [2]. CMTD encompasses muscle spasms and involuntary movement, which is a factor that differentiated the severity of SAD symptoms, but differences between SAD and GAD symptoms were not further evaluated [2]. Additional research investigating differences in levels of SAD and GAD as well as specific subcategories can provide further insights.
+
+Identification of ADHD and ASD symptoms can vary based on age and early-life atypicality. Recognizing these symptoms may aid in the prediction of the presence of ADHD, ASD, and anxiety [4]. Shephard et al. noted that activity level and inhibitory control in early life are associated with ADHD, but not seen in ASD individuals or those affected by anxiety [4]. Their findings indicate that some atypicality seen in ADHD is not present in ASD, which suggests that these conditions do not arise from a common source [4]. However, mid-childhood ASD and anxiety were commonly associated with fearfulness and shyness. In individuals with ASD, a high frequency of anxiety is detected due to the stress and anxiety associated with social interactions [4]. Identifying early-life markers of ASD and ADHD as individually evolving conditions has been well looked into with hopes of establishing a deeper understanding of disease and early markers.
+
+### 8BAA1BEC79 | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Intellectual Assessment > Stanford-Binet - 5th Edition (SB-5) | page -
+The Stanford-Binet - 5 th Edition (SB-5; Roid, 2003) is used to assess intellectual abilities in individuals ages 2 to 85. It generates five-factor scores in Fluid Reasoning, Knowledge, Quantitative Reasoning, Visual-Spatial Process, and Working Memory. The SB-5 provides both verbal and nonverbal IQ scores, which are especially useful in testing autistic individuals who are non-speaking or have limited language abilities. It takes 45 to 75 min to complete. Individuals with ASD were included in the standardization sample. The SB-5 has good internal consistency reliability (0.98; DiStefano & Dombrowski, 2006), test–retest reliability (0.86; DiStefano & Dombrowski, 2006), median interrater reliability (0.90; Roid, 2003), and concurrent validity (0.90 with SB-4, and 0.78 with Woodcock-Johnson III; Roid, 2003). The SB-5 also provides an Abbreviated Battery IQ (ABIQ), which is based on two routing subtests: One nonverbal (Object Series/Matrices) and one verbal (Vocabulary). Correlations between the ABIQ and full-scale IQ are strong (Twomey et al., 2018).
+
+### 379389D135 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 122-125
+Check the answers only after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer. Answer to Question 1: A) One word Explanation:
+
+It is best to use words and gestures that match the child’s language level. Saanvi uses sounds to communicate most of the time and some words. For children who are communicating mainly using sounds it is best to communicate using one word and a gesture. However, it is fine if Lalitha sometimes uses more words when taking to Saanvi. Two-word or three-word combinations – These are OK sometimes, but Lalitha should mainly use one word at a time. As many words as possible – Talking at a level that is too far above Saanvi’s level would make it more difficult for her to learn. It is best to match the child’s language level. Answer to Question 2: C) Wait, look and listen to see what book Saanvi is looking at on the shelf, then help Saanvi find the book she wants on the shelf. Explanation:
+
+Children can use behaviour without words to try to send you a message. It is important to ask yourself, “What is my child trying to say?” In this case, Saanvi is looking back at the bookshelf. Because Lalitha picked the book, she did not have the chance to see what Saanvi was interested in and follow her choice. We want Saanvi to be motivated to look at the book with Lalitha. She is more likely to communicate and share engagement when she is interested in the book. In answer C, Lalitha waits, and she uses look and listen to notice what Saanvi is interested in and she responds to help Saanvi make her choice.
+
+Services and resources for families This information describes local services and resources for you, your child and your family. [To be completed based on local context] What can I do if my child is ill? What can I do if I think my child might have been hurt or abused by someone?
+
+What can I do if my family needs things that we do not have? What can I do if there are difficulties at home? What can I do if my family has other challenges? What can I do if I feel I am not coping well?
+
+Notes:
+
+Date of next group session: In the next group session we will build on what we have learned about communication. We will talk about strategies you can use to help our child communicate more. We will also see how you can use everyday activities to create opportunities for communication. Please bring some of the materials you use during your home practice routine to the next session so that you can use them to practise during the session. Next steps
+
+### B802442D52 | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Developmental/Cognitive Assessment > Differential Abilities Scale—Second Edition | page -
+The DAS-II (Elliot, 2007) is designed to assess cognitive abilities in youth aged 2 years, 6 months to 17 years, and 11 months. It comprises two overlapping batteries, the Early Years (2:6–8:11) and the School Age battery (5:0–17:11). It is designed to measure verbal reasoning, nonverbal reasoning, and spatial abilities. This instrument generates a General Conceptual Ability (score and cluster scores. For children older than three and half, a Special Nonverbal Composite score can be generated for nonverbal core subtests. This can be useful in assessing cognitive abilities in non-speaking children with autism (Ozonoff et al., 2005; Sutera et al., 2007). Instructions are available in Spanish (Elliot, 2007, 2012). The DAS-II can be used to identify personal strengths and challenges and takes 45 to 60 mins to complete. Average internal consistency reliability ranges from 0.68 - 0.97, and the test–retest reliability ranges from 0.63 to 0.92. Studies have indicated good convergent validity between the MSEL and the DAS-II (Bishop et al., 2011; Farmer et al., 2016). Although individuals with ASD were not included in the standardization sample, studies have explored its utility in this population (e.g., Kuriakose, 2014).
+
+### BEBFF5E299 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review |  | page -
+Background/Objectives: Minimally verbal autistic children face profound communication challenges that significantly affect daily functioning, including social interaction, behavioral regulation, and overall well-being. Identifying effective interventions is a key clinical-educational priority. This systematic review examines communication-focused interventions for these children, including both spoken language approaches and augmentative and alternative communication (AAC) strategies. Methods: The review was registered in PROSPERO and conducted following PRISMA-S guidelines. Four electronic databases were searched, and 18 studies met the inclusion criteria. Due to heterogeneity in study designs and outcome measures, a narrative synthesis was conducted, with subgroup analyses exploring sample characteristics, intervention types, targeted outcomes, and reported effects. Methodological quality of randomized controlled trials was assessed using the Cochrane Risk of Bias tool. Results: Interventions were implemented across clinical, educational, and home settings, using strategies such as Joint Attention, Symbolic Play, and Emotion Regulation, often combined with AAC technologies. Most included studies reported improvements in at least one communication outcome, although findings were heterogeneous and several studies reported mixed, subgroup-specific, or non-significant effects. The most consistent improvements were observed in spontaneous communication, particularly in interventions integrating developmental approaches with technological support. Conclusions: These findings highlight the value of individualized interventions. Future research should establish standardized definitions of “minimally verbal”, assess long-term outcomes, and adopt broader measures capturing both language and social-emotional development to enhance quality of life and inclusion.
+
+### BAD92E2F27 | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Intellectual Assessment > The Leiter International Performance Scale- 3rd Edition (Leiter-3) | page -
+The Leiter International Performance Scale- 3rd Edition (Roid et al., 2013) is designed to assess nonverbal intellectual ability, memory, and attention in individuals aged 3 to 75 and above with two batteries: cognitive and attention/memory. The Cognitive Battery consists of five nonverbal subtests, four of which generate a Nonverbal IQ. This battery takes approximately 45 minutes to administer. No verbal instructions or responses are required, so this instrument can be used in testing non-speaking individuals with or without ASD. There was a small number of autistic individuals included in the standardization sample. The Leiter has been shown to have good reliability (0.91 - 0.93; Roid et al., 2009), acceptable to good test–retest reliability (0.70 - 0.88; Roid & Miller, 1997), and concurrent validity with other nonverbal measures (0.72; Hooper & Bell, 2006).
+
+### 751093C63E | The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review | Results > Characteristics of participants | page -
+Table 1.
+Characteristics of participants’ intervention programs in the included studies.
+| Included studies | Country | Total n(n female) | Mean age in months | Severity of ASD | Developmental measures |
+|---|---|---|---|---|---|
+| Kaale et al. (2014) | Norway | G1 : 34(8)G2 : 27(5) | 47.650.3 | ADOS used;results not mentioned | Developmental delay(Mullen scale: 25.6) |
+| Kamps et al. (2015) | USA | 95 (15) | 69.6 | Moderate(CARS: 32.7) | No developmental delay(PPVT-4: 87.5; VABScommunication: 86.7) |
+| Kemp et al. (2013) | Australia | 11 (not mentioned) | 46.03 | Not mentioned | Not mentioned |
+| McGee et al. (1997) | USA | 64 (3) | 39–52 | CARS used;results not mentioned | Developmental delay (63% of ASD students are nonverbal) |
+| Pasco et al. (2008) | UK | 91 (10) | 82 (but range = 3.11–10.2) | ADOS used;results not mentioned | Developmental delay(Nonverbal mental quotient Mullen's scale = 31.8) |
+| Rice et al. (2016) | USA | G1:10 (2)G2:10 (0)GR10 (3) | 304254 | CARS used;results not mentioned | Developmental delay(Stanford-Binet Intelligence Scale 4: 29–32; 40–43; 53–55) |
+| Westman Andersson et al. (2013) | Sweden | 40 (9) | 40 | ADOS used;results not mentioned | WPPSI-R and VABS; results mentioned |
+|  |  | Total N = 687 (Female ≃116; 16.89%) |  |  |  |
+
+### 80C6DBA474 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 1. Introduction | page -
+The latest update [13] emphasizes the urgent need to develop stratification and prognostic biomarkers that can identify which autistic children are most likely to benefit from specific interventions, as well as biomarkers and interventions that promote language development during early sensitive developmental periods.
+
+In response, a variety of interventions have been developed to support communication in this population. These include behavioral strategies, developmental approaches, and augmentative and alternative communication (AAC) systems [14], which aim either to foster spoken language or to support multimodal communication. However, the current literature is highly fragmented, with inconsistent definitions, heterogeneous methods, and limited generalizability [4,15]. Several reviews have previously examined interventions for minimally verbal autistic children, although with different scopes and methodological criteria. Brignell et al. [4] focused exclusively on randomized controlled trials of communication-focused interventions in minimally verbal children, resulting in a highly selective evidence base. Koegel et al. [15] focused on interventions aimed at increasing verbal speech production. More recently, Pope et al. [16] specifically investigated the effects of Naturalistic Developmental Behavioral Interventions (NDBIs) with and without AAC, restricting inclusion to interventions meeting specific NDBI criteria and to studies with experimental designs. While these highly selective criteria are valuable for establishing evidence of intervention efficacy under controlled conditions, they often exclude a substantial body of practice-based evidence, observational studies, and innovative pilot interventions that better reflect the heterogeneity of real-world clinical settings.
+
+In light of these methodological and conceptual constraints, there is a critical need for a comprehensive synthesis that maps the full spectrum of available evidence beyond the restrictive methodological inclusion criteria adopted in previous reviews. Such a synthesis can provide clinicians and researchers with a broader understanding of currently available intervention strategies. The current review adopts a broader and more inclusive perspective to bridge this gap. Unlike previous reviews, the present review is not limited to evidence derived from highly controlled intervention studies. Instead, it provides a comprehensive overview of the diversity of communication interventions currently available for minimally verbal autistic children, thereby informing both future research priorities and clinical decision-making. Specifically, this review includes different intervention approaches targeting communication in minimally verbal autistic children and considers a wider range of study designs.
+
+By integrating findings from randomized controlled trials (RCT), observational studies, and pilot projects, this review aims to identify promising intervention strategies that might be overlooked in narrower syntheses, to capture real-world clinical utility, and to highlight areas where further research is needed. Supporting all forms of communication in MV autistic children is not only a clinical necessity but also an ethical imperative, crucial for fostering inclusion, safeguarding dignity, and improving overall quality of life.
+
+### FBCE56D046 | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Introduction | page -
+In light of this, it is possible that the clinical presentation in ASD would not be worsened by having anxiety symptoms. Therefore, is it important to further investigate the contribution of having anxiety symptoms in ASD with comorbid ADHD on various aspects of the clinical presentation.
+
+The study has several aims. First, to evaluate the frequency of ADHD and anxiety symptoms in the participants diagnosed with ASD and to compare them to non-clinical standardized samples. Second, to compare the clinical presentation in the ASD participants with and without ADHD and anxiety, in terms of autism symptom severity, adaptive skills, and cognitive ability. Third, to assess the relationships between the severity of the ADHD and anxiety symptoms and the autism severity and adaptive functioning. The fourth aim is to assess which variables (including age, sex, parental educational attainment, cognition, autism severity, and adaptive skills) add to the severity of Inattention, Hyperactivity/Impulsivity, and anxiety symptoms individually. The fifth aim is to assess whether having ADHD and/or anxiety symptoms adds to the prediction of adaptive skills functioning in the ASD participants, beyond the role of the child's other characteristics.
+
+We have several hypotheses:
+
+- Clinically elevated ADHD and anxiety symptoms frequently occur in children with ASD. Rates of ADHD and anxiety in the ASD group will be significantly higher compared to the non-clinical standardized samples.
+
+- The participants with ASD and clinically elevated ADHD and/or anxiety symptoms, and particularly those with ASD+ADHD+anxiety, will present with more severe autism symptomatology, lower cognition, and lower adaptive skills, in comparison to those without these comorbid symptoms.
+
+- Higher cognition, more severe autism symptoms and lower adaptive skills will be associated with and predict more severe ADHD and anxiety symptoms.
+
+- More severe ADHD and anxiety symptoms in ASD will be associated with and predict lower adaptive functioning
+
+This study is the first to examine a large group diagnosed with ASD and two major comorbidities and assesses their relationship to the clinical presentation.
+
+### 88B84A96DC | Milestones by 4 Months | Tips and activities > What you can do for your 4-month-old | page -
+Image: Baby holding toy with her parents
+
+As your baby’s first teacher, you can help his or her development.
+
+As your baby's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your baby's doctor and teachers if you have questions or for more ideas on how to help your baby's development.
+
+* Respond positively to your baby. Act excited, smile, and talk to him when he makes sounds. This teaches him to take turns "talking" back and forth in conversation.
+
+* Provide safe opportunities for your baby to reach for toys, kick at toys and explore what is around her. For example, put her on a blanket with safe toys.
+
+* Allow your baby to put safe things in his mouth to explore them. This is how babies learn. For example, let him see, hear, and touch things that are not sharp, hot, or small enough to choke on.
+
+### 6ED9F264F2 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | Tables | page -
+| AAC | Augmentative and alternative communication |
+| ASD | Autism Spectrum Disorder |
+| MV | Minimally verbal |
+| NDBI | Naturalistic Developmental Behavioral Intervention |
+| RCT | Randomized controlled trials |
+| NVIQ | Nonverbal Intellectual Quotient |
+| ARHQ | Agency for Healthcare Research and Quality |
+| EMT | Enhanced Milieu Teaching |
+| SGDs | Speech-Generating Devices |
+| JASPER | Joint Attention, Symbolic Play, Engagement and Regulation |
+| FPI | Focused Playtime Intervention |
+| PRT | Pivotal Response Treatment |
+| MCT | Milieu Communication Training |
+| RMIA | Rapid Motor Imitation Antecedent |
+| AMMT | Auditory-Motor Mapping Training |
+| MBCT | Melodic-Based Communication Therapy |
+| PECS | Picture Exchange Communication System |
+
+### D4344EFE2B | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 2. Methods > 2.1. Search Strategy and Data Sources | page -
+This systematic review was registered in PROSPERO database (CRD42025642752) and conducted without substantive deviations from the registered protocol, in accordance with PRISMA-S guidelines [17,18] (see the Supplementary Materials Table S1). A comprehensive search was performed across four databases (Embase, Web of Science, Cochrane Library, and PubMed) on 28 February 2025, with no restrictions on publication date. The search strategy combined the term “autism” with “minimally verbal” or “minimally speaking” (see Supplementary Materials). Reference lists of included studies and relevant reviews were also screened to identify additional articles. The complete search strategies for each database are reported in Supplementary Materials.
+
+### 48AB81F804 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 5. Limitations | page -
+This systematic review highlights several key limitations that must be considered when interpreting the findings. One major issue is the inconsistent and ambiguous definition of “minimally verbal” across studies. As noted by Tager-Flusberg et al. [66], the lack of a shared operational definition limits the accumulation of evidence. Although a threshold of ≤20 words was most commonly used, variability across studies (e.g., <10 to <50 words) and inconsistent qualitative criteria (such as “functional” or “intelligible” speech) reduce comparability. Another limitation concerns the search terms adopted for the literature search. Although the search strategy was developed according to the registered PROSPERO protocol and supplemented by manual screening of the reference lists of included studies and relevant reviews, terminology describing minimally verbal autistic individuals has evolved over time. Earlier studies may have described this population using alternative terms such as “nonverbal autism”, “limited speech”, “low-verbal”, or “preverbal”. Therefore, the adopted search terminology may represent a potential limitation of the present review, as some earlier studies may have used different descriptors for this population. A further limitation concerns the potential for publication bias. Because a formal assessment of publication bias was not feasible due to the substantial heterogeneity of study designs, interventions, and outcome measures, it is possible that studies reporting null or negative findings were underrepresented. Consequently, the overall effectiveness of the interventions included in this review may have been overestimated. In addition, the clinical characterization of samples was often insufficient. Information on NVIQ and autism severity was frequently underreported, making it difficult to evaluate differential treatment effects across neurodevelopmental profiles. This limited phenotypic characterization also reduces sensitivity to variability within ASD, including potential gender differences. Males were overrepresented, and no studies have directly compared treatment effectiveness between sexes. From a methodological perspective, the heterogeneity of interventions, outcome measures, and contexts prevented meta-analysis, leading to a primarily narrative synthesis. Another important limitation concerns the geographic concentration of studies, with most conducted in the United States. This raises concerns about the generalizability of findings to other cultural, educational, and healthcare contexts, highlighting the need for more cross-cultural and international research.
+
+### 334CE053D7 | About Autism Spectrum Disorder | Resources > Free evaluations > If your child is not yet 3 years old | page -
+* Contact your local early intervention system.
+
+* You can find the right contact information for your state by calling the Early Childhood Technical Assistance Center (ECTA) at (919) 962-2001 or visit the ECTA website.
+

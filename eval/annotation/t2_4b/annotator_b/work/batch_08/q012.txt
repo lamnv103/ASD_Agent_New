@@ -1,0 +1,478 @@
+QUESTION q012: Trẻ mất kỹ năng đã có (thoái lui) thì cần làm gì?  (40 candidates)
+
+### 741D51B071 | Population-Based Psychiatric Comorbidity in Children and Adolescents With Autism Spectrum Disorder: A Meta-Analysis | Results > Risk of Bias and Quality Assessment | page -
+Subgroups analyzed for ID comorbidity in all pediatric population groups did not reveal a publication bias as assessed by Egger’s test (Egger’s regression coefficient (CI): 1.2 (−11.6, 14), p value = 0.85) and Kendall’s tau (tau = 0.0011, p = 0.92). On the other hand, subgroups analyzed for ADHD comorbidity at all pediatric population groups revealed a publication bias when assessed by Egger’s test (Egger’s regression coefficient (CI): −22 (−32.45, −11.46), p value = 0.0003), however Kendall’s tau (tau = −0.19, p = 0.22) was not significant. Subgroups analyzed for anxiety disorders comorbidity at all pediatric population groups also did not reveal a publication bias as assessed by Egger’s test (Egger’s regression coefficient (CI): −11 (−21.5, −0.05), p value = 0.05) and Kendall’s tau (tau = −0.19, p = 0.25).
+
+### 016F37AD72 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 2: Keeping children engaged | page 69-71
+Tip 3 What to use to praise your child?  Tell the child that she/he did well. This will be enough for many children most of the time. You can do this with:
+
+− a big smile, clapping, praising with words (“Well done”, “Good try!”, “Nice job cleaning up”); − tickling, a favourite routine (such as peekaboo, or swinging in the air).  Sometimes, you can choose to give your child a small “prize” for trying something new or doing something well. This may work best with activities that may be very important to you or your family but are not very motivating for your child. You could give your child:
+
+− a favourite toy or object; or − a small piece of a favourite food. Remember to give your child a big smile and praise her/him with words at the same time too! Encourage all adults in your household to praise your child.
+
+
+
+
+
+ Choose two everyday activities that you will do with your child or involve your child in. Choose activities that will motivate your child and that occur on most days.
+
+ Plan to spend at least 5 minutes with your child every time you do the activity together. Try to practise the activities every day. Target activities:
+
+Other activities I could try if these do not work out: 1) 2) Home practice activity  Try to share engagement with your child and remember to practise all the tips we have learned so far:
+
+1. Look and listen – Notice what your child is motivated by and interested in.
+
+2. Find out how your child likes to play and show the child new ways to play.
+
+3. Look and listen – Notice when your child is being good and respond with praise.
+
+Key messages  Children have more opportunities to learn when they are sharing engagement – noticing you and your activity.
+
+ Children learn best during activities that are fun, positive and full of praise.  Children can learn communication skills and other skills by playing with you Tips Session 1: Introduction – Getting children engaged
+
+1. Set up the space: remove distractions and make a safe place to interact.
+
+2. Start with 2 or 3 motivating choices and follow your child’s choice.
+
+3. Move in front of your child, get down to your child’s level, and have the activity between you and the child.
+
+Key messages  All children can learn and develop skills.  Children learn best when they are calm and cool.  You can help your child to develop by engaging with her/him in everyday activities and games.
+
+Tips
+
+### E439F6C04B | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+Table S1. Brief baseline characteristics (stratification factors and cluster sizes) of randomised schools.
+
+Table S2. Parent‐reported demographics of randomised participants.
+
+Table S3. SRS‐2T‐score (teacher reported) model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Table S4. SRS‐2 raw score (teacher reported) analysis model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Table S5. CACE analysis of SRS‐2T‐scores at 6 weeks (teacher reported) parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit from second‐stage regression.
+
+Table S6. CACE analysis of SRS‐2T‐scores at 6 months (teacher reported) parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit from second‐stage regression.
+
+Table S7. Complier average causal effect (CACE) estimates for the SRS‐2 scores at 6 months post‐randomisation under various assumptions about the missing compliance data
+
+Table S8. Goal‐based outcome analysis model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Table S9. SRS‐2T‐score (parent reported) analysis model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Table S10. SRS‐2 raw score (parent reported) analysis model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Table S11. RCADS total score (parent reported) analysis model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Table S12. PSI total stress score (parent reported) analysis model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Table S13. EQ‐5D‐Y VAS score (parent reported) analysis model parameter estimates, standard errors, test‐statistics, p‐values, variance components and model fit.
+
+Appendix S1. Bespoke outcome measures.
+
+[Original supplementary document, full converted text; formatting conversion, no interpretation]
+
+Table S1. Brief baseline characteristics (stratification factors and cluster sizes) of randomised schools
+
+### 6EAB00183A | Concerned About Your Child's Development? | Talk to Your Child's Doctor | page -
+You know your child best. If your child is not meeting the milestones for his or her age, or if you think there could be a problem with the way your child plays, learns, speaks, acts, and moves talk to your child’s doctor and share your concerns. Don’t wait. Acting early can make a real difference!
+
+### 707BB29B1E | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Methods > Data Analysis | page -
+To compare the CPRS subdomain mean scores of the ASD study group with data on a non-clinical group taken from the CRS manual, a one sample T-test analysis was used.
+
+To examine the effect of the coder who completed the CRS (parent/teacher), a one-way MANOVA with a repeated measure of coder was performed for the Inattention, HI, and Anxiety subdomain scores.
+
+Comparisons of demographic data between the four examined groups (ASD alone, ASD+ADHD, ASD+anxiety, ASD+ADHD+anxiety) included sex using non-parametric chi-square analysis, age using one-way ANOVAs, and parental ages and educational attainment using one-way MANOVAs. Comparisons between the four examined groups of the dependent variables—including IQ/DQ scores, ADI-R subdomain (social interaction, communication and RRB) scores, ADOS subdomain (SA- and RRB-CSS) scores, and VABS composite and subdomain (Communication, DLS, Socialization) scores—were performed using one-way ANOVAs and MANOVAs. When a MANOVA yielded a significant group effect, individual ANOVAs were performed for each of the examined variables. In the analyses that yielded a significant group effect, post-hoc Scheffe tests were performed.
+
+Next we examined the correlations between CPRS subdomain (IA, HI and anxiety) scores with IQ scores and VABS, ADI-R, and ADOS subdomain scores using Pearson correlation analyses.
+
+Finally, to identify the variables that contributed to the explained variance in the CPRS subdomains, three five-step hierarchical linear regression analyses were performed with CPRS Inattention, HI, and Anxiety scores as the dependent variables.
+
+To identify the variables that contributed to the explained variance in the VABS composite scores, another five-step hierarchical linear regression analysis was performed.
+
+### 5C6ADCFB78 | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Discussion > Predictors of Adaptive Functioning | page -
+Adaptive functioning refers to behaviors critical in everyday life in terms of communication, socialization, daily living, and motor skills. Adaptive skills are one of the most important measures in evaluating functioning in ASD, as they reflect the generalization of acquired skills in everyday life. Therefore, we thought it important to identify the variables that may predict overall adaptive skills by using regression models as outlined in our Fifth aim. For overall level of adaptive skills, the regression model explained 44% of the variance. Younger age, better cognition, less severe social and communication impairments, and less severe inattention symptoms, all as reported by parents were greater predictors of better overall adaptive skills, beyond sex, maternal education, autism severity in the RRB domain, and the severity of HI and anxiety symptoms. These findings suggest that in ASD, in addition to the role of cognitive ability and autism severity, the severity of inattention symptoms adversely relates to the overall adaptive functioning. Interestingly, only the severity of Inattention and not that of Hyperactivity/impulsivity or anxiety contributed to lower adaptive functioning, over and above other ASD-related characteristics. These findings partially support our hypothesis, as only inattention symptoms but not HI and anxiety symptoms predicted the level of adaptive skills.
+
+### C6A84EAC30 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 2: Keeping children engaged | page 272-273
+Tips
+
+1. Look and listen – Notice what your child is motivated by and interested in.
+
+2. Find out how your child likes to play and show the child new ways to play.
+
+3. Look and listen – Notice when your child is being good and respond with praise.
+
+Key messages  Children have more opportunities to learn when they are sharing engagement – noticing you and your activity.
+
+ Children learn best during activities that are fun, positive and full of praise.  Children can learn communication skills and other skills by playing with you.
+
+Tips
+
+1. Join in the routine – Take your turn by imitating what your child is doing.
+
+2. Show and say
+
+- Give your child a new step for your routine.
+
+3. Restart your routine to help your child spend more time sharing engagement.
+
+Key messages  Build play and home activity routines to help your child learn and develop.
+
+### D313405BE4 | Effects of Parent-Implemented Interventions on Outcomes of Children with Autism: A Meta-Analysis | Keywords > Method > Risk of Research Bias and Publication Bias | page -
+We sought to obtain high-quality research evidence by coding only studies in which participants had been randomized to treatment and control conditions, and we also evaluated the risk of bias of each article in terms of: researcher awareness of participant allocation, interventionist awareness of study conditions, outcome evaluations conducted by either parents, researchers, or observers unaware of the treatment/control group, participant baseline differences across groups, participant attrition, and intent-to-treat analyses.
+
+The direction and statistical significance of the results impact the publication of studies, which can introduce publication bias (Van Aert et al., 2019). In a meta-analysis, publication bias can lead to overestimation of effect sizes and underestimation of false-positive results. We used multiple methods to evaluate possible publication bias: Egger’s regression test, Begg’s regression test, trim and fill analysis, and funnel plot analysis to detect distribution asymmetry.
+
+### 1A0785174D | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | Tables | page -
+nutrients-14-01471-t001_Table 1Table 1
+Summary of study details.
+| Study ID | Study Design | Aim(s) | Sample–Size andAge | Measure of GI Symptoms | Results | QuADSResult |
+|---|---|---|---|---|---|---|
+| Prosperi et al. [48] | Cohort study | Investigated the prevalence and type of GIS and food selectivity (FS) problems and examined the association with ASD severity, cognitive ability, behavioral problems. | n = 163 (ASD) (20–71 months) | Somatic Scale of Child Behavior Checklist (CBCL/1½–5) [31]. | At least one severe GI symptom or FS in 40.5% of participants. Levels of behavioral problems were significantly different for participants with/without GIS and FS. No significant difference in the performance of IQ and autistic severity. | 25 |
+| Prosperi et al. [49] | Observational case-control study | Investigated the presence and type of associated verbal and motor behaviors determined their correlation with GIS. | n = 85 (ASD)(2.18–6.11 years) | GI Severity Index [25]. | GIS group had 35% higher scores in behaviors than the non-GI group. | 22 |
+| Restrepo et al. [50] | Cohort study | Examined the association of GIS with gender, developmental and behavioral measures. | n = 255 (ASD) n = 129 (TD) (2–3.5 years) | GI History (CHARGE GH) Questionnaire. [8] | Somatic complaints increased with number of GIS. Children with ASD and co-occurring GIS experienced more behavioral problems than individuals with ASD without GI concerns. | 25 |
+| Reynolds et al. [51] | Case-control study | Evaluated associations between GIS and neurodevelopmental phenotypes. | n = 672 (ASD) n = 938 (DDs) n = 851 (TD) (2–5 years) | Study GI Questionnaire | Children with ASD with regression had increased odds of several GIS than ASD children without regression. | 25 |
+Abbreviations: ASD = autism spectrum disorder, BCP = bovine colostrum product, DD = developmental disability, GI = gastrointestinal, GIS = gastrointestinal symptoms, ID = intellectual disability, IQ = intelligent quotient, RCT = randomized control trial, TD = typically developing.
+
+### 466A648E8D | Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT | METHODS | page 64
+Finally, a complier-average causal effect population comprised participants with outcome data in the group to which they were randomised, accounting for those who received the intervention as intended. This analysis set also served as a sensitivity analysis to the primary outcome.
+
+Main analysis The primary outcome analysis compared trial arms by fitting a linear regression to ABC-I scores at 6 months post randomisation, including a trial arm indicator (i.e. usual care/intervention), adjusting for baseline ABC-I, recruitment region (i.e. South Wales/South England region), severity of SPD (i.e. some problems/definite dysfunction) and sex of the child (i.e. male/female). We found no evidence of therapist clustering and, therefore, fitted single-level models only. Findings are reported as adjusted mean differences with associated 95% CIs and p-values. Most secondary outcomes were analysed similarly. Teacher-assessed ABC-I was collected at 6 months only and, therefore, no baseline ABC-I adjustment was made for this analysis. Subgroup analysis We explored differential intervention effects on the ABC-I at the 6-month post-randomisation time point by age, severity of SPDs and comorbid conditions [i.e. attention deficit hyperactivity disorder (ADHD), ID or other neurodevelopmental/genetic conditions], site ( n = 7), region ( n = 2) and sex of the child. Our primary model was extended by including subgroup × trial arm interaction terms. These subgroup effects were also explored for APSI scores at 6 months post randomisation. Sensitivity and exploratory analysis Adjusting for missing data Assuming that data were missing at random, given observed data, we used multiple imputation to investigate the potential influence of missing outcome data on the primary outcome. Specifically, we used Markov chain Monte Carlo procedures, assuming a multivariate normal distribution and fitting 25 imputations with an imputation model containing baseline ABC-I scores, region, sex and severity of SPD. Adjusting for intervention receipt We described the proportion of participants randomised to the intervention arm who initiated therapy using frequencies and percentages. Furthermore, we similarly described the proportion of participants randomised to SIT who received at least 13 SIT sessions during the intensive stage of the intervention and the absolute number of sessions received. Distinctions were made between intervention receipt that occurred prior to and following the primary outcome time point (i.e. 6 months post randomisation). Finally, we fitted instrumental variables regression models (estimated using two-stage least squares) to explore the relationship between intervention receipt and the primary outcome, while maintaining a comparison of groups as randomised. We considered the following three definitions of intervention receipt:
+
+1. initiated intervention prior to 6-month follow-up (yes/no)
+
+2. received at least 13 out of 20 sessions during the intensive stage of the intervention prior to 6-month follow-up (yes/no)
+
+### 6F5B629278 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 1: Getting children engaged | page 34-38
+Good choices are tasks that can be done in any order (e.g. wash face or brush teeth first). • Choices give children some control over the activity.
+
+• Choices help you understand which activity will be motivating for your child.
+
+• Choices make the activity more interesting and motivating for the child.
+
+• If your child does not make a choice, you can make a choice for your child.
+
+Other examples of giving choices and following the child’s choice Tip 2, continued Move in front of your child, get down to your child’s level, and have the activity between you and the child  Move in front of your child.  Sit directly in front of your child with the activity in between you and the child.
+
+ If your child sits on your lap, try to turn the child around to face you and bring the activity materials between you and the child.  It is easier for your child to share the activity with you when both you and the objects are in front of the child. Tip 3  Choose two everyday activities to do with your child until the next session. Choose activities that will be motivating for your child and that occur most days.  Give your child a choice between activities and follow your child’s choice.  Plan to spend a minimum of 5 minutes with your child for each practice activity. Try to practise the activities every day.  Remember to practise the tips from this session: Home practice activity
+
+1. Set up the space:
+
+remove distractions and make a safe place to interact.
+
+2. Start with 2 or 3 motivating choices and follow your child’s choice.
+
+3. Move in front of your child, get down to your child’s level and have the activity between you and the child.
+
+Key messages  All children can learn and develop skills.  Children learn best when they are calm and cool.  You can help your child to develop by engaging with her/him in everyday activities and games.
+
+Tips Questions to assess your own learning Try to answer these questions after the group session to assess your own learning. When you finish, you can check the answers on the following page. Instructions: Choose the best answer for each question from the options below by putting a mark beside the option you choose. Afterwards, check your answers and circle the correct option.
+
+Question 1 Sometimes when Mary is helping Jacob to get ready in the morning, he is moving around and it is difficult for Mary to dress him. What could Mary do to make it easier to engage Jacob?
+
+### 0B4C332996 | Milestones by 15 Months | Share with your child’s doctor > Things to share and consider | page -
+* What are some things you and your child do together?
+
+* What are some things your child likes to do?
+
+* Is there anything your child does or does not do that concerns you?
+
+* Has your child lost any skills he/she once had?
+
+* Does your child have any special healthcare needs or was he/she born prematurely?
+
+You know your child best. Don't wait. If your child is not meeting one or more milestones, has lost skills he or she once had, or you have other concerns, act early. Talk with your child's doctor, share your concerns, and ask about developmental screening.
+
+### C8AEC59275 | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 1. Introduction > 1.1. Gastrointestinal Symptoms in Autism Spectrum Disorder | page -
+However, the etiology of GIS in ASD remains poorly understood [14]. A detailed understanding of the nature of GIS and how they are associated with co-occurring conditions is required to facilitate the diagnosis of ASD and the treatment of GIS [15].
+
+A literature review by Mannion and Leader examined twenty-eight studies that focused on the relationship between GIS and developmental regression, language, ASD severity, challenging behavior, comorbid psychopathology, sleep problems, and sensory issues [4]. The term regression, in relation to ASD, refers to the loss of previously used or developed skills such as motor, social, and/or language skills [16]. Mannion and Leader [4] identified in 2014 that contradictory evidence existed about the prevalence of GIS in relation to language regression, communication, and ASD severity. For example, children with ASD who present with language regression experience more GIS than those without language regression [17] and yet, a history of regression is not significantly associated with current and past GIS [18,19]. In relation to communication, Gorrindo et al. [20] found that younger, more socially impaired, and nonverbal children have an increased likelihood of constipation. In contrast, Chandler et al. [18] and Williams et al. [21] found no difference between the verbal ability of children with and without GIS. Similar contradictions are evident regarding whether the presence and frequency of GIS are associated with ASD symptom severity. Some studies found that GIS are related to the severity of ASD [22], whereas other research found current or previous GIS have no significant association with ASD severity [18]. To address these contradictions, Mannion and Leader [4] argued that more rigorously designed studies were needed to identify the risk factors of GI disorders, atypical presentations of GI disorders in ASD, and subpopulations within ASD that experience GIS.
+
+### B8AA7B7BE3 | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors |  | page -
+High rates of attention deficit/hyperactivity disorder (ADHD) and anxiety symptoms have been documented in autism spectrum disorder (ASD), and have been associated with social and adaptive impairments. The study examined the frequency of clinically elevated ADHD and anxiety symptoms in an ASD group in comparison to a non-clinical group, compared the clinical presentation in the ASD group with and without ADHD and anxiety, assessed which child and familial variables add to the severity of Inattention, Hyperactivity/Impulsivity (HI), and anxiety symptoms, and evaluated whether having clinically elevated ADHD and/or anxiety symptoms adds to the prediction of adaptive functioning in ASD. The study included 260 participants diagnosed with ASD (mean age: 7.5 ± 1.1), using standardized tests. The rate of clinically elevated ADHD and anxiety symptoms in ASD was 62.7 and 44.6%, respectively, and symptom severity was significantly greater than the non-clinical sample. The entire population was divided into four subgroups: ASD alone, ASD+ADHD, ASD+anxiety, ASD+ADHD+anxiety, based on the parental behavioral questionnaire. The ASD alone group showed less severe autism symptoms in comparison to the other groups. Having ASD+ADHD symptoms was associated with greater impairments in socialization adaptive skills. Only the group with ASD+ADHD+anxiety was associated with poorer daily living adaptive skills. Regression analyses for prediction of ADHD and anxiety symptoms revealed that being a female and having lower adaptive skills scores predicted higher Inattention severity; being older, having better cognition, and more severe Restrictive Repetitive Behavior symptoms predicted more severe HI symptoms; being older and having more severe social impairments predicted higher anxiety scores. A regression analysis for the prediction of adaptive skills revealed that in addition to cognition and autism severity, the severity of Inattention symptoms added to the prediction of overall adaptive skills. In light of these findings, clinicians should diagnose these comorbidities in ASD early on, and provide effective interventions to reduce their negative impact on functioning, thereby improving outcome.
+
+### 92BDD93428 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 3: Helping children to share engagement in play and home routines | page 90-94
+ By imitating, you are rewarding your child’s play ideas.  Only imitate appropriate actions that you want to see again. Do not imitate challenging behaviour (throwing) or repetitive behaviour without any interaction between you and your child (such as lining up the items or looking at the items).
+
+1 2 3 4  Look and listen to your child’s actions and join in the routine by doing the same thing as your child. Join in the routine – Take your turn by imitating what your child is doing Tip 1  To share a routine, it is best to have multiple items – e.g. 2 cars or 2 dolls. Use your own toy or materials to take your turn. That way, you will not upset your child by taking her/his item to demonstrate play actions. Tip 1, continued  Adding steps makes your routine longer and gives more time to share engagement.
+
+ Many children need help to learn how to play appropriately with toys.  Show and say helps your child to develop more complex play skills. Show and say when:
+
+ you cannot imitate your child;  your child does not know what to do next;  your child is “stuck” on a repetitive action;  your child is not engaged and you need to get back into the routine.
+
+Show and say – Give your child a new step for your routine Tip 2  Restarting the steps and doing the routine again makes your routine longer, easier and more fun.  It is OK to repeat! All children learn from repeating stories when they play. You will probably become bored before your child does!  What was the first step of your routine? Once you have done all the steps in your routine, start again with the first step.  Start again quickly and try to make it fun and exciting! Restart your routine to help your child spend more time sharing engagement Tip 3  Choose one home routine and one play or game routine that you will do with your child or involve your child in. You can choose one of the activities you did before or two new activities. Pick routines you will try to do every day.  Plan to spend 5 minutes with your child for each routine.  Remember to practise the tips from this session: Home practice activity Key messages  Build play and home activity routines to help your child learn and develop.
+
+1. Join in the routine – Take your turn by imitating what your child is doing.
+
+3. Restart your routine to help your child spend more time sharing engagement.
+
+### C1C8914759 | Effect of Preemptive Intervention on Developmental Outcomes Among Infants Showing Early Signs of Autism: A Randomized Clinical Trial of Outcomes to Diagnosis | Key Points > CONSORT Flow Diagram > Comparison Between Treatment Groups on Each DSM-5 Criterion for Autism Spectrum Disorder and Clinical Assessment of Overall Diagnostic Status | page -
+Abbreviations: ASD, autism spectrum disorder; DSM-5, Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition); iBASIS-VIPP, iBASIS–Video Interaction to Promote Positive Parenting; NA, not applicable.
+
+a
+
+The binary logistic regression analysis incorporated the following covariates: infant age at the 24-month postbaseline assessment, baseline score on the Autism Observation Scale for Infants, and infant sex.
+
+b
+
+The binary logistic regression analysis comparing ASD vs no ASD incorporated the following covariates: infant age at the 24-month postbaseline assessment, baseline score on the Autism Observation Scale for Infants, and infant sex.
+
+No difference between groups was found in the 3-level diagnostic classification (ASD, atypical development, and typical development) using the Fisher exact test (Table 3). However, logistic regression analysis of the binary clinical diagnosis outcome (ASD vs no ASD) incorporating covariates identified reduced odds of ASD classification in the iBASIS-VIPP group (3 of 45 participants [6.7%]) compared with the usual care group (9 of 44 participants [20.5%]; OR, 0.18; 95% CI, 0-0.68; P = .02) (Table 3; eFigure 1 in Supplement 2). The number needed to treat to reduce an ASD classification was 7.2 participants. The characteristics of children who met the criteria for ASD at age 3 years are available in eTable 3 in Supplement 2.
+
+### B9581AC869 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 3: Helping children to share engagement in play and home routines | page 89
+Begin with play routines at the right level for your child. You can then gradually add more steps at the same play level and steps at the next play level (your child’s next steps).
+
+### C1E45DE2BD | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 3: Helping children to share engagement in play and home routines | page 86
+I show him words like “take out” and “bread” that I want him to learn to say on his own. We go back and forth until all the items are out of the bags. This is our grocery routine.
+
+Sometimes he still suddenly gets very frustrated when I try to show him another way to play, and he pushes me away. This means he is tired or wants to stop, so we take a break or try something different for a while. I know it is important that play should be fun and enjoyable for him.
+
+Sometimes Viran still gets “stuck” looking at something or lining things up in a row on the floor. When this happens, I show him a new way we can build towers and many times he starts building again.
+
+### 01C0560696 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 1: Getting children engaged | page 24
+All children can learn and develop skills Key message 1 • With support, children with developmental delays and disabilities can learn new skills and participate in everyday activities. Hot/red (not regulated but agitated) Very upset, angry or overexcited. Needs help to calm down.
+
+Signs you may notice: crying, screaming, whining, tantrum or meltdown behaviour, running away, rolling on the floor, overexcitement, running around. Warm/yellow 6howing first signs of agitation, frustration, distress or upset.
+
+Signs you may notice: making repetitive sounds, whining, fussing, fidgeting, moving around, looking around, not taking turns or participating in the routine, becoming “unengaged”. Cool/green (regulated) Calm, alert and ready to learn.
+
+Signs you may notice: smiling and laughing, body is still and relaxed, making sounds or talking.
+
+### 70CF373AD0 | Parallel paths: A narrative review exploring autism and its co-occurring conditions | AUTISM PRESENTATION ASSOCIATED WITH KNOWN ENVIRONMENTAL EXPOSURES > Neurological conditions | page -
+Autism is commonly associated with various neurological CCs that significantly impact the overall presentation, management, and outcome of the condition. Amongst the CCs associated with autism, neurological disorders are reported to be the most prevalent[13]. These neurological issues include mainly motor impairments, cerebral palsy (CP), epilepsy, and sleep disorders. They have an impact on the behavior and cognitive function of autistic children, and the neurological conditions are associated with worse developmental outcomes and increased healthcare needs[40]. Moreover, the clinical approach is more complex, particularly because of drug interactions and the cognitive and behavioral side effects of medications[41]. Clinicians should be aware of the recognition and treatment of these conditions, as it may improve the function and outcome of autistic children[42,43].
+
+These neurological CCs vary in their severity and impact on individuals throughout their lives, and their understanding and proper interventions can help provide more comprehensive care and support for autistic individuals. Pan et al[44] conducted a systematic review and meta-analysis to understand the association of neurological CCs and autism. Although there are several studies focused on investigating the frequency and specificity of neurological disorders in autism, it remains largely unknown, and there is a lack of longitudinal studies investigating the prevalence and the association of neurological CCs and autism[44]. Some of the most common neurological CCs seen in autism are described below.
+
+Epilepsy: Epilepsy is more common in autistic individuals compared to the general population. In a recent review, higher rates of epilepsy in autism compared to their neurotypical peers were reported [odds ratio (OR): 3.26-24.2][44]. Seizure type may include generalized tonic-clonic seizures, absence seizures, and focal seizures. Absence seizures could be easily missed in this population due to their lack of overt motor signs and brief symptom duration (usually between 5 and 20 seconds), and could be mistaken for “daydreaming” episodes of behavioral origin. Clinicians should be aware of developmental regression in autism, as it could presage the onset of epileptic activity even in cases where seizures are subclinical, observable only through electroencephalogram monitoring. Developmental regression could be identified as loss of previously acquired language, worsening in social skills, loss of motor skills (difficulties with previously acquired fine and gross motor abilities) and increased irritability and emotional dysregulation. Developmental regression could mark the onset of an epileptic encephalopathy. Sleep disorders, which are highly prevalent in autistic children, may be further exacerbated by the presence of epileptic seizures.
+
+### E1D124A7B1 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 1: Getting children engaged | page 25-29
+upset.
+
+Cool/green (regulated) Calm, alert and ready to learn.
+
+My child’s behaviour thermometer My child is cool/green when:
+
+My child is warm/yellow when:
+
+My child is hot/red when:
+
+Key message 2
+
+• It is easier to learn and try to do difficult tasks when children are calm and cool.
+
+• We can use strategies to help children stay calm, cool and ready to learn. Children learn best when they are calm and cool When Jacob was 3 years old, Mary and her husband were really struggling with him. They first asked the advice of Father Emmanuel, leader of their parish. He suggested they take Jacob to the clinic. After some time, they got an appointment to see a specialist doctor. The doctor asked many questions and checked Jacob.
+
+She then said: “I have checked your son’s development. By ‘development’, I mean the changes that happen as a child grows and gains new skills, such as moving and walking, communicating, interacting with people, playing and learning new things”. Mary’s story part 2: Learning through everyday activities The doctor explained: “All children develop at different speeds. Your son is developing differently and more slowly in some of these areas. Your son has a developmental delay. This means that he is having difficulty with his development. There are many reasons why children can have developmental difficulties. We do not know the exact cause.” She continued: “However, I want you to know that your child’s difficulties are not your fault and are not related to anything you have done, or to witchcraft, spirits, or other things. Sometimes caregivers blame themselves for not trying hard enough to teach their children, but we know this is not a cause of developmental delays.” “Unfortunately, there is no medicine or quick treatment that will solve the difficulties your son is having, but there are things you can do to help his development.
+
+Continue to show your child that you accept and love him. A safe, secure and loving environment will help your child develop and learn.
+
+Take classes so that you can learn special skills to help him and the rest of your family, and to use best the skills and resources you already have.” Mary went to the course that the doctor recommended. After each session, at home, she practised with Jacob the skills she was learning at the course. Her husband and her mother-in-law could not come to the course, but Mary brought home the guides to show them.
+
+### 27481A41B9 | Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT | HEALTH ECONOMICS | page 107
+Resource use was reported as means by arm and as a percentage of the arm having at least one contact. Differences in service use between arms (i.e. baseline, 6-month follow-up and 12-month follow-up) were reported descriptively. All relevant data on service use and support were checked for missing values and values outside an acceptable range. Missing data were imputed using multiple imputation.
+
+Service and support use Differences in the number of participants using each type of service and the mean number of contacts were compared between arms at baseline, 6 months and 12 months. Resource use patterns are presented descriptively, given that the economic evaluation was focused on NHS/PSS and societal costs and cost-effectiveness and to avoid multiple testing. Analysis of costs The health economic analysis was an available-case analysis. Costs were calculated using data on the type, number and length of contacts. Mean costs were analysed using regression analysis and bootstrapping. We analysed differences between arms in health-care (i.e. NHS/PSS) or societal costs in secondary analyses at 6 months by regressing the total cost on treatment allocation, baseline ABC-I, recruitment region, severity of SPDs, sex of child and baseline costs. To mitigate effects of data skewness, non-parametric bootstrapping methods were used to estimate 95% CIs for mean costs with 10,000 resamples. No discounting was needed, as we assessed cost over periods of < 1 year. Cost-effectiveness analysis Cost-effectiveness analyses were conducted from an NHS/PSS perspective and a wider societal perspective. The primary economic analysis focused on cost-effectiveness of SIT compared with usual care, assessed in terms of cost per point improvement in carer-reported ABC-I. The incremental cost-effectiveness ratio (ICER) was calculated as the difference in mean costs divided by difference in mean ABC-I.
+
+108
+
+### 37CE0BAD4C | Parenting interventions to promote early child development in the first three years of life: A global systematic review and meta-analysis | Data Availability > Methods > Data analysis | page -
+Pooled effect size estimates were based on random effects models. P values < 0.05 denoted statistical significance. Heterogeneity of the pooled effect size was assessed using the I2 statistic and the Cochran Q test and its P value.
+
+Moderator analyses were conducted on all outcomes using random effects meta-regression models to explore potential sources of heterogeneity in the average effect by the following prespecified sample, intervention, and study characteristics: country-income level (LMICs or high-income countries (HICs)), average child age at baseline in months, whether the parenting intervention included a component to enhance responsive caregiving (see S1 Table for classification of responsive caregiving interventions) [25,30], intervention duration in months, delivery modality (individual, group, or both), setting (home, community, clinic, or combination), and study quality score. Study quality was assessed using the Cochrane Collaboration Risk of Bias Assessment Tool for randomized controlled trials (RCTs) [31]. Studies were rated as low risk (0 points), unclear risk (1 point), and high risk (2 points) for a total risk of bias score ranging from 0 to 16 [22,32]. For the continuous moderator variables, we generated a binary variable for child age at baseline and intervention duration (< or ≥12 months) and a binary study quality variable based on a mean split of the total risk of bias score (lower or higher risk of bias) and compared effect estimates according to these subgroups. Statistical significance for the moderator variables of country-income level, intervention content, delivery, and setting was determined from the Qbetween test statistic which was evaluated on the χ distribution. For the remaining moderator variables that were originally continuous measures (i.e., child age, intervention duration, and study quality score), statistical significance was determined from meta-regressions using the continuous measure (e.g., child age in months).
+
+Publication bias was examined for each outcome analysis using the Egger’s regression test to test the null hypothesis of small-study bias (i.e., the extent to which less precise or smaller sample studies yield greater effects than larger sample studies) [33]. All analyses were conducted using Stata version 16. This review was preregistered with PROSPERO (CRD42018092458 and CRD42018092461). See S1 Protocol for the final review protocol used for the present study and notes regarding any changes made from the initial prospectively registered protocol.
+
+### 8D39A559D2 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 2: Keeping children engaged | page 66-69
+Now that you know how your child plays now and their next steps: − you can plan to offer choices between 2 or 3 activities at the level your child plays at now; − and think of how you can show your child the next step within that play activity.  Try to pick play ideas that are similar to what your child likes or does already. − For example, play in the same way with new materials (bang a block with a stick; bang a cup with a stick) − Or play in a new way that is not too difficult with the same materials (take things out of a box; put things inside a box)  When we pick ways to play that are too difficult or too easy for a child, it is harder for the child to share engagement and communicate.  It is ok to play people games with children of all ages and abilities but always select other play ideas with objects too!  Play ideas can become more complex as children grow. Play ideas  Your child may need your help to learn how to play. By playing with you, the child will learn how to play in more complex ways over time.
+
+ This means that:
+
+− you should play in the way your child plays now; − at times you show the child how to play in a more complex way (the child’s next step).
+
+ This way your child will: − remain motivated and not frustrated; − continue to practice her/his current play skills; − learn more complex play skills (the child’s next step).  You can show your child how to: − play in the same way as the child plays now but with new or more materials; − play in a new way with toys (a way that is a little more complex than how your child plays now).
+
+Find out how your child likes to play and show the child new ways to play Tip 2 Look and listen – Notice when your child is being good and respond with praise  Engaging in play in and home activities is hard work for your child! Watch for skills and appropriate behaviour that you can praise.  Be a detective! Find as many moments as you can to praise your child.  Praise helps a child understand that you know she/he is trying to participate.
+
+ Praise encourages a child to try again.  Praise helps your activities be fun and positive. Tip 3 What to use to praise your child?  Tell the child that she/he did well. This will be enough for many children most of the time.
+
+You can do this with:
+
+### F3963797AC | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 4. Discussion | page -
+This paper has systematically reviewed the peer-reviewed literature published since 2014 on the frequency and nature of GIS in children with ASD and adolescents and their relationship to regression in ASD, ASD severity language and communication, challenging behavior, comorbid psychopathology, sensory issues, and sleep problems. Table 2 summarizes the findings of this review regarding how key factors are associated with the presentation of GIS in autistic children and adolescents.
+
+The evidence reveals that GIS are more common in children with ASD and adolescents than in children with TD and that GIS are unrelated to age and persistent over time. There is a large variation between the rates of GIS prevalence reported by individual studies, as has been previously noted [6]. This review also reveals contradictory evidence on whether the prevalence of GIS is associated with gender.
+
+Over half of the studies that examined the association between ASD symptoms and GIS concluded that GIS did not have a significant association with ASD severity [36,52,53], but other studies reported that GIS was associated with ASD severity. Studies prior to 2014 have also described contradictory results [4]. Therefore, definite conclusions concerning the relationship between ASD severity and GIS are yet to be drawn.
+
+There is limited but valuable data from Reynolds et al. [51] supporting the existence of an association between GIS and regression in ASD. These findings concur with previous research. Valicenti-McDermott et al. (2008) [17] found that children with ASD who presented with language regression had more GIS than those without language regression. Similarly, Niehus and Lord (2006) [65] found that the medical records of children with ASD and regression indicated significantly more parental reports of bloody stools than of those with ASD and no regression did. However, Reynolds et al. [51] contrasts with other research in which developmental regression was not significantly associated with GIS [18,19].
+
+Evidence concerning the relationship between GIS and language and communication is also somewhat inconclusive. There was no difference in the verbal ability of children with and without GIS [49], and yet constipation was associated with speech problems and feeding problems [47]. This finding concurs with earlier research that children with ASD with GIS showed higher levels of social impairment than those without GIS [20]. This latter study also found that younger, more socially impaired and nonverbal children had increased odds of constipation. However, other previous research found no difference between the verbal ability of children with and without reported pain abdominal pain, or constipation [18], or rates of GI complaints [21].
+
+### 03C4FF5BC2 | Autism intervention meta-analysis of early childhood studies (Project AIM): updated systematic review and secondary analysis | Abstract > Method > Analyses | page -
+All analyses were conducted in R.23 Given that this meta-analysis involved a complex data structure, wherein multiple effect sizes were extracted within overlapping participant samples and these effect sizes were then categorized according to intervention and outcome type, effect sizes were analyzed using robust variance estimation meta-analysis to account for the dependence structure of the data. Specifically, subgroup correlated effects working models27 were used to aggregate effect sizes based on type of outcome (outcome characteristics) within each type of intervention (intervention characteristics) using the clubSandwich28 and metafor packages.29 Summary effect sizes for each outcome and intervention type were only retained in the final models when the degrees of freedom (df) were greater than five.30 For moderation analyses, putative categorical moderators (ie, proximal v distal outcome, generalized v context bound outcome) were added to the final model used to estimate summary effects for all studies.
+
+To assess possible publication bias across the extant literature, we conducted Egger’s regression test with cluster robust variance estimation methods (ie, the Egger MLMA with standard error approach) using the rma.mv function in the metafor package with the SCE covariance matrix obtained from the clubSandwich package.31 Egger’s regression test was conducted for each presented model, and within interventions for outcome types with df≥5 in the null models.
+
+### C304A3790B | The Presence of Comorbid ADHD and Anxiety Symptoms in Autism Spectrum Disorder: Clinical Presentation and Predictors | Discussion > Predictors of ADHD and Anxiety Symptom Severity | page -
+Our Forth aim was to assess which variables added to the severity of Inattention, Hyperactivity/Impulsivity, and anxiety symptoms individually. For Inattention symptom severity, the regression model explained 12.3% of the variance. Being a female and having lower adaptive skills scores were greater predictors of higher severity of Inattention symptoms, beyond the contribution of age, parental educational attainment, cognition, and autism severity. It is possible that lower functioning is associated with the severity of inattention as perceived by parents. The finding regarding females is important and should be further examined in future studies on inattention in a subgroup of females with ASD. For Hyperactivity/impulsivity symptom severity, the regression model explained 18.5% of the variance. Being older, having greater cognitive abilities and more severe RRB symptoms were greater predictors of higher severity of HI symptoms, beyond sex, parental educational attainment, adaptive skills, and autism severity in the social interaction and communication domains. It may be that ADHD is easier to diagnose in older children with greater cognitive abilities. In addition, RRB symptoms may overlap with HI symptoms (i.e., motor stereotypies, repetitive behaviors), and therefore children with more RRB symptoms will be perceived as having more HI symptoms. For anxiety symptom severity, the regression model explained 21% of the variance. Being older and having more severe social impairments were greater predictors of higher anxiety scores, beyond sex, parental educational attainment, adaptive skills, and autism severity in the communication and RRB domains. This may reflect that anxiety symptoms are more easily recognized in older children. Social impairments and anxiety symptoms often overlap or augment each other. Overall our hypothesis regarding the association between the comorbidities and cognitive level, autism severity and adaptive functioning was partially supported, as each comorbidity was associated with different factors.
+
+### 65902B0351 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 6: Teaching new skills in small steps and levels of help | page 163-166
+We focus on self-care skills for everyday life but you can also use these strategies to teach other skills, such as play skills and skills for other home routines.
+
+LEVEL 1: Show and say Show your child what to do and say the step in words your child can understand. If your child does not try it, say the step one more time to remind the child. LEVEL 2: *ive a little physical help to start or finish the action. In this example, the caregiver takes the child’s hand and gently helps him to start to pull the zipper from the bottom. Then the child finishes the step. LEVEL 3: Give a lot of physical help by gently taking the child’s hand and doing the whole action from start to finish. Giving more help The highest level of help Levels of help Let your child learn! Give the lowest level of help needed for your child to be successful Tip 2 Try to give the lowest level of help whenever possible: − If your child is successful, continue to use the lower level of help. − If your child is not successful, keep the higher level of support for a little longer. Show and say (lowest level of help) Show and say Wait for the child to try. Say again if the child does not try Praise the child for trying Give a little physical help - to get the action started Get the action started Let the child finish Praise the child for trying Give a lot of physical help - to help the child to do the whole action Help the child to do the whole action Praise the child for trying You can also use these levels of help when you are teaching your child new ways to play  Use language that your child can understand.  Give similar instructions each time.  Stay positive and praise your child every time she/he tries the step.
+
+Give clear and consistent instructions and praise your child for trying Tip 3 To teach your child a big task or routine, you will focus on different small steps over time.
+
+ Each time you practise, ask yourself:  Is the step we are working on too hard? Is there a different step that would be better to teach first?  Is the step we are working on too easy? Can my child already do this step with little or no help? If yes, then I can teach the next small step in the big task. $sk yourself can I teach a different step? Tip 4
+
+Our goal was for the child to learn the first step. 1ow the child can do the first step, we need a new goal. The child needs help to get her head in the shirt so mother will give a reminder and say the step again.
+
+Our new goal is for the child to put the shirt over her head.
+
+### BE7A697B81 | Concerned About Your Child's Development? | Talk to Your Child's Doctor > Complete a Milestone Checklist for Your Child's Age | page -
+* Use CDC's Milestone Tracker app or fill out a milestone checklist to track your child's development. Share the completed checklist or milestone summary with your child's healthcare provider. Note: these checklists are not a substitute for standardized, validated developmental screening tools.
+
+* Read the tip sheet How to Get Help for Your Child for steps you can take to help you act on developmental concerns.
+
+* Click here for a video in American Sign Language (ASL) on what to do if you have concerns about your child's development.
+
+### 16F35A9F32 | Milestones by 2 Months | Share with your child’s doctor > Things to share and consider | page -
+* What are some things you and your baby do together?
+
+* What are some things your baby likes to do?
+
+* Is there anything your baby does or does not do that concerns you?
+
+* Has your baby lost any skills he/she once had?
+
+* Does your baby have any special healthcare needs or was he/she born prematurely?
+
+You know your child best. Don't wait. If your child is not meeting one or more milestones, has lost skills he or she once had, or you have other concerns, act early. Talk with your child's doctor, share your concerns, and ask about developmental screening.
+
+### 3F553E83DC | Early screening and diagnosis of autism spectrum disorders in Vietnam: A population-based cross-sectional survey | Key words > Design and methods > Statistical analysis | page -
+All data analysis was performed using Stata 14. Univariate logistic regression was to explore the associations between independent variables and the outcome measure (ASD status) among children aged 18 and 30 months. Next, multivariable logistic regression models were applied to minimize the potential confounding effects. A p-value <0.05 was considered significant.
+
+### 779063B02D | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 3. Results > 3.4. GIS and Regression | page -
+Reynolds et al. [51] recently examined the association between GIS and developmental regression in a multisite community-based case-control study that involved preschool children with ASD (n = 672). Developmental regression was determined using the ADI-R [63]. They found that children with developmental regression had more GIS (42.9%) than those without (31.8%), adjusted OR (95% CI) 1.53 (1.33–1.77). In particular, children with regression were more likely to have diarrhea/loose stools and vomiting. However, the same children had slightly decreased odds of having constipation.
+
+### 0B1F07B785 | Milestones by 6 Months | Share with your child’s doctor > Things to share and consider | page -
+* What are some things you and your baby do together?
+
+* What are some things your baby likes to do?
+
+* Is there anything your baby does or does not do that concerns you?
+
+* Has your baby lost any skills he/she once had?
+
+* Does your baby have any special healthcare needs or was he/she born prematurely?
+
+### 882E72E479 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 273-274
+Tips
+
+1. Respond with words and gestures to all your child’s communication, even when it is unclear.
+
+2. Use words and gestures that match your child’s language level.
+
+3. Wait to give your child room to communicate.
+
+4. Talk about what your child is looking at and doing.
+
+Key messages  Children communicate using words, behaviour without words, and challenging behaviour.  Look and listen to notice when your child is communicating.  When you notice your child communicating, find out what message your child is trying to send you.
+
+Tips
+
+1. Break the skill into small steps and teach your child one small step at a time.
+
+2. Let your child learn! Give the lowest level of help needed for your child to be successful.
+
+3. Give clear and consistent instructions and praise your child for trying.
+
+4. Ask yourself:
+
+can I teach a different step?
+
+Key messages  Your child can learn new skills for everyday life by practising with your help.
+
+### 76988712C2 | Effect of Preemptive Intervention on Developmental Outcomes Among Infants Showing Early Signs of Autism: A Randomized Clinical Trial of Outcomes to Diagnosis | Key Points > Methods > Statistical Analysis | page -
+The intention-to-treat analysis followed a statistical analysis plan (Supplement 1) that was prespecified in outline before the completion of treatment end point assessments, with final detail completed after the initial analysis of data from the treatment end point but before the unblinding of the 12-month and 24-month data. All analyses were conducted by clinical trial statisticians (W.B. and M.N.C.). Considering the positive effects and absence of harm found in the initial clinical trial of the iBASIS-VIPP intervention, analyses were prespecified within a 1-sided superiority framework (using 95% CIs and significance tests).
+
+Using methods from previous research, treatment effect estimates for continuous variables were combined across the 4 assessments using seemingly unrelated regressions, which were estimated by maximum likelihood using the lavaan package in R software, version 4.03 (R Foundation for Statistical Computing). This approach allows participants with missing values for outcome variables and/or covariates to be included in the model. A Cohen d effect size was calculated for each measure using the within-group SD at each assessment. Each analysis was covaried for the relevant baseline score in addition to the specified site, participant age at assessment, number of high-likelihood SACS-R items endorsed, and group allocation. The multiple point estimates were then combined into an area between curves (ABC), reflecting the cumulative between-group difference over time, and a Wald test was used to calculate the individual effect estimates and their parameter covariance. Confidence intervals for the effect size areas were obtained via a bootstrapping with replacement procedure with 1000 resamples. Based on previous research, the study was powered to detect a 0.52 SD difference (α = .05) in AOSI total score change at treatment end point (using an independent-samples t test). At study commencement, no within-subject correlation data were available to perform power analyses of the longitudinal ABC analysis. Assuming a correlation of less than 1, this analysis had greater power than a single time point analysis to detect the same sized effect.
+
+Differences between treatment groups in the attainment of each of the 7 individual DSM-5 diagnostic criteria were first analyzed using a Fisher exact test followed by a logistic regression analysis, which allowed control for the important covariates (infant age at the 24-month postbaseline assessment [age 3 years], baseline AOSI scores, and sex) incorporated into the analyses of the other primary and secondary outcomes. Autism spectrum disorder diagnostic status was examined as a 3-level variable (ASD, atypical development, and typical development) using a Fisher exact test, and the binary outcome variable (ASD vs no ASD) was investigated using logistic regression analysis and covariates. Only participants who attended the 24-month postbaseline assessment at age 3 years were included in these analyses.
+
+### 70F8B72032 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 6: Teaching new skills in small steps and levels of help | page 168-170
+Key messages  Your child can learn new skills for everyday life by practising with your help.
+
+Tips Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Instructions: Choose the best answer for each question from the options below. Afterward, check your answers and circle the correct option. Question 1 Mimi is trying to teach her grandson Abel how to wash his face with a cloth. She started by teaching him the first step: getting the cloth and bringing it to the sink. Now he can do that step on his own. Mimi turns on the tap because it is difficult for Abel to do and she gives him a little physical help to get the cloth wet. Abel does not like to have his face wiped with the cloth, so Mimi does that for him. Afterward, Mimi hangs up the cloth and they sing a song together, which Abel really likes. “Mimi would like to keep the activity fun and motivating for Abel. What would be the best step to teach him next? A. Get the cloth and bring it to the sink. B. Turn on the tap.
+
+C. Wet the cloth.
+
+D. Wipe his face with the cloth. E. Hang up the cloth to dry before they sing a song together. Question 2 Mimi decides to teach Abel the last step of the routine: hang up the cloth to dry. What level of help could she try first? A. Show and say.
+
+B. A little physical help.
+
+C. A lot of physical help.
+
+Questions to check your own learning These are the answers to the questions to check your own learning on the previous page. Check the answers only after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer.
+
+Answer to Question 1: E: Hang up the cloth to dry before they sing a song together. Explanation:
+
+This would be a good step for Mimi to choose next because it is simple and it will probably be a fun and motivating step for Abel. By learning to hang up the cloth he is able to finish the task on his own and then sing a song with his grandmother right afterwards, which he enjoys.
+
+### 3B5BCE5A12 | Milestones by 2 Years | Tips and activities > More Parenting Tips and Activities | page -
+* Give your child balls to kick, roll, and throw.
+
+* Give toys that teach your child how to make things work and how to solve problems. For example, give her toys where she can push a button and something happens.
+
+* Let your child play dress up with grown-up clothes, such as shoes, hats, and shirts. This helps him begin to pretend play.
+
+* Allow your child to eat as much or as little as she wants at each meal. Toddlers don't always eat the same amount or type of food each day. Your job is to offer her healthy foods and it's your child's job to decide if and how much she needs to eat.
+
+* Have steady routines for sleeping and feeding. Create a calm, quiet bedtime for your child. Put on his pajamas, brush his teeth, and read 1 or 2 books to him. Children this age need 11 to 14 hours of sleep a day (including naps). Consistent sleep times make it easier.
+
+* Ask your child's doctor and/or teachers about toilet training to know if your child is ready to start. Most children are not able to toilet train until 2 to 3 years old. Starting too early can cause stress and setbacks, which can cause training to take longer.
+
+* Use positive words when your child is being a good helper. Let him help with simple chores, such as putting toys or laundry in a basket.
+
+* Play with your child outside, by playing "ready, set, go." For example, pull your child back in a swing. Say "Ready, set....", then wait and say "Go" when you push the swing.
+
+* Let your child create simple art projects with you. Give your child crayons or put some finger paint on paper and let her explore by spreading it around and making dots. Hang it on the wall or refrigerator so your child can see it.
+
+* Use positive words and give more attention to behaviors you want to see ("wanted behaviors"), than to those you don't want to see. For example, say "Look how well you're eating with your spoon."
+
+* Let your child play with sand toys or plastic containers, spoons, or a funnel in the tub or in a sandbox.
+
+* Help your child do simple puzzles with shapes, colors, or animals. Name each piece when your child puts it in place.
+
+* Encourage your child's curiosity and help her learn and explore new things. Take her to the park, take walks, or go on a bus ride.
+
+* Sing songs, such as "Head, Shoulders, Knees, and Toes," to teach names of body parts. After singing it a few times, see if your child sings some of the words when you touch a body part and wait.
+
+### 896A6850B5 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 6: Teaching new skills in small steps and levels of help | page 170-173
+By learning to hang up the cloth he is able to finish the task on his own and then sing a song with his grandmother right afterwards, which he enjoys.
+
+A. Get the cloth and bring it to the sink – No, Abel can already do this step on his own, so Mimi does not need to work on it any longer. She should be consistent and should continue to have Abel do it on his own. She should try to remember not to do this step for him, even if she can do it faster than Abel does. B. Turn on the tap – This is the next step after Abel gets the cloth. However, it is a difficult step for Abel, so it is not the best one to work on next, even though it comes right after a step he can do on his own. C. Wet the cloth – Mimi could work on this step, but it comes in the middle of the task and it is followed by a step that Abel does not like (having his faced wiped with the cloth) so it is probably not the most fun or motivating step. D. Wipe his face with the cloth – No, Abel does not like this step, so it might be harder to teach him to do it on his own. It is probably best to teach him the easier steps first. Answers to questions Answer to Question 2: A: Show and say Explanation:
+
+Mimi thinks that Abel will be able to do this simple step on his own, so she will use the lowest amount of help to start: Show and say. If Abel is successful in doing this step on his own, Mimi can continue to use this lower level of help. If Abel is not successful, she can try a higher level of help for a while longer. B. A little physical help and C. A lot of physical help No, Mimi thinks that Abel will be able to hang up the cloth on his own so it is best if she starts with a lower level of help and increases the level of help if needed. Her goal is for Abel to do the step with as little help as possible.
+
+Services and resources for families This information describes local services and resources for you, your child and your family. [To be completed based on local context] What can I do if my child is ill? What can I do if I think my child might have been hurt or abused by someone?
+
+What can I do if my family needs things that we do not have? What can I do if there are difficulties at home? What can I do if my family has other challenges? What can I do if I feel I am not coping well?
+
+1otes
+
+### 1D0EF75A86 | Milestones by 2 Months | Share with your child’s doctor > If you or the doctor are still concerned | page -
+* Ask for a referral to a specialist who can evaluate your child more; and
+
+* Call your state or territory's early intervention program to find out if your child can get services to help. Learn more and find the number at cdc.gov/FindEI .
+
+Keep Reading Concerned About Your Child's Development?
+
+### 93BB25DB7D | Prevalence and Correlates of Elopement in a Nationally Representative Sample of Children with Developmental Disabilities in the United States | Data Availability > Methods | page -
+For the present analysis, t-tests were used to compare mean scores on each subscale between wanderers and non-wanderers in each of the three condition groups.
+
+Fifteen items from the CSBQ were identified as being exceptionally relevant to the safety of children who wander, and were thus analyzed individually. These questions focus on the child’s tendency to panic or become angry, their ability to deal with new or unexpected situations, and their awareness of danger, among other qualities. For each of these items, logistic regression analysis was used to compare the odds of indicating that the behavior “clearly or often applies” between wanderers and non-wanderers, after controlling for demographic factors (age, sex, race, ethnicity, household income, and household education level).
+
+A final set of analyses characterized the use of wandering prevention measures in this sample. Use of preventive measures was assessed based on two questions. Respondents were asked to indicate whether they had ever 1) added “fences, gates, locks, alarms, or other barriers” to their homes to avert elopement; and, 2) utilized an electronic tracking device to prevent their child from becoming lost. Logistic regression analyses were performed to compare the odds of preventive measure use across the three condition groups (ASD-only, ASD+ID/DD, and ID/DD-only), and to determine whether a history of elopement within the previous year was associated with higher odds of preventive measure use.
+
+All analyses were performed using SAS SURVEY procedures available in SAS version 9.04 software. Appropriate weights were applied in order to account for the complex sample design of the Pathways survey. Significance was set at the p < 0.05 level; all reported p-values are two-tailed.
+

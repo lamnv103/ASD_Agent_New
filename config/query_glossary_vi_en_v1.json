@@ -1,0 +1,1104 @@
+{
+ "version": "query_glossary_vi_en_v1",
+ "created": "2026-11-15",
+ "decision": "Phase 6.2 T0 C4: controlled VI->EN expansion, no LLM, no translation API, never replaces the Vietnamese query",
+ "rules": [
+  "An entry fires only when one of its Vietnamese triggers occurs in the question (word-boundary match, longest trigger first; matched words are consumed).",
+  "English terms are translations or accepted spelling/abbreviation variants of the trigger only: no added symptom, diagnosis, cause or intent.",
+  "Matching uses the question as written (NFC, lower case). Only when the question has NO Vietnamese diacritics is it matched against the accent-stripped triggers.",
+  "A term is a phrase (phraseto_tsquery) unless prefixed 'all:' (every word required, any order: plainto_tsquery).",
+  "UK and US spellings are both listed because the 'english' config stems them to different lexemes (behaviour/behavior).",
+  "Upper-case acronyms and letter+digit tokens in the question (ADHD, AAC, DSM-5, ADOS-2, M-CHAT-R/F, NDBI, ABA, WHO, SenITA) are passed through as English terms.",
+  "Development caveat: entries were written from the vocabulary of the 66 retrieval_eval_v1 questions (dev = test). Results on those questions are optimistic; a held-out question set is required before any claim of generalisation."
+ ],
+ "generic_not_expanded": [
+  "trẻ",
+  "trẻ em",
+  "con",
+  "con tôi",
+  "bé",
+  "là gì",
+  "như thế nào",
+  "thế nào",
+  "không",
+  "có",
+  "những gì",
+  "ra sao",
+  "bao nhiêu"
+ ],
+ "age_patterns": [
+  {
+   "vi_regex": "(\\d{1,2})\\s*tháng",
+   "en": [
+    "{n} months",
+    "{n}-month-old",
+    "{n} month"
+   ]
+  },
+  {
+   "vi_regex": "(\\d{1,2})\\s*tuổi",
+   "en": [
+    "{n} years",
+    "{n}-year-old",
+    "{n} year"
+   ]
+  },
+  {
+   "vi_regex": "(\\d{1,2})\\s*năm đầu",
+   "en": [
+    "first {n} years"
+   ]
+  }
+ ],
+ "entries": [
+  {
+   "id": "asd_full",
+   "vi": [
+    "rối loạn phổ tự kỷ",
+    "asd"
+   ],
+   "en": [
+    "autism spectrum disorder",
+    "ASD"
+   ]
+  },
+  {
+   "id": "autism",
+   "vi": [
+    "tự kỷ"
+   ],
+   "en": [
+    "autism",
+    "autistic",
+    "ASD"
+   ]
+  },
+  {
+   "id": "prevalence",
+   "vi": [
+    "phổ biến",
+    "tỷ lệ mắc",
+    "tỷ lệ"
+   ],
+   "en": [
+    "prevalence",
+    "prevalent"
+   ]
+  },
+  {
+   "id": "risk_factor",
+   "vi": [
+    "yếu tố nguy cơ",
+    "nguy cơ"
+   ],
+   "en": [
+    "risk factor",
+    "risk factors",
+    "risk"
+   ]
+  },
+  {
+   "id": "cure",
+   "vi": [
+    "chữa khỏi",
+    "chữa được",
+    "chữa"
+   ],
+   "en": [
+    "cure",
+    "cured",
+    "curable"
+   ]
+  },
+  {
+   "id": "research",
+   "vi": [
+    "nghiên cứu"
+   ],
+   "en": [
+    "research",
+    "study",
+    "studies"
+   ]
+  },
+  {
+   "id": "vietnam",
+   "vi": [
+    "việt nam"
+   ],
+   "en": [
+    "Vietnam",
+    "Viet Nam",
+    "Vietnamese"
+   ]
+  },
+  {
+   "id": "girls",
+   "vi": [
+    "trẻ gái",
+    "bé gái"
+   ],
+   "en": [
+    "girls",
+    "female",
+    "females"
+   ]
+  },
+  {
+   "id": "boys",
+   "vi": [
+    "trẻ trai",
+    "bé trai"
+   ],
+   "en": [
+    "boys",
+    "male",
+    "males"
+   ]
+  },
+  {
+   "id": "early_signs",
+   "vi": [
+    "dấu hiệu sớm"
+   ],
+   "en": [
+    "early signs",
+    "early sign"
+   ]
+  },
+  {
+   "id": "signs",
+   "vi": [
+    "dấu hiệu",
+    "biểu hiện"
+   ],
+   "en": [
+    "signs",
+    "sign"
+   ]
+  },
+  {
+   "id": "development",
+   "vi": [
+    "sự phát triển",
+    "phát triển"
+   ],
+   "en": [
+    "development",
+    "developmental"
+   ]
+  },
+  {
+   "id": "concern",
+   "vi": [
+    "lo lắng",
+    "đáng lo"
+   ],
+   "en": [
+    "concern",
+    "concerns",
+    "concerned",
+    "worried"
+   ]
+  },
+  {
+   "id": "respond_name",
+   "vi": [
+    "gọi tên"
+   ],
+   "en": [
+    "all:respond name",
+    "all:responds name"
+   ]
+  },
+  {
+   "id": "puberty",
+   "vi": [
+    "tuổi dậy thì",
+    "dậy thì"
+   ],
+   "en": [
+    "puberty",
+    "pubertal"
+   ]
+  },
+  {
+   "id": "challenges",
+   "vi": [
+    "thách thức"
+   ],
+   "en": [
+    "challenges",
+    "challenge"
+   ]
+  },
+  {
+   "id": "regression",
+   "vi": [
+    "thoái lui",
+    "thoái triển"
+   ],
+   "en": [
+    "regression"
+   ]
+  },
+  {
+   "id": "skill_loss",
+   "vi": [
+    "mất kỹ năng"
+   ],
+   "en": [
+    "loss of skills",
+    "lost skills",
+    "skill loss"
+   ]
+  },
+  {
+   "id": "communication_difficulty",
+   "vi": [
+    "khó khăn giao tiếp"
+   ],
+   "en": [
+    "communication difficulties",
+    "communication difficulty"
+   ]
+  },
+  {
+   "id": "aac",
+   "vi": [
+    "giao tiếp thay thế",
+    "giao tiếp bổ trợ và thay thế",
+    "aac"
+   ],
+   "en": [
+    "augmentative and alternative communication",
+    "AAC"
+   ]
+  },
+  {
+   "id": "communication",
+   "vi": [
+    "giao tiếp"
+   ],
+   "en": [
+    "communication",
+    "communicate"
+   ]
+  },
+  {
+   "id": "nonverbal",
+   "vi": [
+    "chưa biết nói"
+   ],
+   "en": [
+    "nonverbal",
+    "non-verbal",
+    "minimally verbal",
+    "non-speaking"
+   ]
+  },
+  {
+   "id": "speech_delay",
+   "vi": [
+    "chậm nói"
+   ],
+   "en": [
+    "speech delay",
+    "language delay",
+    "delayed speech"
+   ]
+  },
+  {
+   "id": "talk",
+   "vi": [
+    "chưa nói",
+    "nói"
+   ],
+   "en": [
+    "talk",
+    "talking",
+    "speak",
+    "speech",
+    "words"
+   ]
+  },
+  {
+   "id": "joint_attention",
+   "vi": [
+    "chú ý chung"
+   ],
+   "en": [
+    "joint attention"
+   ]
+  },
+  {
+   "id": "social_stories",
+   "vi": [
+    "câu chuyện xã hội"
+   ],
+   "en": [
+    "social stories",
+    "social story"
+   ]
+  },
+  {
+   "id": "school",
+   "vi": [
+    "tại trường",
+    "ở trường",
+    "trường học",
+    "trường"
+   ],
+   "en": [
+    "school",
+    "schools",
+    "school-based"
+   ]
+  },
+  {
+   "id": "social_skills_training",
+   "vi": [
+    "huấn luyện kỹ năng xã hội",
+    "kỹ năng xã hội"
+   ],
+   "en": [
+    "social skills training",
+    "social skills"
+   ]
+  },
+  {
+   "id": "adolescents",
+   "vi": [
+    "thiếu niên",
+    "vị thành niên",
+    "tuổi teen"
+   ],
+   "en": [
+    "adolescents",
+    "adolescent",
+    "adolescence",
+    "teenagers",
+    "teens"
+   ]
+  },
+  {
+   "id": "effectiveness",
+   "vi": [
+    "hiệu quả"
+   ],
+   "en": [
+    "effective",
+    "effectiveness",
+    "efficacy"
+   ]
+  },
+  {
+   "id": "repetitive_behaviour",
+   "vi": [
+    "hành vi lặp lại"
+   ],
+   "en": [
+    "repetitive behaviours",
+    "repetitive behaviors",
+    "repetitive behaviour",
+    "repetitive behavior",
+    "restricted, repetitive"
+   ]
+  },
+  {
+   "id": "picky_eating",
+   "vi": [
+    "kén ăn"
+   ],
+   "en": [
+    "picky eating",
+    "food selectivity",
+    "selective eating"
+   ]
+  },
+  {
+   "id": "assessment",
+   "vi": [
+    "đánh giá"
+   ],
+   "en": [
+    "assessment",
+    "evaluation"
+   ]
+  },
+  {
+   "id": "intervention",
+   "vi": [
+    "can thiệp"
+   ],
+   "en": [
+    "intervention",
+    "interventions"
+   ]
+  },
+  {
+   "id": "challenging_behaviour",
+   "vi": [
+    "hành vi thách thức"
+   ],
+   "en": [
+    "challenging behaviour",
+    "challenging behavior",
+    "challenging behaviours",
+    "challenging behaviors",
+    "problem behaviour",
+    "problem behavior"
+   ]
+  },
+  {
+   "id": "home",
+   "vi": [
+    "tại nhà",
+    "ở nhà"
+   ],
+   "en": [
+    "home",
+    "home-based"
+   ]
+  },
+  {
+   "id": "wandering",
+   "vi": [
+    "đi lạc",
+    "bỏ chạy"
+   ],
+   "en": [
+    "wandering",
+    "elopement",
+    "running away"
+   ]
+  },
+  {
+   "id": "restricted_interests",
+   "vi": [
+    "sở thích hạn hẹp"
+   ],
+   "en": [
+    "restricted interests",
+    "circumscribed interests"
+   ]
+  },
+  {
+   "id": "learning",
+   "vi": [
+    "việc học",
+    "học tập"
+   ],
+   "en": [
+    "learning",
+    "academic"
+   ]
+  },
+  {
+   "id": "diagnosis",
+   "vi": [
+    "chẩn đoán"
+   ],
+   "en": [
+    "diagnosis",
+    "diagnosed",
+    "diagnostic"
+   ]
+  },
+  {
+   "id": "mchat",
+   "vi": [
+    "m-chat-r/f",
+    "m-chat"
+   ],
+   "en": [
+    "M-CHAT",
+    "M-CHAT-R/F",
+    "Modified Checklist for Autism in Toddlers"
+   ]
+  },
+  {
+   "id": "accuracy",
+   "vi": [
+    "độ chính xác"
+   ],
+   "en": [
+    "accuracy",
+    "sensitivity",
+    "specificity",
+    "positive predictive value"
+   ]
+  },
+  {
+   "id": "screening",
+   "vi": [
+    "sàng lọc"
+   ],
+   "en": [
+    "screening",
+    "screen"
+   ]
+  },
+  {
+   "id": "age",
+   "vi": [
+    "độ tuổi"
+   ],
+   "en": [
+    "age"
+   ]
+  },
+  {
+   "id": "dsm5",
+   "vi": [
+    "dsm-5",
+    "dsm 5",
+    "dsm5"
+   ],
+   "en": [
+    "DSM-5"
+   ]
+  },
+  {
+   "id": "dsm5_criteria",
+   "vi": [
+    "tiêu chuẩn"
+   ],
+   "en": [
+    "diagnostic criteria",
+    "criteria"
+   ]
+  },
+  {
+   "id": "adhd",
+   "vi": [
+    "tăng động giảm chú ý",
+    "adhd"
+   ],
+   "en": [
+    "ADHD",
+    "attention-deficit/hyperactivity disorder",
+    "attention deficit hyperactivity disorder"
+   ]
+  },
+  {
+   "id": "anxiety",
+   "vi": [
+    "lo âu"
+   ],
+   "en": [
+    "anxiety"
+   ]
+  },
+  {
+   "id": "co_occurring",
+   "vi": [
+    "kèm theo",
+    "đi kèm",
+    "kèm"
+   ],
+   "en": [
+    "co-occurring",
+    "comorbid",
+    "comorbidity"
+   ]
+  },
+  {
+   "id": "gastrointestinal",
+   "vi": [
+    "vấn đề tiêu hóa",
+    "rối loạn tiêu hóa",
+    "tiêu hóa"
+   ],
+   "en": [
+    "gastrointestinal",
+    "GI",
+    "digestive"
+   ]
+  },
+  {
+   "id": "early_intervention",
+   "vi": [
+    "can thiệp sớm"
+   ],
+   "en": [
+    "early intervention"
+   ]
+  },
+  {
+   "id": "benefits",
+   "vi": [
+    "lợi ích",
+    "có lợi",
+    "lợi"
+   ],
+   "en": [
+    "benefits",
+    "benefit"
+   ]
+  },
+  {
+   "id": "ndbi",
+   "vi": [
+    "ndbi"
+   ],
+   "en": [
+    "NDBI",
+    "naturalistic developmental behavioral intervention",
+    "naturalistic developmental behavioural intervention"
+   ]
+  },
+  {
+   "id": "parent_mediated",
+   "vi": [
+    "can thiệp do cha mẹ thực hiện",
+    "do cha mẹ thực hiện"
+   ],
+   "en": [
+    "parent-mediated intervention",
+    "parent-implemented intervention",
+    "parent-mediated",
+    "parent-implemented"
+   ]
+  },
+  {
+   "id": "parents",
+   "vi": [
+    "cha mẹ",
+    "bố mẹ",
+    "phụ huynh"
+   ],
+   "en": [
+    "parent",
+    "parents"
+   ]
+  },
+  {
+   "id": "caregiver_skills_training",
+   "vi": [
+    "chương trình huấn luyện kỹ năng cho người chăm sóc",
+    "huấn luyện kỹ năng cho người chăm sóc"
+   ],
+   "en": [
+    "caregiver skills training",
+    "CST"
+   ]
+  },
+  {
+   "id": "caregiver",
+   "vi": [
+    "người chăm sóc"
+   ],
+   "en": [
+    "caregiver",
+    "caregivers"
+   ]
+  },
+  {
+   "id": "who",
+   "vi": [
+    "who",
+    "tổ chức y tế thế giới"
+   ],
+   "en": [
+    "WHO",
+    "World Health Organization"
+   ]
+  },
+  {
+   "id": "aba",
+   "vi": [
+    "can thiệp hành vi",
+    "aba"
+   ],
+   "en": [
+    "applied behavior analysis",
+    "applied behaviour analysis",
+    "ABA",
+    "behavioral intervention",
+    "behavioural intervention"
+   ]
+  },
+  {
+   "id": "sleep",
+   "vi": [
+    "giấc ngủ",
+    "ngủ"
+   ],
+   "en": [
+    "sleep"
+   ]
+  },
+  {
+   "id": "insomnia",
+   "vi": [
+    "mất ngủ"
+   ],
+   "en": [
+    "insomnia"
+   ]
+  },
+  {
+   "id": "non_pharmacological",
+   "vi": [
+    "không dùng thuốc"
+   ],
+   "en": [
+    "non-pharmacological",
+    "nonpharmacological"
+   ]
+  },
+  {
+   "id": "melatonin",
+   "vi": [
+    "melatonin"
+   ],
+   "en": [
+    "melatonin"
+   ]
+  },
+  {
+   "id": "medication",
+   "vi": [
+    "thuốc"
+   ],
+   "en": [
+    "medication",
+    "medications",
+    "drug",
+    "drugs",
+    "pharmacological"
+   ]
+  },
+  {
+   "id": "treatment",
+   "vi": [
+    "điều trị"
+   ],
+   "en": [
+    "treatment",
+    "treat"
+   ]
+  },
+  {
+   "id": "inclusion",
+   "vi": [
+    "hòa nhập",
+    "hoà nhập"
+   ],
+   "en": [
+    "inclusion",
+    "inclusive",
+    "mainstream"
+   ]
+  },
+  {
+   "id": "swimming",
+   "vi": [
+    "học bơi",
+    "bơi"
+   ],
+   "en": [
+    "swimming",
+    "swim"
+   ]
+  },
+  {
+   "id": "safety",
+   "vi": [
+    "an toàn"
+   ],
+   "en": [
+    "safety",
+    "safe"
+   ]
+  },
+  {
+   "id": "sensory_integration",
+   "vi": [
+    "tích hợp cảm giác",
+    "điều hòa cảm giác",
+    "điều hoà cảm giác"
+   ],
+   "en": [
+    "sensory integration",
+    "sensory integration therapy"
+   ]
+  },
+  {
+   "id": "ayres",
+   "vi": [
+    "ayres sensory integration"
+   ],
+   "en": [
+    "Ayres Sensory Integration",
+    "ASI"
+   ]
+  },
+  {
+   "id": "sensory_interventions",
+   "vi": [
+    "can thiệp cảm giác"
+   ],
+   "en": [
+    "sensory-based interventions",
+    "sensory-based intervention",
+    "sensory interventions"
+   ]
+  },
+  {
+   "id": "sensory",
+   "vi": [
+    "cảm giác"
+   ],
+   "en": [
+    "sensory"
+   ]
+  },
+  {
+   "id": "therapy",
+   "vi": [
+    "liệu pháp"
+   ],
+   "en": [
+    "therapy"
+   ]
+  },
+  {
+   "id": "sound_sensitivity",
+   "vi": [
+    "nhạy cảm với âm thanh",
+    "nhạy cảm âm thanh"
+   ],
+   "en": [
+    "sound sensitivity",
+    "noise sensitivity",
+    "auditory sensitivity",
+    "sensitivity to sound",
+    "sensitivity to noise"
+   ]
+  },
+  {
+   "id": "trial",
+   "vi": [
+    "thử nghiệm"
+   ],
+   "en": [
+    "trial"
+   ]
+  },
+  {
+   "id": "senita",
+   "vi": [
+    "senita"
+   ],
+   "en": [
+    "SenITA"
+   ]
+  },
+  {
+   "id": "cost",
+   "vi": [
+    "chi phí"
+   ],
+   "en": [
+    "cost",
+    "costs",
+    "cost-effectiveness",
+    "cost-effective"
+   ]
+  },
+  {
+   "id": "milestones",
+   "vi": [
+    "mốc phát triển",
+    "mốc"
+   ],
+   "en": [
+    "developmental milestones",
+    "milestones",
+    "milestone"
+   ]
+  },
+  {
+   "id": "recommendations",
+   "vi": [
+    "khuyến nghị"
+   ],
+   "en": [
+    "recommendations",
+    "recommends",
+    "recommendation"
+   ]
+  },
+  {
+   "id": "ecd",
+   "vi": [
+    "phát triển trẻ thơ",
+    "phát triển sớm"
+   ],
+   "en": [
+    "early childhood development",
+    "ECD"
+   ]
+  },
+  {
+   "id": "developmental_delay",
+   "vi": [
+    "chậm phát triển"
+   ],
+   "en": [
+    "developmental delay",
+    "developmental delays",
+    "delayed development"
+   ]
+  },
+  {
+   "id": "pointing",
+   "vi": [
+    "chỉ tay"
+   ],
+   "en": [
+    "pointing",
+    "point"
+   ]
+  },
+  {
+   "id": "psychological",
+   "vi": [
+    "tâm lý"
+   ],
+   "en": [
+    "psychological",
+    "mental health"
+   ]
+  },
+  {
+   "id": "vaccine",
+   "vi": [
+    "vắc-xin",
+    "vắc xin",
+    "vaccine"
+   ],
+   "en": [
+    "vaccine",
+    "vaccines",
+    "vaccination",
+    "vaccinations"
+   ]
+  },
+  {
+   "id": "cause",
+   "vi": [
+    "gây ra",
+    "gây"
+   ],
+   "en": [
+    "cause",
+    "causes"
+   ]
+  },
+  {
+   "id": "dose",
+   "vi": [
+    "liều lượng",
+    "liều"
+   ],
+   "en": [
+    "dose",
+    "dosage"
+   ]
+  },
+  {
+   "id": "risperidone",
+   "vi": [
+    "risperidone"
+   ],
+   "en": [
+    "risperidone"
+   ]
+  },
+  {
+   "id": "stem_cell",
+   "vi": [
+    "tế bào gốc"
+   ],
+   "en": [
+    "stem cell",
+    "stem cells"
+   ]
+  },
+  {
+   "id": "gfcf_diet",
+   "vi": [
+    "không gluten, không casein",
+    "không gluten không casein"
+   ],
+   "en": [
+    "gluten-free",
+    "casein-free",
+    "GFCF",
+    "gluten free",
+    "casein free"
+   ]
+  },
+  {
+   "id": "diet",
+   "vi": [
+    "chế độ ăn"
+   ],
+   "en": [
+    "diet"
+   ]
+  },
+  {
+   "id": "lining_up",
+   "vi": [
+    "xếp đồ thành hàng",
+    "xếp thành hàng"
+   ],
+   "en": [
+    "lining up",
+    "lines up",
+    "line up"
+   ]
+  },
+  {
+   "id": "echolalia",
+   "vi": [
+    "nhại lại lời",
+    "nhại lời",
+    "nhại lại"
+   ],
+   "en": [
+    "echolalia",
+    "repeats words",
+    "repeat words",
+    "repeating words"
+   ]
+  },
+  {
+   "id": "ados",
+   "vi": [
+    "ados-2",
+    "ados"
+   ],
+   "en": [
+    "ADOS-2",
+    "ADOS",
+    "Autism Diagnostic Observation Schedule"
+   ]
+  },
+  {
+   "id": "epilepsy",
+   "vi": [
+    "động kinh"
+   ],
+   "en": [
+    "epilepsy",
+    "epileptic",
+    "seizure disorder"
+   ]
+  }
+ ]
+}

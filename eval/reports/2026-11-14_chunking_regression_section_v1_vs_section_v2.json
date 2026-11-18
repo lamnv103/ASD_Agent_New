@@ -1,0 +1,1942 @@
+{
+  "date": "2026-11-14",
+  "base": "section_v1",
+  "candidate": "section_v2",
+  "quarantined_excluded": [
+    "ASD-CSV-077",
+    "NIH-NIMH-CHILDREN"
+  ],
+  "layout_documents": [
+    "NIHR-SENITA-2022",
+    "WHO-CST-INTRO-2022",
+    "WHO-CST-PARTICIPANTS-2022",
+    "WHO-ECD-GUIDELINE-2020"
+  ],
+  "paged_documents": [
+    "NIHR-SENITA-2022"
+  ],
+  "boilerplate_probe_strings": [
+    "Copyright © 2022 Randell et al. This work was produced by Randell et al. under the terms of a commissioning contract issued by the Secretary of State for Health and",
+    "DOI: 10.3310/TQGE0020 Health Technology Assessment 2022 Vol. 26 No. 29",
+    "For attribution the title, original author(s), the publication source – NIHR Journals Library, and the DOI of the publication must be cited.",
+    "Improving early childhood development: WHO guideline",
+    "NIHR Journals Library www.journalslibrary.nihr.ac.uk",
+    "Participants’ guide, group sessions 1–9",
+    "Social Care. This is an Open Access publication distributed under the terms of the Creative Commons Attribution CC BY 4.0 licence, which permits unrestricted use,",
+    "distribution, reproduction and adaption in any medium and for any purpose provided that it is properly attributed. See: https://creativecommons.org/licenses/by/4.0/."
+  ],
+  "base_metrics": {
+    "documents": 71,
+    "chunks": 3546,
+    "eligible": 2580,
+    "tokens": {
+      "min": 3,
+      "median": 414,
+      "max": 670,
+      "over_600": 29,
+      "over_700": 0,
+      "under_60": 327,
+      "under_60_eligible": 224
+    },
+    "text_kept_pct": 98.66,
+    "dropped_chars": {
+      "front_matter_metadata": 61808
+    },
+    "noise": {
+      "eligible_with_header_footer": 386,
+      "eligible_reference_like": 2,
+      "eligible_contributor_like": 12
+    },
+    "tables": {
+      "chunks": 340,
+      "with_caption": 214,
+      "with_header_separator": 0,
+      "floating": 107
+    },
+    "section_types": {
+      "body": 1471,
+      "references": 633,
+      "results": 366,
+      "back_matter": 333,
+      "methods": 241,
+      "discussion": 122,
+      "floating_table": 107,
+      "abstract": 77,
+      "introduction": 76,
+      "conclusion": 55,
+      "abstract_inferred": 33,
+      "limitations": 30,
+      "overview_inferred": 2
+    },
+    "completeness": {
+      "complete": 1524,
+      "references_missing_component": 316,
+      "document_has_gaps": 1706
+    },
+    "page_provenance_paged_docs_pct": 100.0
+  },
+  "candidate_metrics": {
+    "documents": 71,
+    "chunks": 3862,
+    "eligible": 2592,
+    "tokens": {
+      "min": 2,
+      "median": 360,
+      "max": 704,
+      "over_600": 33,
+      "over_700": 1,
+      "under_60": 606,
+      "under_60_eligible": 306
+    },
+    "text_kept_pct": 96.9,
+    "dropped_chars": {
+      "front_matter_metadata": 61808,
+      "header_footer": 70126,
+      "running_title": 11549,
+      "page_number": 312
+    },
+    "noise": {
+      "eligible_with_header_footer": 1,
+      "eligible_reference_like": 0,
+      "eligible_contributor_like": 0
+    },
+    "tables": {
+      "chunks": 357,
+      "with_caption": 223,
+      "with_header_separator": 286,
+      "floating": 72
+    },
+    "section_types": {
+      "body": 1324,
+      "references": 656,
+      "results": 458,
+      "back_matter": 321,
+      "methods": 277,
+      "appendix": 131,
+      "discussion": 128,
+      "introduction": 95,
+      "abstract": 89,
+      "noise": 76,
+      "floating_table": 72,
+      "conclusion": 55,
+      "abstract_inferred": 33,
+      "limitations": 33,
+      "front_matter_detected": 25,
+      "unclassified": 25,
+      "contributors": 21,
+      "front_matter": 13,
+      "contributors_detected": 12,
+      "recommendations": 10,
+      "references_detected": 6,
+      "overview_inferred": 2
+    },
+    "completeness": {
+      "complete": 1526,
+      "references_missing_component": 327,
+      "document_has_gaps": 1831,
+      "table_structure_lost": 178
+    },
+    "page_provenance_paged_docs_pct": 100.0
+  },
+  "candidate_hash_run1": "781ed184e419fd6dee8536f26b37b93366d43ef69000d2f87d16775b0cd3554e",
+  "candidate_hash_run2": "781ed184e419fd6dee8536f26b37b93366d43ef69000d2f87d16775b0cd3554e",
+  "candidate_deterministic": true,
+  "non_layout_chunks_newly_excluded": [
+    {
+      "source_id": "ASD-CSV-017",
+      "chunk_index": 83,
+      "section_type": "references_detected",
+      "base_section_type": "body",
+      "section_path": [
+        "*Indicates studies included in the systematic review"
+      ],
+      "content": "J., & Ninci, J. (2015). Evaluating intervention effects in single-case research designs. Journal of Counseling & Development,93(4), 403–411. 10.1002/jcad.12038\n\nVannest, K. J., Parker, R. I., & Gonen, O. (2011). Single case research: Web based calculators for SCR analysis (Version 1.0) [Web-based ap"
+    },
+    {
+      "source_id": "ASD-CSV-029",
+      "chunk_index": 19,
+      "section_type": "noise",
+      "base_section_type": "methods",
+      "section_path": [
+        "Abstract",
+        "Methodology",
+        "Patient and public involvement"
+      ],
+      "content": "No patient involved."
+    },
+    {
+      "source_id": "ASD-CSV-062",
+      "chunk_index": 21,
+      "section_type": "noise",
+      "base_section_type": "results",
+      "section_path": [
+        "Results",
+        "Clinical Presentation of ASD With and Without Clinically Elevated ADHD and Anxiety Symptoms",
+        "Cognitive Ability"
+      ],
+      "content": "∧\n\np < 0.1."
+    },
+    {
+      "source_id": "ASD-NEW-003",
+      "chunk_index": 63,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "Institutional Review Board Statement"
+      ],
+      "content": "Not applicable."
+    },
+    {
+      "source_id": "ASD-NEW-003",
+      "chunk_index": 64,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "Informed Consent Statement"
+      ],
+      "content": "Not applicable."
+    },
+    {
+      "source_id": "ASD-OA-PMC10018050",
+      "chunk_index": 31,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "sj-docx-1-otj-10.1177_15394492221143048 – Supplemental material for"
+      ],
+      "content": "Teacher questions:"
+    },
+    {
+      "source_id": "ASD-OA-PMC12468522",
+      "chunk_index": 103,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "Institutional Review Board Statement"
+      ],
+      "content": "Not applicable."
+    },
+    {
+      "source_id": "ASD-OA-PMC12468522",
+      "chunk_index": 104,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "Informed Consent Statement"
+      ],
+      "content": "Not applicable."
+    },
+    {
+      "source_id": "ASD-OA-PMC13005892",
+      "chunk_index": 47,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "sj-docx-1-aut-10.1177_13623613261425838 – Supplemental material for Autism in Viet Nam: A systematic scoping review"
+      ],
+      "content": "Series: No"
+    },
+    {
+      "source_id": "ASD-OA-PMC13393316",
+      "chunk_index": 6,
+      "section_type": "noise",
+      "base_section_type": "methods",
+      "section_path": [
+        "Methods"
+      ],
+      "content": "2.1"
+    },
+    {
+      "source_id": "ASD-OA-PMC13393316",
+      "chunk_index": 11,
+      "section_type": "noise",
+      "base_section_type": "results",
+      "section_path": [
+        "Results"
+      ],
+      "content": "3.1"
+    },
+    {
+      "source_id": "ASD-OA-PMC13393316",
+      "chunk_index": 12,
+      "section_type": "noise",
+      "base_section_type": "results",
+      "section_path": [
+        "Results",
+        "Research question 1"
+      ],
+      "content": "3.1.1"
+    },
+    {
+      "source_id": "ASD-OA-PMC13393316",
+      "chunk_index": 18,
+      "section_type": "noise",
+      "base_section_type": "results",
+      "section_path": [
+        "Results",
+        "Research question 2"
+      ],
+      "content": "3.2.1"
+    },
+    {
+      "source_id": "ASD-SUP-PMC12658592",
+      "chunk_index": 17,
+      "section_type": "noise",
+      "base_section_type": "methods",
+      "section_path": [
+        "Methods",
+        "Analysis"
+      ],
+      "content": "AOTA (22)."
+    },
+    {
+      "source_id": "ASD-SUP-PMC13414371",
+      "chunk_index": 38,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "Institutional Review Board Statement"
+      ],
+      "content": "Not applicable."
+    },
+    {
+      "source_id": "ASD-SUP-PMC13414371",
+      "chunk_index": 39,
+      "section_type": "noise",
+      "base_section_type": "body",
+      "section_path": [
+        "Informed Consent Statement"
+      ],
+      "content": "Not applicable."
+    }
+  ],
+  "per_document": {
+    "ASD-CSV-002": {
+      "base_chunks": 72,
+      "cand_chunks": 72,
+      "base_eligible": 43,
+      "cand_eligible": 43
+    },
+    "ASD-CSV-007": {
+      "base_chunks": 50,
+      "cand_chunks": 50,
+      "base_eligible": 30,
+      "cand_eligible": 30
+    },
+    "ASD-CSV-011": {
+      "base_chunks": 48,
+      "cand_chunks": 48,
+      "base_eligible": 28,
+      "cand_eligible": 28
+    },
+    "ASD-CSV-017": {
+      "base_chunks": 84,
+      "cand_chunks": 85,
+      "base_eligible": 77,
+      "cand_eligible": 77
+    },
+    "ASD-CSV-018": {
+      "base_chunks": 60,
+      "cand_chunks": 61,
+      "base_eligible": 49,
+      "cand_eligible": 50
+    },
+    "ASD-CSV-019": {
+      "base_chunks": 104,
+      "cand_chunks": 105,
+      "base_eligible": 48,
+      "cand_eligible": 52
+    },
+    "ASD-CSV-020": {
+      "base_chunks": 42,
+      "cand_chunks": 42,
+      "base_eligible": 27,
+      "cand_eligible": 27
+    },
+    "ASD-CSV-029": {
+      "base_chunks": 43,
+      "cand_chunks": 43,
+      "base_eligible": 34,
+      "cand_eligible": 33
+    },
+    "ASD-CSV-038": {
+      "base_chunks": 31,
+      "cand_chunks": 31,
+      "base_eligible": 23,
+      "cand_eligible": 23
+    },
+    "ASD-CSV-062": {
+      "base_chunks": 62,
+      "cand_chunks": 62,
+      "base_eligible": 52,
+      "cand_eligible": 51
+    },
+    "ASD-CSV-078": {
+      "base_chunks": 20,
+      "cand_chunks": 20,
+      "base_eligible": 16,
+      "cand_eligible": 16
+    },
+    "ASD-CSV-081": {
+      "base_chunks": 42,
+      "cand_chunks": 42,
+      "base_eligible": 20,
+      "cand_eligible": 20
+    },
+    "ASD-CSV-084": {
+      "base_chunks": 41,
+      "cand_chunks": 42,
+      "base_eligible": 26,
+      "cand_eligible": 27
+    },
+    "ASD-CSV-088": {
+      "base_chunks": 37,
+      "cand_chunks": 37,
+      "base_eligible": 26,
+      "cand_eligible": 26
+    },
+    "ASD-CSV-089": {
+      "base_chunks": 53,
+      "cand_chunks": 53,
+      "base_eligible": 44,
+      "cand_eligible": 44
+    },
+    "ASD-CSV-091": {
+      "base_chunks": 65,
+      "cand_chunks": 65,
+      "base_eligible": 49,
+      "cand_eligible": 49
+    },
+    "ASD-CSV-095": {
+      "base_chunks": 50,
+      "cand_chunks": 51,
+      "base_eligible": 36,
+      "cand_eligible": 37
+    },
+    "ASD-NEW-001": {
+      "base_chunks": 58,
+      "cand_chunks": 58,
+      "base_eligible": 48,
+      "cand_eligible": 48
+    },
+    "ASD-NEW-002": {
+      "base_chunks": 150,
+      "cand_chunks": 158,
+      "base_eligible": 107,
+      "cand_eligible": 115
+    },
+    "ASD-NEW-003": {
+      "base_chunks": 93,
+      "cand_chunks": 93,
+      "base_eligible": 64,
+      "cand_eligible": 62
+    },
+    "ASD-OA-PMC10018050": {
+      "base_chunks": 40,
+      "cand_chunks": 41,
+      "base_eligible": 32,
+      "cand_eligible": 32
+    },
+    "ASD-OA-PMC10774556": {
+      "base_chunks": 43,
+      "cand_chunks": 43,
+      "base_eligible": 25,
+      "cand_eligible": 25
+    },
+    "ASD-OA-PMC10900867": {
+      "base_chunks": 45,
+      "cand_chunks": 45,
+      "base_eligible": 36,
+      "cand_eligible": 36
+    },
+    "ASD-OA-PMC11638897": {
+      "base_chunks": 92,
+      "cand_chunks": 92,
+      "base_eligible": 29,
+      "cand_eligible": 29
+    },
+    "ASD-OA-PMC12468522": {
+      "base_chunks": 149,
+      "cand_chunks": 149,
+      "base_eligible": 106,
+      "cand_eligible": 104
+    },
+    "ASD-OA-PMC12593641": {
+      "base_chunks": 24,
+      "cand_chunks": 24,
+      "base_eligible": 6,
+      "cand_eligible": 6
+    },
+    "ASD-OA-PMC12620806": {
+      "base_chunks": 92,
+      "cand_chunks": 92,
+      "base_eligible": 44,
+      "cand_eligible": 44
+    },
+    "ASD-OA-PMC13005892": {
+      "base_chunks": 81,
+      "cand_chunks": 81,
+      "base_eligible": 52,
+      "cand_eligible": 51
+    },
+    "ASD-OA-PMC13393316": {
+      "base_chunks": 48,
+      "cand_chunks": 48,
+      "base_eligible": 27,
+      "cand_eligible": 23
+    },
+    "ASD-OA-PMC13427885": {
+      "base_chunks": 53,
+      "cand_chunks": 53,
+      "base_eligible": 24,
+      "cand_eligible": 24
+    },
+    "ASD-OA-PMC4271434": {
+      "base_chunks": 37,
+      "cand_chunks": 37,
+      "base_eligible": 8,
+      "cand_eligible": 8
+    },
+    "ASD-OA-PMC4742252": {
+      "base_chunks": 38,
+      "cand_chunks": 38,
+      "base_eligible": 22,
+      "cand_eligible": 22
+    },
+    "ASD-OA-PMC6487529": {
+      "base_chunks": 50,
+      "cand_chunks": 50,
+      "base_eligible": 34,
+      "cand_eligible": 34
+    },
+    "ASD-OA-PMC7407189": {
+      "base_chunks": 93,
+      "cand_chunks": 93,
+      "base_eligible": 46,
+      "cand_eligible": 46
+    },
+    "ASD-OA-PMC9003052": {
+      "base_chunks": 63,
+      "cand_chunks": 63,
+      "base_eligible": 44,
+      "cand_eligible": 44
+    },
+    "ASD-SUP-PMC10783429": {
+      "base_chunks": 67,
+      "cand_chunks": 67,
+      "base_eligible": 53,
+      "cand_eligible": 53
+    },
+    "ASD-SUP-PMC10981608": {
+      "base_chunks": 97,
+      "cand_chunks": 98,
+      "base_eligible": 70,
+      "cand_eligible": 75
+    },
+    "ASD-SUP-PMC11754701": {
+      "base_chunks": 80,
+      "cand_chunks": 80,
+      "base_eligible": 69,
+      "cand_eligible": 69
+    },
+    "ASD-SUP-PMC12658592": {
+      "base_chunks": 68,
+      "cand_chunks": 68,
+      "base_eligible": 49,
+      "cand_eligible": 48
+    },
+    "ASD-SUP-PMC13414371": {
+      "base_chunks": 59,
+      "cand_chunks": 59,
+      "base_eligible": 38,
+      "cand_eligible": 36
+    },
+    "ASD-SUP-PMC4513196": {
+      "base_chunks": 62,
+      "cand_chunks": 62,
+      "base_eligible": 3,
+      "cand_eligible": 3
+    },
+    "ASD-SUP-PMC6590432": {
+      "base_chunks": 51,
+      "cand_chunks": 51,
+      "base_eligible": 40,
+      "cand_eligible": 40
+    },
+    "ASD-SUP-PMC7726187": {
+      "base_chunks": 42,
+      "cand_chunks": 42,
+      "base_eligible": 26,
+      "cand_eligible": 26
+    },
+    "ASD-SUP-PMC9399988": {
+      "base_chunks": 53,
+      "cand_chunks": 55,
+      "base_eligible": 36,
+      "cand_eligible": 38
+    },
+    "CDC-ASD-ABOUT": {
+      "base_chunks": 17,
+      "cand_chunks": 17,
+      "base_eligible": 17,
+      "cand_eligible": 17
+    },
+    "CDC-ASD-CLINICAL": {
+      "base_chunks": 8,
+      "cand_chunks": 8,
+      "base_eligible": 8,
+      "cand_eligible": 8
+    },
+    "CDC-ASD-SCREENING": {
+      "base_chunks": 8,
+      "cand_chunks": 8,
+      "base_eligible": 8,
+      "cand_eligible": 8
+    },
+    "CDC-ASD-SIGNS": {
+      "base_chunks": 4,
+      "cand_chunks": 4,
+      "base_eligible": 4,
+      "cand_eligible": 4
+    },
+    "CDC-ASD-TREATMENT": {
+      "base_chunks": 11,
+      "cand_chunks": 11,
+      "base_eligible": 11,
+      "cand_eligible": 11
+    },
+    "CDC-CONCERNED": {
+      "base_chunks": 12,
+      "cand_chunks": 12,
+      "base_eligible": 12,
+      "cand_eligible": 12
+    },
+    "CDC-EARLY-INTERVENTION": {
+      "base_chunks": 4,
+      "cand_chunks": 4,
+      "base_eligible": 4,
+      "cand_eligible": 4
+    },
+    "CDC-MILESTONES-02": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-04": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-06": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-09": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-12": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-15": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-18": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-24": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-30": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "CDC-MILESTONES-36": {
+      "base_chunks": 14,
+      "cand_chunks": 14,
+      "base_eligible": 14,
+      "cand_eligible": 14
+    },
+    "NIH-NIDCD-ASD-COMMUNICATION-2020": {
+      "base_chunks": 8,
+      "cand_chunks": 8,
+      "base_eligible": 8,
+      "cand_eligible": 8
+    },
+    "NIH-NIMH-ADHD": {
+      "base_chunks": 19,
+      "cand_chunks": 19,
+      "base_eligible": 19,
+      "cand_eligible": 19
+    },
+    "NIH-NIMH-ASD-2025": {
+      "base_chunks": 17,
+      "cand_chunks": 17,
+      "base_eligible": 17,
+      "cand_eligible": 17
+    },
+    "NIH-NIMH-MEDICATIONS": {
+      "base_chunks": 12,
+      "cand_chunks": 12,
+      "base_eligible": 12,
+      "cand_eligible": 12
+    },
+    "NIH-NIMH-TEEN-BRAIN": {
+      "base_chunks": 9,
+      "cand_chunks": 9,
+      "base_eligible": 9,
+      "cand_eligible": 9
+    },
+    "NIH-NIMH-TEEN-DEPRESSION": {
+      "base_chunks": 6,
+      "cand_chunks": 6,
+      "base_eligible": 6,
+      "cand_eligible": 6
+    },
+    "NIHR-SENITA-2022": {
+      "base_chunks": 286,
+      "cand_chunks": 324,
+      "base_eligible": 286,
+      "cand_eligible": 232
+    },
+    "WHO-CST-INTRO-2022": {
+      "base_chunks": 20,
+      "cand_chunks": 20,
+      "base_eligible": 20,
+      "cand_eligible": 9
+    },
+    "WHO-CST-PARTICIPANTS-2022": {
+      "base_chunks": 127,
+      "cand_chunks": 261,
+      "base_eligible": 127,
+      "cand_eligible": 174
+    },
+    "WHO-ECD-GUIDELINE-2020": {
+      "base_chunks": 106,
+      "cand_chunks": 233,
+      "base_eligible": 106,
+      "cand_eligible": 128
+    }
+  },
+  "layout_headings": {
+    "NIHR-SENITA-2022": [
+      {
+        "level": 2,
+        "text": "Abstract",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "CONTENTS",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 2,
+        "text": "List of abbreviations",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Scientific summary",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Methods",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Results",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Conclusions",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Strengths and limitations",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "Chapter 1 Introduction",
+        "signal": "division:chapter"
+      },
+      {
+        "level": 2,
+        "text": "INTRODUCTION",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "INTRODUCTION",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Methods",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "USUAL CARE FOR CHILDREN WITH AUTISM AND SENSORY PROCESSING DIFFICULTIES",
+        "signal": "running_title"
+      },
+      {
+        "level": 2,
+        "text": "Results",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Discussion",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Summary",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 1,
+        "text": "Chapter 3 Methods",
+        "signal": "division:chapter"
+      },
+      {
+        "level": 2,
+        "text": "Objectives",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "METHODS",
+        "signal": "running_title"
+      },
+      {
+        "level": 2,
+        "text": "69 For all ABC subscales, items were rated on four-point",
+        "signal": "numbered"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 1,
+        "text": "Chapter 4 Internal pilot evaluation",
+        "signal": "division:chapter"
+      },
+      {
+        "level": 2,
+        "text": "Aims and objectives",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "INTERNAL PILOT EVALUATION",
+        "signal": "running_title"
+      },
+      {
+        "level": 2,
+        "text": "Methods",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Discussion",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 2,
+        "text": "INTERVENTION",
+        "signal": "all_caps"
+      },
+      {
+        "level": 1,
+        "text": "Session 1",
+        "signal": "division:session"
+      },
+      {
+        "level": 1,
+        "text": "Chapter 6 Quantitative results",
+        "signal": "division:chapter"
+      },
+      {
+        "level": 1,
+        "text": "QUANTITATIVE RESULTS",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 1,
+        "text": "Chapter 7 Health economics",
+        "signal": "division:chapter"
+      },
+      {
+        "level": 1,
+        "text": "HEALTH ECONOMICS",
+        "signal": "running_title"
+      },
+      {
+        "level": 2,
+        "text": "Results",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "ABC-I",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "ABC-I",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "Summary",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 1,
+        "text": "PROCESS EVALUATION: RECRUITMENT, RETENTION, FIDELITY AND SAFETY",
+        "signal": "running_title"
+      },
+      {
+        "level": 2,
+        "text": "Results",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Conclusions",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 1,
+        "text": "EXPERIENCES OF USUAL CARE AND OF THE INTERVENTION",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      },
+      {
+        "level": 1,
+        "text": "Chapter 10 Discussion",
+        "signal": "division:chapter"
+      },
+      {
+        "level": 2,
+        "text": "Summary",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Strengths and limitations",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Limitations",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "DISCUSSION",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Acknowledgements",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "Contributions of authors",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "ACKNOWLEDGEMENTS",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "References",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "REFERENCES",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "",
+        "signal": "running_title_end"
+      }
+    ],
+    "WHO-CST-INTRO-2022": [
+      {
+        "level": 1,
+        "text": "Background",
+        "signal": "known_section_name"
+      }
+    ],
+    "WHO-CST-PARTICIPANTS-2022": [
+      {
+        "level": 2,
+        "text": "Background",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 1,
+        "text": "Session 1: Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1: Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2: Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2: Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3: Helping children to share engagement in play and home routines",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3: Helping children to share engagement in play and home routines",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4: Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4: Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5: Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5: Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5: Promoting communicationCaregiver Skills Training Session 4, Understanding communication",
+        "signal": "division:session"
+      },
+      {
+        "level": 1,
+        "text": "Session 6: Teaching new skills in small steps and levels of help",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6: Teaching new skills in small steps and levels of help",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8: Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8: Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 2,
+        "text": "REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING",
+        "signal": "all_caps"
+      },
+      {
+        "level": 1,
+        "text": "Session 9: Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1 Introduction – Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2 Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 3 Helping children to share engagement in play",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4 Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5 Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6 Teaching new skills in small steps and levels",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 7 Preventing challenging behaviour – helping",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8 Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9 Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 9: Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 1: Getting children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 2: Keeping children engaged",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Annex 1: Summary of tips and key messages",
+        "signal": "division:annex"
+      },
+      {
+        "level": 1,
+        "text": "Annex 1: Summary of tips and key messages",
+        "signal": "division:annex"
+      },
+      {
+        "level": 1,
+        "text": "Session 3: Helping children to share engagement in play and home routines",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 4: Understanding communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 6: Teaching new skills in small steps and levels of help",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 5: Promoting communication",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Annex 1: Summary of tips and key messages",
+        "signal": "division:annex"
+      },
+      {
+        "level": 1,
+        "text": "Session 9: Problem-solving and self-care",
+        "signal": "running_title"
+      },
+      {
+        "level": 1,
+        "text": "Session 8: Teaching alternatives to challenging behaviour",
+        "signal": "running_title"
+      }
+    ],
+    "WHO-ECD-GUIDELINE-2020": [
+      {
+        "level": 2,
+        "text": "IMPROVING",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "IMPROVING",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "ACKNOWLEDGMENTS",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "PURPOSE OF THE GUIDELINE",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "GUIDELINE DEVELOPMENT METHODOLOGY",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "AVAILABLE EVIDENCE AND REVIEW PROCESS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RESEARCH GAPS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "PLANS FOR UPDATING THE GUIDELINE",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RECOMMENDATIONS",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "BACKGROUND",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "SCOPE",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RELEVANT WHO GUIDELINES AND TOOLS THAT SUPPORT ECD",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTIONS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "OUTCOMES OF INTEREST",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "TARGET AUDIENCE",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "WHO STEERING GROUP",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "GUIDELINE DEVELOPMENT GROUP",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "SYSTEMATIC REVIEW TEAMS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "GUIDELINE DEVELOPMENT PROCESS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "MANAGEMENT OF CONFLICTS OF INTERESTS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "IDENTIFICATION OF KEY QUESTIONS AND OUTCOMES",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "QUALITY ASSESSMENT AND GRADING OF EVIDENCE",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "QUALITY OF EVIDENCE",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "MANAGING GROUP PROCESSES AND DECISION-MAKING",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "DOCUMENT PREPARATION AND EXTERNAL PEER REVIEW",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "PRESENTATION OF THE RECOMMENDATIONS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "EVIDENCE AND RECOMMENDATIONS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION I",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RECOMMENDATION 1",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION II",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RECOMMENDATION 2",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION III",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RECOMMENDATION",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION IV",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RECOMMENDATION 3",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION V",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RECOMMENDATION 4",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "RESEARCH GAPS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "IMPLEMENTATION CONSIDERATIONS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "MONITORING AND EVALUATION OF",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "SUPPORTING LOCAL ADAPTATION",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "DISSEMINATION AND PLANS FOR UPDATING",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "IMPLEMENTATION OF THE GUIDELINE",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "REFERENCES",
+        "signal": "known_section_name"
+      },
+      {
+        "level": 2,
+        "text": "WHO GUIDELINES AND TOOLS THAT SUPPORT EARL Y CHILDHOOD DEVELOPMENT",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION I",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION II",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "QUESTIONS IN PICO FORMAT",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION III",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "KEY QUESTION IV",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "GUIDELINE DEVELOPMENT GROUP",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "AUTHORS OF SYSTEMATIC REVIEWS",
+        "signal": "all_caps"
+      },
+      {
+        "level": 1,
+        "text": "ANNEX 6:",
+        "signal": "division:annex"
+      },
+      {
+        "level": 2,
+        "text": "DECLARATIONS OF CONFLICTS OF INTEREST",
+        "signal": "all_caps"
+      },
+      {
+        "level": 1,
+        "text": "ANNEX 7:",
+        "signal": "division:annex"
+      },
+      {
+        "level": 1,
+        "text": "Annex 7: GRADE evidence profile tables",
+        "signal": "running_title"
+      },
+      {
+        "level": 2,
+        "text": "INTEGRATED CAREGIVING AND NUTRITION INTERVENTIONS (N=18)",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "HIGH CRITICAL",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "HIGH",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "HIGH IMPORTANT",
+        "signal": "all_caps"
+      },
+      {
+        "level": 2,
+        "text": "MODERATE IMPORTANT",
+        "signal": "all_caps"
+      }
+    ]
+  },
+  "layout_running_titles": {
+    "NIHR-SENITA-2022": [
+      "QUANTITATIVE RESULTS",
+      "HEALTH ECONOMICS",
+      "PROCESS EVALUATION: RECRUITMENT, RETENTION, FIDELITY AND SAFETY",
+      "USUAL CARE FOR CHILDREN WITH AUTISM AND SENSORY PROCESSING DIFFICULTIES",
+      "METHODS",
+      "EXPERIENCES OF USUAL CARE AND OF THE INTERVENTION",
+      "INTERNAL PILOT EVALUATION",
+      "CONTENTS",
+      "REFERENCES"
+    ],
+    "WHO-CST-INTRO-2022": [],
+    "WHO-CST-PARTICIPANTS-2022": [
+      "Session 1: Getting children engaged",
+      "Session 1 Introduction – Getting children engaged",
+      "Session 2 Keeping children engaged",
+      "Session 3 Helping children to share engagement in play",
+      "Session 4 Understanding communication",
+      "Session 5 Promoting communication",
+      "Session 6 Teaching new skills in small steps and levels",
+      "Session 7 Preventing challenging behaviour – helping",
+      "Session 8 Teaching alternatives to challenging behaviour",
+      "Session 9 Problem-solving and self-care",
+      "Session 2: Keeping children engaged",
+      "Session 3: Helping children to share engagement in play and home routines",
+      "Session 4: Understanding communication",
+      "Session 5: Promoting communication",
+      "Session 6: Teaching new skills in small steps and levels of help",
+      "Session 8: Teaching alternatives to challenging behaviour",
+      "Session 9: Problem-solving and self-care"
+    ],
+    "WHO-ECD-GUIDELINE-2020": [
+      "Annex 7: GRADE evidence profile tables"
+    ]
+  }
+}

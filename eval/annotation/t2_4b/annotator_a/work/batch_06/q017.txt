@@ -1,0 +1,583 @@
+QUESTION q017: Câu chuyện xã hội (social stories) ở trường có hiệu quả không?  (54 candidates)
+
+### 52B7289757 | School-Based Interventions for Increasing Autistic Pupils’ Social Inclusion in Mainstream Schools: A Systematic Review | End matter (original) > Appendix | page -
+Table 4
+Overview of the reviewed studies at each level of school environment (N = 56)
+| Study | N (All/ASD) | N ASD girls | Age (years) | Setting | Intervention | Outcome measure | Analysis method | Results (Effect size) |
+|---|---|---|---|---|---|---|---|---|
+| Child Level |
+| Dean et al., 2020 (US) | 30/30 | 4:26 | 15 | 2 | Skill training: say “hi”, walk together to bus, socialize with members outside of group sessions (SKILL) | Obs, engaged solo Obs, engaged joint | LMM, visual inspection | Pr > Po (f2 = .08) Pr < Po (f2 = .06) |
+|  |  |  |  |  | Obs, engaged parallel |  | Pr = Po (f < .01) |
+| Delano & Snell, 2006 (US) | 1/1 | 0:1 | 9 | 1 | SOCIAL STORIES | Obs, engaged joint proper Obs, N INIT / RESP | visual inspection, descriptives | Pr = Po Pr = Po |
+| Feng et al., 2008 (TW) | 1/1 | 0:1 | 11 | 1 | Theory of Mind & social skill training: greet, express emotions/needs | Obs, N INTER Obs, N INTER proper | visual inspection, descriptives | Pr < Po Pr < Po |
+| Hanley-Hochdorfer et al., 2010 (US) | 4/4 | 1:3 | 6–12 | 1 + 2 | SOCIAL STORIES | Obs, N INIT verbal Obs, N RESP | visual inspection, descriptives | Pr = Po (PND = 1–38%) Pr = Po (PND = 11–36%) |
+| Hartzell et al., 2015 (US) | 3 SN/2 | 2:0 | 7 | 1 | Skill training: talk to peers, eye contact, body language, maintain topic | Obs, engaged joint | visual inspection, descriptives | Pr < Po |
+
+### 3561C57956 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Methods > Procedures | page -
+A core criterion of the intervention was to first agree a socio‐emotional goal around which the story would be set. The goal was agreed during a collaborative ‘goal setting meeting’ attended by the child's teacher, a parent/caregiver, a member of the research team and sometimes the child's teaching assistant (TA). Where possible the child was involved. Each socio‐emotional goal was required to be specific, measurable, achievable, realistic, time‐bound (SMART) and observable in the school setting, measured using a goal‐based outcome measure (see Appendix S1).
+
+Children in the intervention group received Social Stories™ in addition to their care as usual from their school. Educational professionals (the interventionists) were pre‐selected prior to randomisation and were already employed within each school. The interventionists varied between the schools and were staff with training in the support of autistic children (e.g. a teacher, teaching assistant (TA) or special educational needs coordinator (SENCO)). In most cases, the interventionist was someone who already knew the child well and worked closely with them.
+
+Interventionists were trained in Social Stories™ with its established 10 criteria of generation and delivery (Gray, 2010). Training used a cascade model (training the trainers; Wright et al., 2024) overseen by BW and included general autism psychoeducation as well as specific training around the use of Social Stories™. During the training session, interventionists constructed a Social Story™. Parents/guardians were also invited to attend these sessions. Story‐reading sessions were delivered by the interventionist at least six times over a 4‐week period.
+
+Schools randomised to care as usual were asked to continue delivering any other support but to refrain from delivering any Social Stories™. At the end of the trial, schools were offered Social Stories™ training.
+
+### E00D041933 | What are we targeting when we support inclusive education for autistic students? A systematic review of 233 empirical studies and call for community partnerships | Systematic review results > Interventions targeting school participation and inclusion | page -
+Most of the described interventions were implemented directly in mainstream classroom settings (n = 124), in an adjacent room in the school building or an empty classroom (n = 44), or in another school facility, such as a gymnasium, school playground, or cafeteria (n = 22). Although the objectives were focused on school inclusion, some of the interventions occurred in other locations, such as childcare settings (n = 3), home (n = 3), or another out-of-school environment (n = 14). Interventions focusing on professional development occurred at school or in different locations, including online (n = 7). All interventions aimed at improving school inclusion or participation were analyzed, regardless of their location.
+
+The types of interventions aimed at school participation and inclusion in the studies were classified based on the main components of the procedures described (see Figure 3). Cognitive-behavioral interventions were the most prevalent (n = 56), followed by school-based social skills and emotion regulation interventions (n = 34); peer-mediated interventions (n = 28); psychosocial individual interventions (n = 28); teaching strategies and practices (n = 23); professional development (n = 21); play or recreational time-based interventions (n = 19); technological assistance devices (n = 19); social problem-solving strategies, such as social scripts (n = 15); setting adjustments (n = 13); academic learning-centered interventions or executive function programs (n = 11); schoolwide inclusion or anti-stigma programs (n = 11); videos or direct modeling (n = 8); physical activity, music, or dance programs (n = 5); transition support intervention (n = 3); and parental training for school readiness or school support (n = 2). A total of 60 experimental studies included multiple types of interventions, and 11 were found to have more than two types of component interventions.
+
+Figure 3.
+
+Type of interventions and their distribution.
+
+[Original asset: 10.1177_13623613251352223-fig3.jpg; see source article]
+
+### DE04E2A651 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Results | page -
+Eighty‐seven schools, including 249 children, were randomised (intervention 44 schools with 129 children, and usual care 43 schools with 120 children). After 6 months, a reduction of 1.61 points was found on the Social Responsiveness Scale‐2 in the intervention group (95% CI −4.18 to 0.96, p = .220) and for those who attended at least six sessions a reduction of 3.37 points (CACE 95% CI −6.65 to −0.10, p = .043). Children in the intervention group met their individual socio‐emotional goal more frequently than children receiving usual care alone and this was statistically significant. No statistically significant differences were found in other secondary outcomes including anxiety, depression, general health or parental stress.
+
+### C261CEFA7D | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Background | page -
+Autistic children can experience mental health, social and emotional difficulties. Carol Gray's Social Stories™ are a highly personalised intervention that provide social information in a short individually tailored story.
+
+### 446A1E3B91 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+|  | Control (N = 43) | Intervention (N = 44) | Total (N = 87) |
+| School SEN status stratum, n (%) |  |  |  |
+| Non-SEN | 39 (90.7) | 40 (90.9) | 79 (90.8) |
+| SEN | 4 (9.3) | 4 (9.1) | 8 (9.2) |
+| Number of participants stratum, n (%) |  |  |  |
+| ≤5 | 33 (76.7) | 35 (79.5) | 68 (78.2) |
+| >5 | 10 (23.3) | 9 (20.5) | 19 (21.8) |
+| Randomisation stratum, n (%) |  |  |  |
+| Non-SEN and ≤5 | 30 (69.8) | 32 (72.7) | 62 (71.3) |
+| SEN and ≤5 | 3 (7.0) | 3 (6.8) | 6 (6.9) |
+| Non-SEN and >5 | 9 (20.9) | 8 (18.2) | 17 (19.5) |
+| SEN and >5 | 1 (2.3) | 1 (2.3) | 2 (2.3) |
+| Cluster size (as randomised) |  |  |  |
+| N | 43 | 44 | 87 |
+| Mean (SD) | 2.8 (1.9) | 2.9 (2.0) | 2.9 (2.0) |
+| Median (Q1, Q3) | 2.0 (1.0, 4.0) | 2.0 (2.0, 4.0) | 2.0 (1.0, 4.0) |
+| Min, Max | 1.0, 9.0 | 1.0, 11.0 | 1.0, 11.0 |
+
+### ABE2CD80CE | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | -1.14 | 1.13 | -1.01 | 0.310 | -3.35 | 1.06 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | -0.18 | 0.86 | -0.21 | 0.834 | -1.87 | 1.51 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | -0.47 | 1.26 | -0.37 | 0.709 | -2.93 | 1.99 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 2.76 | 1.80 | 1.53 | 0.126 | -0.77 | 6.30 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | -0.58 | 1.07 | -0.55 | 0.584 | -2.68 | 1.51 |
+| Baseline score | 0.71 | 0.04 | 15.91 | <0.001 | 0.62 | 0.80 |
+| Age | -0.09 | 0.27 | -0.34 | 0.730 | -0.63 | 0.44 |
+| Sex |  |  |  |  |  |  |
+| Female | 1.75 | 1.08 | 1.62 | 0.104 | -0.36 | 3.86 |
+| Intercept | 20.29 | 4.06 | 5.00 | <0.001 | 12.33 | 28.25 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | 3.75 | 3.42 |  |  | 0.63 | 22.44 |
+* p-value for test of the hypothesis that all fixed effects are zero
+
+### 9858B57361 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Methods > Study design | page -
+This trial was a pragmatic cluster RCT comparing Social Stories™ alongside care as usual with care as usual alone, defined as the existing support routinely provided for autistic children from educational and health services. Following the recruitment of participants and baseline data collection, participating schools were randomised (1:1) to one of the treatment groups. Participants were followed up at 6 weeks and 6 months post‐randomisation. This was a pragmatic trial because it was carried out in real‐world school settings with delivery of the intervention by school staff rather than research staff/settings. The full trial protocol is published (Wright et al., 2020). The trial was assigned the International Standard Randomised Controlled Trial Number (ISRCTN) ISRCTN11634810 on 23 April 2019. The trial is reported according to the CONSORT guidelines for cluster trials (Campbell, Elbourne, Altman, & Group, 2004). Ethical approval for the trial was obtained from the Health Sciences Research Governance Committee at the University of York on 02 July 2018 and the Health Research Authority (HRA) on 24 July 2019 and Northeast—York Research Ethics Committee (REC) on 23 July 2019 (19/NE/0237).
+
+Elements of the trial are reported elsewhere including a process evaluation that assessed the fidelity of the programme, the views of stakeholders and barriers and facilitators to successful implementation (Blackwell et al., 2024) and an economic evaluation (Wang et al., 2024) including a cost‐utility analysis, that measured the incremental cost‐effectiveness ratio of the Social Stories™ intervention over and above the control arm.
+
+### 825B038AFA | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > What is significant for clinical practice? | page -
+- Despite individual Stories having limited evident impact on global social skills, Social StoriesTM can be useful to support children in achieving specific socio‐emotional goals.
+
+### E29B5E32B3 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+Children allocated to receive Social Stories™ met their socio‐emotional behavioural goal more frequently (rated by their teacher) after 6 weeks (0.84, 95% CI 0.14 to 1.54, p = .018) and 6 months (0.97, 95% CI 0.21 to 1.73, p = .012) than children who received care as usual (Table S8). Whilst goals chosen were often related to teachers identifying what they regarded as challenging behaviours, discussion between teacher, parent/carer (and child where possible) as part of the intervention usually identified distress in the child related to lack of social information (Wright et al., 2024). Topics included understanding routines, change and transitions, emotional development, social interactions and supporting classroom learning.
+
+Table 1 shows limited evidence of important differences in any of the other secondary outcomes measuring parent (T score 6 weeks: 0.43, 95% CI −0.83 to 1.7; 6 months: 0.35, 95% CI −1.26 to 1.97; total raw 6 weeks: 2.37, 95% CI −1.41 to 6.16; 6 months: 1.21, 95% CI −3.65 to 6.08) and teacher social responsiveness (6 weeks: −3.37, 95% CI −9.41 to 2.67; 6 months: −3.32, 95% CI −10.28 to 3.63), children's mental health (6 weeks: 1.10, 95% CI −1.81 to 4.02; 6 months: 2.35, 95% CI −1.37 to 6.06) and well‐being (6 weeks: −0.63, 95% CI −4.93 to 3.66; 6 months: −1.92, 95% CI −6.70 to 2.86) or parental stress (6 weeks: −1.42, 05% CI −4.92 to 2.09; 6 months: −1.49, 95% CI −5.43 to 2.46; Tables S9–S13).
+
+### 60424CB015 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+a
+
+Based on delta method standard errors.
+
+The CACE analysis, found that Social Stories™ led to a −3.37 point reduction in the SRS‐2 scale (indicating higher social responsiveness) at 6 months (95% CI −6.65 to −0.10; p = .043; Table 2). Results from sensitivity CACE analyses are presented in the supplementary material (Tables S5–S7).
+
+### 2D1214F84E | Systematic review of sensory-based interventions for children and youth (2015–2024) | Introduction | page -
+SBIs may be implemented by caregivers and other team members or accessed independently by the child as part of an occupational therapy intervention plan in natural environments such as the home, community, and schools.
+
+Two systematic reviews published in 2015 examined the use of SBIs with autistic populations. Watling and Hauer (14) reviewed 23 studies and found mixed evidence for the effectiveness of SBIs, including limited evidence on the effectiveness of sound therapies and no significant effect with the use of alternative seating. Overall, weighted vest studies demonstrated some improvements with attention, but overall evidence of their effectiveness was insubstantial. Linear vestibular movement demonstrated improvement in responding to questions, though the sample size was small. This review also included one study of the sensory environment showing positive effects of sound absorption and lighting on attending behaviors. Case-Smith and colleagues (11) conducted a systematic review including 14 studies between 2001 and 2011 examining SBIs. Interventions in this review included weighted vests, brushing protocols, sitting on therapy balls, and other multi-sensory strategies; however, the rigor of the studies was compromised by the lack of specified protocols and/or manualized descriptions of the intervention and control conditions, resulting in mixed results as to effectiveness.
+
+Two additional systematic reviews examined the evidence of the use of SBIs for children with SI/SP challenges beyond autistic populations. Bodison and Parham (15) included studies using sensory techniques and sensory environmental modifications, although not all outcomes were participation-based. The strongest evidence was found for Qigong sensory therapy for symptom reduction, decreasing parenting stress, and language skills. However, limited evidence was found for determining the effectiveness of weighted vests on in-seat behaviors and attention. This review did not find any significant positive effects of linear swinging for tabletop task behaviors, nor did it identify better play skills in the treatment group vs. the control for sensory-rich classrooms. Further, the sensory environmental modifications reviewed included only one study, which demonstrated significant improvements in participation within a dental environment. However, in this dental environment study, deep pressure touch was also provided to the participants in addition to the environmental modifications, making it difficult to determine which intervention had the greatest effect.
+
+The second systematic review intended to examine the evidence of parent and teacher education and coaching for children with SI/SP challenges beyond the autistic population (16). This purpose of this investigation was to analyze evidence of the efficacy of parent or teacher training/coaching., the studies that met the inclusion criteria only included parents of children who all had a diagnosis of autism and none included teachers. The review included four studies that demonstrated improvements in parental stress or child performance/behaviors, but did not include evidence of SBI effectiveness.
+
+### 5FEFB76740 | The Effect of Naturalistic Developmental Behavioral Interventions and Aided AAC on the Language Development of Children on the Autism Spectrum with Minimal Speech: A Systematic Review and Meta-analysis | Keywords > Methods > Meta-analysis | page -
+Effect sizes were calculated for every language outcome measure in each included study. Tau-U was calculated at the individual participant level for single-case designs (e.g., comparing baseline measures of included language outcomes to intervention measures for each participant) and Cohen’s d was calculated at the group level for group designs (e.g., comparing outcomes for the experimental and control groups on included language measure(s)). Study-level effect size values were calculated for studies with multiple included outcome measures by taking the weighted average of all included effect size values in that study, weighted by the number of paired comparisons in each included outcome measure within that study (Parker et al., 2011). Weighted averages of single-case studies were calculated using a free online calculator (Vannest et al., 2011). For group studies, weighted averages were calculated using R statistical software (R Core Team, 2023).
+
+Effect size values from individual studies were then aggregated within each study design (i.e., single-case or group) by intervention type (NDBI-Only, NDBI+AAC) to provide an average effect size for each design x intervention category. Average effect size values were calculated for 1) single-case NDBI+AAC studies, 2) single-case NDBI-Only studies, and 3) group NDBI-Only studies. Random effects models in R (R Core Team, 2023) were used to estimate average effect sizes across the three design x intervention categories. Given the inherent variability across included studies, random (vs. fixed) effects models were considered appropriate (Del Re, 2015). Two random effects models were run for each design x intervention category—one model including all relevant studies, and one model including only studies rated as having “strong” certainty of evidence.
+
+Three group design studies identified through the search procedures represented direct comparisons of an NDBI without AAC to an AAC intervention (Comparative studies). The reported Cohen’s d effect size values for these three studies reflect the outcomes of the AAC intervention group on the included language outcomes as compared to the NDBI group. Given the differences in the specific nature of the comparisons targeted by the three Comparative studies, an average effect size was not calculated for the Comparative studies.
+
+Average effect sizes were used to evaluate: 1) the effectiveness of NDBI-Only interventions; 2) the effectiveness of NDBI+AAC interventions; and 3) the comparative effectiveness of NDBI-Only and NDBI+AAC interventions, including comparison of the average effect size values from NDBI-Only and NDBI+AAC studies, as well as the effect sizes of Comparative studies. Evaluation was based on general criteria set by Cohen (1992) and Vannest and Ninci (2015).
+
+### BD882CEDD4 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+Table 2
+SRS‐2 CACE estimates at 6 weeks and 6 months post‐randomisation from the planned analysis models
+|  | Control (N = 120) | Intervention (N = 129) | CACE estimate (95% CI) | p‐Value |
+|---|---|---|---|---|
+| Week 6 | 110 (91.7%) | 79 (61.2%) | −2.35 (−5.44 to 0.73) | .134 |
+| Month 6 | 108 (90.0%) | 76 (58.9%) | −3.37 (−6.65 to −0.10) | .043 |
+
+### D62A4AC965 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Discussion | page -
+This was the largest trial to date which aimed to evaluate whether Social Stories™ is a clinically effective method of improving social responsiveness in autistic children. A total of 87 schools were randomised including 249 autistic children. At baseline, children scored 72 points on average on the Social Responsiveness Scale‐2 (SRS‐2) indicating a moderate level of difficulty. The average SRS‐2 scores decreased (higher social responsiveness) in both groups at 6 weeks and 6 months, with greater reductions observed in the group allocated to Social Stories™. However, at both time points, the estimated difference (in favour of Social Stories™) was small and unlikely to be clinically important. Given SRS‐2 attempts to measure autistic symptoms it was perhaps not surprising that there was limited change. By contrast, there are statistically significant differences in the goal‐based outcome measure. Children who were allocated to Social Stories™ typically met their socio‐emotional goal with a clear measurable outcome more frequently after 6 months than children who received care as usual. However, the observed differences are smaller than the differences observed in the feasibility trial (Wright et al., 2016) and a recently published trial of humanistic counselling for adolescents with symptoms of psychological distress (Cooper et al., 2021), although goal attainment was self‐reported in the latter study in contrast to the teacher‐reported assessment used in the present study. The CACE analysis also found a clinically and statistically significant difference in favour of the intervention group at 6 months, although this estimate of the CACE may be subject to non‐negligible selection bias due to missing treatment delivery data. There were no important differences in any of the other measures assessing children's mental health and well‐being or parental stress.
+
+### ED34257373 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | -0.63 | 2.19 | -0.29 | 0.772 | -4.93 | 3.66 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | 1.81 | 1.73 | 1.04 | 0.297 | -1.59 | 5.19 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | -1.29 | 2.46 | -0.52 | 0.601 | -6.09 | 3.52 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 2.22 | 3.35 | 0.66 | 0.508 | -4.34 | 8.78 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | 0.05 | 2.00 | 0.03 | 0.978 | -3.87 | 3.98 |
+| Baseline score | 0.42 | 0.05 | 7.72 | <0.001 | 0.31 | 0.53 |
+| Age | -0.23 | 0.57 | -0.41 | 0.682 | -1.35 | 0.88 |
+| Sex |  |  |  |  |  |  |
+| Female | 2.02 | 2.19 | 0.92 | 0.357 | -2.28 | 6.31 |
+| Intercept | 47.66 | 7.05 | 6.76 | <0.001 | 33.85 | 61.48 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | <0.01 | <0.01 |  |  | 0 | - |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### FF1AEC03A3 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | 0.43 | 0.65 | 0.67 | 0.504 | -0.83 | 1.70 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | 0.18 | 0.52 | 0.35 | 0.726 | -0.84 | 1.20 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | -0.08 | 0.73 | -0.11 | 0.916 | -1.51 | 1.36 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 1.57 | 1.07 | 1.47 | 0.142 | -0.53 | 3.66 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | 0.33 | 0.64 | 0.52 | 0.602 | -0.92 | 1.58 |
+| Baseline score | 0.76 | 0.04 | 20.38 | <0.001 | 0.69 | 0.84 |
+| Age | 0.08 | 0.18 | 0.42 | 0.673 | -0.28 | 0.43 |
+| Sex |  |  |  |  |  |  |
+| Female | 7.74 | 0.70 | 11.10 | <0.001 | 6.37 | 9.10 |
+| Intercept | 12.81 | 3.53 | 3.62 | <0.001 | 5.88 | 19.73 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | <0.01 | <0.01 |  |  | 0 | - |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### 244D8A0D1C | The role of augmentative and alternative communication for children with autism: current status and future trends | Tables | page -
+Table 1
+Summaries of included reviews
+| Study | Aims (review period) | Effect size indicator | Key findings |
+|---|---|---|---|
+| Gevarter et al21 | Systematic review of ESCD and group studies of individuals with developmental disabilities for AAC intervention component comparisons (2004–2012) | ESCD: meeting or approaching mastery criterion; group studies – statistical significance | •14 studies; seven of only autism; three with at least 50% autism•6/10 compared PECS to other AAC•Conclusive evidence: Phase I–II PECS; PECS + prompting + video modeling; function-preferred mands in Phases I, II acquired more rapidly than non-function-preferred mands•Preponderant evidence: PECS + Braille more effective than PECS only for child with visual impairment; pictures and photographs equal; 3/4 children more likely to use picture exchange for items with establishing operations; speech output, speech output with print, and print only effective for teaching spelling; function based more effective than non-function-based mands for setting generalization•All other comparisons were suggestive or inconclusive |
+| Gevarter et al22 | Systematic review of ESCD studies of individuals with developmental disabilities for comparisons of AAC modalities and outcomes (2004–2012) | Meeting or approaching mastery criterion | •28 studies; 15 of only autism; three with autism and other disability groups•Conclusive evidence: PECS/other picture system and SGD equal effectiveness for stages I & II PECS; pictures and microswitch equal, pictures preferred; speech + sign more effective than speech only, results in maintenance and generalization•Preponderant evidence: PECS/PIC vs SGD: PECS/PIC more effective and efficient (n=3) or no difference (n=5) to SGD; preference for SGD (n=2), for PECS/PIC (n=1); both microswitch and PIC reduced CB, preference for microswitch (n=1); PECS/PIC vs sign: both effective (n=7), PECS more efficient (n=3); more vocalizations with sign (n=3); SGD, PIC, microswitch: equal (n=2), SGD, PIC more effective (n=2), SGD preferred (n=1), sign harder to maintain (n=1); SGD, PIC, sign equal in effectiveness, sign less efficient (n=3), preference for SGD (n=1), SGD better maintained (n=3); PIC more effective than speech (n=1); speech, sign, echoic model most efficient combined, result in maintenance and generalization (n=2)•All other comparisons were suggestive or inconclusive |
+
+### E998944461 | School-Based Interventions for Increasing Autistic Pupils’ Social Inclusion in Mainstream Schools: A Systematic Review | Keywords > Discussion > Practical Implications, Limitations, and Future Research | page -
+To this end, two aspects require special attention.
+
+First, special attention should be paid to the measures for evaluating the interventions across the different levels of school environment, including the experiences of the autistic pupils. Currently, data is primarily from observations, presumably by allistic observers. Future studies should consider including other methods, such as questionnaires by autistic pupils and other relevant informants (e.g., peers, caregivers, or teachers) to better account for autistic pupils’ perspectives and experiences, and to confirm that the effects are maintained outside the observed contexts. Moreover, recent research showed that sensing technologies may be used to assess social dynamics at both group and individual levels, and the interaction between pupils and the built structures (Eichengreen et al., 2024; Nasri et al., 2022).
+
+Second, tools should be developed to support schools and teachers to create a welcoming setting where diverse needs and desires are respected and valued. Notably, the current review focused on primary and secondary schools that provide mainstream education, where autistic children shared (most of) their school time with allistic peers. Practices in special education schools were thus not considered in this review. However, these practices might be insightful to the design of interventions that fit the needs and experiences of autistic children also in other school settings. For example, Yuill and colleagues (Yuill et al., 2007) examined the effect of a new playground that was designed for autistic pupils, in a special-education primary school. This new playground provided a clear circuit between activities (e.g., the slide curved to the direction where the next activity starts) to encourage playful movements and interactions naturally and structurally. It also had observation points where autistic children could observe others’ play without needing to interact, or recover from sensory overarousal triggered by the surroundings, which is often experienced by autistic individuals.
+
+Notably, this review included both group design and single-subject design, in the attempt to cover all published studies that evaluated the effect of an intervention. Yet, it should be taken into account that the majority (84%) of the included studies were of a single-subject design and thus mostly with a small sample size. Also, single-subject designs are prone to internal validity risks if the conventions are not adhered to and stability within conditions cannot be established (Petursdottir & Carr, 2018). In this review, we mitigated the effects of these risks by evaluating the studies’ methodological quality and synthesizing only the results from those with an adequate-to-strong quality rating. However, their potential effects should still be taken with caution.
+
+### 41EE3D1FB4 | The Effect of Naturalistic Developmental Behavioral Interventions and Aided AAC on the Language Development of Children on the Autism Spectrum with Minimal Speech: A Systematic Review and Meta-analysis | Keywords > Methods > Data Extraction and Coding | page -
+Coding procedures were adapted from Schlosser and Wendt (2008), with consideration to the relevant characteristics of NDBI studies, as well as single-case vs. group research design. Data extracted from all studies included: (a) Study Identification (i.e., first author name, date of publication, and design type); (b) Participant Characteristics (i.e., ID, age, gender, baseline language measures); (c) Intervention Characteristics (i.e., type of NDBI, interventionist, context/location of intervention, AAC system); (d) Dependent Variable Characteristics (only including language/communication measures—expression or comprehension, language domain: social communication, requesting, semantic, syntactic); (e) Outcome Measure(s) (i.e., gain scores, Tau-U, Cohen’s d); and (f) Certainty of Evidence.
+
+Outcomes for single-case research were calculated at the individual participant level and included two measures of effect size: gain scores and Tau-U. Gain scores were included as they offer a straightforward visual representation of average change from baseline to intervention and are a common effect size index in both the NDBI and AAC literature. Gain scores were calculated by participant for each measure by taking the difference between the average of baseline and the average of intervention for included outcome measures. Tau-U was also calculated, as it captures both potential baseline trends as well as overlap of values across phases (Parker et al., 2011), making it a more sensitive measure in assessing change from baseline to intervention than other single-case effect size measures that only take phase overlap into account. Additionally, Tau-U is a common single-case effect size in both AAC and NDBI research. Thus, the use of this single-case effect size may make the results more accessible and interpretable across both fields. Tau-U values comparing baseline and intervention for each included outcome measure by participant were calculated using a free online calculator (Vannest et al., 2011). Tau-U values below 0.2 are considered a small effect, values of 0.21–0.59 represent a medium effect, 0.6–0.79 a large effect, and 0.8 or greater a very large effect (Vannest & Ninci, 2015).
+
+Group study outcomes were calculated using Cohen’s d (Cohen, 1992). Comparison values represented either magnitude of change from pre to post intervention for the experimental vs. control group, or comparison of post-intervention values between the two groups, depending upon the reported data. Effect size values of 0.2 are considered a small difference, 0.5 a medium difference, and 0.8 a large difference between groups (Cohen, 1992). For studies with unequal sample sizes, Hedge’s g was also calculated, but results were indistinguishable from Cohen’s d values.
+
+### 8F8E8EDA3C | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+There was some very weak evidence that disruption to follow‐up due to COVID‐19 school closures was associated with variation in treatment effect, with the between group difference in the primary endpoint being slightly larger (in favour of Social Stories™) among those that completed outcome data collection prior to the start of the first UK lockdown on 23rd March 2020. For participants who completed data collection before school closures, the treatment effect at 6 months was −5.07 (95% CI −10.49 to 0.34) compared to −0.63 (95% CI −3.56 to 2.31) for participants who had data collected after the start of the first UK lockdown. Overall the subgroup analyses found little evidence for any interaction between treatment preference (p = .75), mental health (p = .82) and cognitive/learning difficulties (p = .27) and allocation.
+
+During the trial, two serious and four non‐serious adverse events (AEs) were reported. These six AEs occurred in six individuals (i.e. at most one event per individual). Despite the slightly higher number of AEs reported in the intervention group (intervention n = 4), only one was deemed probably related to the intervention, this was an expected event, and there was limited evidence of any clear variation between groups.
+
+### 429F6E35C6 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | -1.42 | 1.79 | -0.79 | 0.428 | -4.92 | 2.09 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | -0.42 | 1.44 | -0.29 | 0.772 | -3.24 | 2.41 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | -.072 | 2.04 | -0.04 | 0.972 | -4.08 | 3.93 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 0.30 | 2.72 | 0.11 | 0.912 | -5.03 | 5.64 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | -0.18 | 1.64 | -0.11 | 0.911 | -3.39 | 3.03 |
+| Baseline score | 0.88 | 0.04 | 22.10 | <0.001 | 0.80 | 0.96 |
+| Age | -0.16 | 0.47 | -0.35 | 0.728 | -1.07 | 0.75 |
+| Sex |  |  |  |  |  |  |
+| Female | 0.37 | 1.76 | 0.21 | 0.834 | -3.09 | 3.83 |
+| Intercept | 14.50 | 6.09 | 2.38 | 0.017 | 2.56 | 26.45 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | <0.01 | <0.01 |  |  | <0.01 | 0.51 |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### 2D00F2EE24 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | -3.37 | 3.08 | -1.09 | 0.274 | -9.41 | 2.67 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | -1.38 | 2.36 | -0.59 | 0.558 | -6.00 | 3.24 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | 0.05 | 3.44 | 0.01 | 0.989 | -6.69 | 6.78 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 6.70 | 4.92 | 1.36 | 0.173 | -2.94 | 16.34 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | -1.92 | 2.90 | -0.66 | 0.507 | -7.61 | 3.76 |
+| Baseline score | 0.73 | 0.04 | 16.48 | <0.001 | 0.64 | 0.81 |
+| Age | -0.34 | 0.75 | -0.46 | 0.649 | -1.81 | 1.13 |
+| Sex |  |  |  |  |  |  |
+| Female | -1.17 | 2.91 | -0.40 | 0.688 | -6.88 | 4.54 |
+| Intercept | 26.56 | 8.11 | 3.28 | 0.001 | 10.67 | 42.45 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | 24.53 | 25.55 |  |  | 3.18 | 189.00 |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### 46FF5E6A28 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+Following randomisation, five children (2%) withdrew from at least some aspect of the planned data collection. Three out of these were withdrawn from all data collection (including the teacher completed primary outcome). Figure 1 Recruitment and data collection [Original figure transcription; formatting conversion, no interpretation]
+
+Screened (98 schools, 295 children) Eligibility unknown (1 child) Missing age (n=1) Ineligible (26 children) Took part in ASSSIST feasibility study (n=1) Did not attend school in Yorkshire/Humber (n=1) School used Social Stories during current/preceding term (n=15) Parent doesn’t feel their child has behavioural problems in school (n=16) Pre-randomisation withdrawal (11 schools*, 45 children) School lacking in capacity/unable to facilitate study (n=14) School or parent no longer wanted to be involved/withdrew consent (n=10) Child moved schools before randomisation could be completed (n=9) School or parent not responding/uncontactable (n=8) Child reached 12+ years before randomisation could be completed (n=3) Baseline measures not received prior to end of recruitment period (n=1) Baseline teacher CRF’s completed (87 schools, 247** children) SRS-2 Total Score (87 schools, 246 children) Goal based outcome (86 schools, 240 children) Baseline parent CRF’s completed (87 schools, 249 children) SRS-2 Total Score (87 schools, 249 children) PSI Total Stress Score (87 schools, 244 children) RCADS Total Score (87 schools, 248 children) EQ-5D-Y VAS Score (87 schools, 249 children) Randomised (87 schools, 249 children) Social Stories (44 schools, 129 children) 0 Social Stories sessions delivered (n=1) 1-5 Social Stories sessions delivered (n=13) 6+ Social Stories sessions delivered (n=81) Number of sessions missing (n=34) Usual care (43 schools, 120 children) Withdrawn (1 child) Parent unhappy with timescale/organisation of research (n=1) Week 6 teacher CRF’s not completed (23 children) Week 6 teacher CRF’s completed (104 children) SRS-2 Total score (104 children) Goal based outcome (104 children) Week 6 parent CRF’s not completed (31 children) Week 6 parent CRF’s completed (97 children) SRS-2 Total score (97 children) PSI Total stress score (89
+
+### B2FC6EDB9E | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | 2.37 | 1.93 | 1.23 | 0.219 | -1.41 | 6.16 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | 0.59 | 1.60 | 0.37 | 0.711 | -2.54 | 3.72 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | -1.16 | 2.25 | -0.52 | 0.606 | -5.58 | 3.26 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 2.58 | 3.17 | 0.81 | 0.416 | -3.64 | 8.80 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | 0.54 | 1.89 | 0.28 | 0.777 | -3.18 | 4.25 |
+| Baseline score | 0.82 | 0.04 | 21.28 | <0.001 | 0.74 | 0.89 |
+| Age | 0.07 | 0.53 | 0.13 | 0.896 | -0.98 | 1.12 |
+| Sex |  |  |  |  |  |  |
+| Female | 2.61 | 2.04 | 1.28 | 0.200 | -1.39 | 6.61 |
+| Intercept | 14.53 | 6.65 | 2.18 | 0.029 | 1.49 | 27.57 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | <0.01 | <0.01 |  |  | 0 | - |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### 3428E6B1AB | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+children) RCADS Total score (97 children) EQ-5D-Y VAS score (97 children) Week 6 teacher CRF’s not completed (10 children) Week 6 teacher CRF’s completed (110 children) SRS-2 Total score (110 children) Goal based outcome (109 children) Week 6 parent CRF’s not completed (23 children) Week 6 parent CRF’s completed (97 children) SRS-2 Total score (97 children) PSI Total stress score (95 children) RCADS Total score (97 children) EQ-5D-Y VAS score (97 children) Withdrawn (2 children) Child left school/absent for prolonged period (n=1) Questionnaire lost in the post and parent did not want to complete again (n=1) Withdrawn (3 children) Child left school/absent for prolonged period (n=1) Parent did not want to complete questionnaire (n=1) Parent no longer has enough time (n=1) Month 6 teacher CRF’s not completed (23 children) Month 6 teacher CRF’s completed (104 children) SRS-2 Total score (104 children) Goal based outcome (102 children) Month 6 parent CRF’s not completed (32 children) Month 6 parent CRF’s completed (95 children) SRS-2 Total score (95 children) PSI Total stress score (90 children) RCADS Total score (94 children) EQ-5D-Y VAS score (93 children) Month 6 teacher CRF’s not completed (11 children) Month 6 teacher CRF’s completed (108 children) SRS-2 Total score (108 children) Goal based outcome (105 children) Month 6 parent CRF’s not completed (29 children) Month 6 parent CRF’s completed (89 children) SRS-2 Total score (89 children) PSI Total stress score (84 children) RCADS Total score (88 children) EQ-5D-Y VAS score (89 children) Social Stories: Inc. in primary analysis (41 schools, 117 children) Exc. from primary analysis (3 schools, 12 children) No Wk6/M6 primary outcome data available (n=9) Missing baseline covariate data (n=3) Usual care: Inc. in primary analysis (42 schools, 118 children) Exc.
+
+### B81F8622C4 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | 1.10 | 1.49 | 0.74 | 0.458 | -1.81 | 4.02 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | -0.45 | 1.24 | -0.36 | 0.716 | -2.88 | 1.98 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | 1.25 | 1.76 | 0.71 | 0.478 | -2.19 | 4.68 |
+| SEN status |  |  |  |  |  |  |
+| SEN | -1.82 | 2.44 | -0.75 | 0.455 | -6.60 | 2.95 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | -1.30 | 1.44 | -0.91 | 0.365 | -4.13 | 1.52 |
+| Baseline score | 0.86 | 0.03 | 26.88 | <0.001 | 0.80 | 0.92 |
+| Age | -0.05 | 0.42 | -0.12 | 0.901 | -0.88 | 0.77 |
+| Sex |  |  |  |  |  |  |
+| Female | 1.37 | 1.56 | 0.88 | 0.381 | -1.70 | 4.44 |
+| Intercept | 5.62 | 3.79 | 1.48 | 0.139 | -1.82 | 13.06 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | <0.01 | <0.01 |  |  | <0.01 | <0.01 |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### BC0F74F005 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+Table 1
+Summary of the treatment effects of all primary and secondary outcomes
+| Outcome | Timing | Estimated difference (Intervention – Control) in expected value (95% CI a ) | p‐Value a |
+|---|---|---|---|
+| Primary outcome |
+| SRS‐2 | Week 6 | −1.14 (−3.35 to 1.06) | .310 |
+| Month 6 (primary) | −1.61 (−4.18 to 0.96) | .220 |
+| Secondary outcomes |
+| SRS‐2 total raw score (teacher) | Week 6 | −3.37 (−9.41 to 2.67) | .274 |
+| Month 6 | −3.32 (−10.28 to 3.63) | .349 |
+| Goal‐based outcome (teacher) | Week 6 | 0.84 (0.14 to 1.54) | .018 |
+| Month 6 | 0.97 (0.21 to 1.73) | .012 |
+| SRS‐2 total T‐score (parent) | Week 6 | 0.43 (−0.83 to 1.70) | .504 |
+| Month 6 | 0.35 (−1.26 to 1.97) | .668 |
+| SRS‐2 total raw (parent) | Week 6 | 2.37 (−1.41 to 6.16) | .219 |
+| Month 6 | 1.21 (−3.65 to 6.08) | .625 |
+| RCADS total score (parent) | Week 6 | 1.10 (−1.81 to 4.02) | .458 |
+| Month 6 | 2.35 (−1.37 to 6.06) | .215 |
+| PSI total stress score | Week 6 | −1.42 (−4.92 to 2.09) | .428 |
+| Month 6 | −1.49 (−5.43 to 2.46) | .460 |
+| EQ‐5D‐Y VAS (parent) | Week 6 | −0.63 (−4.93 to 3.66) | .772 |
+| Month 6 | −1.92 (−6.70 to 2.86) | .432 |
+
+### B0B190EEE8 | Improving early childhood development: WHO guideline | KEY QUESTION III | page 33
+Child health outcomes were not commonly or consistently measured across studies; therefore, data on child health could not be metaanalysed.
+
+Caregiving outcomes Caregiving knowledge: Two studies assessed impact on caregiving knowledge. Caldera and colleagues (2007) found no significant effects on maternal knowledge, while a study by Barlow and colleagues (2015) observed significant improvements in caregiving knowledge among intervention mothers. The certainty of evidence was graded as very low. Caregiving practices: Eight studies examined impacts on caregiving practices. The pooled results showed no effect (SMD = 0.01, 95% CI: -0.04, 0.06; n = 2). 5 The certainty of evidence was graded as low.
+
+Caregiver-child interactions: Five studies assessed effects on caregiver-child interactions. The pooled results showed no significant effect on improving caregiver-child interactions (SMD = 0.14, 95% CI: -0.07, 0.34 n = 1). 5 The certainty of evidence was graded as very low. Child maltreatment: Two studies assessed impacts on child maltreatment. Neither observed significant effects. One study examined parental report of contact with the New Zealand Early Start Program for issues relating to child abuse and neglect (Fergusson et al., 2005) but did not see reductions in agency contacts. The other (Jacobs et al., 2016) examined records from Healthy Families Massachusetts to assess whether substantiated child maltreatment reports had been filed, but also did not observe any significant effects. Caregiver mental health: Four studies assessed intervention impact on caregiver mental health. The pooled results showed no effect on reductions in maternal depressive symptoms (SMD = -0.05, 95% CI: -0.11, 0.01; n = 3). The certainty of evidence was graded as low. Self-efficacy: Three studies assessed impact on caregiver self-efficacy. Caldera and colleagues (2007) and Breitenstein and colleagues (2012) found intervention group mothers to have significantly higher reported self-efficacy scores compared to control groups; however, Gross and colleagues (2009) found no effects. The certainty of evidence was graded as low.
+
+20 21Evidence and recommendations
+
+### 25BC18ADD4 | Behavioral Interventions for Autism Spectrum Disorder: A Brief Review and Guidelines With a Specific Focus on Applied Behavior Analysis | OTHER INTERVENTIONS > Social stories | page -
+Social stories teach social cognition and appropriate social behaviors for children with autism by using stories that describe specific social situations in simple sentences for children with autism [107]. Some single-subject design studies have found that social stories are effective in reducing inappropriate behaviors. However, recent systematic reviews have consistently concluded that there still needs to be more evidence to consider social stories as evidence-based practice [107,108].
+
+### 4916188803 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | -2.35 | 1.57 | -1.50 | 0.134 | -5.44 | 0.73 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 2.25 | 2.20 | 1.03 | 0.305 | -2.05 | 6.56 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | -0.24 | 1.35 | -0.18 | 0.860 | -2.89 | 2.41 |
+| Baseline score | 0.78 | 0.05 | 15.06 | <0.001 | 0.68 | 0.88 |
+| Age | -0.03 | 0.33 | -0.09 | 0.924 | -0.67 | 0.61 |
+| Sex |  |  |  |  |  |  |
+| Female | 1.21 | 1.29 | 0.94 | 0.348 | -1.32 | 3.73 |
+| Intercept | 14.79 | 4.73 | 3.13 | 0.002 | 5.52 | 24.06 |
+| Variance components | Coef. |  |  |  |  |
+| School random intercept | 7.89 |  |  |  |  |  |
+| Residual variance | 54.32 |  |  |  |  |  |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### 7B56374BED | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Methods > Statistical analysis | page -
+Calculations were undertaken using Stata/SE v14.0. The sample size was calculated for the primary outcome only.
+
+The trial analyses were undertaken using Stata/MP 17.0. The primary analysis sought to estimate differences in expected SRS‐2 score at 6 months post‐randomisation, with all departures from allocated treatment being handled via a treatment policy strategy. The between group difference in expected SRS‐2 total T‐score at 6 months post‐randomisation was estimated using a linear mixed effect covariance pattern model, with scores at all timepoints (6 weeks and 6 months) included as an outcome. This model included fixed effects for treatment group, time point and their interaction, school SEN status, number of consented children attending the school (binary, ≤5/>5), baseline SRS‐2 total T‐score (linear term), age at randomisation (linear term) and sex (female/male) and school level random intercepts to capture unexplained between school variance. Correlation between repeated measurements within participants was modelled using an unstructured covariance matrix for the model residuals. Adjusted mean differences and two‐tailed 95% confidence intervals were obtained from the fitted model for each time point and presented alongside associated p‐values. p‐Values are reported primarily as a means of quantifying the divergence between the observed data and the test hypothesis for the secondary endpoints, using the conventional threshold of 0.05 as indicating statistical significance with respect to the primary endpoint.
+
+Sensitivity analyses were undertaken to investigate the potential impact of departures from the missing at random (MAR) assumption (White, 2018; White, Carpenter, & Horton, 2018), mistimed data collection and non‐adherence using complier average causal effect (CACE) analysis, with compliance defined as receipt of at least six story sessions. For the present study, the CACE is an estimate of the average causal effect of Social Stories™ among the partially latent subgroup of participants that would have received at least six story sessions if they had (possibly counter‐to‐fact) been allocated to the intervention group. We undertook further exploratory analyses to assess whether COVID‐19‐related disruption to intervention delivery and/or follow‐up was associated with variation in treatment effects at 6 weeks and 6 months. In addition, pre‐specified subgroup analyses by teacher‐reported treatment preference, whether the child was diagnosed with a cognitive/intellectual or learning disability and whether the child was diagnosed with mental or psychological illness.
+
+Secondary outcomes (teacher‐reported SRS‐2 total raw score, goal‐based outcome, parent‐reported SRS‐2 total T‐score and raw score, RCADS total score, EQ‐5D‐Y VAS and PSI total stress score) were analysed and reported in a similar manner to the primary analysis, but with the baseline values for the relevant outcome included in place of the baseline teacher‐reported SRS‐2 total T‐scores.
+
+### 8D4F1C9DC2 | Improving early childhood development: WHO guideline | KEY QUESTION III | page 33
+What is the effectiveness of caregiving interventions to support socioemotional and behavioural development in the first 3 years of life on ECD? Summary of evidence Ten studies with caregiving interventions to support healthy socioemotional development and behaviour for children during the first 3 years of life were identified, all conducted in HICs. 5 The number of studies contributing to the effect size is fewer than the number of studies that reported measuring the outcome due to some studies only reporting the effect qualitatively or providing a significance level for an outcome, or not presenting the data required to estimate the effect size. ECD outcomes Socioemotional development: Only one study assessed socioemotional development. No significant effects were found (adjusted mean difference in intervention group versus control scores: SMD = 0.04; p = 0.09; adjusted effect size = 0.14). The certainty of evidence was graded as very low.
+
+Child behaviour: Ten studies evaluated child behaviour. The pooled results showed no effect on reductions in child behaviour problems (SMD = -0.02, 95% CI: -0.07, 0.02; n = 5). 5 The certainty of evidence was graded as moderate.
+
+Cognitive development: Only one study assessed cognitive development. Mean scores for intervention group children were significantly higher compared to children in the control group (p < 0.05) (Caldera et al., 2007). Authors indicated an adjusted mean effect size of 0.29. The certainty of evidence was graded as very low. Motor development: One study assessed motor development (Caldera et al., 2007). Authors presented an adjusted mean effect size of 0.19, although the difference between groups was not statistically significant (p = 0.16). The certainty of evidence was graded as very low. Child health: Two studies examined impact on indicators for child health and medical outcomes. Caldera and colleagues (2007) showed significant improvements in the number of families with health care coverage for the child, but no effects on immunizations, receipt of well-child visits, incidence of injuries requiring medical care, or number of hospitalizations and emergency department visits. Fergusson and colleagues (2005) found effects on children being up-to-date on well-child visits, experiencing fewer hospitalizations for accidents and injuries, and having higher rates of preschool dental services enrollment, but no effects were observed on immunization rates. Child health outcomes were not commonly or consistently measured across studies; therefore, data on child health could not be metaanalysed.
+
+### 70D4AB9BF6 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Discussion | page -
+Second, all data were collected by blinded research assistants to reduce the risk of bias in the data gathering process. There were no cases where data were collected by someone who was not blind to allocation. Furthermore, the trial statistician remained blind to allocation until the final analysis.
+
+However, there are several limitations that should be considered in the interpretation of our findings. A substantial portion of the study occurred whilst a worldwide pandemic was occurring. From 23rd March 2020 until the end of the school year in July 2020 and 4th January 2021 to 8th March 2021 most schools were closed. This led to large disruptions to schools with closures, staff and pupil absences and changes to the intervention construction and delivery as well as care as usual. The results of this trial should therefore be taken with caution in both potential directions. Owing to COVID‐19 restrictions, we were not able to quality assure the teacher‐reported outcome through independent observation. Given that the intervention, due to its nature, was delivered unblinded, there was some potential to introduce reporting bias into teacher ratings in favour of those receiving the intervention. We attempted to minimise this by ensuring that the associated teacher and the interventionist were different people, but some potential for bias remains. It is notoriously difficult to adequately blind the measurement of school‐based outcomes when the intervention is being delivered in school. In addition, due to the restrictions imposed as a consequence of the pandemic, the training model was updated from face‐to‐face delivery to online delivery with reliance on some level of independent learning. Although trainers asked schools whether they watched the presentation at the start of the story writing session, we are unable to accurately assess whether interventionists did watch the presentation and whether they effectively processed this information. This was much clearer during the face‐to‐face training where sessions were interactive, and more flexible use of activities could check understanding. Given the importance of the psychoeducation training, failing to access and engage with this independent learning could have had an impact on the effectiveness of the intervention. Finally, our preference would have been to use the goal‐based outcome measure as our primary outcome measure, however, a validated instrument was favoured by the funder. The challenge with a single validated outcome measure was that Social Stories™ are a complex intervention that can target a number of goals in the life of an autistic child and no single measure was likely to capture outcomes well. Furthermore, using a generic child quality of life measure has advantages related to comparability but may not be a well‐suited measure to a population of autistic children. Improved ways of considering outcome measures in pragmatic trials of complex interventions are needed.
+
+### E68765E5D9 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Discussion | page -
+Furthermore, using a generic child quality of life measure has advantages related to comparability but may not be a well‐suited measure to a population of autistic children. Improved ways of considering outcome measures in pragmatic trials of complex interventions are needed.
+
+Given the uncertainty of our findings in light of the COVID‐19 pandemic which substantially impacted the delivery of the trial post‐March 2020, we cannot definitively rule out the possibility that Social Stories™ are of greater benefit to autistic children, especially when delivered at an adequate dose and with maximum fidelity. The study reported here achieved smaller effect sizes than the feasibility study reported previously (Wright et al., 2016) and this could have been related to the effects of the pandemic noted above. Because of this, there may be value in further research around Social Stories™, particularly with regards to the impact on specific goals or sub‐goals. Indeed, a systematic review exploring the impact of Social Stories concluded that they are most beneficial when used to target specific socio‐emotional goals rather than teach general social skills (Kokina & Kern, 2010). Improved research designs should attempt to capture wider outcomes such as the value of teacher/parent interaction in understanding and planning support for the child.
+
+Based on the evidence generated through this trial we cannot recommend Social Stories™ for the purposes of improving social skills, anxiety and /or depression, parental stress and general health in autistic children. However, we did not find any negative effects and Social Stories™ are already frequently used in schools to support autistic children and represent a low‐cost and potentially cost‐saving intervention (Wang et al., 2024). Despite limited evident impact on global social skills, Social Stories™ require dialogue between parents and school staff to better understand the specific needs of autistic children. They are viewed very positively by parents and teachers and are a positive way of delivering social information and promoting the achievement of tailored socio‐emotional goals for autistic children (Wright et al., 2024). Their usage should be at the school's discretion.
+
+### 0AC5728891 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > What is known? | page -
+- Social StoriesTM provide children with social information. The intervention involves parents and teachers (and where possible children) discussing the needs of the child.
+
+### 9C5B35047E | Effects of Parent-Implemented Interventions on Outcomes of Children with Autism: A Meta-Analysis | Keywords > Method > Computation of Effect Size Estimates | page -
+Different statistical values (e.g., f-tests, means and standard deviations, and p-values) reported in studies were initially converted to the standard metric of Cohen’s d using the Meta-Analysis Calculator (Wilson, 2021). Since several studies had low numbers of participants, we converted all effect sizes to Hedge’s g values to reduce bias associated with differences in variance that can occur in small studies (Marfo & Okyere, 2019). Where analyses were reported as statistically significant with no statistic provided, the corresponding alpha level determined the g value (assuming two-tailed alpha = 0.05 unless noted otherwise). Effect size g = 0 was set for analyses that report non-significant results with no additional information. These procedures yielded conservative effect size estimates. The direction of all effect sizes was coded uniformly: positive values indicate improved child outcomes as a function of the intervention, and negative values indicate a deleterious effect relative to the comparison group.
+
+When studies reported multiple measures of child functioning at both pre-test and post-test, we extracted every effect size that was conceptually aligned with the description of the intervention, and we coded for differences across types of outcomes (e.g., separating effect sizes based on evaluations of child language/communication scores from those based on child adaptive behavior scores). We avoided coding effect sizes based solely on broad screeners or comprehensive diagnostic batteries inappropriately used as outcome measures. To avoid violating the assumption of statistical independence we averaged multiple effect sizes within studies, weighted by standard error or the number of participants evaluated, such that our omnibus analysis included only one effect size per study.
+
+### AF61F75909 | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Level of Evidence | page -
+Table 2
+Study characteristics.
+| Citation and methodology | Aim or objectives | Outcome measures | Results | Methodological quality |
+|---|---|---|---|---|
+| Ingersoll and Berger [43] Ingersoll et al [44] Pickard et al [45] RCTd | Compare parent engagement and effectiveness in self-directed and therapist-assisted versions of a novel telehealth-based parent-mediated intervention for young children with ASD | Parent outcome measures: ImPACT knowledge quiz: 20-item multiple choice quiz taken prepost intervention | Intervention completion was a significant predictor of postintervention knowledge (P=.01) in both groups. | Kmet rating: strong (85%) NHMRC level of evidence: level II |
+|  |  | Videotape parent-child interaction for intervention fidelity using the ImPACT intervention fidelity checklist | Intervention completion (P=.3) and group assignment (P=.45) made significant independent contributions to treatment fidelity. Post intervention fidelity for both groups was significant (P=.004) Statistically significant improvement prepost in parent intervention fidelity in both groups (P<.01, Large effect size: Cohen d=3.21) as well as between groups post intervention (P<.01, Large effect size: Cohen d=0.3). At follow-up statistically significant (P<.001, Large effect size: Cohen d=2.92) prepost in both groups but not between groups. | Kmet rating: strong (85%) NHMRC level of evidence: level II |
+|  |  | Parent sense of competence scale | Statistically significant improvement (P<.01, Large effect size: Cohen d=3.34) prepost intervention in self-efficacy in both groups but not between groups. |  |
+|  |  | Parent sense of competence scale | Statistically significant improvement (P<.01, Large effect size: Cohen d=1.34) prepost intervention in self-efficacy in both groups but not between groups. |  |
+|  |  | Family impact questionnaire | Statistically significant improvement (P<.05, Large effect size: Cohen d=1.03) prepost in parent stress in both groups but not between groups post intervention. Statistically significant improvement (P<.05, Large effect size: Cohen d=1.47) prepost in positive perception of the child in both groups as well as between groups post intervention (P<.05, Large effect size: Cohen d=1.16). |  |
+
+### 77529E9FD5 | Improving early childhood development: WHO guideline | QUALITY ASSESSMENT AND GRADING OF EVIDENCE | page 19
+The systematic reviews based on the review questions were used to summarize and appraise the evidence. The results of the systematic reviews were presented to the GDG, along with an assessment of the confidence in the estimates of effect for the critical outcomes. Evidence profiles were prepared according to the GRADE approach, to assess the overall quality of the evidence. The evidence for each outcome was rated as “high” , “moderate” , “low” , or “very low” , based on a set of criteria including risk of bias, inconsistency, imprecision, indirectness and publication bias. The evidence-retrieval process for the priority questions followed the standard outlined in the WHO handbook for guideline development (WHO, 2014a), as follows: I. Commission systematic reviews. The WHO Steering Group reviewed the questions identified and commissioned two systematic reviews. A protocol for each review was developed by expert review teams that included search terms and a strategy according to the inclusion and exclusion criteria for the PICOs defined ( Annex 2). II. The quality assessment of the evidence was performed according to GRADE considering study design (randomized controlled trial [RCT] or observational studies), risk of bias, inconsistency, indirectness, imprecision and risk of reporting bias. III. Review teams were asked to provide their assessment of the quality of evidence.
+
+At the time of the GDG meeting and a subsequent teleconference, the GDG members were also asked to indicate their confidence in the evidence based on the following criteria: Quality Definition Implications High The GDG is very confident that the true effect lies close to that of the estimate of the effect Further research is very unlikely to change confidence in the estimate of effect Moderate The GDG is moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate Low Confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the true effect Further research is very likely to have an important impact on confidence in the estimate of effect and is unlikely to change the estimate Very low The group has very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect Any estimate of effect is very uncertain The reviews and meta-analyses are available as online annexes : www.who.int/maternal_child_adolescent/guidelines/SR_Caregiving_interventions_ECD_Jeong_Final_Nov2018.pdf?ua=1 www.who.int/maternal_child_adolescent/guidelines/SR_Psych_Therapeutic_interventions_ECD_Rahman_Final_Sept2018.pdf?ua=1 6 7Guideline development process
+
+### 63846DF8CF | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | 0.843 | 0.357 | 2.37 | 0.018 | 0.14 | 1.54 |
+| Time point |  |  |  |  |  |  |
+| Month 6 | 0.91 | 0.25 | 3.64 | <0.001 | 0.42 | 1.40 |
+| Allocation × Time point |  |  |  |  |  |  |
+| Social Stories × Month 6 | 0.13 | 0.36 | 0.35 | 0.723 | -0.58 | 0.84 |
+| SEN status |  |  |  |  |  |  |
+| SEN | -0.47 | 0.56 | -0.84 | 0.400 | -1.56 | 0.62 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | 0.14 | 0.34 | 0.40 | 0.688 | -0.53 | 0.81 |
+| Baseline score | 0.23 | 0.07 | 3.34 | 0.001 | 0.10 | 0.37 |
+| Age | 0.05 | 0.08 | 0.64 | 0.523 | -0.11 | 0.21 |
+| Sex |  |  |  |  |  |  |
+| Female | 0.26 | 0.31 | 0.86 | 0.389 | -0.34 | 0.86 |
+| Intercept | 3.23 | 0.75 | 4.32 | <0.001 | 1.77 | 4.70 |
+| Variance components | Coef. | Std. err. |  |  | 95% conf. interval |
+| School random intercept | 0.61 | 0.38 |  |  | 0.18 | 2.05 |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### D863EF3404 | Parent-Mediated Interventions for Children and Adolescents With Autism Spectrum Disorders: A Systematic Review and Meta-Analysis | Discussion | page -
+The current systematic review identified 30 RCTs of PMIs for children and adolescents with ASD. The results showed a clinically relevant effect on parent-rated adaptive functioning but no effect when the outcome was rated by a clinician. Moreover, PMIs may be a valuable treatment for disruptive behavior in children and adolescents with ASD. There was no effect on core symptoms of ASD (both parent- and clinician-rated), parent-rated adaptive functioning after 6 months or adverse effects. No studies reported on anxiety or parent-rated quality of life of the child. The certainty of the effect estimates reported in the studies was moderate to very low due to serious risk of bias and very serious risk of imprecision; thus, the effect of PMIs on children and adolescents with ASD is still uncertain. A qualitative synthesis of the studies revealed significant variability across studies.
+
+Meanwhile, previous reviews (10, 13–16) presented evidence in favor of PMIs and emphasized the positive effect of PMIs on joint attention and social interaction in the parent-child dyad, which was not among the prespecified outcomes of this review (10, 15, 16).
+
+This meta-analysis suggests a clinically relevant effect of PMIs for children and adolescents with ASD on parent-rated adaptive functioning, which was not found in the review and meta-analysis by Oono et al. (10). This may be explained by the inclusion of more studies in our review compared to Oono et al. (10) and thus an increase in power. This is a strong indicator of the efficacy of PMIs, since none of the interventions directly affects adaptive functioning, and the positive outcome on adaptive functioning could be a cascading effect of the PMIs.
+
+The results from the meta-analysis align with results from previous reviews regarding favorable results of child disruptive behavior (14, 15). Interestingly, interventions targeting behavior as well as social communication and joint attention for younger children demonstrated positive effects of PMIs on disruptive behavior (50).
+
+Previous reviews have also identified minor improvements in core symptoms of ASD in children participating in PMIs (10, 13), which was not confirmed in this meta-analysis. However, the clinician-rated core symptom measures favored of the PMIs, with a non-significant but clinically relevant effect.
+
+### D4CFBA5F21 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Introduction | page -
+Autism is a lifelong neurodevelopmental condition characterised by differences in social communication and interaction, and restricted, repetitive patterns of behaviour and interests (Lai, Lombardo, & Baron‐Cohen, 2014). Around one in 57 (1.76%) children in England are autistic (Roman‐Urrestarazu et al., 2021) and the cost of supporting these children is estimated to be between three and four times that of a typically developing child (Barrett et al., 2015). Autistic individuals require varying levels of support from different services (such as the NHS, schools, local authorities and charitable organisations). They can experience difficulties in relation to quality of life, relationships, employment and standards of living owing to the difficulty trying to navigate a neurotypical world (Knapp, Romeo, & Beecham, 2009).
+
+The educational environment can present specific challenges for autistic children (Simpson, de Boer‐Ott, & Smith‐Myles, 2003) such as busy classroom environments, changes in school routines and difficulties navigating peer relationships. These were particularly prevalent during the COVID‐19 pandemic, impacting autistic children more negatively than neurotypical children (Morris, Hope, Foulsham, & Mills, 2023). There is a need for low‐cost, child‐friendly and evidence‐based interventions that can be delivered in community settings, such as schools, that may potentially reduce the need for specialist referral to health and education services.
+
+This study explores whether one promising intervention could be effective in supporting autistic children in primary school. Carol Gray's Social Stories™ are a highly personalised intervention aiming to share accurate, meaningful social information about a particular goal or topic that the child needs support with in a positive and reassuring way in the form of a short story (Williams & Wright, 2016). Social Stories™ can be written and delivered both in school and at home and whilst requiring careful construction, need minimal input from experts. Previous studies have suggested that following exposure to tailored Social Stories™, autistic children have shown improvements in managing mealtime difficulties (Bledsoe, Smith, & Simpson, 2003), making independent choices and playing appropriately (Barry & Burlew, 2004), reducing anxiety (O'Connor, 2009), supporting improved communication (Adams, Gouvousis, VanLue, & Waldron, 2004), managing and reducing frustrations (Adams et al., 2004) and improving emotional regulation (Kuttler, Myles, & Carlson, 1998; Lorimer, Simpson, Smith Myles, & Ganz, 2002; Ozdemir, 2008).
+
+### F8363B9FFA | School-Based Interventions for Increasing Autistic Pupils’ Social Inclusion in Mainstream Schools: A Systematic Review | End matter (original) > Appendix | page -
+Table 4
+Overview of the reviewed studies at each level of school environment (N = 56)
+| Study | N (All/ASD) | N ASD girls | Age (years) | Setting | Intervention | Outcome measure | Analysis method | Results (Effect size) |
+|---|---|---|---|---|---|---|---|---|
+| Kasari et al., 2016 (US) | 57/57 | 9/48 | 8 | 1 | Skill training: greet, nonverbal talk, humor, coping, friendship tips (SKILL) | Obs, engaged joint | GLMM | Pr < Po |
+|  |  |  |  | PN, centrality PN, outdegree PN, indegree |  | Pr = Po Pr = Po Pr = Po |
+| Laushey et al., 2009 (US) | 4/4 | 0:4 | 1-4th grade | 1 | Skill training through concept diagrams (CONCEPT MASTER ROUTINE) | Obs, N RESP to question Obs, N INIT | visual inspection, descriptives | Pr < Po (PDO = .67–1) Pr < Po (PDO = 1) |
+| Sabey et al., 2020 (US) | 3/3 | 1:2 | 7–11 | 1 | Skills training: start a conversation, join a game, ask others to join a game | Obs, N INTER proper verbal | visual inspection, descriptives | Pr < Po (Tau-U = .91) |
+|  |  |  |  | Obs, N P-RESP pos/neg/none |  | Pr = Po |
+| Sansosti & Powell-Smith, 2006 (US) | 1/1 | 0:1 | 10 | 1 | SOCIAL STORIES | Obs, join social activities | visual inspection, descriptives | Pr = Po |
+| Golzari et al., 2015 (IR) | 30/30 | 0:30 | 6–12 | 1 | SOCIAL STORIES | Obs, N INIT Obs, dur INTER | ANCOVA | C < E (ƞ2 = .20) C < E (ƞ2 = .23) |
+
+### 4FD7CE5F42 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Assumption | CACE estimate (95% CI) | p-value |
+| Compliance data are missing completely at random | -3.37 (-6.65 to -0.10) | 0.043 |
+| Intervention group participants missing compliance data are compliers (i.e. received at least 6 story sessions)) | -1.87 (-4.68 to 0.93) | 0.110 |
+| Intervention group participants missing compliance data are non-compliers (i.e. received less than 6 story sessions)) | -2.59 (-6.27 to 1.08) | 0.167 |
+
+### 1D2E4C6202 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+| Fixed Effects (p* < 0.001) | Coef. | Std. err. | z | P>|z| | 95% conf. interval |
+| Allocation |  |  |  |  |  |  |
+| Social Stories | -3.37 | 1.67 | -2.02 | 0.043 | -6.65 | -0.10 |
+| SEN status |  |  |  |  |  |  |
+| SEN | 4.05 | 2.49 | 1.63 | 0.104 | -0.83 | 8.93 |
+| School cluster size |  |  |  |  |  |  |
+| >5 children | -0.25 | 1.45 | -0.17 | 0.864 | -3.10 | 2.60 |
+| Baseline score | 0.55 | 0.06 | 8.65 | <0.001 | 0.42 | 0.67 |
+| Age | 0.04 | 0.39 | 0.09 | 0.929 | -0.73 | 0.80 |
+| Sex |  |  |  |  |  |  |
+| Female | 2.33 | 1.50 | 1.56 | 0.119 | -0.60 | 5.27 |
+| Intercept | 30.28 | 5.73 | 5.28 | <0.001 | 19.05 | 41.51 |
+| Variance components | Coef. |  |  |  |  |
+| School random intercept | 4.72 |  |  |  |  |  |
+| Residual variance | 78.20 |  |  |  |  |  |
+*p-value for test of the hypothesis that all fixed effects are zero
+
+### ED857D6FCF | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Supporting information | page -
+|  | Control (N = 120) | Intervention (N = 129) | Total (N = 249) |
+| Age (years) |  |  |  |
+| N | 120 | 129 | 249 |
+| Mean (SD) | 8.6 (1.8) | 8.5 (1.7) | 8.5 (1.7) |
+| Median (Q1, Q3) | 8.9 (7.2, 10.0) | 8.7 (7.2, 9.8) | 8.7 (7.2, 9.9) |
+| Min, Max | 4.9, 11.4 | 4.5, 11.9 | 4.5, 11.9 |
+| Sex, n (%) |  |  |  |
+| Male | 90 (75.0) | 95 (73.6) | 185 (74.3) |
+| Female | 30 (25.0) | 34 (26.4) | 64 (25.7) |
+| Ethnicity, n (%) |  |  |  |
+| White - British | 103 (85.8) | 107 (82.9) | 210 (84.3) |
+| White - Irish | 1 (0.8) | 0 (0.0) | 1 (0.4) |
+| White - Gypsy1/Traveller | 0 (0.0) | 1 (0.8) | 1 (0.4) |
+| White - Other | 2 (1.7) | 6 (4.7) | 8 (3.2) |
+| Black - African | 1 (0.8) | 1 (0.8) | 2 (0.8) |
+| Asian - Indian | 2 (1.7) | 0 (0.0) | 2 (0.8) |
+| Asian - Pakistani | 1 (0.8) | 5 (3.9) | 6 (2.4) |
+| Asian - Bangladeshi | 1 (0.8) | 0 (0.0) | 1 (0.4) |
+| Asian - Chinese | 0 (0.0) | 1 (0.8) | 1 (0.4) |
+| Asian - Other | 0 (0.0) | 2 (1.6) | 2 (0.8) |
+
+### 2244A54A81 | Autism in Viet Nam: A systematic scoping review | sj-docx-1-aut-10.1177_13623613261425838 – Supplemental material for Autism in Viet Nam: A systematic scoping review | page -
+Table 1.
+Studies Included in Systematic Scoping Review.
+| Study | Publication Type | Country in which the study was conducted | Study setting | Study design | Formal autism diagnosis | Thematic area |
+| Thảo et al. (2022) | Peer Reviewed Journal | Viet Nam | School | Other: Pre- and post- test | Unclear | Interventions |
+| Hà (2019) | Not Peer Reviewed Journal | Viet Nam | School | Other: Case study | Unclear | Services and Supports |
+| Đinh et al. (2020) | Peer Reviewed Journal | Viet Nam | Other: Commune health centre | Cross sectional study | Unclear | Services and Supports |
+| Thương, Do Thi, and Le Thi (2021) | Peer Reviewed Journal | Viet Nam | School; Other: Specialised centres | Cross sectional study | Unclear | Interventions |
+| Kế (2020) | Not Peer Reviewed Journal | Viet Nam | School | Cross sectional study | Unclear | Services and Supports |
+| Dung (2023) | Not Peer Reviewed Journal | Viet Nam | School | Cross sectional study | Unclear | Interventions |
+| Phương and Phi (2019) | Not Peer Reviewed Journal | Viet Nam | School | Cross sectional study | Unclear | Infrastructure and Surveillance |
+| Hằng, Hằng, Hà, and Anh (2019) | Peer Reviewed Journal | Viet Nam | School | Cross sectional study | Unclear | Biology |
+| Dương (2020) | Not Peer Reviewed Journal | Viet Nam | School | Qualitative research | No | Interventions |
+| Minh (2023) | Not Peer Reviewed Journal | Viet Nam | School | Cross sectional study | Unclear | Services and Supports |
+| Hòa and Kế (2023) | Not Peer Reviewed Journal | Viet Nam | School; Other: Early intervention centres | Cross sectional study | No | Services and Supports |
+| Minh (2020) | Not Peer Reviewed Journal | Viet Nam | School | Other: Descriptive study | Unclear | Services and Supports |
+| Hài, Bền, and Tuấn (2022) | Not Peer Reviewed Journal | Viet Nam | School | Cross sectional study | Unclear | Interventions |
+| Lan (2012a) | Peer Reviewed Journal | Viet Nam | Unclear | Cross sectional study | Unclear | Services and Supports |
+| Hứa et al. (2020) | Peer Reviewed Journal | Viet Nam | Hospital | Non-randomised experimental study | No | Interventions |
+| Xuân and Ngọc (2024) | Not Peer Reviewed Journal | Viet Nam | School | Cross sectional study | No | Services and Supports |
+
+### 19724447AC | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Introduction | page -
+This cluster randomised controlled trial (RCT) followed a feasibility study (Marshall et al., 2016) that demonstrated a high degree of acceptability with young people, families and schools. As outlined in the study protocol (Wright et al., 2020), the aim of this trial was to assess whether Social Stories™ alongside care as usual are clinically and cost‐effective in improving child social responsiveness and improving social and emotional health in autistic children in primary schools when compared with care as usual alone.
+
+### 559563A854 | Autism intervention meta-analysis of early childhood studies (Project AIM): updated systematic review and secondary analysis | Abstract > Discussion > Findings by intervention type > Naturalistic developmental behavioral interventions | page -
+Despite only being named as a category in 2015,16 NDBIs are now the most frequently studied intervention approach for this population. Summary effect estimates from randomized controlled trials suggest that NDBIs might improve adaptive behavior, language, play, social communication, and measures of diagnostic characteristics of autism, though our confidence in these estimates is limited by reliance on measures that are subject to high detection bias. In contrast to our previous meta-analysis, we found a statistically significant positive effect of NDBIs on measures of the diagnostic characteristics of autism, even when effects were restricted to outcomes from randomized controlled trials with low risk of detection bias. This was the only intervention effect we were able to estimate when accounting for all risks of bias considered. Given that diagnostic measures index core features of autism (ie, repetitive patterns of behaviors, interests, or activities, and social communication challenges), and that our other estimates suggest NDBIs have null effects on repetitive patterns of behaviors, interests, or activities but positive effects on social communication outcomes, it is likely that the positive and statistically significant estimates of NDBIs on overall measures of the diagnostic characteristics of autism were driven by improvements in social communication. We were unable to estimate summary effects of NDBIs on outcomes categorized as social communication alone when outcomes at high risk of detection bias were excluded because social communication outcomes were frequently measured using interactions with unmasked assessors (eg, caregivers) in studies of NDBIs. Most of these effects were excluded when detection bias was considered, and diagnostic measures of autism remained the only masked assessments indicating improvements in social communication in these studies. Therefore, we conclude that there is relatively strong evidence that NDBIs can have positive effects on core features associated with autism, specifically social communication differences.
+
+Using measures of diagnostic characteristics of autism (eg, Autism Diagnostic Observation Schedule, Childhood Autism Rating Scale) to index intervention outcomes could be problematic because interpreting “improved” scores on such measures as evidence of a positive intervention effect implies that the goal of an intervention is to make a child “less autistic.” Although these measures indicate difficulties associated with autism diagnosis, they also capture neutral or even beneficial aspects of autism (such as special interests). If interventions are only intended to support improvements in social communication, it is important that researchers use high quality masked assessments of this specific construct to index intervention effects, such as the Communication and Symbolic Behavior Scales39 or the Early Social Communication Scales40 as administered and coded by people who are naive to children’s group assignment.
+
+### 84B38F05B8 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > Results | page -
+from primary analysis (1 schools, 2 children) No Wk6/M6 primary outcome data available (n=2) *11 schools where all participants withdrew prior to randomisation **Two participants with no teacher completed baseline data
+
+!Original figure
+
+Baseline characteristics were well balanced between groups. Schools had a similar average number of participating pupils and SEN status (Table S1). Children were well balanced in terms of age, sex, ethnicity, age at diagnosis and Child and Adolescent Mental Health Services (CAMHS) support (Table S2).
+
+Of the 44 schools and 129 children allocated to Social Stories™, 36 schools (82%) and 95 (74%) children provided intervention delivery data. Of the children with available data, 81 (85%) received at least six story reading sessions, 13 (14%) received one to five sessions and one (1%) did not receive any sessions.
+
+Based on the availability of both completed baseline and at least one follow‐up data point, 235 (94.4%) children across 83 schools were included in the pre‐specified primary analysis model. At baseline, children scored 72 points on average on the SRS‐2 indicating a moderate level of difficulty. The average SRS‐2 scores decreased in both groups over time. At 6 weeks children allocated to Social Stories™ scored on average 1.14 points lower than those who received usual care indicating slightly greater social responsiveness but this was not statistically significant (95% CI −3.35 to 1.06, p = .310). This difference increased slightly at 6 months to 1.61 points but again was not statistical significant (95% CI −4.18 to 0.96, p = .22; Tables 1, S3 and S4).
+
+### ECC4CE4B23 | Autism Spectrum Social Stories in Schools Trial 2 (ASSSIST‐2): a pragmatic randomised controlled trial of the Social Stories™ intervention to address the social and emotional health of autistic children in UK primary schools | Key Practitioner Message > What is new? | page -
+- This was the first fully powered pragmatic cluster randomised trial evaluating the effectiveness of Carol Gray's Social StoriesTM for improving social responsiveness in autistic children.
+
+- Social StoriesTM are a low‐cost, low‐burden intervention to support autistic children within schools and at home.
+
+### 6A457DA7EA | The role of augmentative and alternative communication for children with autism: current status and future trends | Tables | page -
+Table 2
+Effect size and quality indicators
+| Indicator | Definition | Categories |
+|---|---|---|
+| Effects sizes |  |  |
+| PND39 | Percentage of nonoverlapping data – percentage of data points that are above the highest baseline data point | Highly effective =91%–100%Effective =71%–90%Questionable =51%–70%Ineffective =<51% |
+| PEM40 | Percentage of treatment data points that are above the median baseline data point | Highly effective =91%–100%Moderately effective =70%–89%Minimally effective =50%–69%Ineffective =<50% |
+| PZD | The first data point in the treatment that equals 0 and calculating the percentage of data points in treatment that stay at 0 from then on (used when the aim is to reduce a behavior) | High effectiveness =81%–100%Fair effectiveness =55%–80%Questionable effectiveness =18%–54%Ineffectiveness =<18% |
+| IRD | IRD – the improvement rate of the baseline phase is subtracted from the improvement rate of the treatment phase | Large or very large effects =>0.75Large effects =0.71–0.75Moderate effects =0.51–0.70Very small or questionable effects =<0.50 |
+| ITSACORR | Software program providing an F statistic and tests of changes in intercept and in slope for ESCD data, calculated as Glass’s delta41 | Interpreted according to confidence intervals, determined for each outcome within included studies |
+| Cohen’s d | Used for inferential statistics applied to group designs | Small effect =0.2–0.5Moderate effect =0.5–0.8Large effect =>0.8 |
+| Quality indicators |  |  |
+| Indicators of rigor of ESCD based on Horner et al37 | Indicators for core elements of participant and setting descriptions, dependent and independent variables, baseline, experimental control/internal validity, external validity, and social validity | Various ways to apply these were used across studies, some with scoring systemsaStrong =90%+Adequate =75%–90%Inadequate =<75% |
+| Indicators of rigor for experimental and quasi-experimental group studies based on Gersten et al38 | Indicators for core elements of underlying study rationale, participants/sampling, intervention descriptions and fidelity, outcome measures, data analysis | Strong =90%+Adequate =75%–90%Inadequate =<75% |
+Note:
+
+### 0D39C4CC7A | What are we targeting when we support inclusive education for autistic students? A systematic review of 233 empirical studies and call for community partnerships | Introduction | page -
+Inclusive education is now part of the international context of practice guidelines (Farrell, 2000; Frederickson & Cline, 2002; United Nations, 2006). Research has shown that autistic students experience more negative social experiences during schooling compared with other children, including those with other neurodivergent conditions or disabilities (Humphrey & Hebron, 2015; Williams et al., 2019). Furthermore, several studies found that autistic students have lower academic achievement compared with the general population (Ashburner et al., 2010; Keen et al., 2016). Multiple perspectives on the schooling of autistic students, including those of autistic students, parents, and teachers, reveal a complex inclusion process. These perspectives challenge schools to provide effective support systems to include all students, regardless of their disabilities or backgrounds (Bossaert et al., 2013; Hodkinson, 2016). Nevertheless, multiple factors influencing mainstream schooling must be considered. Different levels of influence—from individual characteristics to societal standards, values, and ideologies—hinder school participation for autistic children (Cappe & Boujut, 2016).
+
+Inclusive education may be seen as a process supporting participation, an educational approach supporting teaching practices, or a moral position aimed at equity in society (Florian, 2014). However, articulating the operational meaning of the concept of inclusion is complex, and finding a universally accepted definition that can be applied and evaluated has proven challenging (Artiles et al., 2006). Frameworks designed to capture evidence of inclusive education in action have mostly proved elusive (Florian, 2014). Diverse definitions are necessary to fully understand the complexities of this evolving concept. Several authors have argued that inclusion definitions should be informed by empirical research (Göransson & Nilholm, 2014; Hegarty, 2001; McLeskey et al., 2014).
+
+Describing interventions designed to support an inclusive process enhances the ability to prioritize effective evidence-based support strategies for application in mainstream school settings. Multiple target outcomes can support the general goal of school inclusion. A typology of targeted outcome dimensions derived from experimental research provides scientific insights into what constitutes “inclusive education.” However, internationally available case studies highlight the contextual nature of this process. The prioritization of best practices and the development of general guidelines must be approached with considerable care. Scientific literature often advocates for controlled conditions in building research designs to prove the effectiveness of interventions. Nevertheless, the reality of school-based practice calls for a more integrated research approach that involves multiple partners in decision-making (Grandisson et al., 2014; Parsons et al., 2013).
+
+### 2E8D8C52B5 | Parent-Mediated Interventions for Children and Adolescents With Autism Spectrum Disorders: A Systematic Review and Meta-Analysis | Results > Synthesis of the Results on Secondary Outcomes | page -
+A single study (44) reported on parent-rated adaptive functioning after 6 months of follow-up on Vineland Adaptive Behavior Scales Daily Living subscale. This study did not report an end of treatment effect, thus was included in the meta-analysis of the primary outcome (Figure 4). The study showed significant improvement in the daily living subdomain of VABS [effect size −0.62 (95% CI: −1.10, −0.13)] and the socialization subdomain [effect size−0.60 (95% CI: −1.09, −0.12)] in the PMI group compared to a psychoeducative group (44). Adverse effects were only reported in 2 of 30 studies (29, 33) and reported no adverse effects in any of the two groups (Figure 6). One of the studies compared the Early Start Denver Model to treatment as usual (29), and the other compared Pivotal Response Training to 12 sessions of psychoeducation (33). There was low certainty in the evidence due to rating down for very serious risk of imprecision because of few participating children and few studies reporting adverse effects. Thus, PMIs may not cause substantial adverse effects.
+
+Figure 6
+
+Forest plot of comparison: PMI vs. no PMI, outcome: adverse effects.
+
+[Original asset: fpsyt-12-773604-g0006.jpg; see source article]
+
+Seven studies reported the effect of PMIs on parent-rated core symptoms of ASD (30, 31, 33, 35, 43, 44, 49). No relevant effect was found [SMD: 0.06 (95% CI: −0.18, 0.30)] (Figure 7). The degree of heterogeneity was low for the parent-rated outcome (I = 20%). The results showed no subgroup differences between the different targets of PMIs, e.g., language and disruptive behavior (p = 0.91). There was low certainty in the evidence due to rating down for serious risk of bias because of lack of blinding of participants and outcome assessors, as well as serious risk of imprecision due to few participating children. Thus, PMIs may result in little or no clinical relevant change in parent-rated autism core symptoms.
+
+Figure 7
+
+Forest plot of comparison: PMI vs. no PMI, outcome: autism core symptoms, parent-rated.
+
+[Original asset: fpsyt-12-773604-g0007.jpg; see source article]
+

@@ -1,0 +1,67 @@
+﻿question_id,query_category,query_complexity,answerability,expected_evidence_status,annotation_status,label_tier,annotation_completeness,n_judged,n_grade3,n_grade2,n_grade1,n_grade0,n_conflicting,n_relevant_sources,open_issues,needs_adjudication,human_review_priority
+q001,basic_knowledge,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,10,3,4,1,2,0,4,single_annotator_only,no,low
+q002,basic_knowledge,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,11,3,4,2,2,0,5,"evidence_dated: số liệu Mỹ trong corpus là ước tính cũ (1/54, NIDCD 2020)",no,medium
+q003,basic_knowledge,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,2,3,1,1,0,3,single_annotator_only,no,low
+q004,basic_knowledge,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,2,3,0,1,0,3,single_annotator_only,no,low
+q005,basic_knowledge,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,9,3,4,0,2,0,2,single_annotator_only,no,low
+q006,basic_knowledge,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,5,1,2,2,0,0,2,evidence_thin: chủ yếu 1 tổng quan + 1 bài đánh giá,no,medium
+q007,signs_symptoms,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,1,3,2,2,0,3,single_annotator_only,no,low
+q008,signs_symptoms,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,2,5,0,1,0,2,single_annotator_only,no,low
+q009,signs_symptoms,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,4,2,2,0,0,0,3,single_annotator_only,no,low
+q010,signs_symptoms,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,partial,5,1,1,2,1,0,2,pool_incomplete: phần thân ASD-NEW-001 chưa đọc hết,no,medium
+q011,signs_symptoms,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,7,1,3,2,1,0,2,evidence_excluded: thân bài ASD-OA-PMC12593641 không có trong tập embed,no,medium
+q012,signs_symptoms,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,6,0,3,2,1,0,2,evidence_thin: không có câu khẳng định trực tiếp về thoái lui,no,medium
+q013,social_communication,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,2,3,0,1,0,4,single_annotator_only,no,low
+q014,aac_communication_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,1,6,0,1,0,4,single_annotator_only,no,low
+q015,aac_communication_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,1,3,2,0,0,3,single_annotator_only,no,low
+q016,social_communication,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,9,0,4,2,3,0,3,evidence_thin: không có chunk định nghĩa joint attention,no,medium
+q017,social_communication,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,2,2,2,1,0,2,single_annotator_only,no,low
+q018,social_communication,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,2,3,1,2,0,3,single_annotator_only,no,low
+q019,repetitive_restricted,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,2,3,1,2,0,5,single_annotator_only,no,low
+q020,repetitive_restricted,complex,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,9,1,7,1,0,0,1,single_annotator_only,no,low
+q021,repetitive_restricted,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,10,2,5,1,2,0,2,evidence_excluded: 14 chunk thân session 7 WHO-CST bị loại (unclassified),no,medium
+q022,repetitive_restricted,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,2,3,0,1,0,2,single_annotator_only,no,low
+q023,repetitive_restricted,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,5,0,1,2,2,0,1,evidence_thin: không có bằng chứng trực tiếp,no,medium
+q024,assessment_diagnosis,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,10,3,5,1,1,0,4,single_annotator_only,no,low
+q025,assessment_diagnosis,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,3,3,0,2,0,3,single_annotator_only,no,low
+q026,assessment_diagnosis,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,2,2,2,0,0,3,single_annotator_only,no,low
+q027,assessment_diagnosis,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,4,3,1,0,0,3,single_annotator_only,no,low
+q028,assessment_diagnosis,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,2,2,2,1,0,2,single_annotator_only,no,low
+q029,assessment_diagnosis,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,9,3,4,0,2,0,5,single_annotator_only,no,low
+q030,assessment_diagnosis,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,2,3,1,1,0,3,single_annotator_only,no,low
+q031,intervention_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,9,2,5,1,1,0,5,single_annotator_only,no,low
+q032,intervention_support,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,1,4,1,1,0,3,single_annotator_only,no,low
+q033,intervention_support,complex,answerable,conflicting,annotated_single,silver_single_annotator,complete_for_judged_pool,9,2,3,1,2,1,4,conflict_needs_expert: mức hiệu quả khác nhau giữa 2 meta-analysis,yes,high
+q034,intervention_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,9,3,4,1,1,0,2,single_annotator_only,no,low
+q035,intervention_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,2,4,1,1,0,2,single_annotator_only,no,low
+q036,intervention_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,4,1,2,1,0,2,single_annotator_only,no,low
+q037,intervention_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,1,4,0,1,0,2,single_annotator_only,no,low
+q038,intervention_support,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,2,0,4,1,0,2,single_annotator_only,no,low
+q039,intervention_support,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,2,4,2,0,0,4,single_annotator_only,no,low
+q040,intervention_support,moderate,partially_answerable,partial,annotated_single,silver_single_annotator,partial,7,2,2,2,1,0,2,pool_incomplete: lợi ích học bơi mới xét ở mức tóm tắt,no,medium
+q041,sensory,complex,answerable,conflicting,annotated_single,silver_single_annotator,complete_for_judged_pool,9,3,3,0,1,2,4,conflict_needs_expert: SenITA/AAP vs tổng quan ASI,yes,high
+q042,sensory,complex,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,5,0,3,2,0,0,3,evidence_thin: phải ghép từ nhiều chunk,no,medium
+q043,sensory,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,8,2,5,1,0,0,1,single_annotator_only,no,low
+q044,sensory,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,2,1,2,1,0,1,single_annotator_only,no,low
+q045,sensory,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,4,2,1,0,1,0,1,single_annotator_only,no,low
+q046,development_milestones,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,4,0,1,2,0,1,single_annotator_only,no,low
+q047,development_milestones,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,4,0,0,2,0,1,single_annotator_only,no,low
+q048,development_milestones,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,9,2,5,0,2,0,2,single_annotator_only,no,low
+q049,development_milestones,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,1,4,1,1,0,1,single_annotator_only,no,low
+q050,development_milestones,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,1,3,1,1,0,2,single_annotator_only,no,low
+q051,development_milestones,simple,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,6,3,2,0,1,0,2,single_annotator_only,no,medium
+q052,multi_aspect,complex,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,3,4,0,0,0,6,single_annotator_only,no,high
+q053,multi_aspect,complex,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,7,2,4,0,1,0,5,single_annotator_only,no,high
+q054,multi_source,complex,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,5,0,4,0,0,1,3,conflict_needs_expert; evidence_thin: không có so sánh trực tiếp,yes,high
+q055,multi_aspect,complex,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,5,1,2,1,1,0,3,single_annotator_only,no,high
+q056,multi_aspect,complex,partially_answerable,partial,annotated_single,silver_single_annotator,complete_for_judged_pool,5,1,2,1,1,0,2,"evidence_thin: nguồn tuổi teen chung, không riêng tự kỷ",no,high
+q057,insufficient_out_of_scope,simple,unanswerable,insufficient,verified_unanswerable,silver_single_annotator,partial,2,0,0,0,2,0,0,pool_incomplete: sự vắng mặt mới xác minh bằng từ khóa,no,high
+q058,insufficient_out_of_scope,simple,blocked,blocked,annotated_single,silver_single_annotator,complete_for_judged_pool,3,0,0,2,1,0,0,policy_confirm: blocked (yêu cầu liều thuốc) cần chủ dự án/chuyên gia xác nhận,yes,high
+q059,insufficient_out_of_scope,simple,unanswerable,insufficient,verified_unanswerable,silver_single_annotator,partial,0,0,0,0,0,0,0,pool_incomplete: sự vắng mặt mới xác minh bằng từ khóa,no,high
+q060,insufficient_out_of_scope,moderate,answerable,conflicting,annotated_single,silver_single_annotator,complete_for_judged_pool,4,1,1,1,0,1,2,conflict_needs_expert: chưa chứng minh vs lợi ích ở nhóm con,yes,high
+q061,insufficient_out_of_scope,moderate,blocked,blocked,annotated_single,silver_single_annotator,complete_for_judged_pool,3,0,3,0,0,0,3,policy_confirm: blocked (yêu cầu chẩn đoán cá nhân),yes,high
+q062,insufficient_out_of_scope,simple,out_of_scope,not_applicable,not_applicable,not_applicable,not_applicable,0,0,0,0,0,0,0,single_annotator_only,no,low
+q063,social_communication,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,6,3,2,1,0,0,5,single_annotator_only,no,low
+q064,signs_symptoms,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,5,1,2,2,0,0,3,single_annotator_only,no,low
+q065,assessment_diagnosis,simple,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,4,1,2,1,0,0,2,single_annotator_only,no,low
+q066,assessment_diagnosis,moderate,answerable,sufficient,annotated_single,silver_single_annotator,complete_for_judged_pool,5,1,3,1,0,0,2,single_annotator_only,no,low

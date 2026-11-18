@@ -1,0 +1,464 @@
+{
+ "q001_definition": {
+  "query": "Rối loạn phổ tự kỷ là gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Rối loạn phổ tự kỷ (Autism Spectrum Disorder – ASD) là một rối loạn phát triển thần kinh, ảnh hưởng đến giao tiếp, tương tác xã hội và có thể biểu hiện qua các hành vi, sở thích hoặc hoạt động hạn chế, lặp lại. Biểu hiện và nhu cầu hỗ trợ khác nhau ở mỗi người.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "NIH-NIMH-ASD-2025",
+   "CDC-ASD-CLINICAL"
+  ],
+  "support_types": [
+   "generic",
+   "generic"
+  ],
+  "error_code": null
+ },
+ "q003_risk_factors": {
+  "query": "Những yếu tố nào làm tăng nguy cơ tự kỷ?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Hiện chưa xác định được một nguyên nhân duy nhất gây ra tự kỷ. Nhiều yếu tố — di truyền, sinh học và môi trường — được ghi nhận có liên quan đến nguy cơ cao hơn, ví dụ: có anh/chị/em mắc ASD, một số tình trạng gen/nhiễm sắc thể (như hội chứng X mong manh), biến chứng khi sinh, hoặc cha mẹ sinh con ở tuổi lớn hơn. Có một yếu tố nguy cơ không có nghĩa là trẻ chắc chắn mắc ASD.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "CDC-ASD-ABOUT",
+   "NIH-NIMH-ASD-2025"
+  ],
+  "support_types": [
+   "direct",
+   "indirect"
+  ],
+  "error_code": null
+ },
+ "q026_screening_age": {
+  "query": "Nên sàng lọc tự kỷ cho trẻ vào độ tuổi nào?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Theo khuyến nghị của Viện Hàn lâm Nhi khoa Hoa Kỳ (AAP), trẻ nên được sàng lọc phát triển chung ở 9, 18 và 30 tháng tuổi, và sàng lọc đặc hiệu cho tự kỷ ở 18 và 24 tháng tuổi, hoặc bất cứ khi nào cha mẹ hay người chăm sóc có lo ngại.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "CDC-ASD-SCREENING",
+   "CDC-CONCERNED",
+   "CDC-ASD-SCREENING",
+   "NIH-NIMH-ASD-2025"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "q027_dsm5": {
+  "query": "Tiêu chuẩn DSM-5 cho tự kỷ gồm những gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Theo Cẩm nang Chẩn đoán và Thống kê Rối loạn Tâm thần, phiên bản 5 (DSM-5), để được chẩn đoán ASD, trẻ cần có đủ các biểu hiện suy giảm trong giao tiếp/tương tác xã hội, cộng với ít nhất hai trong số các hành vi hạn chế, lặp lại (ví dụ: hành vi rập khuôn, cứng nhắc với thói quen, sở thích thu hẹp, hoặc phản ứng bất thường với kích thích giác quan). Mức độ hỗ trợ cần thiết được phân theo 3 cấp độ.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "CDC-ASD-CLINICAL",
+   "CDC-ASD-CLINICAL"
+  ],
+  "support_types": [
+   "indirect",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "q024_diagnosis": {
+  "query": "Tự kỷ được chẩn đoán như thế nào?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Hiện chưa có xét nghiệm y khoa đơn lẻ (như xét nghiệm máu) để chẩn đoán tự kỷ. Bác sĩ chẩn đoán dựa trên quan sát hành vi và quá trình phát triển của trẻ, thường có thể chẩn đoán tin cậy từ 2 tuổi. Phát hiện và can thiệp sớm giúp ích nhiều, nên nếu có lo ngại, cha mẹ nên đưa trẻ đi đánh giá chuyên môn sớm — một bài tự kiểm tra hoặc quan sát tại nhà không thể thay thế đánh giá của chuyên gia.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "NIH-NIMH-ASD-2025",
+   "CDC-ASD-CLINICAL",
+   "NIH-NIMH-ASD-2025",
+   "CDC-ASD-CLINICAL"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "q035_aba": {
+  "query": "Can thiệp hành vi (ABA) cho trẻ tự kỷ gồm những gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Các phương pháp can thiệp hành vi (như Applied Behavior Analysis – ABA) tập trung thay đổi hành vi bằng cách hiểu điều gì xảy ra trước và sau một hành vi; đây là nhóm can thiệp có nhiều bằng chứng khoa học nhất hiện nay cho các triệu chứng cốt lõi của ASD.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "CDC-ASD-TREATMENT"
+  ],
+  "support_types": [
+   "direct"
+  ],
+  "error_code": null
+ },
+ "q057_vaccine": {
+  "query": "Vắc-xin có gây tự kỷ không?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Không — các tổng quan y văn không tìm thấy bằng chứng cho thấy vắc-xin gây ra tự kỷ. Tuyên bố liên hệ vắc-xin với tự kỷ bắt nguồn từ một nghiên cứu đã bị rút lại (retracted) và không được các nghiên cứu sau đó xác nhận.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-OA-PMC12620806"
+  ],
+  "support_types": [
+   "indirect"
+  ],
+  "error_code": null
+ },
+ "qe028_signs18mo": {
+  "query": "Dấu hiệu sớm của tự kỷ ở trẻ 18 tháng là gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Theo CDC, một số dấu hiệu cảnh báo (không phải mốc phát triển thông thường) theo độ tuổi gồm:\n- Does not respond to name by 9 months of age\n- Does not show facial expressions such as happy, sad, angry, and surprised by 9 months of age\n- Does not play simple interactive games like pat-a-cake by 12 months of age\n- Uses few or no gestures by 12 months of age (for example, does not wave goodbye)\n- Does not share interests with others by 15 months of age (for example, shows you an object that they like)\n- Does not point to show you something interesting by 18 months of age\n- Does not notice when others are hurt or upset by 24 months (2 years) of age\n- Does not notice other children and join them in play by 36 months (3 years) of age\n- Does not pretend to be something else, like a teacher or superhero, during play by 48 months (4 years) of age\n- Does not sing, dance, or act for you by 60 months (5 years) of age\n\nMột dấu hiệu đơn lẻ không đủ để kết luận — nếu có từ 2 dấu hiệu trở lên hoặc còn lo ngại, nên đưa trẻ đi đánh giá chuyên môn.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "CDC-ASD-SIGNS"
+  ],
+  "support_types": [
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe029_signs12mo": {
+  "query": "Có thể nhận ra dấu hiệu tự kỷ ở trẻ dưới 12 tháng không?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Theo CDC, một số dấu hiệu cảnh báo (không phải mốc phát triển thông thường) theo độ tuổi gồm:\n- Does not respond to name by 9 months of age\n- Does not show facial expressions such as happy, sad, angry, and surprised by 9 months of age\n- Does not play simple interactive games like pat-a-cake by 12 months of age\n- Uses few or no gestures by 12 months of age (for example, does not wave goodbye)\n- Does not share interests with others by 15 months of age (for example, shows you an object that they like)\n- Does not point to show you something interesting by 18 months of age\n- Does not notice when others are hurt or upset by 24 months (2 years) of age\n- Does not notice other children and join them in play by 36 months (3 years) of age\n- Does not pretend to be something else, like a teacher or superhero, during play by 48 months (4 years) of age\n- Does not sing, dance, or act for you by 60 months (5 years) of age\n\nMột dấu hiệu đơn lẻ không đủ để kết luận — nếu có từ 2 dấu hiệu trở lên hoặc còn lo ngại, nên đưa trẻ đi đánh giá chuyên môn.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "CDC-ASD-SIGNS"
+  ],
+  "support_types": [
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe036_mchat": {
+  "query": "M-CHAT-R/F là gì và độ chính xác ra sao?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "low",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "M-CHAT-R/F (Modified Checklist for Autism in Toddlers, Revised with Follow-Up) là một bảng câu hỏi sàng lọc tự kỷ cho trẻ nhỏ, mất khoảng 10 phút để hoàn thành. Theo một tổng quan hệ thống, công cụ này có độ nhạy (sensitivity) 0,85 và độ đặc hiệu (specificity) 0,99; điểm từ 8 trở lên được coi là nguy cơ cao. Đây là công cụ sàng lọc để xác định nguy cơ, không phải công cụ chẩn đoán xác định — cần được đánh giá chuyên môn tiếp theo.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-029",
+   "ASD-CSV-002"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct",
+   "direct",
+   "indirect"
+  ],
+  "error_code": null
+ },
+ "qe037_ados2": {
+  "query": "ADOS-2 là gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "low",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "ADOS-2 (Autism Diagnostic Observation Schedule, phiên bản 2) là một công cụ quan sát bán cấu trúc, được xem là tiêu chuẩn tham chiếu (\"gold standard\") để đánh giá chức năng xã hội và giao tiếp ở người có thể mắc ASD, do chuyên gia được đào tạo thực hiện. Công cụ có độ tin cậy giữa người đánh giá (interrater reliability) ở mức 0,79–0,98 giữa các mô-đun. ADOS-2 là một phần của quy trình đánh giá chẩn đoán, không phải công cụ tự làm tại nhà.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-CSV-002",
+   "ASD-CSV-002",
+   "ASD-CSV-062"
+  ],
+  "support_types": [
+   "indirect",
+   "indirect",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe044_ndbi": {
+  "query": "Can thiệp NDBI là gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "low",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Can thiệp hành vi phát triển tự nhiên (Naturalistic Developmental Behavioral Interventions – NDBI) là nhóm can thiệp được thực hiện trong bối cảnh tự nhiên của trẻ, trong đó trẻ và người can thiệp cùng chia sẻ quyền chủ động, sử dụng các hệ quả tự nhiên và nhiều kỹ thuật hành vi để dạy kỹ năng phù hợp với giai đoạn phát triển. Một tổng quan cho thấy khi kết hợp thêm công cụ giao tiếp thay thế (AAC) vào NDBI, trẻ có thể có thêm cải thiện về phát triển ngôn ngữ so với chỉ dùng NDBI.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-SUP-PMC4513196",
+   "ASD-CSV-017",
+   "ASD-SUP-PMC4513196",
+   "ASD-CSV-017"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe047_sleep": {
+  "query": "Cải thiện giấc ngủ cho trẻ tự kỷ không dùng thuốc thế nào?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Rối loạn giấc ngủ là tình trạng đồng mắc phổ biến ở trẻ tự kỷ (gặp ở khoảng 50-80% trẻ). Theo một tổng quan, các biện pháp không dùng thuốc thường được khuyến nghị thử trước, trong đó khuyến nghị có mức bằng chứng mạnh nhất là giữ giờ đi ngủ, giờ thức dậy và giờ ngủ trưa cố định, đều đặn mỗi ngày. Đây chỉ là một trong nhiều khuyến nghị được tổng quan; nguồn còn liệt kê các biện pháp khác với mức bằng chứng khác nhau mà hệ thống chưa trích xuất đầy đủ ở đây.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe048_melatonin": {
+  "query": "Melatonin có giúp trẻ tự kỷ ngủ tốt hơn không?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Theo một tổng quan tài liệu, melatonin là một trong số ít biện pháp (cùng với các can thiệp hành vi) được ghi nhận có hiệu quả khá rõ ràng trong y văn đối với rối loạn giấc ngủ ở trẻ tự kỷ. Đây là thông tin về hiệu quả nói chung, không phải hướng dẫn liều dùng — liều lượng cụ thể phải do bác sĩ quyết định.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189",
+   "ASD-OA-PMC7407189"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe049_school": {
+  "query": "Làm sao hỗ trợ trẻ tự kỷ hòa nhập ở trường phổ thông?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Theo một tổng quan hệ thống trên 56 nghiên cứu, các can thiệp hỗ trợ hòa nhập ở trường (tác động tới học sinh tự kỷ, bạn cùng lớp, giáo viên/nhân viên, và/hoặc môi trường vật lý) giúp tăng khả năng tiếp cận các hoạt động ở trường cho học sinh tự kỷ. Tuy nhiên, tổng quan cũng cho thấy các can thiệp này không nhất thiết cải thiện được tình bạn hoặc sự tương hỗ qua lại giữa học sinh tự kỷ và các bạn cùng lớp.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-CSV-019",
+   "ASD-CSV-019",
+   "ASD-CSV-019"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe057_who_caregiver": {
+  "query": "Chương trình huấn luyện kỹ năng cho người chăm sóc của WHO gồm những gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "low",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Chương trình Huấn luyện Kỹ năng cho Người Chăm sóc (Caregiver Skills Training) của WHO dành cho cha mẹ/người chăm sóc trẻ có chậm phát triển hoặc khuyết tật (bao gồm tự kỷ), gồm nhiều buổi theo nhóm. Ví dụ, buổi 6 dạy kỹ năng sinh hoạt hằng ngày theo từng bước nhỏ; buổi 7-8 về thúc đẩy hành vi tích cực và giảm hành vi thách thức; buổi 9 về sức khỏe tinh thần, giải quyết vấn đề và đặt mục tiêu cho người chăm sóc. Đây là một phần, không phải toàn bộ nội dung chương trình.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "WHO-CST-PARTICIPANTS-2022",
+   "WHO-CST-PARTICIPANTS-2022",
+   "WHO-CST-INTRO-2022"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe024_ayres_si": {
+  "query": "Ayres Sensory Integration khác các can thiệp cảm giác khác thế nào?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "low",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Ayres Sensory Integration (SI) là một phương pháp can thiệp do A. Jean Ayres phát triển, xem rối loạn tích hợp cảm giác là khó khăn trong việc \"tổ chức thông tin cảm giác để sử dụng\", liên quan đến cả chức năng vận động. Đây là một hướng can thiệp cụ thể trong nhóm các liệu pháp cảm giác, khác với các can thiệp cảm giác khác về cơ sở lý thuyết và cách đánh giá.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-SUP-PMC7726187",
+   "ASD-SUP-PMC7726187"
+  ],
+  "support_types": [
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe031_adolescence": {
+  "query": "Tự kỷ ở tuổi dậy thì có những thách thức gì?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "topic_template",
+  "retrieval_status": "ok",
+  "answer": "Tuổi dậy thì là giai đoạn chuyển đổi quan trọng về sinh học-tâm lý-xã hội, có thể đặc biệt thử thách đối với người có rối loạn phát triển thần kinh như ASD. Theo tài liệu, thiếu niên tự kỷ có thể gặp nhu cầu điều hành chức năng (functal executive) và mức độ phức tạp xã hội tăng cao hơn so với thời thơ ấu, điều này có thể góp phần gây lo âu và hành vi \"che giấu\" (camouflaging) đặc điểm tự kỷ trước người khác.\n\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-OA-PMC12593641",
+   "NIH-NIMH-TEEN-BRAIN"
+  ],
+  "support_types": [
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe034_speech_delay": {
+  "query": "Trẻ chậm nói có phải là tự kỷ không?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "answer": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. The ICT is one component of the Communication and Symbolic Behaviour Scale—Developmental Profile (CSBS-DP) established by [49] with the intention of recognising language and communication impairment in infants aged from 6 to 24 months. Even though ICT is also used widely as an…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "ASD-CSV-091"
+  ],
+  "support_types": [
+   "indirect"
+  ],
+  "error_code": null
+ },
+ "qe063_epilepsy": {
+  "query": "Trẻ tự kỷ có hay bị động kinh không?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "insufficient_evidence",
+  "retrieval_status": "insufficient_evidence",
+  "answer": "Hệ thống chưa tìm được bằng chứng đủ phù hợp và cụ thể trong kho dữ liệu hiện có để trả lời chắc chắn câu hỏi này. Nguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [],
+  "support_types": [],
+  "error_code": null
+ },
+ "qe062_weather": {
+  "query": "Hôm nay thời tiết thế nào?",
+  "http": 200,
+  "intent_branch": "out_of_scope",
+  "intent_confidence": "high",
+  "answer_mode": "out_of_scope",
+  "retrieval_status": "out_of_scope",
+  "answer": "Câu hỏi này có vẻ không thuộc phạm vi kiến thức về rối loạn phổ tự kỷ (ASD) mà hệ thống này tra cứu. Bạn thử hỏi lại với một câu hỏi liên quan đến ASD nhé.",
+  "evidence_sources": [],
+  "support_types": [],
+  "error_code": null
+ },
+ "qe067_risperidone": {
+  "query": "Liều risperidone cho trẻ 5 tuổi là bao nhiêu?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "low",
+  "answer_mode": "safety_refusal_dosing",
+  "retrieval_status": "refused_before_retrieval",
+  "answer": "Mình không thể đưa ra liều thuốc cụ thể — liều dùng thuốc (ví dụ risperidone, aripiprazole) phải do bác sĩ quyết định dựa trên tình trạng, cân nặng và theo dõi lâm sàng của từng trẻ. Vui lòng hỏi ý kiến bác sĩ nhi khoa hoặc bác sĩ tâm thần đã khám cho trẻ trước khi dùng hoặc thay đổi liều thuốc.",
+  "evidence_sources": [],
+  "support_types": [],
+  "error_code": null
+ },
+ "qe074_stemcell": {
+  "query": "Tế bào gốc có chữa được tự kỷ không?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "safety_caution_unproven_cure",
+  "retrieval_status": "insufficient_evidence",
+  "answer": "Hiện chưa có bằng chứng khoa học đủ mạnh trong kho dữ liệu của hệ thống xác nhận rằng liệu pháp tế bào gốc có thể chữa khỏi tự kỷ. Tự kỷ là một rối loạn phát triển thần kinh suốt đời; các phương pháp can thiệp được ghi nhận có bằng chứng (như can thiệp hành vi, hỗ trợ giao tiếp) tập trung cải thiện kỹ năng và chất lượng sống, không phải \"chữa khỏi\". Hãy cẩn trọng với các tuyên bố chữa khỏi tự kỷ chưa được xác nhận bởi nghiên cứu khoa học, và tham khảo ý kiến chuyên gia y tế trước khi áp dụng.",
+  "evidence_sources": [],
+  "support_types": [],
+  "error_code": null
+ },
+ "q033_parent": {
+  "query": "Can thiệp do cha mẹ thực hiện có hiệu quả không?",
+  "http": 200,
+  "intent_branch": "asd_question",
+  "intent_confidence": "low",
+  "answer_mode": "extractive_fallback",
+  "retrieval_status": "ok",
+  "answer": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. Therapy for children and teens requires parents to play an active role. Treatment sessions with the child alone are more likely to be effective for treating symptoms of anxiety or depression that may co-occur with ADHD than for managing core symptoms of the disorder.\n\nMental…\n2. | Author, Year Country | Intervention Description | Intervention Includes Responsive Caregiving | Average Child Age at Baseline | Average Program Duration | Study Design (Unit of Randomization) | Delivery | Setting | Analytic Sample | Early child development outcomes | Parenting…\n3. It did work . . . But it ’s an awful lot of input to give, to get to that.\n\nT212 Outcomes dependent on carer engagement Therapists identified that children’s progress was facilitated when carers were fully engaged with the intervention. Some carers were fully committed in terms…\n4. | Author, Year Country | Intervention Description | Intervention Includes Responsive Caregiving | Average Child Age at Baseline | Average Program Duration | Study Design (Unit of Randomization) | Delivery | Setting | Analytic Sample | Early child development outcomes | Parenting…\n5. Despite strong neuroscience and economic arguments for intervening as early in life as possible [4,63], our review suggests that parental engagement and support programs may indeed have universal benefits on child and parent outcomes irrespective of child age or the timing of…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "evidence_sources": [
+   "NIH-NIMH-ADHD",
+   "ASD-NEW-002",
+   "NIHR-SENITA-2022",
+   "ASD-NEW-002",
+   "ASD-NEW-002"
+  ],
+  "support_types": [
+   "direct",
+   "direct",
+   "direct",
+   "direct",
+   "direct"
+  ],
+  "error_code": null
+ },
+ "qe002_uncached": {
+  "query": "Vì sao gọi là phổ tự kỷ?",
+  "http": 503,
+  "intent_branch": "asd_question",
+  "intent_confidence": "high",
+  "answer_mode": "none",
+  "retrieval_status": "blocked_uncached",
+  "answer": null,
+  "evidence_sources": [],
+  "support_types": [],
+  "error_code": "QUERY_NOT_CACHED"
+ },
+ "greeting": {
+  "query": "Xin chào, bạn có thể giúp gì cho tôi?",
+  "http": 200,
+  "intent_branch": "greeting",
+  "intent_confidence": "high",
+  "answer_mode": "greeting_template",
+  "retrieval_status": "skipped_greeting",
+  "answer": "Chào bạn! Mình là trợ lý tra cứu thông tin về rối loạn phổ tự kỷ (ASD). Bạn có câu hỏi nào về ASD không?",
+  "evidence_sources": [],
+  "support_types": [],
+  "error_code": null
+ }
+}

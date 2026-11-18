@@ -1,0 +1,110 @@
+Screening for Autism Spectrum Disorder | Autism Spectrum Disorder (ASD) | CDC (https://www.cdc.gov/autism/diagnosis/index.html)
+citeturn64view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.cdc.gov/autism/diagnosis/index.html","lineno":null}); Total lines: 140
+L0: cite0†Skip directly to site content cite1†Skip directly to search L1: 
+L2: cite2†Autism Spectrum Disorder (ASD) L3: 
+L4: [Button: Explore This Topic ]
+L5: 
+L6: [Button: Search]
+L7: 
+L8: [Input: Search]
+L9: 
+L10: [Input: Search]
+L11: 
+L12: cite2†Autism Spectrum Disorder (ASD) Menu
+L13: 
+L14: [Input: Search]
+L15: 
+L16: cite2†Autism Spectrum Disorder (ASD) L17: 
+L18: 
+L19: 
+L20: cite3†About cite4†Signs and Symptoms cite5†Screening cite6†Treatment cite7†Living with Autism Spectrum Disorder cite8†Frequently Asked Questions (FAQs) cite9†Data and Statistics cite10†Materials and Resources cite11†View Menu L21: # Screening for Autism Spectrum Disorder
+L22: 
+L23: For Everyone
+L24: 
+L25: Oct. 1, 2026
+L26: 
+L27: cite12†Español L28: ## Key points
+L29: 
+L30:   * Diagnosing autism spectrum disorder (ASD) can be difficult because there is no medical test, such as a blood test, to diagnose the disorder. Doctors look at the child's developmental history and behavior to make a diagnosis.
+L31:   * Diagnosing ASD involves several steps.
+L32:   * Some people with ASD are not diagnosed until they are adolescents or adults. This delay means that they might not get the early help they need.
+L33: 
+L34: cite13†Image: Mother taking care of the child at home L35: ## Developmental monitoring
+L36: 
+L37: Developmental monitoring is an active, ongoing process of watching a child grow and encouraging conversations between parents and providers about a child's skills and abilities. Developmental monitoring involves observing how your child grows and whether your child meets the typical developmental milestones, or skills that most children reach by a certain age, in playing, learning, speaking, behaving, and moving.
+L38: Parents, grandparents, early childhood education providers, and other caregivers can participate in developmental monitoring. CDC's cite14†"Learn the Signs. Act Early." program has developed free materials, including CDC's cite15†Milestone Tracker app, to help parents and providers work together to monitor your child's development and know when there might be a concern and if more screening is needed. You can use a cite16†brief checklist of milestones to see how your child is developing.
+L39: ### If you notice that your child is not meeting milestones, talk with your doctor or nurse about your concerns and ask about developmental screening.
+L40: ### Information for families
+L41: 
+L42: Explore CDC's Milestone Tracker app, milestone checklists, and other materials. Access cite17†these free tools and more to help you track your child's milestones.
+L43: 
+L44: When you take your child to a well visit, your child's doctor or nurse will also do developmental monitoring. The doctor or nurse might ask you questions about your child's development or will talk and play with your child to see if they are developing and meeting milestones.
+L45: Your child's doctor or nurse may also ask about your child's family history. Be sure to let the doctor or nurse know about any conditions that your child's family members have, including ASD, learning disorders, intellectual disability, or cite18†attention-deficit/hyperactivity disorder (ADHD). L46: 
+L47: Keep Reading cite19†Developmental Monitoring and Screening L48: ## Developmental screening
+L49: 
+L50: Developmental screening takes a closer look at how your child is developing.
+L51: 
+L52: Developmental screening is more formal than developmental monitoring. It is a regular part of some well-child visits even if there is not a known concern.
+L53: 
+L54: The cite20†American Academy of Pediatrics (AAP)†publications.aap.org recommends developmental and behavioral screening for all children during regular well-child visits at these ages:
+L55: 
+L56:   * 9 months
+L57:   * 18 months
+L58:   * 30 months
+L59: In addition, AAP recommends that all children be screened specifically for ASD during regular well-child visits at these ages:
+L60: 
+L61:   * 18 months
+L62:   * 24 months
+L63: ### Did you know?
+L64: 
+L65: ASD can sometimes be detected at 18 months of age or younger. By age 2, a diagnosis by an experienced professional can be considered reliable.cite21†1 However, many children do not receive a final diagnosis until they are much older.
+L66: 
+L67: Screening questionnaires and checklists are based on research that compares your child with other children of the same age. Questions may ask about language, movement, and thinking skills, as a well as behaviors and emotions.
+L68: Developmental screening can be done by a doctor or nurse, or other professionals in healthcare, community, or school settings. Your doctor may ask you to complete a questionnaire as part of the screening process. Screening at times other than the recommended ages should be done if you or your doctor have a concern.
+L69: Additional screening should also be done if a child is at high risk for ASD (for example, having a sibling or other family member with ASD) or if behaviors sometimes associated with ASD are present.
+L70: If your child’s healthcare provider does not periodically check your child with a developmental screening test, you can ask that it be done.
+L71: ## Developmental diagnosis
+L72: 
+L73: Diagnosing children with ASD as early as possible is important to make sure children receive the services and supports they need to reach their full potential.cite22†2 ^{ }There are several steps in this process.
+L74: A brief test using a screening tool does not provide a diagnosis, but it can indicate whether a child is on the right development track or if a specialist should take a closer look. If the screening tool identifies an area of concern, a formal developmental evaluation may be needed.
+L75: This formal evaluation is a more in-depth look at a child's development and is done by one or more trained specialists such as a developmental pediatrician, child psychologist, speech-language pathologist, and/or occupational therapist. The results of a formal developmental evaluation can also show whether your child needs early intervention services. In some cases, the specialist might recommend cite23†genetic counseling and cite24†testing for your child.
+L76: The specialist may observe the child and give the child a structured test, ask the parents or caregivers questions, or ask the parents or caregivers to fill out questionnaires. The results of this formal evaluation highlight your child's strengths and challenges and can inform whether they meet criteria for a developmental diagnosis.
+L77: ### Important
+L78: 
+L79: A diagnosis of ASD now includes several conditions that used to be diagnosed separately: autistic disorder, pervasive developmental disorder not otherwise specified (PDD-NOS), and Asperger syndrome. Your doctor or other healthcare provider can help you understand and navigate the diagnostic process.
+L80: 
+L81: For Health Care Providers cite25†Clinical Testing and Diagnosis for Autism Spectrum Disorder L82: 
+L83: cite26†Image: A doctor is monitoring a young child's development. L84: Talk with your child's doctor to help you and your family understand and navigate the diagnostic process for ASD.
+L85: ## Resources
+L86: 
+L87:   * cite27†Learn More About Your Child's Development: Fact Sheet on Developmental Monitoring and Screening [English and Spanish versions] L88:   * cite16†CDC's Developmental Milestones L89:   * cite15†CDC's Milestone Tracker App L90: 
+L91: Oct. 1, 2026
+L92: 
+L93: cite28†Sources and Page Info cite29†Share L94: 
+L95: Content Source
+L96: 
+L97: cite30†National Center on Birth Defects and Developmental Disabilities L98: 
+L99: About This Page
+L100: 
+L101: Published: May 15, 2024
+L102: 
+L103: Updated: April 15, 2025
+L104: This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+L105: 
+L106: Reviewed: October 1, 2026
+L107: 
+L108: The information on this page was last reviewed by subject matter experts to ensure accuracy.
+L109: 
+L110: References
+L111:   1. Lord C, Risi S, DiLavore PS, Shulman C, Thurm A, Pickles A. cite31†Autism from 2 to 9 years of age†pubmed.ncbi.nlm.nih.gov . Arch Gen Psychiatry. 2006;63(6):694-701.
+L112:   2. Hyman SL, Levy SE, Myers SM; COUNCIL ON CHILDREN WITH DISABILITIES, SECTION ON DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS. cite32†Identification, Evaluation, and Management of Children With Autism Spectrum Disorder.†pubmed.ncbi.nlm.nih.gov Pediatrics. 2020;145(1):e20193447.
+L113: ## cite2†Autism Spectrum Disorder (ASD)  L114: 
+L115: ASD is a developmental disability that can cause significant social, communication, and behavioral challenges.
+L116: 
+L117: cite33†View All L118: 
+L119: ### cite34†For Everyone L120: 
+L121:   * cite3†About L122:   * cite4†Signs and Symptoms L123:   * cite5†Screening L124:   * cite6†Treatment L125:   * cite7†Living with Autism Spectrum Disorder L126:   * cite8†Frequently Asked Questions (FAQs) L127:   * cite9†Data and Statistics L128:   * cite10†Materials and Resources L129:   * cite35†View all L130: ### cite36†Health Care Providers L131: 
+L132:   * cite25†Clinical Testing and Diagnosis L133:   * cite37†Information on ASD for Healthcare Providers L134: 
+L135: ### cite38†Public Health L136: 
+L137:   * cite39†Autism Partner Toolkit L138: 
+L139: cite40†Sign up for Email Updates†tools.cdc.gov 

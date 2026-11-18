@@ -1,0 +1,16 @@
+{
+  "status": "PASS_STRUCTURAL_VALIDATION",
+  "core_query_ids": 66,
+  "core_pairs_per_annotator": 1631,
+  "variant_query_ids": 12,
+  "variant_pairs_per_annotator": 230,
+  "annotation_fields_blinded": true,
+  "grades_and_evidence_blank": true,
+  "content_hashes_match": true,
+  "annotators_have_same_pair_sets": true,
+  "rrf_top10_rows": 7920,
+  "rrf_query_config_runs": 792,
+  "input_hashes_match": true,
+  "human_reviews_performed": false,
+  "relevance_metrics_computed": false
+}

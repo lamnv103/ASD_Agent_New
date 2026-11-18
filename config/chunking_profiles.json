@@ -1,0 +1,57 @@
+{
+  "section_v1": {
+    "description": "Section-aware chunking: never crosses a heading; tables are separate chunks; overlap only inside a split section.",
+    "max_tokens": 600,
+    "target_min_tokens": 350,
+    "merge_tail_below_tokens": 100,
+    "hard_max_tokens": 700,
+    "overlap_tokens": 60,
+    "front_matter_min_words": 25,
+    "tokenizer": {
+      "name": "cohere embed-v4.0",
+      "path": "data/index/tokenizers/embed-v4.0.tokenizer.json",
+      "sha256": "091aa7594dc2fcfbfa06b9e3c22a5f0562ac14f30375c13af7309407a0e67b8a"
+    }
+  },
+  "section_v2": {
+    "description": "section_v1 + citation-safe normaliser, Markdown tables, PDF layout recovery (headers/footers, running titles, in-text headings), content-based exclusion of reference/contributor lists, flattened-table flag.",
+    "max_tokens": 600,
+    "target_min_tokens": 350,
+    "merge_tail_below_tokens": 100,
+    "hard_max_tokens": 700,
+    "overlap_tokens": 60,
+    "front_matter_min_words": 25,
+    "features": {
+      "normalizer": "v2",
+      "pdf_layout": true,
+      "content_detection": true
+    },
+    "tokenizer": {
+      "name": "cohere embed-v4.0",
+      "path": "data/index/tokenizers/embed-v4.0.tokenizer.json",
+      "sha256": "091aa7594dc2fcfbfa06b9e3c22a5f0562ac14f30375c13af7309407a0e67b8a"
+    }
+  },
+  "section_v2_1": {
+    "description": "section_v2 + verified page maps for PDFs converted without page markers; flattened PDF tables classified table_recovered_pending_review / table_structure_unrecoverable; repeated in-text headings kept; author-list front-matter rule limited to front pages; bare-integer headings need heading case; data-row runs flagged as flattened tables; glyph-ID text (/gidNNNNN) flagged text_encoding_lost. None of these flagged chunks is retrievable.",
+    "max_tokens": 600,
+    "target_min_tokens": 350,
+    "merge_tail_below_tokens": 100,
+    "hard_max_tokens": 700,
+    "overlap_tokens": 60,
+    "front_matter_min_words": 25,
+    "features": {
+      "normalizer": "v2",
+      "pdf_layout": true,
+      "content_detection": true,
+      "page_maps": true,
+      "table_review": true,
+      "rules": "v2_1"
+    },
+    "tokenizer": {
+      "name": "cohere embed-v4.0",
+      "path": "data/index/tokenizers/embed-v4.0.tokenizer.json",
+      "sha256": "091aa7594dc2fcfbfa06b9e3c22a5f0562ac14f30375c13af7309407a0e67b8a"
+    }
+  }
+}

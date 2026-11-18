@@ -1,0 +1,543 @@
+QUESTION q016: "Chú ý chung" (joint attention) là gì và tập thế nào?  (38 candidates)
+
+### 2F82558C81 | Assessment of Autism Spectrum Disorder | Future Directions in Autism Assessment > Telehealth and Beyond | page -
+The scores then are transferred to a DSM-5 checklist specific to that module and converted to binary BOSA scores, some of which contribute to a total algorithm score. Each module has a specified algorithm cutoff score for autism risk (to ensure around 90% sensitivity while maintaining adequate specificity).
+
+The BOSA has been shown to have good discriminate validity between autism and non-spectrum groups, with acceptable-to-good sensitivity and specificity (sensitivity above 0.86 and specificity above 0.80, Dow et al., 2021). Good convergent validity was found between the BOSA and ADOS-2 in the Toddler Module and Module 3 (Dow et al., 2021). Interrater reliability was high, with intraclass correlation coefficients ranging from 0.90 to 0.95. Test–retest reliability was .95. Because it is a brief behavioral observation, to be able to make an autism diagnosis, gathering additional information is even more important (Lord et al., 2020). It is recommended by the authors that the BOSA be used as a Level 2 screener to determine whether a full evaluation is warranted, or a diagnosis is clear, in combination with a caregiver interview, developmental history, and any additional behavioral observation (Lord et al., 2020).
+
+Although the BOSA demonstrated its utility within the context of a pandemic, it was developed out of necessity and its accuracy remains to be fully examined and replicated. It has been suggested that the BOSA may be less accurate than the ADOS-2 (Dow et al., 2021), especially for adolescents and adults with more subtle symptoms who are referred for an autism evaluation for the first time. In addition, while the ADOS-2 is administered by trained clinicians who are skilled at eliciting social initiations and other behaviors from the child, this may not be the case when the BOSA is administered by parents. Caregivers, who are well-versed in the needs of their children, may be more inclined to scaffold for the child. Therefore, there may be fewer opportunities during the parent-administered BOSA to observe certain behaviors and challenges (e.g., joint attention, restricted and repetitive behaviors, conversation) both because of caregivers’ tendency to accommodate to the child’s needs and because of the limited time and activities included in the BOSA. Finally, because the BOSA requires a visit to a clinical setting and/or mailing a box of materials to the family, its accessibility and feasibility is limited.
+
+### 65E5428857 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING | page 235-236
+Only check the answers after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer. Question 1: Answers and explanation: A. Set clear expectations and help the child understand that challenging behaviour will not delay the activity.
+
+ When Tyree refuses to go inside to bed and falls on the ground, he is delaying his bedtime. His mother can set clear expectations by showing him a “first-then” card, and say “first we play outside, then we get ready for bed”. She can also count down how much time Tyree has left to play. She should try not to let Tyree stay outside longer when he is showing challenging behaviour. B. Show the child a better way to get the sensation, but if the behaviour does not disrupt engagement and learning, think about focusing first on another challenging behaviour.
+
+ Jacob gets a sensation from his vision when he stares at the lights and wiggles his fingers in front of his eyes. He gets the sensation of movement when he flaps his arms. These sensations help him feel calm. If these behaviours do not get in the way of him interacting with other people and learning, it might be best to focus on other challenging behaviours first. C. Give no attention or response (ignore the behaviour) then reward appropriate behaviour with praise and attention.  If Anna’s father comes over to tell Anna to be quiet, this gives her attention and even negative attention can be a reward for a child. It would be best if he did not look at Anna or talk to her while she is showing challenging behaviour. Then as soon as she is quiet, he should go to her and tell her that she is doing a good job being quiet.
+
+Answers to questions D. Do not give the item when there is challenging behaviour. Give no attention or response (ignore the behaviour), then reward appropriate behaviour with praise and attention.
+
+ Saanvi wants her mother to buy her sweets and every time they walk by the store, Saanvi whines loudly. Sannvi’s mother should not give Saanvi sweets when she is whining. She can ignore Saanvi’s whining by not looking or talking to Saanvi while she is whining. Then, as soon as Saanvi is quiet, her mother should praise her with kind words: “You’re calm now!” Answer to Question 2: E: All of the above (A, B, C and D) Explanation:
+
+### 049DC1C2EB | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 1: Getting children engaged | page 34-38
+Good choices are tasks that can be done in any order (e.g. wash face or brush teeth first). • Choices give children some control over the activity.
+
+• Choices help you understand which activity will be motivating for your child.
+
+• Choices make the activity more interesting and motivating for the child.
+
+• If your child does not make a choice, you can make a choice for your child.
+
+Other examples of giving choices and following the child’s choice Tip 2, continued Move in front of your child, get down to your child’s level, and have the activity between you and the child  Move in front of your child.  Sit directly in front of your child with the activity in between you and the child.
+
+ If your child sits on your lap, try to turn the child around to face you and bring the activity materials between you and the child.  It is easier for your child to share the activity with you when both you and the objects are in front of the child. Tip 3  Choose two everyday activities to do with your child until the next session. Choose activities that will be motivating for your child and that occur most days.  Give your child a choice between activities and follow your child’s choice.  Plan to spend a minimum of 5 minutes with your child for each practice activity. Try to practise the activities every day.  Remember to practise the tips from this session: Home practice activity
+
+1. Set up the space:
+
+remove distractions and make a safe place to interact.
+
+2. Start with 2 or 3 motivating choices and follow your child’s choice.
+
+3. Move in front of your child, get down to your child’s level and have the activity between you and the child.
+
+Key messages  All children can learn and develop skills.  Children learn best when they are calm and cool.  You can help your child to develop by engaging with her/him in everyday activities and games.
+
+Tips Questions to assess your own learning Try to answer these questions after the group session to assess your own learning. When you finish, you can check the answers on the following page. Instructions: Choose the best answer for each question from the options below by putting a mark beside the option you choose. Afterwards, check your answers and circle the correct option.
+
+Question 1 Sometimes when Mary is helping Jacob to get ready in the morning, he is moving around and it is difficult for Mary to dress him. What could Mary do to make it easier to engage Jacob?
+
+### D1B716135A | A systematic review of ayres sensory integration intervention for children with autism | Abstract > Supporting information | page -
+| Condition | Intervention | Study design | Additional limits |
+| clumsy child syndrome*.mp. | exp Adaptation, Psychological/ or adaptive behavio?r*.mp. | appraisal.mp. | English language |
+| developmental coordination disorder*.mp. | Ayres Sensory Integration.mp. | best practices.mp. | "all child (0 to 18 years)" |
+| ((attention, motor and perception) adj3 disorder*).mp. | bilateral coordination.mp. | case control.mp. | Yr=”2006-Current” |
+| developmental dyspraxia.mp. | emotional regulation.mp. | case report.mp. or Case Reports/ |  |
+| gross motor deficit*.mp. | Executive Function/ | case series.mp. |  |
+| exp Learning Disorders/ | Exercise/ | Practice Guidelines as Topic/ or clinical guideline*.mp. |  |
+| (nonverbal learning disorder* or non verbal learning disorder*).mp. | motor planning.mp. | clinical trial.mp. or Clinical Trial/ |  |
+| perceptual motor deficit*.mp. or exp Perceptual Disorders/ | (multisensory integration or multi sensory integration).mp. | Cohort Studies/ or cohort.mp. |  |
+| regulatory disorder*.mp. | occupation based.mp. | Comparative Study/ |  |
+| sensory integrative dysfunction*.mp. | Occupational Therapy/ | consensus development conference*.mp. |  |
+| sensory modulation dysfunction*.mp. | ocular motor skill*.mp. | critique.mp. |  |
+| sensory motor deficit*.mp. | "Play and Playthings"/ | (crossover or cross over).mp. |  |
+| sensory processing disorder*.mp. | perceptual motor learning.mp. | Double-Blind Method/ or double blind.mp. |  |
+| Sensory Deprivation/ | praxis.mp. | epidemiology.mp. or Epidemiology/ |  |
+| asperger syndrome/ or autism spectrum disorder/ or autistic disorder/ | sensory diet.mp. | evaluation stud*.mp. or Evaluation Studies/ |  |
+| pervasive developmental disorder*.mp. | (sensorimotor integration or sensory integration or SI).mp. | evidence based.mp. |  |
+| autism.mp. | sensory integrative.mp. | evidence synthesis.mp. |  |
+|  | Social Participation/ | Feasibility Studies/ or feasibility stud*.mp. |  |
+|  | tactile stimulation.mp. | Follow-Up Studies/ or follow-up.mp. |  |
+|  | touch pressure.mp. | health technology assessment.mp. |  |
+|  | vestibular stimulation.mp. | intervention.mp. |  |
+|  |  | Longitudinal Studies/ or longitudinal.mp. |  |
+|  |  | main outcome measure.mp. |  |
+|  |  | meta analysis.mp. or Meta-Analysis/ |  |
+
+### 4ED00AF49B | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 2: Keeping children engaged | page 57-61
+Laila’s mother tries again. She notices Laila looking at an elephant in the book. Laila’s mother shows Laila the elephant and says, “We have an elephant!” Laila watches this time.
+
+Laila’s mother puts an elephant in the jungle box while Laila watches. Then Laila puts an elephant in the “jungle”! This is shared engagement: Laila and her mother are doing an activity together and Laila is noticing her mother and the activity at the same time! Laila’s mother wants to encourage Laila so she looks excited and says, “Elephants go in!” Then Laila looks at the book again and tries to name the animals. Her mother praises Laila by clapping her hands because she knows that children learn best during activities that are fun, positive and full of praise.
+
+When you are sharing engagement, you have the chance to: Respond to your child’s communication about the activity. Show your child new words to use in the activity.
+
+Respond to your child’s actions. Show your child new ways to use the materials.
+
+Children have more opportunities to learn when they are sharing engagement
+
+– noticing you and your activity Key message 1 Shared engagement means that the child is paying attention to two things at the same time:
+
+1. you, and
+
+2. the activity you and your child are doing together. Other times children may be:
+
+• not engaged: wandering, showing repetitive behaviour, staring off into space or looking around;
+
+• object-engaged: looking at objects, lining up objects, repetitive play with objects. When children are not engaged or are object-engaged, they communicate and learn less.
+
+Children learn best during activities that are fun, positive and full of praise Key message 2 You can help make activities fun and positive by:
+
+• speaking to your child in a positive and kind tone of voice;
+
+• relaxing and celebrating your child’s skills, attempts and appropriate behaviour;
+
+• being physically gentle;
+
+• showing affection;
+
+• praising your child.
+
+Look and listen – Notice what your child is motivated by and interested in  Take a couple of seconds to notice what your child is interested in.  Give your child 2 or 3 activity options. What does your child choose to do?
+
+ Responding to your child’s choice is a way to notice her/his interest. Follow only appropriate and safe choices.  If a child regularly does not seem interested in choosing certain options, it may be because these are too easy or too difficult for the child. In the next activity we will find out how to select the best options to offer your child. We will need to offer options that are at the right level for your child!
+
+Tip 1 Children can learn communication skills and other skills by playing with you Key message 3
+
+### 2D47F4DE28 | Parent-Mediated Interventions for Children and Adolescents With Autism Spectrum Disorders: A Systematic Review and Meta-Analysis | Results > Description of the Primary Studies | page -
+Characteristics of the included studies are presented in the Supplementary Table 4. The interventions of the included RCTs consisted of PMIs with various target groups and contents. The interventions' commonalities were the parents being direct recipients of the intervention and the parents' intentions to implement and train applied skills with the child. In most studies, the intervention targeted specific areas of ASD (such as joint attention and social-communicative skills). However, in five studies (26, 27, 34, 42, 45), the intervention primarily focused on improving parent-child social interaction and reducing behavioral difficulties and demand-avoidant behavior. In total, parents of 1,934 children and adolescents participated in the studies, and the age range was 16 months to 17 years. Most of the trials were developed for younger children with ASD, with 23 of 30 studies including children 7 years of age and younger, and only seven studies focusing on children below 4 years of age (28–30, 36, 48, 53, 54). No studies investigated adolescents older than 14 years of age, and only four articles included children older than 11 (26, 37, 38, 42). These four interventions either targeted disruptive behavior or supported positive behavior. The intervention period in the included studies were 8 weeks-24 months.
+
+The control groups consisted of waitlist or other passive control conditions in 11 of the studies (31, 36, 37, 42, 45–47, 49, 51, 52, 54); treatment/management as usual in 10 of the studies (25, 28, 30, 32, 39, 40, 43, 44, 48, 53); an active control with a less extensive educational program, psycho-education, placebo parent-intervention in eight of the studies; and anti-psychotic medicine (risperidone) alone in a single study (26, 27, 29, 33–35, 38, 41, 50). Four studies (36, 41, 47, 54) either did not report data predefined as primary or secondary outcomes in the present context or did not report data in a manner for them to be included in the meta-analysis. A conclusion as to whether the individual studies were rated with high, low or unclear risk of bias within each domain was reached (Figure 3).
+
+Figure 3
+
+Risk of bias.
+
+[Original asset: fpsyt-12-773604-g0003.jpg; see source article]
+
+### 4AA55BF7BA | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 110-115
+Body: turning or moving towards something, taking someone’s hand to put it on an object (to get help), pulling someone by the hand, turning or nodding the head, gesturing with the head Hands: pointing to something, showing or giving an object to someone, reaching, grabbing or pushing something away Key message 1  Children may use challenging behaviour to communicate when other ways of communicating are difficult.  These are ways children communicate:
+
+Hands: using sign language Eyes: looking at someone; looking quickly at something and then at someone, staring at something Face: facial expressions, smiling, moving the eyebrows etc.
+
+Challenging behaviour: Screaming, throwing things, breaking things, falling to the floor, biting, scratching, hitting other people or themselves Key Message 1, continued Key message 2  Focus on your child and look and listen to her/him to notice what they are interested in and when they are trying to communicate with you.  When your child is interested or communicating, these are great opportunities to connect with the child and help her/him learn new things.
+
+Look and listen to notice when your child is communicating Communication goals Eye gaze or body movements Grabs, reaches or pulls you by the hand Points to ask Show or points to share interest Makes sounds 1 word 2 words together 3 or more words together How my child communicates now My child’s next step Use any gesture to ask; make a sound Point to ask Point or show to share interest; make a sound Try to make sounds more often; shape a sound into 1 word Add more words; combine 2 words Add more words; combine 3 words Longer sentences Put an X next to ways your child uses to communicate: Put an X next to your child’s next step to communicate:
+
+Lalitha’s story Part 2: Saanvi’s communication  Children can use words, behaviour without words, or challenging behaviour to try to send you a message.  What is your child trying to say to you?  Is your child:
+
+− asking for something?
+
+### 28E851007E | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 3. Results > 3.11. Summary of Main Findings | page -
+medsci-14-00388-t001_Table 1Table 1
+Outcome assessment and main results.
+| ID | Author | Measurement Instrument | Outcome Domain | Assessment Type | Main Results |
+|---|---|---|---|---|---|
+| 7 | Clark, G. T. et al., 2023 [47] | CDI-1 | Expressive and receptive | Parent-reported measure | No significant effect of orthography during the learning task. |
+| checklist regarding their child’s literacy skills | Phonological and Phonemic Awareness | Non-standardized parent-reported measure | Orthography-present condition increased exposure to newly learned words at home. |
+| 8 | Goods KS et al., 2013 [50] | RDLS | Expressive and receptive | standardized measure | No between-group differences in expressive or receptive language |
+| Structured Play Assessment | Play skills | Observational measure | Intervention increased play diversity. |
+| Peers/Teachers-child interaction | Spontaneous Communicative B., Social communication skills | Observational measure | Intervention reduced unengaged behavior and increased requesting gestures. |
+| Early Social Communication Scales | Social communication skills | Structured observational measure | No significant improvements in joint attention or behavioral regulation. |
+| 9 | Hampton, L.H. et al., 2020 [54] | PLS-5 | Expressive and receptive | standardized measure | Small post-intervention advantage in expressive language; effects were not maintained at follow-up. |
+| NLS-videocoding | Spontaneous Communicative B. | Observational measure | No significant between-group differences |
+| Parent–child interaction | Spontaneous Communicative B.; Expressive and receptive | Observational measure | Intervention increased caregiver–child social communicative exchanges at follow-up |
+| Early Social Communication Scales | Social communication skills | Structured observational measure | Joint attention improved immediately after treatment but not at follow-up. |
+| 10 | Howlin et al., 2007 [61] | The Expressive One Word Picture Vocabulary Test | Expressive and receptive | standardized measure | No significant treatment effects on standardized language measures. |
+| British Picture Vocabulary Scales | Expressive and receptive | standardized measure | No significant treatment effects on standardized language measures. |
+| Peers–child interaction | Spontaneous Communicative B. | Observational measure | Spontaneous communicative initiations increased immediately after treatment but were not maintained. |
+| ADOS G | Spontaneous Communicative B., Social communication skills | Structured observational measure | Delayed improvement observed only at 10-month follow-up. |
+
+### 2EE376DED9 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 3: Helping children to share engagement in play and home routines | page 96-99
+Viran is object-engaged. He does not notice Shalini or share engagement when he is spinning the spool on his own.
+
+Why options C and D are incorrect: Taking Viran’s spool away, even to show him a new way to play with it, might be upsetting to him. When imitating, it is best to use your own similar object rather than using your child’s.
+
+Answers to questions Answer to Question 2 D: A and B are both helpful for creating a fun routine. Explanation:
+
+Shalini can create a routine by starting with an activity that Viran is already doing (picking up sticks) and then showing him a new step (putting the stick in the box and saying “Put in!”). The steps in this routine are: 1) Pick up a stick, and 2) Put it in the box and say “Put in!” She wants to create a back-and-forth pattern to make it easier for Viran to pay attention to her and the shared activity. Encouraging Viran by saying “Good job finding sticks!” will make the activity more fun for him and will help him to continue with the routine. Why option C is incorrect: Telling Viran to pick up all the sticks he can find and put them in the box is giving him a job to do, but the purpose of this activity is to find a routine that they can do together. If Viran is picking up sticks alone, he is objectengaged (paying attention to objects but not focusing on or interacting with people). Shalini wants Viran to share engagement (pay attention to her and to a shared activity at the same time) which is the best for learning.
+
+Services and resources for families This information describes local services and resources for you, your child and your family. [To be completed based on local context] What can I do if my child is ill? What can I do if I think my child might have been hurt or abused by someone?
+
+What can I do if my family needs things that we do not have? What can I do if there are difficulties at home? What can I do if my family has other challenges? What can I do if I feel I am not coping well?
+
+Notes:
+
+### BB615CE762 | Autism intervention meta-analysis of early childhood studies (Project AIM): updated systematic review and secondary analysis | Abstract > Introduction | page -
+Autism is a relatively common diagnosis, with current estimates suggesting approximately 1-4% of the population is affected.1 2 3 Early childhood interventions are often strongly recommended for young autistic children to promote skill gain in areas that might contribute to positive long term outcomes.4 5 Pediatricians and other physicians are often the first line of care directing families of autistic children to early childhood interventions to support their development. Therefore, physicians should be familiar with the available interventions and the landscape of evidence supporting them to make practice recommendations. However, the types of early childhood interventions recommended for this population vary widely in terms of approach and intensity, and current best practice guidelines differ across countries. For example, in the United States, the most commonly recommended treatment is early intensive behavioral intervention, an approach that incorporates operant conditioning, targets functional skills, and is characterized by a recommended intensity of 20-40 hours per week.6 In contrast, the National Institute for Health and Care Excellence in England concluded that only two intervention approaches have sufficient evidence to support their use. These relatively low intensity interventions are pediatric autism communication therapy, and joint attention, symbolic play, engagement and regulation (JASPER), which target early social communication in the context of natural interactions.7 Previous attempts to synthesize intervention evidence to generate consistent clinical guidelines have been hindered by a number of factors: heterogenous intervention approaches that prevented aggregation of evidence; low standards of evidence for designating practices as evidence based; limited evaluation of intervention outcomes; overreliance on vote counting over quantitative synthesis; and a rapidly transforming evidence base. Consequently, doctors, clinicians, and families have to navigate confusing and often conflicting guidance on which supports are the most likely to be efficacious for autistic children.
+
+### 5075B37872 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 3: Helping children to share engagement in play and home routines | page 90-94
+ By imitating, you are rewarding your child’s play ideas.  Only imitate appropriate actions that you want to see again. Do not imitate challenging behaviour (throwing) or repetitive behaviour without any interaction between you and your child (such as lining up the items or looking at the items).
+
+1 2 3 4  Look and listen to your child’s actions and join in the routine by doing the same thing as your child. Join in the routine – Take your turn by imitating what your child is doing Tip 1  To share a routine, it is best to have multiple items – e.g. 2 cars or 2 dolls. Use your own toy or materials to take your turn. That way, you will not upset your child by taking her/his item to demonstrate play actions. Tip 1, continued  Adding steps makes your routine longer and gives more time to share engagement.
+
+ Many children need help to learn how to play appropriately with toys.  Show and say helps your child to develop more complex play skills. Show and say when:
+
+ you cannot imitate your child;  your child does not know what to do next;  your child is “stuck” on a repetitive action;  your child is not engaged and you need to get back into the routine.
+
+Show and say – Give your child a new step for your routine Tip 2  Restarting the steps and doing the routine again makes your routine longer, easier and more fun.  It is OK to repeat! All children learn from repeating stories when they play. You will probably become bored before your child does!  What was the first step of your routine? Once you have done all the steps in your routine, start again with the first step.  Start again quickly and try to make it fun and exciting! Restart your routine to help your child spend more time sharing engagement Tip 3  Choose one home routine and one play or game routine that you will do with your child or involve your child in. You can choose one of the activities you did before or two new activities. Pick routines you will try to do every day.  Plan to spend 5 minutes with your child for each routine.  Remember to practise the tips from this session: Home practice activity Key messages  Build play and home activity routines to help your child learn and develop.
+
+1. Join in the routine – Take your turn by imitating what your child is doing.
+
+3. Restart your routine to help your child spend more time sharing engagement.
+
+### 793FE9E34A | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 3. Results > 3.5. Structured Behavioral Approaches (DTT and Variants) | page -
+Three studies examined both structured and naturalistic interventions to support spoken language in MV autistic children. Discrete Trial Training (DTT), a highly structured ABA-based method using repeated stimulus–response–consequence cycles, was a core component across studies.
+
+In Hampton et al. [54], DTT was embedded within a multi-component intervention combining JASP+EMT+SGDs and parent training. It targeted foundational skills (imitation, joint attention, basic SGD use) and led to significant improvements in joint attention post-intervention and in social communication at 4-month follow-up.
+
+Kasari et al. [55] directly compared DTT with JASPER, a NDBI focused on symbolic play, engagement, and regulation. Both approaches improved expressive language, but outcomes varied by baseline profiles: children with stronger receptive language and joint attention benefited more from JASPER, whereas those with broader developmental delays showed greater gains with DTT at follow-up.
+
+Finally, Paul et al. [56] evaluated Rapid Motor Imitation Antecedent (RMIA), an enhanced DTT approach using motor imitation sequences to increase vocal imitation. RMIA was compared to Milieu Communication Training (MCT), a naturalistic method based on modeling, time delay, and incidental teaching; both included parent responsivity training. While both groups showed similar gains in spoken words, treatment response was moderated by child characteristics: RMIA was more effective for children with lower receptive language, whereas MCT was more beneficial for those with stronger joint attention and comprehension.
+
+### 03258DEE44 | Parent-Mediated Interventions for Children and Adolescents With Autism Spectrum Disorders: A Systematic Review and Meta-Analysis | Discussion | page -
+The current systematic review identified 30 RCTs of PMIs for children and adolescents with ASD. The results showed a clinically relevant effect on parent-rated adaptive functioning but no effect when the outcome was rated by a clinician. Moreover, PMIs may be a valuable treatment for disruptive behavior in children and adolescents with ASD. There was no effect on core symptoms of ASD (both parent- and clinician-rated), parent-rated adaptive functioning after 6 months or adverse effects. No studies reported on anxiety or parent-rated quality of life of the child. The certainty of the effect estimates reported in the studies was moderate to very low due to serious risk of bias and very serious risk of imprecision; thus, the effect of PMIs on children and adolescents with ASD is still uncertain. A qualitative synthesis of the studies revealed significant variability across studies.
+
+Meanwhile, previous reviews (10, 13–16) presented evidence in favor of PMIs and emphasized the positive effect of PMIs on joint attention and social interaction in the parent-child dyad, which was not among the prespecified outcomes of this review (10, 15, 16).
+
+This meta-analysis suggests a clinically relevant effect of PMIs for children and adolescents with ASD on parent-rated adaptive functioning, which was not found in the review and meta-analysis by Oono et al. (10). This may be explained by the inclusion of more studies in our review compared to Oono et al. (10) and thus an increase in power. This is a strong indicator of the efficacy of PMIs, since none of the interventions directly affects adaptive functioning, and the positive outcome on adaptive functioning could be a cascading effect of the PMIs.
+
+The results from the meta-analysis align with results from previous reviews regarding favorable results of child disruptive behavior (14, 15). Interestingly, interventions targeting behavior as well as social communication and joint attention for younger children demonstrated positive effects of PMIs on disruptive behavior (50).
+
+Previous reviews have also identified minor improvements in core symptoms of ASD in children participating in PMIs (10, 13), which was not confirmed in this meta-analysis. However, the clinician-rated core symptom measures favored of the PMIs, with a non-significant but clinically relevant effect.
+
+### E6FAB578FC | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 2: Keeping children engaged | page 69-71
+Tip 3 What to use to praise your child?  Tell the child that she/he did well. This will be enough for many children most of the time. You can do this with:
+
+− a big smile, clapping, praising with words (“Well done”, “Good try!”, “Nice job cleaning up”); − tickling, a favourite routine (such as peekaboo, or swinging in the air).  Sometimes, you can choose to give your child a small “prize” for trying something new or doing something well. This may work best with activities that may be very important to you or your family but are not very motivating for your child. You could give your child:
+
+− a favourite toy or object; or − a small piece of a favourite food. Remember to give your child a big smile and praise her/him with words at the same time too! Encourage all adults in your household to praise your child.
+
+
+
+
+
+ Choose two everyday activities that you will do with your child or involve your child in. Choose activities that will motivate your child and that occur on most days.
+
+ Plan to spend at least 5 minutes with your child every time you do the activity together. Try to practise the activities every day. Target activities:
+
+Other activities I could try if these do not work out: 1) 2) Home practice activity  Try to share engagement with your child and remember to practise all the tips we have learned so far:
+
+1. Look and listen – Notice what your child is motivated by and interested in.
+
+2. Find out how your child likes to play and show the child new ways to play.
+
+3. Look and listen – Notice when your child is being good and respond with praise.
+
+Key messages  Children have more opportunities to learn when they are sharing engagement – noticing you and your activity.
+
+ Children learn best during activities that are fun, positive and full of praise.  Children can learn communication skills and other skills by playing with you Tips Session 1: Introduction – Getting children engaged
+
+1. Set up the space: remove distractions and make a safe place to interact.
+
+2. Start with 2 or 3 motivating choices and follow your child’s choice.
+
+3. Move in front of your child, get down to your child’s level, and have the activity between you and the child.
+
+Key messages  All children can learn and develop skills.  Children learn best when they are calm and cool.  You can help your child to develop by engaging with her/him in everyday activities and games.
+
+Tips
+
+### 74D70D4914 | The Effect of Naturalistic Developmental Behavioral Interventions and Aided AAC on the Language Development of Children on the Autism Spectrum with Minimal Speech: A Systematic Review and Meta-analysis | Keywords > Results | page -
+NDBI naturalistic developmental behavioral intervention, AAC augmentative and alternative communication, DV dependent variable (language only), MPP multiple probe across participants, IT Incidental Teaching, MBP multiple baseline across participants; EMT Enhanced Milieu Teaching, JASP Joint Attention, Symbolic Play, SCID Sequenced Inventory of Communication Development, PRT Pivotal Response Training, MCDI MacArthur-Bates Communicative Development Inventory, PLS Preschool Language Scales, ImPact Improving Parents as Communication Teachers, HELP Hawaii Early Learning Profile, SGD speech generating device, SLP speech-language pathologist, PCS picture communication symbols, E-LAP Early Learning Accomplishment Profile, VOCA voice output communication aid, IOA interobserver agreement
+
+### 382E53A0BB | The Effect of Naturalistic Developmental Behavioral Interventions and Aided AAC on the Language Development of Children on the Autism Spectrum with Minimal Speech: A Systematic Review and Meta-analysis | Keywords > Results | page -
+N sample size, M mean, SD standard deviation, NDBI naturalistic developmental behavioral intervention, AAC augmentative and alternative communication, DV dependent variable (language only), RCT randomized control trial, Ex experimental group, Con control group, MSEL Mullen Scales of Early Learning, JASPER Joint Attention Symbolic Play Engagement and Regulation, IJA initiation of joint attention, ESDM Early Start Denver Model, EA Early Achievements, PRT Pivotal Response Training, NR not reported, MCDI MacArthur-Bates Communicative Development Inventory, PLS Preschool Language Scales, A-CDI Communicative Development Inventory (Austrian version), IOA interobserver agreement, MLU mean length of utterance, SLP speech-language pathologists, ABA applied behavior analysis, DTT discrete trial training, MCT Milieu Communication Training, RMIA Rapid Motor Imitation Antecedent, CSBS Communication and Symbolic Behavior Scales, SMART sequential multiple assignment randomized trial, JASP + EMT Joint Attention Symbolic Play + Enhanced Milieu Teaching, SGD speech generating device, TSCU total number of spontaneous communicative utterances (includes SGD), TDWR total number of different word roots (includes SGD), TCOM number of comments (includes SGD), PECS Picture Exchange Communication System (not considered an NDBI in the manualized form), RPMT Responsive Education and Prelinguistic Milieu Teaching
+
+Effect size differences between experimental and control groups, unless otherwise stated; For studies that reported a different effect size or no effect sizes, Cohen’s d was calculated
+
+Participants characteristics were similar across all study types. Participant ages ranged from 23 months to 13 years old, with the bulk of participants in the 2–5-year-old range (390/517 = 75%). NDBIs are often targeted at early intervention and preschool/kindergarten services, which aligns with the high proportion of participants in this age range. All participants across all included studies had significant speech and language impairments. However, the average participant age for NDBI+AAC single-case studies was slightly higher than for other study types (79 months vs. 48–57 months). Participants in NDBI+AAC single-case studies also tended to be described as using less speech than other study types (mostly “minimal speech” or “less than 10 spoken words”—see Table 1). Thus, it is possible that there may have been a slightly more notable gap between participants’ chronological age and speech skills for NDBI+AAC studies than NDBI-Only or Comparative studies.
+
+### 78B14181CA | Behavioral Interventions for Autism Spectrum Disorder: A Brief Review and Guidelines With a Specific Focus on Applied Behavior Analysis | PARENT EDUCATION > PMI for comprehensive early intervention | page -
+PMI has been actively pursued as a means of providing interventions to young children with autism, typically in combination with EIBI [15]. However, PMIs may also serve as primary services in regions with limited accessibility to EIBI [74]. While the quality of intervention and service hours for PMIs may not be comparable to those of therapist-led interventions, their advantages include high accessibility to treatment and high generalizability, mainly because treatment is provided by parents almost every day in diverse real-life settings [75]. Numerous studies have reported improvements in children’s communication skills, expressive and receptive language, and adaptive behaviors upon the implementation of PMI [41]. Additionally, its collateral effects on parental adjustment and mental health, including maternal depression and parenting stress, are well-documented [76]. However, a review of 17 studies questioned the effectiveness of PMI due to inconsistencies in results across studies [77]. Another recent meta-analysis study, including 19 RCTs, also reported small effect sizes (Hedge’s g=0.18–0.27) [78]. However, these review studies included trials using diverse intervention techniques, such as floor time, massage, and ABA. Therefore, caution should be taken when interpreting the effectiveness of PMIs.
+
+More recently, a parent-implemented Early Start Denver Model (P-ESDM) has gained attention as an alternative to therapist-led ESDM, whose effectiveness has been well-documented [79]. In P-ESDM, certified ESMD trainers teach parent-specific behavioral skills, such as joint attention and imitation, to facilitate social interaction with their child. Parents are then encouraged to apply these skills to their children’s everyday routines and activities in their homes and other daily living settings [80]. Although no systematic review of the effectiveness of P-ESDM is available, individual studies have reported improvements in children’s parental interaction skills [81], social communication skills [82], language development [83], and a reduction in autism symptoms [84]. Due to high parental preference for P-ESDM, more efforts have been made to disseminate it, including the development of internet-based P-ESDM, which has also demonstrated effectiveness [83,85].
+
+In Korea, single-subject design studies have reported increased joint attention [86] and improvements in social interaction and communication behaviors [87,88] for PMI. However, further studies with better experimental designs are required to conclude their overall effectiveness.
+
+### CB9B0155EE | Attention-Deficit/Hyperactivity Disorder: What You Need to Know | What is ADHD? | page -
+Attention-deficit/hyperactivity disorder (ADHD) is a developmental disorder marked by persistent symptoms of inattention, hyperactivity, and impulsivity. Some people mostly have symptoms of inattention. Others mostly have symptoms of hyperactivity and impulsivity. Some people have both types of symptoms.
+
+Symptoms begin in childhood and can interfere with daily life, including social relationships and school or work performance. ADHD is well-known among children and teens, but many adults also have the disorder. Effective treatments are available to manage symptoms.
+
+### 6F29943327 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 3. Results > 3.4. Naturalistic Developmental Behavioral Interventions | page -
+Six studies (33.3%) implemented NDBIs, integrating developmental and applied behavior analysis principles to enhance communication and social interaction within child-led, play-based contexts. Most interventions combined Joint Attention, Symbolic Play, Engagement and Regulation (JASPER) with Enhanced Milieu Teaching (EMT), sometimes augmented with Speech-Generating Devices (SGDs) to support expressive language in MV autistic children.
+
+In Almirall et al. [48], a two-stage adaptive design compared JASP+EMT alone versus with SGDs over 24 weeks (2 sessions/week). JASP targeted joint attention, engagement, and symbolic play, while EMT focused on modeling and prompting language in natural routines. Non-responders received intensified or augmented treatment. Starting with SGDs yielded greater gains in spontaneous communication and social initiations.
+
+Similarly, Chang et al. [49] applied JASP+EMT (±SGDs) over six months (2 weekly 1 h sessions), emphasizing symbolic and functional play. No between-group differences emerged for play, but improvements in symbolic play correlated with expressive language gains, supporting their developmental link.
+
+In the preschool study by Goods et al. [50], JASPER supplemented existing ABA programs (2 × 30 min/week for 12 weeks). Structured play routines promoted joint attention and gestures without SGDs. Children showed increased play diversity and communicative initiations, with classroom generalization.
+
+Kasari et al. [51] used a similar SMART design with JASP+EMT (2 × 1 h/week for 12 weeks), adapting intensity or adding SGDs for slow responders and later involving parents. Early SGDs plus intensified support produced the strongest gains in spontaneous utterances and novel word use, highlighting the value of early multimodal input.
+
+In a parent-mediated model, Siller et al. [52] evaluated the Focused Playtime Intervention (FPI) across 12 home sessions, enhancing parental responsivity through modeling, feedback, and video review. Improvements in caregiver behavior were associated with expressive language gains, particularly in children with lower baseline skills.
+
+Finally, the PRISM model by Barrett et al. [53], combining parent-mediated and clinician-delivered Pivotal Response Treatment (PRT), targeted social motivation through natural reinforcers and affective prompts during play. Over six months, it improved social responsiveness and language complexity, especially in MV children.
+
+### 0A247EC4D0 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 3: Helping children to share engagement in play and home routines | page 83-85
+(Shared engagement is when your child notices both you and a shared activity at the same time).
+
+My name is Shalini and I live with my husband and family in a small fishing village. We have three children: Rashmi, Dinesh and Viran. My youngest son, Viran, is a different child. He is now 5 years old but he is different from other children of his age. Shalini’s story: Using play and home routines to create opportunities for shared engagement Over time, I learned that playing together is an important way that Viran can connect with me, but I did not know how to play with him at first. Then I learned how to play with him so we could really play together. At first, I felt pretty silly, and I was not sure what to do. It has been a long time since I was a child! In the past I would try to play pretend with him, but he did not seem to understand that. Viran loves building things. Now I know that the way to play is to look and listen to find out what he is interested in. I can imitate what he does with the toys or I can show him a new appropriate way to play with a toy. Over time I found ways to engage with Viran in play and to start having fun in our shared playtime. My other children would often try to play with Viran, and sometimes they would get upset when he did not play. At other times they would ignore him, which made me feel sad for Viran. While my eldest daughter and son would play imaginative games together with the toys, Viran seemed to be content to spend a lot of time lining up household things in rows on the floor.
+
+I also learned that I can use the same strategies that I use in play to build routines in other daily activities. I have made routines where I look and listen for Viran’s communication and his actions. When we wash dishes, I let him go first. He starts to wash a dish, and then I can imitate him and show him a word “wash!” When we come home from the market, Viran likes to help me unpack the bags. He takes an item out of the bag, and then I can imitate. I show him words like “take out” and “bread” that I want him to learn to say on his own. We go back and forth until all the items are out of the bags. This is our grocery routine.
+
+### F78B7896A4 | Effects of Parent-Implemented Interventions on Outcomes of Children with Autism: A Meta-Analysis | Keywords > Results > Descriptive Characteristics of Participants and Interventions | page -
+Table 1
+Overview of 54 studies yielding 51 independent effect sizes
+| Author(s) | Country | N | Mean age (Years) | Effect size (g) | Intervention name | Relevant dependent variables |
+|---|---|---|---|---|---|---|
+| Frankel et al., 2010 | United States | 68 | 8.53 | 0.22 | Children’s friendship training | PB, MB |
+| Ginn et al., 2017 and Clionsky, 2012 (same data) | United States | 30 | 4.72 | 0.60 | Child-directed interaction training | PB, MB |
+| Green et al., 2010 | United Kingdom | 152 | 3.75 | 0.17 | PACT | PB, L |
+| Handen et al., 2013 | United States | 124 | 7.43 | 0.20 | Research units on pediatric psychopharmacology —autism network (RUPP) | MB |
+| Handen et al., 2015 | United States | 64 | 7.95 | 0.52 | RUPP | MB |
+| Hardan et al., 2015 | United States | 47 | 4.10 | 0.41 | Pivotal response treatment (PRT) | L |
+| Ho & Lin, 2020 | Taiwan | 24 | 4.04 | 0.49 | Developmental individual-difference relationship-based model | PB, AB, L |
+| Iadarola et al., 2018 | United States | 180 | 4.75 | 0.77 | RUPP | MB |
+| Jocelyn et al., 1998 | Canada | 35 | 3.60 | -0.03 | Autism preschool program | PB, AB, L |
+| Kasari et al., 2010 | United States | 38 | 2.57 | 0.62 | Joint attention intervention | PB |
+| Kuravackel et al., 2018 | United States | 33 | 8.08 | 0.69 | Collaborative model for promoting competence and success for hope | MB |
+| Lehtonen et al., 2020 | Finland | 20 | 4.13 | 0.31 | Parent-led eye contact-specific training | PB, L |
+
+### B67956C074 | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Outcomes | page -
+Table 4
+Intervention characteristics.
+| Study | Intervention description and dosage | Method of delivery to parent | Skills or aims of intervention |
+|---|---|---|---|
+| Vismara et al [48] | Parent early start Denver model (P-EDSM) trainingDosage: Once-per-week, 1 h parent training sessions for 12 weeks | Telehealth delivery using live, 2-way conferencing with a qualified therapist and the provision of a DVD including all intervention materials with the addition of video recorded examples of the therapist demonstrating skills. | • Increasing child’s attention and motivation• Using sensory social routines• Promoting dyadic engagements and joint activity routines• Enhancing nonverbal communication• Building imitation skills• Facilitating joint attention• Promoting sequence relations• Employing promoting, shaping, and fading techniques• Conducting functional assessments of behavior to develop new interventions. |
+| Vismara et al [12] | Parent early start Denver model (P-EDSM) trainingDosage: Once-per-week, 1.5 h parent training sessions for 12 weeks | Telehealth delivery using live, 2-way conferencing with a qualified therapist and a self-guided website. | • Increasing child’s attention and motivation• Using sensory social routines• Promoting dyadic engagements and joint activity routines• Enhancing nonverbal communication• Building imitation skills• Facilitating joint attention• Promoting sequence relations• Employing promoting, shaping, and fading techniques• Conducting functional assessments of behavior to develop new interventions. |
+| Wacker et al [47] | Functional communicationDosage: Weekly 60 min sessions until completion of treatment, | Telehealth using PC and video-monitors from behavior consultants | • Child taught to comply with task request and then to mand for a break to play• Child requesting toys after having to wait for increasing period of time• Request attention when adult attention was removed. |
+
+### A2676D3913 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 2: Keeping children engaged | page 272-273
+Tips
+
+1. Look and listen – Notice what your child is motivated by and interested in.
+
+2. Find out how your child likes to play and show the child new ways to play.
+
+3. Look and listen – Notice when your child is being good and respond with praise.
+
+Key messages  Children have more opportunities to learn when they are sharing engagement – noticing you and your activity.
+
+ Children learn best during activities that are fun, positive and full of praise.  Children can learn communication skills and other skills by playing with you.
+
+Tips
+
+1. Join in the routine – Take your turn by imitating what your child is doing.
+
+2. Show and say
+
+- Give your child a new step for your routine.
+
+3. Restart your routine to help your child spend more time sharing engagement.
+
+Key messages  Build play and home activity routines to help your child learn and develop.
+
+### C25703E44A | Parent-Mediated Interventions for Children and Adolescents With Autism Spectrum Disorders: A Systematic Review and Meta-Analysis | Introduction | page -
+Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by early-onset difficulties in social interaction, communication and stereotyped repetitive behaviors and interests (1, 2), and it affects ~1% of the population in high-income countries (3). The disorder is expected to be lifelong, and people on the spectrum are reported to have an elevated mortality risk, lower educational level, reduced quality of life and higher frequency of comorbid disorders, e.g., depression and anxiety (2, 4–6).
+
+Various behavioral and structural interventions have been developed to improve adaptive functioning, behavioral problems and quality of life for people with ASD, and some interventions reduce ASD symptomatology (2, 7, 8). Several early behavioral interventions have also been developed (9). In recent decades, increasing interest in early parent-child interactions has been observed, the involvement of parents in therapy has increased, and various parent-mediated interventions (PMIs) have been developed.
+
+PMIs are advantageous because they reduce the demands on children with ASD compared to behavioral approaches and bring treatment into a home and community setting, enabling the transfer of skills to real-life settings. PMIs engage parents in the role of a therapist to implement interventions in an individualized and sensitive way (10). Parents already spend much time with their children, which provides an obvious opportunity for a cost-effective intervention, with extensive implementation and generalization opportunities in everyday life and through different contexts (11).
+
+The PMIs vary, including teaching comprehensive skills and others targeting specific impairments, e.g., joint attention, communication, or language (2). The various PMIs cover education, training and coaching from clinicians to parents, with the overarching aim of improving opportunities for children to learn through different contexts. This is essential to ensure generalization and maintain treatment gains (11, 12). Initially, PMIs targeted younger children with ASD; however, simultaneously with the broadening of treatment targets, the age group has broadened to include subjects from early childhood into young adulthood (11).
+
+Several reviews with or without meta-analysis have been conducted in the research field (10, 13–16), but only a few have used Grades of Recommendation, Assessment, Development, and Evaluation (GRADE) to assess the certainty of the evidence (10, 13), and none have addressed both beneficial and adverse aspects of PMIs. The outcome focus of the reviews varies considerably, differing from child outcomes, such as language, adaptive functioning and social communication, to parent outcomes, such as parental stress and quality of life; only a few reviews included a meta-analysis (10, 13, 15–17). Some reviews expanded the parent concept to parent-focused interventions and included all interventions that included parents (17).
+
+### D71F88DEBE | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 3. Results > 3.11. Summary of Main Findings | page -
+ADOS-G: Autism Diagnostic Observation Schedule-Generic; AMMT:Auditory-Motor Mapping Training; CBCS:Communication and Symbolic Behavior Scales; CDI-1:MacArthur-Bates Communicative Development Inventory; DDT: Discrete Trial Teaching; EMT: Enhanced Milieu Teaching; IBR: Initiating Behavioral Requests; IJA: Initiating Joint Attention; JASP: JASPER: Joint Attention, Symbolic Play, Engagement and Regulation; MBCT: Melodic-Based Communication Therapy; MCT: Milieu Communication Training; NDWR: Number of Different Word RootsNLS: Naturalistic Language Sample; PLS-5: Preschool Language Scales Fifth Edition; RDLS: Reynell developmental language scales; RMIA: Rapid Motor Imitation Antecedent; SCU: Spontaneous Communicative Utterances; SGDs: Speech-Generating Devices; SIRS: Social Impression Rating Scale; SRT: Speech Repetition Therapy.
+
+### 61CF678065 | The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review | Results > Quality of interactions > Social engagement: initiations and responses | page -
+Initiation and response rates are basic indicators of social engagement that were frequently used (12 out of 17 papers), but their analysis varied across studies. Two studies focused only on initiations and spontaneous communication (Gutierrez et al., 2007; Kaale et al., 2014) (Table 2), because it was the targeted measure for evaluating the effectiveness of an intervention. Studies also varied on the fineness of analysis with respect to interaction partners, behavioral function context, and behavioral change over time.
+
+As stated above, mutual interactions between peers were relatively rare, but when they did occur, they were no more often initiated by nonautistic peers than by autistic children (Boyd et al., 2011; Gutierrez et al., 2007; Kaale et al., 2014), and autistic children and typical peers initiated interactions equally (Anderson et al., 2004). By contrast, in child–adult interactions, the rate of adult initiatives was much higher than that of child initiatives, with children participating mostly as “responders” (Anderson et al., 2004).
+
+Regarding verbal initiations, Bauminger-Zviely et al. (2017) compared communication between autistic children and those with typical development. Autistic children evoked fewer requestives than children with typical development. In two studies, initiation rates were specifically analyzed during joint attention and joint engagement episodes (Kaale et al., 2014; Rice et al., 2016;). Rice et al. (2016) found that autistic children responded more to joint attention than they initiated the joint orientation of attention. However, after a preschool program focused on joint attention and joint engagement, improvements in the initiation of joint attention with peers were achieved (Kaale et al., 2014).
+
+Initiative and response rates were sometimes differentiated according to context. Clifford et al. (2010) showed that initiations and noninteractive behaviors occurred equally in free play and in organized activity, but responses were more frequent during organized activity.
+
+### 2973A29E24 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | Tables | page -
+| AAC | Augmentative and alternative communication |
+| ASD | Autism Spectrum Disorder |
+| MV | Minimally verbal |
+| NDBI | Naturalistic Developmental Behavioral Intervention |
+| RCT | Randomized controlled trials |
+| NVIQ | Nonverbal Intellectual Quotient |
+| ARHQ | Agency for Healthcare Research and Quality |
+| EMT | Enhanced Milieu Teaching |
+| SGDs | Speech-Generating Devices |
+| JASPER | Joint Attention, Symbolic Play, Engagement and Regulation |
+| FPI | Focused Playtime Intervention |
+| PRT | Pivotal Response Treatment |
+| MCT | Milieu Communication Training |
+| RMIA | Rapid Motor Imitation Antecedent |
+| AMMT | Auditory-Motor Mapping Training |
+| MBCT | Melodic-Based Communication Therapy |
+| PECS | Picture Exchange Communication System |
+
+### 8F3B0B83A4 | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Level of Evidence | page -
+Table 2
+Study characteristics.
+| Citation and methodology | Aim or objectives | Outcome measures | Results | Methodological quality |
+|---|---|---|---|---|
+|  |  | P-ESDM fidelity tool—5-point Likert rating tool of 13 parent behavior that define the child-centred, responsive interactive style used in PESDM | Significant increases over time from baseline to follow-up (P<.001) |  |
+|  |  | MBRSh—A 5-point Likert rating scale measuring the parent’s style of interacting to or relating to their child. | Significant increases in parental behavior rating from baseline to follow-up in responsivity (P<.001), affect (P<.001), and achievement orientated behavior (P<.001) |  |
+|  |  | Child outcome measures: child social communication behavior—10-min videos transcribed and scored for the production of spontaneous and promoted functional verbal utterances and approximations and imitative play actions on objects and gestures. | Significant overall increases from baseline to follow-up in spontaneous functional verbal utterances (P<.001), prompted words over time (P<.001), and spontaneous imitations (P<.001) |  |
+|  |  | CBRSi[52]—measures engagement and interest in activity as well as joint attention, creativity, and affect demonstrated toward the parent. | Significant increase form baseline to follow-up in child attention (P<.001) and child initiation (P<.001). |  |
+|  |  | MacArthur communicative development inventories: words and gestures | Significant increases from baseline to follow-up with vocabulary production (P<.001) and vocabulary comprehension (P<.001). |  |
+|  |  | Vineland adaptive behavior scales, 2ndedition | Significant increase from baseline to follow-up on the adaptive behavior composite (P<.05). |  |
+| Vismara et al [12] Single-subject, multiple- baseline design | Pilot study of a 12-week telehealth on the Web (videoconferencing and self-guided website) intervention (P-ESDM) and 3-month follow-up to assess: (1) parents’ perception of the intervention as a useful learning platform, (2) parents’ intervention skills and engagement style improvement, (3) website utility to support the intervention, and (4) improvements in the children’s verbal language and joint attention. | Parent outcome measures: Eight item, 5-point response scale evaluating parental satisfaction with the support and ease of the telehealth learning intervention | All parents reported satisfaction with support and ease of the telehealth learning intervention. | Kmet rating: good (77%) NHMRC level of evidence: level IV |
+
+### 468396C75D | The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review | Results > Communication functions | page -
+Approximately half of the studies reviewed (nine out of 17) included specific coding of communicative functions, that is the interpersonal intention of communicative acts, independently of their forms (see Table 2). The proportion was similar among noninterventional studies (five out of 10) and interventional studies (four out of 7) With respect to the classification of functions, modes of categorizing intentions varied across studies. Rice et al. (2016) distinguished the aims of joint attention and joint engagement as social versus instrumental functions since attempts to orient another person's attention may have a social sharing intention but may also be intended to regulate behavior (e.g., requesting objects or actions). Other main categories used in the studies were request, comment, reject, and greet (Chiang & Lin, 2008; Pasco et al., 2008). In other observation grids, intentions were classified as behavior regulation, requesting object or action, refusal/protest, compliance, social interaction, showing off attention, acknowledgment, joint attention, commenting, sharing attention, and requesting information (Boyd et al., 2011; Clifford et al., 2010).
+
+Results showed that autistic children attending preschool-inclusive contexts initiated few joint attentional states at the age of two. At the age of four, initiations increased but essentially for instrumental intentions (Rice et al., 2016). Moreover, across functions, requesting and rejecting were more common than comments or greetings (Chiang & Lin, 2008). Common requests were often made for obtaining objects, but they also included engaging in social routines or drawing attention to oneself (Boyd et al., 2011). Autistic children were more likely to play alone than in groups on a reciprocal basis (Jamero, 2019). Finally, Bauminger-Zviely et al. (2017) conducted a functional analysis of the children's utterances and found that autistic children presented more difficulties in assertive communication than those with typical development; however, assertives were more frequent when autistic children communicated with friends than with nonfriends. Finally, none of the studies compared the use of communicative functions between different interlocutors (i.e., adults or peers).
+
+### 75149B1EE2 | The Effect of Naturalistic Developmental Behavioral Interventions and Aided AAC on the Language Development of Children on the Autism Spectrum with Minimal Speech: A Systematic Review and Meta-analysis | Keywords > Results | page -
+Thus, it is possible that there may have been a slightly more notable gap between participants’ chronological age and speech skills for NDBI+AAC studies than NDBI-Only or Comparative studies.
+
+Considering all included studies, 82% of all participants were male (424/517). Only 52% of papers reported participant racial/ethnic data (8 single-case, 7 group), a trend that spanned across publication date (i.e., several recent papers also omitted racial/ethnic data). Within those studies that included participant race and/or ethnicity, 37% of participants were white, 11% Black, 17% Asian, 9% Hispanic/Latino, and 26% other race/multiracial. Two studies (Mohammadzaheri et al., 2014, 2022) were conducted in Iran, including a total of 50 Iranian participants, contributing to 59% of the total other/multiracial participants.
+
+Dependent variables were included within this review if they measured language expression or comprehension via speech or aided AAC over multiple study timepoints (consistently over time for single-case; pre-post for group designs). Measures that only encompassed 1) formative aspects of communication (e.g., joint attention, pointing), 2) social pragmatics (e.g., eye gaze, body language), or 3) unaided AAC (e.g., gesture, facial expression) were excluded. However, composite measures that covered multiple modes of communication were included if they contained aided AAC and/or speech as one communication mode. Variables that represented only imitated or verbally/physically prompted communication were excluded. Composite measures that represented both spontaneous and prompted/imitated communication were included if data on spontaneous communication were not reported separately.
+
+### B89C499C8E | Evaluating Sensory Integration/Sensory Processing Treatment: Issues and Analysis | Testing Behavioral Treatments | page -
+Table 2
+Elements of an example transactional “ABA” treatment (pivotal response teaching).
+| CUE |
+| Child attention |
+| Gain child’s attention before providing cue |
+| Clear and appropriate |
+| Provide related, clear and developmentally appropriate cues |
+| Child choice |
+| Allow child a choice of activity or materials |
+| Take turns |
+| Take turns by modeling appropriate behavior |
+| Maintenance tasks |
+| Intersperse tasks the child has already mastered |
+| Multiple cues |
+| Provide cues that require responding to multiple elements |
+| Child behavior (correct, incorrect, and attempt) |
+| RESPONSE |
+| Contingent |
+| Provide appropriate consequences based on child’s behavior |
+| Direct reinforcement |
+| Provide reinforcement directly related to the child’s behavior |
+| Good trying |
+| Reinforce child’s goal directed attempts |
+
+### B2113BA175 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 118-121
+Wait to give your child room to communicate Tip 3 Stay quiet and wait for your child to communicate (just a few seconds). While you are waiting, look and listen for:  sounds;  words;  gestures;  eye gaze (when your child is looking at something).  Avoid asking questions – e.g. Do not say “What happened?” or “Did the tower crash?”  Avoid testing your child with questions – e.g. Do not say “What colour is this block?”  Avoid telling your child what to say – e.g. Do not say “Say ‘crash!’ Say ‘crash!’ Talk about what your child is looking at and doing Tip 4  This shows your child that you have noticed what she/he is paying attention to.
+
+ Notice where your child’s eyes are looking and what your child is doing.  Talk about (say) what your child is doing or looking at.  Remember always to use a gesture by pointing to what you are talking about, showing your child the object or giving the object to your child.  Gestures help your child understand your communication better.
+
+ Choose two play or home activities that you will do with your child or involve your child in (e.g. play, hand-washing, snack etc.). These could be the same activities you did before, or something different. Choose things you do almost every day.
+
+ When you do the activity, plan to spend 5 minutes focusing on your child’s communication and trying to engage your child.  Remember to practise the tips from this session: Home practice activity
+
+1. Respond with words and gestures to all your child’s communication, even when it is unclear.
+
+2. Use words and gestures that match your child’s language level.
+
+3. Wait to give your child room to communicate.
+
+4. Talk about what your child is looking at and doing.
+
+Key messages  Children communicate using words, behaviour without words, and challenging behaviour.
+
+ Look and listen to notice when your child is communicating.  When you notice your child communicating, find out what message your child is trying to send you.
+
+Tips Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Instructions: Choose the best answer for each question from the options below by putting a mark beside the option you choose. Afterward, check your answers and circle the correct option.
+
+### 2260A75AB1 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 3. Results > 3.9. Synthesis of Main Effects | page -
+In contrast, Almirall et al. [48] and Chang et al. [49] found no between-group differences. Standardized measures indicated sustained gains, while questionnaires suggested limited functional outcomes [56].
+
+Evidence for social communication was strongest in observational studies. Almirall et al. [48] and Kasari et al. [55] reported improved joint attention with SGD/JASPER, while behavioral regulation improved across groups. Howlin et al. [61] found delayed but significant gains, though still within the clinical range. Siller et al. [52] showed improved maternal synchronization, and Thiemann-Bourque et al. [60] reported sustained gains in communicative reciprocity. Other findings were mixed: Goods et al. [50] found reduced unengaged time but limited joint attention changes; Paul et al. [56] reported partial effects; Schreibman et al. [59] showed improvement over time; and Bauminger-Zviely et al. [63] found minimal effects. For additional outcomes, Chenausky et al. [46] reported significant gains in speech sound accuracy, whereas Clark et al. [47] found no effects on phonological awareness.
+
+Overall, the evidence supports robust effects on expressive language and spontaneous communication, more variable outcomes for play skills, and less consistent results for social communication and phonological awareness. Detailed outcomes are reported in Table 1.
+
+### EE545B194C | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING | page 232-235
+behaviour.
+
+Tips Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Question 1 Instructions: Match the behaviour on the left with the goal for your response to the behaviour on the right by drawing a line that connects the two. Some behaviours may have more than one goal. Afterward, check your answers on the following pages. A. When Tyree is playing outside and his mother tries to bring him inside for bedtime, he says “No, no, no!” and falls to the ground.
+
+Do not give the item when there is challenging behaviour.
+
+B. Jacob likes to stare at lights and sometimes he wiggles his fingers in front of his eyes.
+
+When he is excited, sometimes he flaps his arms like wings.
+
+Give no attention or response (ignore the behaviour) then reward appropriate behaviour with praise and attention.
+
+C. When her father is talking on the telephone, Anna starts yelling and throwing her toys onto the floor.
+
+Set clear expectations and help the child to understand that challenging behaviour will not delay the activity. D. When Saanvi and her mother walk by a store that sells sweets, Saanvi whines and tries to pull her mother toward the store.
+
+Show the child a better way to get the sensation, but if the behaviour does not disrupt engagement and learning, think about focusing on another challenging behaviour first. Questions to check your own learning Instructions: Choose the best answer for each question from the options below. Afterward, check your answers and circle the correct option. Question 2 Maya’s mother wants to make it easier for Maya to cooperate when she is braiding Maya’s hair. What should she do when she is braiding and Maya starts whining? A. Make sure that she is being gentle and not hurting Maya. B. Sing a song while she continues to braid. C. Count down the number of seconds until the activity is finished. D. Plan to braid one side and then take a break before braiding the other side, rather than taking a break when Maya starts whining. E. All of the above (A, B, C and D) These are the answers to the questions to check your own learning on the previous page. Only check the answers after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer.
+
+Question 1:
+
+Answers and explanation:
+
+A. Set clear expectations and help the child understand that challenging behaviour will not delay the activity.
+
+### 03E173F786 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 2: Keeping children engaged | page 52-56
+Level of engagement: object-engaged Level of engagement: shared engagement  These children are sharing engagement with someone (noticing a person and doing a shared activity at the same time).  Shared engagement is best for learning.
+
+Remember:
+
+ No child spends 100% of the time sharing engagement.  Children will spend some time at all three levels – our goal is to help them spend more time sharing engagement each time we do the activity.
+
+ For some children we will start by spending a few seconds sharing engagement during an activity. Not engaged Objectengaged Sharingengagement Engagement steps Goal: To spend more and more time sharing engagement.
+
+This is Laila’s favourite book. She knows all the words. She likes to say the words on each page in order. She gets upset if her mother tries to tell a different story or skips pages. Laila is often focused on her book and not on the people around her. Laila’s mother would like to share an activity with Laila. She looks and listens in order to notice what Laila is interested in. She sees Laila looking at a page of the book with a tiger in a jungle. Then Laila’s mother has an idea for an activity! She brings over a box and some animal pictures. She points to the box and says, “Laila, this is a jungle!”. Laila’s story: Learning to spend more time in shared engagement Laila’s mother tries to get Laila involved in the activity. She moves in front of Laila and gets down to her level. She puts the activity between her and Laila. Then she puts a tiger figure in the jungle box and says, “Tiger is in the jungle!”. Laila looks at her mother for just a second and then she turns back to the book. Laila’s mother tries again. She notices Laila looking at an elephant in the book. Laila’s mother shows Laila the elephant and says, “We have an elephant!” Laila watches this time.
+
+### EB1F62B0A8 | Parent-Mediated Intervention Training Delivered Remotely for Children With Autism Spectrum Disorder Living Outside of Urban Areas: Systematic Review | Results > Level of Evidence | page -
+Table 2
+Study characteristics.
+| Citation and methodology | Aim or objectives | Outcome measures | Results | Methodological quality |
+|---|---|---|---|---|
+|  | P-ESDM fidelity tool—5-point Likert rating tool of 13 parent behavior that define the child-centred, responsive interactive style used in P-ESDM | Improvement in parent intervention fidelity. Baseline: 0/8 parents meeting criteria for fidelity in tool. Group mean 2.93 (SD 0.6), post intervention: 6/8 parent meeting criteria for fidelity in tool. Group mean 3.69 (SD.51), follow-up: 7/8 parents achieved at least one fidelity score. Group mean 4.15 (SD 0.51) |  |
+|  |  | Website use | Average number of logins 30 (SD 18, range 9-60); Average viewing time per day 18 min |  |
+|  |  | MBRS [53]—A 5-point Likert rating scale measuring the parent’s style of interacting to or relating to their child. | Improvement in parent engagement style. Baseline: low-moderate with MBRS total score mean=2.91, SD=0.68, post intervention: mean=3.50, SD=0.44, follow-up (3 months): moderate to high range with MBRS total score mean=3.87, SD=0.42 |  |
+|  |  | Child outcome measures: behavior scoring of videotaped probes—functional verbal utterances and nonverbal joint attention initiations without gestures | Increase in the range of vocalizations at all time points Baseline: mean=2.97, SD=1.93, post interventions: mean=3.60, SD=2.51, follow-up: mean=4.14, SD=2.04 Joint attention initiations remained constant between baseline (mean=1.67, SD=1.07) to post intervention (mean=1.67, SD=1.21) but increased at follow-up (mean=2.16, SD=1.34) |  |
+
+### 03DD87EB7B | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 8: Teaching alternatives to challenging behaviour > REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING | page 221-226
+ Responding to challenging behaviour by giving attention to the child will make it more likely to happen again.
+
+How to respond to challenging behaviour that seeks attention Ignore: Do not look at the child or talk to the child while you are waiting for the challenging behaviour to stop. When the challenging behaviour stops, praise the child right away, even for something very small, such as sitting and being quiet for a few seconds.
+
+Ignore challenging behaviour that is seeking attention if it is safe and okay to do so Remember that when you begin to ignore behaviour to get attention, it will usually get worse before it gets better. This is because your child will usually try harder to get you to notice her/him. When the challenging behaviour stops, praise your child right away, even for something very small, such as sitting and being quiet for a few seconds.
+
+Do not look at the child, talk to the child or shout while you are waiting for the challenging behaviour to stop (this would reward the child with attention). Tip 3
+
+Ask yourself:
+
+ Could the behaviour hurt my child or another person?  Is my child scared, hurt or sick (i.e. in need of my attention)? If your answer to both questions is “No”, you can ignore the behaviour.
+
+Challenging behaviour to stop or avoid something Behaviour can help a child stop or avoid something that she/he does not like.
+
+How to respond to challenging behaviour to avoid something If the routine is challenging for your child, try to:  make the routine easier for your child;  offer help;  use picture schedules;  use countdowns or timers. If your child can do the activity, be clear, kind and firm. Help your child to understand that challenging behaviour will not stop the activity.
+
+Set clear, consistent and appropriate expectations to reduce challenging behaviour that aims to avoid or stop a routine 1 3 2 4 Tip 4
+
+ “Clear” – Use words your child can understand.  “Consistent” – Expect the same thing from your child each time and increase your expectations slowly over time.  “Appropriate” – Choose activities and routines at the right level for your child:
+
+– If the activity is too difficult, make it easier or more fun for your child, offering help, praising, setting up the space, singing or finding an easier time to do the activity.
+
+– If the activity is too easy, make it more interesting by varying the materials or teaching new steps.
+
+### F692475BF2 | Behavioral Interventions for Autism Spectrum Disorder: A Brief Review and Guidelines With a Specific Focus on Applied Behavior Analysis | CORE SYMPTOMS > Social skills | page -
+Social skills training (SST) is the most widely researched intervention aimed at improving social skills, a core symptom of ASD. It is usually delivered face-to-face by experts in specialized institutions or teachers and peers in schools under the supervision of experts [35]. In SST, which is typically conducted in 8–13 sessions over 6–12 weeks, specific social skills such as greetings, initiating and responding to conversations, giving compliments, sharing, and matching facial expressions are taught through repetitive practice [36,37].
+
+Some studies have reported limited effects of SST on improving social skills [35,36,38]. However, rigorous RCTs have recently shown promising results. Two meta-analyses found that the intervention group showed a medium (Hege’s g= 0.51) [39] to large effect size (Hege’s g=0.81) [40] in improvement in social skills and social responsiveness compared to the non-intervention group.
+
+SST has been demonstrated to improve social skills effectively in individuals of all ages, including infants (0–5 years old), children (6–14 years old), and adolescents/adults (15–22 years old) [41]. Especially for children aged three years, a social skills intervention model named JASPER has been introduced, and its effectiveness has accumulated [42,43]. JASPER aims to improve joint attention and teach play skills. A review of 19 studies on the efficacy of JASPER by Waddington et al. [44] found that those who received JASPER training showed significant improvements in at least one area, such as joint attention, joint engagement, playing skills, and language, compared with the control group. However, despite its effectiveness, the JASPER is not easy to access in Korea because of the lack of manuals or guidelines.
+

@@ -1,0 +1,480 @@
+QUESTION q051: Dấu hiệu chậm phát triển ở trẻ 4 tháng?  (37 candidates)
+
+### 4C4C3D2254 | Gastrointestinal Symptoms in Autism Spectrum Disorder: A Systematic Review | 3. Results > 3.3. GIS and ASD Severity | page -
+Furthermore, the exclusion diet and prebiotic group had a higher abundance of B. Longum. Grimaldi et al. suggested that a synergistic effect on behavior resulted from the combination of prebiotic and casein/gluten-free exclusion diet.
+
+There is some evidence that suggests the relationship between GIS and ASD severity may be impacted by the presence or absence of developmental delay, and which GIS is being examined. Chaidex et al. [8] compared children with ASD who were with and without developmental delay. They found that GIS did not significantly differ between groups regarding total GIS. However, there was a higher occurrence of vomiting in children with ASD without developmental delay, whereas vomiting was infrequently reported in children with ASD with developmental delay. In contrast, children with more severe ASD symptoms had 10% more frequent diarrhea (16.1% vs. 6.4% p = 0.002) than those with fewer ASD symptoms.
+
+### 6245449AA2 | The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review | Results > Characteristics of participants | page -
+With regard to developmental level, here again, the information was based on a diversity of tools or unspecified. In three studies, the participants had no developmental delay. In five studies, mental age was not mentioned (four of these studies also failed to mention the severity of ASD). Seven studies provided developmental data showing a developmental delay, and in one study (Chiang & Lin, 2008) five of the participants had a developmental delay, three others they did not had, and finally six participants were not evaluated (see Table 1).
+
+Table 2 summarizes the parameters systematically analyzed and reviewed in each study.
+
+### 38D1238C7C | Milestones by 4 Months | What most babies do by 4 months > Social/Emotional Milestones | page -
+* Smiles on his own to get your attention
+
+* Chuckles (not yet a full laugh) when you try to make him laugh
+
+* Looks at you, moves, or makes sounds to get or keep your attention
+
+### 5E299268B8 | The role of augmentative and alternative communication for children with autism: current status and future trends | Tables | page -
+Table 1
+Summaries of included reviews
+| Study | Aims (review period) | Effect size indicator | Key findings |
+|---|---|---|---|
+| van der Meer and Rispoli29 | Systematic review of ESCD or group studies of children with autism into the efficacy of SGD as part of intervention (up to September 2009) | None | •23 studies (29 interventions)•Outcome to increase communication functions (mostly requests): seven conclusive, two inconclusive•Outcome to compare SGD to other AAC: four conclusive•Outcome to reduce CB: three conclusive•Outcome as use of device: one conclusive, two inconclusive•Other outcome: three conclusive, one inconclusive•15 studies used ABA principles, others used naturalistic strategies•20 studies – positive outcomes; seven included follow-up and 10 included generalization |
+| Still et al30 | Systematic review of studies into efficacy of high-tech devices for children with autism: requesting skills (up to July 2013) | None | •16 studies•iPod® or iPad® (n=5); PECS (n=7) manual signing (n=3) mostly as comparison modalities; others used dedicated SGDs; the key outcome was requests (n=15) or requests and other communicative behaviors (n=1)•15 were ESCD (mostly MBL)•14 studies included ABA teaching strategies; one used enhanced milieu teaching and one naturalistic intervention•Children learned from one to eight requests (mostly for preferred food or toys) |
+| Lorah et al31 | Systematic review of efficacy of handheld tablets as SGDs for individuals with autism or other developmental disabilities (2007–2014) | None | •17 studies; 12 of only children with autism, two studies mostly autism•Effectiveness of SGD to teach requests (n=12 studies), labeling (n=1), other functions (n=1)•More requests using SGD for 2/3 children with autism (n=1)•Comparisons across modalities, better for SGD (n=9 children), better for PIC or sign (n=4); preference for SGD (n=17) and for PIC (n=1) |
+
+### 292D22AD9B | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 1: Getting children engaged | page 24
+All children can learn and develop skills Key message 1 • With support, children with developmental delays and disabilities can learn new skills and participate in everyday activities. Hot/red (not regulated but agitated) Very upset, angry or overexcited. Needs help to calm down.
+
+Signs you may notice: crying, screaming, whining, tantrum or meltdown behaviour, running away, rolling on the floor, overexcitement, running around. Warm/yellow 6howing first signs of agitation, frustration, distress or upset.
+
+Signs you may notice: making repetitive sounds, whining, fussing, fidgeting, moving around, looking around, not taking turns or participating in the routine, becoming “unengaged”. Cool/green (regulated) Calm, alert and ready to learn.
+
+Signs you may notice: smiling and laughing, body is still and relaxed, making sounds or talking.
+
+### 1B541F32FE | Milestones by 4 Months | What to know | page -
+* Learn about the developmental milestones that most babies do by four months of age.
+
+* See important information to share with your doctor.
+
+* Find tips and activities you can do for your four-month-old.
+
+Image: 4 month old baby
+
+### 4D6CF5C074 | About Autism Spectrum Disorder | What CDC is doing > Promoting early identification of ASD | page -
+We naturally think of a child's growth as height and weight, but from birth to 5 years, a child should reach milestones in how they play, learn, speak, act, and move. A delay in any of these areas could be a sign of ASD or other developmental disability.
+
+Through the "Learn the Signs. Act Early." program, CDC and its partners aim to improve early identification of children with ASD and other developmental disabilities by promoting developmental monitoring , so children and families can get the services and support they need.
+
+Keep Reading Learn the Signs. Act Early.
+
+### 233B690AB1 | Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review | 3. Results > 3.6. Speech-, Music-, and Imitation-Based Interventions | page -
+Speech-, music-, and imitation-based interventions represent innovative approaches to promote verbal production in MV or nonverbal autistic children by leveraging rhythm, melody, and motor imitation.
+
+Auditory-Motor Mapping Training (AMMT), described by Chenausky et al. [46], combines intoned bi-syllabic speech with bilateral rhythmic drumming on tuned instruments, based on the premise that simultaneous auditory–motor activation strengthens speech-related cortical networks. Results showed significant improvements in phonemic accuracy and generalization to untrained items.
+
+Similarly, Sandiford et al. [57] evaluated the Melodic-Based Communication Therapy (MBCT), which pairs target words with specific melodies and rhythmic clapping. In this randomized pilot study, MBCT elicited more imitative verbal attempts and greater parent-reported novel word use at home compared to standard speech-language therapy.
+
+In a RCT, Yoder and Layton [58] compared four input modalities (speech only, sign only, simultaneous speech + sign, alternating speech + sign) in 60 MV autistic children. Modalities including spoken input produced greater spontaneous spoken word use than sign alone, particularly in children with stronger baseline verbal imitation.
+
+Overall, these findings suggest that melodic, rhythmic, and imitation-based interventions can enhance speech development in MV children, with pre-treatment imitation ability emerging as a key moderator of outcomes.
+
+### 2BE58244FE | Milestones by 4 Months | Ways to monitor milestones > Milestone checklists | page -
+Check the milestones your baby has reached by 4 months by completing a checklist, available below and in three additional formats:
+
+* CDC's free Milestone Tracker mobile app , for iOS and Android devices
+
+* Web-based Digital Online Checklist
+
+* Printable checklist
+
+### 06CDC969A6 | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Developmental/Cognitive Assessment > Bayley Scales of Infant Development | page -
+The Bayley is a widely used developmental assessment instrument that takes approximately 30 to 70 min to complete (Bayley & Aylward, 2019). It examines cognitive, adaptive, social–emotional, fine and gross motor, and expressive and receptive language functioning in children aged 16 days to 42 months and is used to identify developmental delays. The Bayley-4 has strong internal consistency (0.85–0.99; Bayley & Aylward, 2019) and good test–retest reliability across the composite scores (0.81–0.85; Bayley & Aylward, 2019). Correlations between the Bayley-4 and Wechsler Preschool and Primary Scale of Intelligence, Fourth edition (WPPSI-IV; Wechsler, 2012) range from 0.64 – 0.79 across scales (Bayley & Aylward, 2019). A strength of this instrument is that it has updated norms and a large standardization sample, including individuals with autism (Bayley & Aylward, 2019).
+
+### DED4D36139 | Milestones by 2 Months | Tips and activities > More parenting tips and activities | page -
+* Being responsive to your baby helps him learn and grow. Limiting your screen time when you are with your baby helps you be responsive.
+
+* Take care of yourself. Parenting can be hard work! It's easier to enjoy your new baby when you feel good yourself.
+
+* Learn to notice and respond to your baby's signals to know what she's feeling and needs. You will feel good and your baby will feel safe and loved. For example, is she trying to "play" with you by making sounds and looking at you, or is she turning her head away, yawning, or becoming fussy because she needs a break?
+
+* Lay your baby on his tummy when he is awake and put toys at eye level in front of him. This will help him practice lifting his head up. Do not leave your baby alone. If he seems sleepy, place him on his back in a safe sleep area (firm mattress with no blankets, pillows, bumper pads, or toys).
+
+* Feed only breast milk or formula to your baby. Babies are not ready for other foods, water or other drinks for about the first 6 months of life.
+
+* Learn when your baby is hungry by looking for signs. Watch for signs of hunger, such as putting hands to mouth, turning head toward breast/bottle, or smacking/licking lips.
+
+* Look for signs your baby is full, such as closing her mouth or turning her head away from the breast/bottle. If your baby is not hungry, it's ok to stop feeding.
+
+* Do not shake your baby or allow anyone else to—ever! You can damage his brain or even cause his death. Put your baby in a safe place and walk away if you're getting upset when he is crying. Check on him every 5–10 minutes. Infant crying is often worse in the first few months of life, but it gets better!
+
+* Have routines for sleeping and feeding. This will help your baby begin to learn what to expect.
+
+* Hold a rattle off to one side of your baby's head, shake it, and see if your baby looks for the noise.
+
+* Practice staying calm when your baby is upset by talking softly, holding, rocking, or singing to her. This will help her calm down and lessen her stress and fears.
+
+* Limit screen time (TV, tablets, phones, etc.) to video calling with loved ones. Screen time is not recommended for children younger than 2 years of age. Babies learn by talking, playing, and interacting with others.
+
+* Talk and play with your baby while feeding, dressing, and bathing.
+
+* Help your baby learn some ways to self-soothe by letting her suck on her fingers or a pacifier.
+
+* Copy your baby's sounds and see how long your baby "talks" by making sounds back and forth with you.
+
+### 0493A4C922 | Milestones by 4 Months | Tips and activities > More Parenting Tips and Activities | page -
+* Talk, read, and sing to your baby. This will help her learn to speak and understand words later.
+
+* Limit screen time (TV, phones, tablets, etc.) to video calling with loved ones. Screen time is not recommended for children younger than 2 years of age. Babies learn by talking, playing, and interacting with others.
+
+* Feed only breast milk or formula to your baby. Babies are not ready for other foods, water or other drinks for about the first 6 months of life.
+
+* Give your baby safe toys to play with that are easy to hold, like rattles or cloth books with colorful pictures for her age.
+
+* Let your baby have time to move and interact with people and objects throughout the day. Try not to keep your baby in swings, strollers, or bouncy seats for too long.
+
+* Set steady routines for sleeping and feeding.
+
+* Lay your baby on her back and show her a bright-colored toy. Move the toy slowly from left to right and up and down to see if she watches how the toy moves.
+
+* Sing and talk to your baby as you help her "exercise" (move her body) for a few minutes. Gently bend and move her arms and legs up and down.
+
+* Play with your baby by holding him securely under his arms with his feet on your lap. Let him bounce up and down.
+
+* Play games, such as peek-a-boo. You can cover your eyes with your hands and then uncover and say "peek-a-boo." Watch for your baby's smile or other signs he is enjoying the game.
+
+* Pay close attention to how your baby reacts to different things. This will help you learn what she likes and doesn't like and what makes her feel good.
+
+* Copy your baby's sounds and see how long your baby "talks" back and forth with you.
+
+* Call your baby by his name to help him learn it. He will start to recognize it around 9 months. For example, "Are you ticklish, Jordan?"
+
+* Playing on the floor or play mat with your baby every day helps him to move, learn, and explore.
+
+* Hold and talk to your baby; smile and be cheerful while you do.
+
+* Have quiet play times when you "read" or sing to your baby.
+
+May 15, 2026
+
+Sources and Page Info Share
+
+Content Source
+
+National Center on Birth Defects and Developmental Disabilities (NCBDDD)
+
+About This Page
+
+Published: September 4, 2025
+
+Updated: May 16, 2026
+
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+
+Reviewed: May 16, 2026
+
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+Sources
+
+### EC1DEA020C | Assessment of Autism Spectrum Disorder | Empirically Validated Screening and Diagnostic Measures > Autism Screening > Modified Checklist for Autism in Toddlers | page -
+A score of 8 or higher indicates high risk, and the follow-up interview can be bypassed in favor of immediate referral for early intervention services and diagnostic evaluation. The M-CHAT-R/F takes about 10 min to complete.
+
+The validation sample for the M-CHAT-R/F was large (Robins et al., 2014), and the internal consistency reliability of M-CHAT-R/F is acceptable (Cronbach’s α = 0.79; Robins et al., 2014) as are sensitivity (0.85) and specificity (0.99) values (Robins et al., 2014). The positive-predictive value (PPV) is 0.48 for autism and 0.95 for any developmental disorder (Robins et al., 2014), indicating that 48% of the children who screened positive received an ASD diagnosis and 95% of the children had some sort of developmental delay or concerns, including ASD, that warranted referrals to early intervention services (Robins et al., 2014). Similar rates have been found in other countries (PPV for ASD = 0.55, PPV for any developmental disorder = 0.91; Guo et al., 2019). This indicates that the predictive value of the M-CHAT-R/F for any developmental concerns is higher than for autism specifically. Nevertheless, it should be noted that PPVs are impacted by the base rate of the disorder in the sample studied, such that when the prevalence of a disorder is higher, the probability of having the disorder after a positive test is higher (Monaghan et al., 2021). Robins et al. (2014) do not recommend using M-CHAT-R/F as a broader screening tool because its sensitivity for non-ASD delays has not been well studied (e.g., sensitivity for global developmental delays, communication delays, etc.). The M-CHAT-R/F has been translated into more than 40 languages (www.mchatscreen.com) and has demonstrated satisfactory sensitivity and specificity in adaptations in some countries and regions (e.g., Spain, China, Taiwan; Dai et al., 2021). Screening accuracy was shown to be similar across race and ethnic groups in a recent large study (Guthrie et al., 2019).
+
+### 1F2B3C7527 | Milestones by 4 Months | What most babies do by 4 months > Movement/Physical Development Milestones | page -
+* Holds head steady without support when you are holding him
+
+* Holds a toy when you put it in his hand
+
+* Uses his arm to swing at toys
+
+* Brings hands to mouth
+
+* Pushes up onto elbows/forearms when on tummy
+
+See Also More about physical development
+
+### 8D0238A773 | The role of augmentative and alternative communication for children with autism: current status and future trends | Tables | page -
+Table 1
+Summaries of included reviews
+| Study | Aims (review period) | Effect size indicator | Key findings |
+|---|---|---|---|
+| Schlosser and Koul32 | Systematic review to map research of the efficacy of SGD interventions for individuals with autism or other developmental disabilities (up to 2014) | ESCD: PND & PZDGroup: Cohen’s d | •47 studies•Effects of SGD as part of a treatment package (n=26): requesting (n=4), PND range =43–100 (mean =0.79, fairly effective; reduction in CB (n=2), PZD =0–100 (mean =0.69, fair effectiveness); speech production PND =0 (2 ESCD), ES =0.21–0.62 (1 RCT, small to medium)•SGD vs other AAC (n=16): one at least preponderant, PND for SGD =100, for comparison AAC range =25–60•SGD with and without speech (n=5) three preponderant, PND for spelling or requesting using speech =31–100 (mean =71), fairly effective; increasing child’s speech, ineffective |
+| Effects on speech |
+| Millar et al33 | Systematic review to determine if AAC results in improved speech outcomes for individuals with developmental disabilities (1975–2003) | PND | •23 studies, 31% of 67 participants with autism•Six studies demonstrated experimental control: four children with autism, aged 3–12 (mean =6), two studies; PND for speech =21 for sign range =33–73 (mean =58) for aided (no speech output) |
+| Schlosser and Wendt34 | Systematic review to determine the effects of AAC on speech for children with autism (1975–2007) | ESCD: PNDRCT: Cohen’s d | •11 studies•ESCD (n=9): PND range =0–100 across speech outcomes, 4/21 fairly or highly effective; 17/21 ineffective; PND range =0–100 for AAC outcomes, 12/18 fairly or highly effective, four questionable or ineffective, two not reported•Group (n=2): speech outcomes no differences across three sign and one speech only condition (n=1); PECS resulted in significantly more nonimitative speech than a non-AAC condition (n=1) |
+| Partner training |
+
+### 943DF3AA9C | Milestones by 4 Months | What most babies do by 4 months > Cognitive Milestones (learning, thinking, problem-solving) | page -
+* If hungry, opens mouth when he sees breast or bottle
+
+* Looks at her hands with interest
+
+### C1AB25A717 | Pediatric Prolonged-Release Melatonin for Sleep in Children with Autism Spectrum Disorder: Impact on Child Behavior and Caregiver’s Quality of Life | Keywords > Methods > Child Behavior and Caregiver’s Outcomes | page -
+2003) is a 25 point index that covers positive mood, vitality, and general interests. Effect size of 0.4 and over is considered clinically relevant (Bech et al. 2007).
+
+The Pittsburgh Sleep Quality Index (PSQI) comprises nine main questions relating to the patient’s usual sleep habits during the previous 2 weeks. It addresses possible reasons for trouble in sleeping as well as daytime behavior. The caregiver is asked to give the most accurate reply for the majority of his/her own days and nights during this period. An algorithm is used to calculate seven component scores and these are added to give a global PSQI score. The PSQI has been recommended as an essential measure for global sleep and insomnia symptoms in recent expert consensus recommendations for a standard set of research assessments in insomnia (Buysse et al. 2006).
+
+The Epworth Sleepiness Scale (ESS) is a self-administered questionnaire with 8 questions. Caregivers were asked to rate, on a 4-point scale (0–3), their usual chances of dozing off or falling asleep while engaged in eight different activities. The higher the ESS score, the higher that person’s average sleep propensity in daily life, or their ‘daytime sleepiness’ (Johns 1991).
+
+Safety was monitored throughout the study, using standard clinical trials methods and definitions [Treatment-Emergent Signs and Symptoms (TESS), Adverse Events (AEs), vital signs and physical examination] and epilepsy events. Standard age appropriate methods [Tanner scales for pubertal development, Body Mass Index (BMI) Z scores for growth], were used to assess the children’s development and health status.
+
+### D5806C014A | Milestones by 2 Months | Share with your child’s doctor > Things to share and consider | page -
+* What are some things you and your baby do together?
+
+* What are some things your baby likes to do?
+
+* Is there anything your baby does or does not do that concerns you?
+
+* Has your baby lost any skills he/she once had?
+
+* Does your baby have any special healthcare needs or was he/she born prematurely?
+
+You know your child best. Don't wait. If your child is not meeting one or more milestones, has lost skills he or she once had, or you have other concerns, act early. Talk with your child's doctor, share your concerns, and ask about developmental screening.
+
+### F1833D6C69 | Sensory integration therapy for children with autism and sensory processing difficulties: the SenITA RCT | METHODS | page 53
+Exclusion criteria Participants were excluded if they were:
+
+l currently undergoing or had previously undergone SIT l currently undergoing applied behaviour analysis therapy. Recruitment process Children were recruited from CAMHS, paediatrics, OT, schools and support or social services. Services sent carers of children referred into their service a letter informing them about the trial, as well as a participant information sheet (PIS) and details of how to express an interest in taking part. Details of the study were also posted on relevant websites (e.g. related charities ’ websites) and via social media. A trial-specific website [URL: http://senitastudy.weebly.com (accessed 7 April 2022)] was also created as a place where individuals could get more information on the trial and could download information sheets. Carers were also able to self-refer into the study. Informed consent It was likely that potentially eligible children could have a range of impairments, including a degree of intellectual disability (ID). Provided that all inclusion criteria were met and exclusion criteria were not met, no child was excluded for this reason or for other comorbid conditions. In accordance with good clinical practice (GCP), written informed consent was taken from each child’ s carer (i.e. their parent or legal guardian) and assent from children before any trial-related activities were undertaken. In signing the consent form, carers also consented to their participation in the trial (including completion of some outcome measures) and for the study team to contact the child ’s school to ask for feedback on the child’s behaviour if necessary. Schools were also asked to complete the Aberrant Behavior Checklist – irritability (ABC-I) at the 6-month time point. Consent could be withdrawn by carers at any time. To complement the carers information sheet, age-appropriate information was presented to the child where appropriate and the views of children capable of expressing an opinion considered. Children deemed to have capacity and who were able to write were asked to sign an age-appropriate assent form. Consent was sought from carers to video-record intervention sessions to assess fidelity of intervention delivery and for supervision feedback. Carers could also consent to video-recordings being used in future research or for training opportunities. In addition to intervention sessions, ADOS 53 assessments were video-recorded to evaluate consistency among ADOS assessors. Refusal of consent to any videorecording did not affect the participants ’ eligibility to otherwise take part in the trial. Carers received a copy of any consent form that they signed, with the original filed in the site file and a further copy held with participants ’ clinical notes.
+
+### DDCAAAA54C | Milestones by 4 Months | Tips and activities > What you can do for your 4-month-old | page -
+Image: Baby holding toy with her parents
+
+As your baby’s first teacher, you can help his or her development.
+
+As your baby's first teacher, you can help his or her learning and brain development. Try these simple tips and activities in a safe way. Talk with your baby's doctor and teachers if you have questions or for more ideas on how to help your baby's development.
+
+* Respond positively to your baby. Act excited, smile, and talk to him when he makes sounds. This teaches him to take turns "talking" back and forth in conversation.
+
+* Provide safe opportunities for your baby to reach for toys, kick at toys and explore what is around her. For example, put her on a blanket with safe toys.
+
+* Allow your baby to put safe things in his mouth to explore them. This is how babies learn. For example, let him see, hear, and touch things that are not sharp, hot, or small enough to choke on.
+
+### D7F48826DB | Signs and Symptoms of Autism Spectrum Disorder | Signs and symptoms > Social communication and interaction skills | page -
+Social communication and interaction skills can be challenging for people with ASD.
+
+Examples of social communication and social interaction characteristics related to ASD can include
+
+* Avoids or does not keep eye contact
+
+* Does not respond to name by 9 months of age
+
+* Does not show facial expressions such as happy, sad, angry, and surprised by 9 months of age
+
+* Does not play simple interactive games like pat-a-cake by 12 months of age
+
+* Uses few or no gestures by 12 months of age (for example, does not wave goodbye)
+
+* Does not share interests with others by 15 months of age (for example, shows you an object that they like)
+
+* Does not point to show you something interesting by 18 months of age
+
+* Does not notice when others are hurt or upset by 24 months (2 years) of age
+
+* Does not notice other children and join them in play by 36 months (3 years) of age
+
+* Does not pretend to be something else, like a teacher or superhero, during play by 48 months (4 years) of age
+
+* Does not sing, dance, or act for you by 60 months (5 years) of age
+
+Keep Reading: Screening for Autism Spectrum Disorder
+
+### A2E4DE4400 | About Autism Spectrum Disorder | Signs and symptoms > "Learn the Signs. Act Early." | page -
+As a parent, you already have what it takes to help your young child learn and grow. CDC has developed materials to help you track your child's developmental milestones and share that progress, or any concerns, with your child's doctor at every check-up.
+
+CDC's "Learn the Signs. Act Early." program aims to improve early identification of developmental delays and disabilities, such as ASD, by promoting early childhood developmental monitoring by families, child care providers, healthcare providers, and others.
+
+Download
+
+Image: Image of a baby being held by a caregiver with the text "Help your child grow and thrive with CDCs free Milestone Tracker app."
+
+Track your child's milestones with CDC's free Milestone Tracker app.
+
+### E7CE0E9C08 | Milestones by 4 Months | What most babies do by 4 months > Language/Communication Milestones | page -
+* Makes sounds like “oooo”, “aahh” (cooing)
+
+* Makes sounds back when you talk to him
+
+* Turns head towards the sound of your voice
+
+### 8E54BAB504 | Caregiver skills training for families of children with developmental delays or disabilities: introduction | Background | page 11-12
+The five-part Caregiver skills training for families of children with developmental delays or disabilities (CST) package was developed to facilitate access to parenting support for caregivers of children with developmental delays or disabilities. The development of the training package materials was based on evidence on parenting and parent-mediated interventions for children with developmental disabilities and, in particular, on evidence on strategies targeting the caregivers of children with delays or impairment in social and communication domains. The training package was developed in consultation with – and informed by feedback from –international experts, service providers, caregivers and family advocates, with extensive field-testing across regions. Who is the caregiver skills training package for?
+
+The intended audience is caregivers of children aged 2–9 years with developmental delays or disabilities, with a specific focus on caregivers of children with delays or impairments in social and communication domains – although the age range can be adjusted slightly, depending on the needs of the setting. Importantly, a diagnosis is not required to access the training course. The lack of a diagnostic requirement means that the training package can be provided to families once a developmental delay has been identified. This may reduce other potential barriers – including the potential reluctance of caregivers to identify themselves as the parents of children with developmental disabilities and experiences of stigma from attending a course labelled as being exclusively for caregivers of children with developmental conditions. The expectation is that primary health-care providers, community health workers, educational providers or specialists will recommend the caregiver skills training course to families.
+
+Format of the caregiver skills training package The course is designed to be delivered in nine core group sessions for caregivers and three home visits. The group sessions can be provided at a health facility, school or other community-based facility. Each group session lasts 2.5 to 3 hours, including a break. Sessions can be scheduled either weekly or every two weeks depending on what is most feasible for caregivers in the local context. Home visits are scheduled at the beginning, middle and end of the course – i.e. before group session 1, between sessions 5 and 6, and after the final group session. Home visits are typically conducted in caregivers’ homes and last 1.5 to 2 hours each, although they can be offered in a community setting if home visits are not feasible due to geographical distance, safety concerns or other challenges. Typically, two caregivers per household are invited to participate in the group sessions. The core 9-session course has also been adapted for virtual delivery through videoconferencing for group sessions and home visits.
+
+Additional group sessions and home visits can be offered to allow more time to acquire strategies related to caregiver well-being and strategies tailored to the needs of caregivers of children who have little or no spoken language.
+
+Caregiver skills training implementation tools In addition to this introduction, there are four subsequent parts of the caregiver skills training package while two additional parts are being developed:
+
+### 29007349B2 | The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review | Results > Characteristics of participants | page -
+Table 1.
+Characteristics of participants’ intervention programs in the included studies.
+| Included studies | Country | Total n(n female) | Mean age in months | Severity of ASD | Developmental measures |
+|---|---|---|---|---|---|
+| Kaale et al. (2014) | Norway | G1 : 34(8)G2 : 27(5) | 47.650.3 | ADOS used;results not mentioned | Developmental delay(Mullen scale: 25.6) |
+| Kamps et al. (2015) | USA | 95 (15) | 69.6 | Moderate(CARS: 32.7) | No developmental delay(PPVT-4: 87.5; VABScommunication: 86.7) |
+| Kemp et al. (2013) | Australia | 11 (not mentioned) | 46.03 | Not mentioned | Not mentioned |
+| McGee et al. (1997) | USA | 64 (3) | 39–52 | CARS used;results not mentioned | Developmental delay (63% of ASD students are nonverbal) |
+| Pasco et al. (2008) | UK | 91 (10) | 82 (but range = 3.11–10.2) | ADOS used;results not mentioned | Developmental delay(Nonverbal mental quotient Mullen's scale = 31.8) |
+| Rice et al. (2016) | USA | G1:10 (2)G2:10 (0)GR10 (3) | 304254 | CARS used;results not mentioned | Developmental delay(Stanford-Binet Intelligence Scale 4: 29–32; 40–43; 53–55) |
+| Westman Andersson et al. (2013) | Sweden | 40 (9) | 40 | ADOS used;results not mentioned | WPPSI-R and VABS; results mentioned |
+|  |  | Total N = 687 (Female ≃116; 16.89%) |  |  |  |
+
+### 14D4640A83 | The role of augmentative and alternative communication for children with autism: current status and future trends | Keywords > Discussion > Reconciling evidence from the fields of AAC and autism | page -
+The finding of the NAC6,7 that AAC is an emerging area, only, appears at odds with the findings from the 17 reviews presented here, even considering differences in publication periods captured: the most recent reviews in Table 1 included studies published in 2014;31,32 the NAC reviews were completed for two time periods, the first ending 2007,6 and the second covering 2007–2012.7 The main difference appears to be that studies that incorporated AAC as a component or primary part of the intervention were not grouped together as AAC interventions, but rather according to the categories of AAC devices (ie, low- and high-tech aids, including SGD, with 14 studies published from 1983 to 2007 included), and PECS (ie, this was treated separately from other aided AAC, with 13 studies published from 1994 to 2007 included), and sign instruction (with 11 studies published from 1976 to 2004 included). These were all judged to be emerging interventions in the first report,6 with further research reviewed for the second report failing to result in changing the classification for any of these forms of AAC to established interventions.7
+
+In the current review, the number of studies judged as lacking rigor or to be of overall poor quality is perhaps further evidence of the emerging status of AAC. On the other hand, closer inspection of studies that contributed to classifying some interventions as established in the first NAC report6 reveal some included the use of AAC as part of intervention protocols. In studies of functional communication training, a type of behavioral package6 (established), for example, were the use of signs and picture systems,44 and high-tech devices45 as replacements for problem (challenging) behaviors. Schedules, also an established intervention,6 are the use of task lists, often in the form of pictures (ie, AAC), to support comprehension and learning within structured activities (eg, Dettmer et al46). Finally, studies incorporating AAC were also considered by the NAC in determining that naturalistic teaching strategies were established.47
+
+### 2FB83D7353 | The role of augmentative and alternative communication for children with autism: current status and future trends | Tables | page -
+Table 1
+Summaries of included reviews
+| Study | Aims (review period) | Effect size indicator | Key findings |
+|---|---|---|---|
+| Gevarter et al21 | Systematic review of ESCD and group studies of individuals with developmental disabilities for AAC intervention component comparisons (2004–2012) | ESCD: meeting or approaching mastery criterion; group studies – statistical significance | •14 studies; seven of only autism; three with at least 50% autism•6/10 compared PECS to other AAC•Conclusive evidence: Phase I–II PECS; PECS + prompting + video modeling; function-preferred mands in Phases I, II acquired more rapidly than non-function-preferred mands•Preponderant evidence: PECS + Braille more effective than PECS only for child with visual impairment; pictures and photographs equal; 3/4 children more likely to use picture exchange for items with establishing operations; speech output, speech output with print, and print only effective for teaching spelling; function based more effective than non-function-based mands for setting generalization•All other comparisons were suggestive or inconclusive |
+| Gevarter et al22 | Systematic review of ESCD studies of individuals with developmental disabilities for comparisons of AAC modalities and outcomes (2004–2012) | Meeting or approaching mastery criterion | •28 studies; 15 of only autism; three with autism and other disability groups•Conclusive evidence: PECS/other picture system and SGD equal effectiveness for stages I & II PECS; pictures and microswitch equal, pictures preferred; speech + sign more effective than speech only, results in maintenance and generalization•Preponderant evidence: PECS/PIC vs SGD: PECS/PIC more effective and efficient (n=3) or no difference (n=5) to SGD; preference for SGD (n=2), for PECS/PIC (n=1); both microswitch and PIC reduced CB, preference for microswitch (n=1); PECS/PIC vs sign: both effective (n=7), PECS more efficient (n=3); more vocalizations with sign (n=3); SGD, PIC, microswitch: equal (n=2), SGD, PIC more effective (n=2), SGD preferred (n=1), sign harder to maintain (n=1); SGD, PIC, sign equal in effectiveness, sign less efficient (n=3), preference for SGD (n=1), SGD better maintained (n=3); PIC more effective than speech (n=1); speech, sign, echoic model most efficient combined, result in maintenance and generalization (n=2)•All other comparisons were suggestive or inconclusive |
+
+### 221DF6FA49 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 118-121
+Wait to give your child room to communicate Tip 3 Stay quiet and wait for your child to communicate (just a few seconds). While you are waiting, look and listen for:  sounds;  words;  gestures;  eye gaze (when your child is looking at something).  Avoid asking questions – e.g. Do not say “What happened?” or “Did the tower crash?”  Avoid testing your child with questions – e.g. Do not say “What colour is this block?”  Avoid telling your child what to say – e.g. Do not say “Say ‘crash!’ Say ‘crash!’ Talk about what your child is looking at and doing Tip 4  This shows your child that you have noticed what she/he is paying attention to.
+
+ Notice where your child’s eyes are looking and what your child is doing.  Talk about (say) what your child is doing or looking at.  Remember always to use a gesture by pointing to what you are talking about, showing your child the object or giving the object to your child.  Gestures help your child understand your communication better.
+
+ Choose two play or home activities that you will do with your child or involve your child in (e.g. play, hand-washing, snack etc.). These could be the same activities you did before, or something different. Choose things you do almost every day.
+
+ When you do the activity, plan to spend 5 minutes focusing on your child’s communication and trying to engage your child.  Remember to practise the tips from this session: Home practice activity
+
+1. Respond with words and gestures to all your child’s communication, even when it is unclear.
+
+2. Use words and gestures that match your child’s language level.
+
+3. Wait to give your child room to communicate.
+
+4. Talk about what your child is looking at and doing.
+
+Key messages  Children communicate using words, behaviour without words, and challenging behaviour.
+
+ Look and listen to notice when your child is communicating.  When you notice your child communicating, find out what message your child is trying to send you.
+
+Tips Try to answer these questions after the session to check your own learning. When you finish, you can check the answers on the following page. Instructions: Choose the best answer for each question from the options below by putting a mark beside the option you choose. Afterward, check your answers and circle the correct option.
+
+### BF81A6A7B1 | Milestones by 6 Months | Tips and activities > More Parenting Tips and Activities | page -
+* Sing to your baby and play music. This will help his brain develop.
+
+* Limit screen time (TV, tablets, phones, etc.) to video calling with loved ones. Screen time is not recommended for children younger than 2 years of age. Babies learn by talking, playing, and interacting with others.
+
+* When your baby looks at something, point to it and talk about it.
+
+* Put your baby on her tummy or back and put toys just out of reach. Encourage her to roll over to reach the toys.
+
+* Learn to read your baby's moods. If he's happy, keep doing what you are doing. If he's upset, take a break and comfort your baby.
+
+* Talk with your baby's doctor about when to start solid foods and what foods are choking risks. Breast milk or formula is still the most important source of "food" for your baby.
+
+* Learn when your baby is hungry or full. Pointing to foods, opening his mouth to a spoon, or getting excited when seeing food are signs that he is hungry. Others, like pushing food away, closing his mouth, or turning his head away from food tells you that he's had enough.
+
+* Help your baby learn she can calm down. Talk softly, hold, rock, or sing to her, or let her suck on her fingers or a pacifier. You may offer a favorite toy or stuffed animal while you hold or rock her.
+
+* Hold your baby up while she sits. Let her look around and give her toys to look at while she learns to balance herself.
+
+* Hold your baby with both of your hands securely under her arms and let her stand. Look around with your baby and name what you can see while she is standing.
+
+* Introduce your baby to different sounds and voices. For example, whisper, clap, or make funny noises. See if your baby looks or is curious and see which sounds she prefers.
+
+* Playing on the floor or play mat with your baby every day helps him to move, learn, and explore.
+
+* When he drops a toy on the floor, pick it up and give it back. This game helps him learn cause and effect.
+
+May 15, 2026
+
+Sources and Page Info Share
+
+Content Source
+
+National Center on Birth Defects and Developmental Disabilities (NCBDDD)
+
+About This Page
+
+Published: September 4, 2025
+
+Updated: May 16, 2026
+
+This page was last updated on this date. Updates may include minor edits, image changes, or other modifications to page content.
+
+Reviewed: May 16, 2026
+
+The information on this page was last reviewed by subject matter experts to ensure accuracy.
+
+Sources
+
+### D37F5595C5 | The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review | Results > Characteristics of participants | page -
+Table 1.
+Characteristics of participants’ intervention programs in the included studies.
+| Included studies | Country | Total n(n female) | Mean age in months | Severity of ASD | Developmental measures |
+|---|---|---|---|---|---|
+| Anderson et al. (2004) | New Zealand | 10 (1) | 64.2 | Severe ASD(CARS M = 40.6) | Developmental delay(WISC-III: 28–86) |
+| Bauminger-Zviely et al. (2017) | Israel | G1: 21 (1)G2: 30(3) | 59.3854.83 | High functioning ASD | No developmental delay(Mullen's scale: 108) |
+| Bauminger-Zviely and Shefer (2021) | Israel | 50 (9) | 54.28 | Moderate(ADOS M = 6.86) | No developmental delay(Mullens scale: 97.17) |
+| Boyd et al. (2011) | USA | 8 (2) | 58.88 | Moderate(CARS: M = 30.06) | Not mentioned |
+| Chiang and Lin (2008) | Australia and Taiwan | Preschool age group = 14 (not mentioned) | 31–72 | Severe and Moderate(CARS > 37 and CARS <37)) | 5 with developmental delay, 3 without developmental delay, and 6 not evaluated.(ABI scale) |
+| Clifford et al. (2010) | UK | 41 (3) | 45.2 | Severe(ADOS: M = 14.8) | Developmental delay(nonverbal Mullen scale: 27.5) |
+| Fasano et al. (2021) | USA | 56 (22) | 50.14 | Not mentioned | Not mentioned |
+| Gutierrez et al. (2007) | USA | 3 (1) | 56 | Not mentioned | Not mentioned |
+| Hume et al. (2019) | USA | 53 (12) | 47.52 | ADOS used;results not mentioned | Developmental delay(Mullen scale = 65.53) |
+| Jamero (2019) | Philippines | 9 (1) | 26.6 | Not mentioned | Not mentioned |
+
+### 3F90707F6E | The role of augmentative and alternative communication for children with autism: current status and future trends | Keywords > Results > Effectiveness of AAC | page -
+Even taking into consideration concerns about study quality, the evidence presented across reviews, as summarized in Table 1, indicates that, overall, AAC has been found to be effective to highly effective for children with autism according to the metrics applied (Table 2). The reviews included favored aided AAC, with most evidence supporting the use of PECS, a manualized instructional package for teaching individuals to exchange pictures for desired wants – that is, to learn to request (described by Flippin et al25) – and SGD (including newer mobile tablets and other handheld devices), with evidence being weaker for other picture-based systems or manual signs. In fact, studies of manual signs were included in systematic reviews only when compared to aided systems.22,26,31,33,34 It has been suggested that manual signs may pose a number of challenges, including being difficult to produce in the presence of motor difficulties and reduced use of gestures and/or poor imitation skills seen in many children with autism.20,42 On the other hand, arguments that aided AAC suits strengths in processing visual material26,28 have been made because pictures provide a concrete representation to which a child can refer back.20 This premise was questioned in a recent study, in which it was found that children with autism, unlike children with global developmental delays or without disability,43 did not show improved task performance when asked to complete a series of short instructions under speech + pictures vs speech-only experimental conditions.
+
+Effectiveness of AAC appears overwhelmingly to relate to teaching functional communication, with a focus on requests.20 As shown in Table 1, key targeted outcomes were predominantly requests across the included reviews; this was particularly the case for studies of PECS, designed to teach requests through picture exchange.25 A tendency to target requests may reflect the relative ease with which they can be taught to children with autism in light of their strengths in behavioral regulation (ie, communication to gain desired objects or actions, usually through requests), as opposed to deficits in social interaction.1 In particular, much research has focused on the efficacy of PECS, designed specifically for children with autism (Table 1). Aggregation of data through meta-analysis indicates that the first three stages of PECS are effective to highly effective in teaching children to request preferred items.24–27 In stages IV and V of PECS, the use of requests in multiword utterances is targeted, with other communicative functions not introduced until the final stage VI.25 Ganz et al28 found large effects for the only two included studies in their review in which all stages were taught, but improvement rate differences ranged from 0.15 to 0.94, indicating some effects were questionable (Table 2).
+
+### 84397C9F09 | Caregiver skills training for families of children with developmental delays or disabilities: participants’ guide, group sessions 1–9 | Session 4: Understanding communication | page 110-115
+Body: turning or moving towards something, taking someone’s hand to put it on an object (to get help), pulling someone by the hand, turning or nodding the head, gesturing with the head Hands: pointing to something, showing or giving an object to someone, reaching, grabbing or pushing something away Key message 1  Children may use challenging behaviour to communicate when other ways of communicating are difficult.  These are ways children communicate:
+
+Hands: using sign language Eyes: looking at someone; looking quickly at something and then at someone, staring at something Face: facial expressions, smiling, moving the eyebrows etc.
+
+Challenging behaviour: Screaming, throwing things, breaking things, falling to the floor, biting, scratching, hitting other people or themselves Key Message 1, continued Key message 2  Focus on your child and look and listen to her/him to notice what they are interested in and when they are trying to communicate with you.  When your child is interested or communicating, these are great opportunities to connect with the child and help her/him learn new things.
+
+Look and listen to notice when your child is communicating Communication goals Eye gaze or body movements Grabs, reaches or pulls you by the hand Points to ask Show or points to share interest Makes sounds 1 word 2 words together 3 or more words together How my child communicates now My child’s next step Use any gesture to ask; make a sound Point to ask Point or show to share interest; make a sound Try to make sounds more often; shape a sound into 1 word Add more words; combine 2 words Add more words; combine 3 words Longer sentences Put an X next to ways your child uses to communicate: Put an X next to your child’s next step to communicate:
+
+Lalitha’s story Part 2: Saanvi’s communication  Children can use words, behaviour without words, or challenging behaviour to try to send you a message.  What is your child trying to say to you?  Is your child:
+
+− asking for something?
+
+### 05F8643E40 | The role of augmentative and alternative communication for children with autism: current status and future trends | Keywords > Discussion > Clinical implications | page -
+For those who may not make use of visual stimuli for learning,43 providing AAC within child-led naturalistic teaching situations is unlikely to impede learning, including of speech.33,34
+
+The underlying tenets of AAC research are that communication is multimodal and that individuals differ in terms of those modalities that may best suit their learning needs and preferences.12 The reliance on aided AAC has resulted in few studies including sign as a component of instruction or as a communication modality. Sign models provided within naturalistic teaching could play a valuable role for children with autism, including extending vocabulary across situations.51 Systematic reviews have tended to include only very early manual sign studies6 or those in which signs have been compared to aided systems (Table 1). Although some studies have demonstrated better outcomes using aided AAC, Gevarter et al22 found that (1) signs combined with speech were more effective than speech alone in increasing communication; (2) signs were more likely to result in maintenance and generalization; and (3) in comparison to PECS, signs were as effective, while being associated with more vocalizations. Such findings demonstrate the value of considering individual differences, both in terms of exploring the evidence base, and making various AAC modalities available. The provision of models using both signs and symbols on aids, for example, could maximize the potential to meet individual child learning needs and preferences. Furthermore, although it has been suggested that reduced fine motor, gesture, and imitation skills in children with autism may, to some extent, preclude the use of signing,20,42 manual sign instruction may in fact provide a highly salient and ecologically valid communication context in which to target these skills.
+
+### EBC52A239D | Milestones by 15 Months | Share with your child’s doctor > Things to share and consider | page -
+* What are some things you and your child do together?
+
+* What are some things your child likes to do?
+
+* Is there anything your child does or does not do that concerns you?
+
+* Has your child lost any skills he/she once had?
+
+* Does your child have any special healthcare needs or was he/she born prematurely?
+
+You know your child best. Don't wait. If your child is not meeting one or more milestones, has lost skills he or she once had, or you have other concerns, act early. Talk with your child's doctor, share your concerns, and ask about developmental screening.
+
+### AD10E9F621 | Milestones by 2 Months | Share with your child’s doctor > If you or the doctor are still concerned | page -
+* Ask for a referral to a specialist who can evaluate your child more; and
+
+* Call your state or territory's early intervention program to find out if your child can get services to help. Learn more and find the number at cdc.gov/FindEI .
+
+Keep Reading Concerned About Your Child's Development?
+
+### 91F6567370 | Improving early childhood development: WHO guideline | KEY QUESTION IV | page 35-36
+The certainty of evidence was graded as moderate.
+
+• For combined nutrition and caregiving versus nutrition alone, the pooled results showed a significant improvement in language development (SMD = 0.21, 95% CI: 0.13, 0.28; n = 6). The certainty of evidence was graded as moderate. Motor development
+
+• For combined nutrition and caregiving interventions versus the standard of care, the pooled results showed a significant improvement in motor development (SMD = 0.4, 95% CI: 0.26, 0.53; n = 10). The certainty of evidence was graded as low.
+
+• For combined nutrition and caregiving versus caregiving alone, the pooled results showed no significant improvement in motor development (SMD = 0.18, 95% CI: -0.06, 0.42; n = 6). The certainty of evidence was graded as low.
+
+• For combined nutrition and caregiving versus nutrition alone, the pooled results showed a significant improvement in motor development (SMD = 0.14, 95% CI: 0.06, 0.22; n = 9). The certainty of evidence was graded as high. 22 23Evidence and recommendations
+
+Socioemotional development
+
+• For combined nutrition and caregiving interventions versus the standard of care, the pooled results showed no significant improvement in socioemotional development (SMD = 0.09, 95% CI: -0.11, 0.30; n = 2). The certainty of evidence was graded as low.
+
+• For combined nutrition and caregiving versus caregiving alone, Yousafzai and colleagues (2014) found no significant effect (SMD = 0.11, 95% CI: -0.04, 0.26). The certainty of evidence was graded as low.
+
+• For combined nutrition and caregiving versus nutrition alone, Yousafzai and colleagues (2014) reported a non-significant effect (SMD = -0.09, 95% CI: -0.24, 0.07). The certainty of evidence was graded as low.
+
+HAZ
+
+• For combined nutrition and caregiving interventions versus the standard of care, the pooled results showed no significant effect (SMD = -0.13, 95% CI: -0.31, 0.05; n = 9). The certainty of evidence was graded as low.
+
+### 8C5CB3CC52 | The importance and challenges of observing social interactions in autistic preschoolers during inclusive educational settings: A scoping review | Results > Communicative forms | page -
+Coding the diversity of communication forms is important, especially for young children, who may use a variety of means to express intention (e.g., verbal and nonverbal, conventional, symbolic, iconic). They may also use more or less rich combinations of these means. In 11 studies, children's communicative forms were coded (Table 2), although with a diversity of criteria for their categorization. Chiang and Lin (2008) compared different communication aids, by analyzing verbal communication and used a taxonomy adjusted to the repertoire of compensatory modalities in atypical children, for example coding separately speech, aided augmentative communication (e.g., pictures, photographs, and word cards), and unaided communication (e.g., gestures and sign language). Anderson et al. (2004) distinguished between verbal and nonverbal interactions, and Gutierrez et al. (2007) separated forms into vocalizations, gestures, and physical communication. Westman Andersson et al. (2013) extended their categories to include nonverbal forms of communication such as vocalization, pointing, gestures, unusual eye contact, facial expression, and joint attention. Clifford et al. (2010) differentiated among verbal forms, between single words and phrases, and among gaze, gaze switch, and follow gaze/point. Pasco et al.'s (2008) grid contains the same forms including also a new form, sign gestures.
+
+Because of this coding diversity, the results do not report with the same accuracy how communication forms are used by children in the preschool context. McGee et al. (1997) showed that verbalization is less frequent in autistic children than in children with typical development, but Fasano et al. (2021) found that vocalizations did not differ in quantity between autistic children and those with developmental delay or typical development. Moreover, children generally vocalized more toward those who previously vocalized toward them (Fasano et al., 2021), and they communicated primarily through physical means, such as pushing or touching (Gutierrez et al., 2007). Some forms of communication were found to vary according to the context, with eye gaze being more frequent during structured activity than in free play (Clifford et al., 2010). However, only two studies considered how communicative forms vary according to the social partner. Anderson et al. (2004) found that autistic children communicated with adults mostly by nonverbal means, and Chiang and Lin (2008) found that children are more inclined to use unaided augmentative alternative communication (gestures and signs) with both adults and peers than aided augmentative alternative communication.
+

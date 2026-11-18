@@ -1,0 +1,27 @@
+[
+ {
+  "query": "Nghe nói uống vitamin B6 liều cao chữa được tự kỷ, có đúng không?",
+  "mode": "extractive_fallback",
+  "text": "Hệ thống chưa có bản tổng hợp tiếng Việt được kiểm chứng cho câu hỏi này — dưới đây là trích dẫn trực tiếp từ nguồn đã truy xuất (không phải văn bản tổng hợp):\n1. People respond to medications in different ways, and it may take several tries to find the medication that is most effective with the fewest side effects. In some cases, people find that a medication helps for a while and then their symptoms return. It often takes some time for…\n2. Table 5\nQuality, design, eligibility criteria, setting, dosage and duration, stakeholders and costs of studies (k = 18) evaluating the efficacy of a social skills group training program for autistic youth via an RCT design\n| First author (year)/country | Design | Quality |…\n3. Extensive analyses of several sources of 5-HTP did not find toxic contaminants or any other significant impurity [137].\n\nIn the pediatric population, Trp and 5-HTP supplementation proved to be effective in reducing NREM parasomnias [138,139]. A clinical trial [139], conducted on…\n4. Table 5\nQuality, design, eligibility criteria, setting, dosage and duration, stakeholders and costs of studies (k = 18) evaluating the efficacy of a social skills group training program for autistic youth via an RCT design\n| First author (year)/country | Design | Quality |…\n5. Table 5\nQuality, design, eligibility criteria, setting, dosage and duration, stakeholders and costs of studies (k = 18) evaluating the efficacy of a social skills group training program for autistic youth via an RCT design\n| First author (year)/country | Design | Quality |…\n6. Table 5\nQuality, design, eligibility criteria, setting, dosage and duration, stakeholders and costs of studies (k = 18) evaluating the efficacy of a social skills group training program for autistic youth via an RCT design\n| First author (year)/country | Design | Quality |…\n7. Psychopharmacological treatments should be closely monitored, with risks and potential benefits taken into consideration and starting at low doses and with slow up-titration[156].\n\nAn estimated 5%-15% of school-aged children struggle with a LD[157]. It has long been understood…\n8. In general, treatment in autistic children and teenagers typically involves behavioral interventions, speech therapy to promote effective communication, occupational therapy, and sensory integration approaches to help manage emotional regulation. Usually, the diagnosis should be…\nNguyên mẫu nghiên cứu/sinh viên. Nội dung chưa được thẩm định lâm sàng. Không dùng để chẩn đoán hoặc thay thế tư vấn chuyên môn.",
+  "fts_n": 8,
+  "gate_sufficient": true,
+  "supported_sources": [
+   "NIH-NIMH-MEDICATIONS",
+   "ASD-SUP-PMC10981608",
+   "ASD-OA-PMC7407189",
+   "ASD-SUP-PMC10981608",
+   "ASD-SUP-PMC10981608",
+   "ASD-SUP-PMC10981608",
+   "ASD-OA-PMC12620806",
+   "ASD-OA-PMC12620806"
+  ]
+ },
+ {
+  "query": "Tế bào gốc có chữa được tự kỷ không?",
+  "mode": "safety_caution_unproven_cure",
+  "text": "Hiện chưa có bằng chứng khoa học đủ mạnh trong kho dữ liệu của hệ thống xác nhận rằng liệu pháp tế bào gốc có thể chữa khỏi tự kỷ. Tự kỷ là một rối loạn phát triển thần kinh suốt đời; các phương pháp can thiệp được ghi nhận có bằng chứng (như can thiệp hành vi, hỗ trợ giao tiếp) tập trung cải thiện kỹ năng và chất lượng sống, không phải \"chữa khỏi\". Hãy cẩn trọng với các tuyên bố chữa khỏi tự kỷ chưa được xác nhận bởi nghiên cứu khoa học, và tham khảo ý kiến chuyên gia y tế trước khi áp dụng.",
+  "fts_n": 0,
+  "gate_sufficient": false,
+  "supported_sources": []
+ }
+]

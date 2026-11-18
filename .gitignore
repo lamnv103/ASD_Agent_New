@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Generated indexes (chunks, embeddings) — rebuild from data/corpus
+data/index/*
+!data/index/.gitkeep
+
+# Runtime logs
+logs/*
+!logs/.gitkeep
+*.egg-info/
+
+# Database backups (local only)
+backups/

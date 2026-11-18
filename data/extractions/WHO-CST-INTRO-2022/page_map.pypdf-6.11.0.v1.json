@@ -1,0 +1,174 @@
+{
+ "source_id": "WHO-CST-INTRO-2022",
+ "map_version": "v1",
+ "extractor": "pypdf",
+ "extractor_version": "6.11.0",
+ "method": "pypdf extract_text per page; pages joined with '\\n\\n'; clean() collapses \\n{3,} and strips",
+ "corpus_sha256": "5f5353f715ce0c75b7d052ddcb91f08facf2dee36567ca30b5d8b6916d74a0f8",
+ "original_sha256": "3a7b816c32a55ca2359e574c74081697fae11d4b7c3c1193e303cc9639de013f",
+ "verified": true,
+ "failures": [],
+ "page_count": 20,
+ "pages": [
+  {
+   "page": 1,
+   "label": "1",
+   "char_start": 935,
+   "char_end": 1044,
+   "chars": 109,
+   "text_sha256": "c66b96a6dc0c406f6d1c98f283348b8fd7b3ea2488dc3e61ef8d473345d21d76"
+  },
+  {
+   "page": 2,
+   "label": "2",
+   "char_start": 1046,
+   "char_end": 1046,
+   "chars": 0,
+   "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "page": 3,
+   "label": "i",
+   "char_start": 1046,
+   "char_end": 1155,
+   "chars": 109,
+   "text_sha256": "c66b96a6dc0c406f6d1c98f283348b8fd7b3ea2488dc3e61ef8d473345d21d76"
+  },
+  {
+   "page": 4,
+   "label": "ii",
+   "char_start": 1157,
+   "char_end": 4679,
+   "chars": 3522,
+   "text_sha256": "5d54efebd9ea9a43922fe13c953f55680710eafab9a9c6875d9c404042469ad1"
+  },
+  {
+   "page": 5,
+   "label": "iii",
+   "char_start": 4681,
+   "char_end": 7170,
+   "chars": 2489,
+   "text_sha256": "82d18d2f5c61b38b62bedad7cae7a3195209b26a394d2af1c020df491392d682"
+  },
+  {
+   "page": 6,
+   "label": "iv",
+   "char_start": 7172,
+   "char_end": 9539,
+   "chars": 2367,
+   "text_sha256": "b817623cc0eeab4c4bccf379d22aeb41cd12a7cff718e93009c9e7dbca578f49"
+  },
+  {
+   "page": 7,
+   "label": "v",
+   "char_start": 9541,
+   "char_end": 12953,
+   "chars": 3412,
+   "text_sha256": "fba65ba0e4b0d5900d3082326d47706781be8fc3ba6ba1007dd15544af43ae29"
+  },
+  {
+   "page": 8,
+   "label": "vi",
+   "char_start": 12955,
+   "char_end": 17527,
+   "chars": 4572,
+   "text_sha256": "c95a3c14bf59d0c31f110a221b8ab67f3b48e8aab4da50cfd1634a9d1a174f0f"
+  },
+  {
+   "page": 9,
+   "label": "vii",
+   "char_start": 17529,
+   "char_end": 18750,
+   "chars": 1221,
+   "text_sha256": "eef26085da58296bea18be2360ee1475705b76cc9852652af6197d42bb95844f"
+  },
+  {
+   "page": 10,
+   "label": "viii",
+   "char_start": 18752,
+   "char_end": 18752,
+   "chars": 0,
+   "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "page": 11,
+   "label": "1",
+   "char_start": 18752,
+   "char_end": 21944,
+   "chars": 3192,
+   "text_sha256": "d53684f51f95e4f1675af0b1c9f73fe01a20fab67a5a2a6cddf6c052059efab9"
+  },
+  {
+   "page": 12,
+   "label": "2",
+   "char_start": 21946,
+   "char_end": 24639,
+   "chars": 2693,
+   "text_sha256": "dae94f194c8766f18c40eed256c3f6c2e97b1439dee35a397513e273b78b9893"
+  },
+  {
+   "page": 13,
+   "label": "3",
+   "char_start": 24641,
+   "char_end": 28022,
+   "chars": 3381,
+   "text_sha256": "920070ce99819dab21bb4589a282c69624f876e46ec3971fa176d8589bee8e4a"
+  },
+  {
+   "page": 14,
+   "label": "4",
+   "char_start": 28024,
+   "char_end": 31219,
+   "chars": 3195,
+   "text_sha256": "991459a5f412134d18a38500ad847754a2e8ad3a9c3e47bb01dc648ea7df3c60"
+  },
+  {
+   "page": 15,
+   "label": "5",
+   "char_start": 31221,
+   "char_end": 34323,
+   "chars": 3102,
+   "text_sha256": "c18244d54697c9db3d3b10dddb7d774ee76b62d23bfe7b853b90e45ec3a79df1"
+  },
+  {
+   "page": 16,
+   "label": "6",
+   "char_start": 34325,
+   "char_end": 36789,
+   "chars": 2464,
+   "text_sha256": "63e2447235add1de410e41bf8d82b78fad5abda8dc96ddf15e84f617c6787f29"
+  },
+  {
+   "page": 17,
+   "label": "7",
+   "char_start": 36791,
+   "char_end": 40056,
+   "chars": 3265,
+   "text_sha256": "6550f771f457352d497215939667adbeccef1e75b1147b9f1d4bc647eb03a5b7"
+  },
+  {
+   "page": 18,
+   "label": "8",
+   "char_start": 40058,
+   "char_end": 41666,
+   "chars": 1608,
+   "text_sha256": "eeac38903b1807c194a954fc704e354f5dae4782cbdb4c9483ca94d35f96f320"
+  },
+  {
+   "page": 19,
+   "label": "9",
+   "char_start": 41668,
+   "char_end": 41668,
+   "chars": 0,
+   "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+   "page": 20,
+   "label": "10",
+   "char_start": 41668,
+   "char_end": 41841,
+   "chars": 173,
+   "text_sha256": "e602a68a3f709b9c4face6b2522f41a30a763d49d75ff3c27e56e1d5c3cde61a"
+  }
+ ]
+}

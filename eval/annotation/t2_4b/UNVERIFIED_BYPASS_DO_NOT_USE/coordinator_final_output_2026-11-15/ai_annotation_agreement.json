@@ -1,0 +1,259 @@
+{
+  "generated_at": "2026-11-15T15:35:54.655002+00:00",
+  "coverage_complete": false,
+  "note": "AI-to-AI agreement; NOT human inter-rater reliability",
+  "total_items": 2791,
+  "both_valid_grade_items": 1504,
+  "ordinal_items": 1501,
+  "conflict_items": 3,
+  "both_conflict_items": 0,
+  "one_conflict_items": 3,
+  "exact_agreement_all": {
+    "n": 1085,
+    "total": 1504,
+    "pct": 72.14
+  },
+  "ordinal_exact_agreement": {
+    "n": 1085,
+    "total": 1501,
+    "pct": 72.29
+  },
+  "cohens_kappa_exact": 0.5764,
+  "cohens_kappa_linear": 0.7204,
+  "cohens_kappa_quadratic": 0.84,
+  "grade_distribution_a": {
+    "-1": [
+      3,
+      0.2
+    ],
+    "0": [
+      706,
+      46.9
+    ],
+    "1": [
+      441,
+      29.3
+    ],
+    "2": [
+      209,
+      13.9
+    ],
+    "3": [
+      145,
+      9.6
+    ]
+  },
+  "grade_distribution_b": {
+    "-1": [
+      0,
+      0.0
+    ],
+    "0": [
+      794,
+      52.8
+    ],
+    "1": [
+      353,
+      23.5
+    ],
+    "2": [
+      187,
+      12.4
+    ],
+    "3": [
+      170,
+      11.3
+    ]
+  },
+  "agreement_by_question": {
+    "q001": {
+      "n": 37,
+      "agree": 16,
+      "pct": 43.2
+    },
+    "q004": {
+      "n": 39,
+      "agree": 29,
+      "pct": 74.4
+    },
+    "q005": {
+      "n": 36,
+      "agree": 33,
+      "pct": 91.7
+    },
+    "q006": {
+      "n": 40,
+      "agree": 31,
+      "pct": 77.5
+    },
+    "q007": {
+      "n": 40,
+      "agree": 28,
+      "pct": 70.0
+    },
+    "q008": {
+      "n": 55,
+      "agree": 49,
+      "pct": 89.1
+    },
+    "q009": {
+      "n": 40,
+      "agree": 27,
+      "pct": 67.5
+    },
+    "q010": {
+      "n": 40,
+      "agree": 27,
+      "pct": 67.5
+    },
+    "q011": {
+      "n": 40,
+      "agree": 18,
+      "pct": 45.0
+    },
+    "q012": {
+      "n": 40,
+      "agree": 38,
+      "pct": 95.0
+    },
+    "q013": {
+      "n": 47,
+      "agree": 34,
+      "pct": 72.3
+    },
+    "q014": {
+      "n": 58,
+      "agree": 32,
+      "pct": 55.2
+    },
+    "q015": {
+      "n": 33,
+      "agree": 18,
+      "pct": 54.5
+    },
+    "q016": {
+      "n": 30,
+      "agree": 22,
+      "pct": 73.3
+    },
+    "q017": {
+      "n": 54,
+      "agree": 49,
+      "pct": 90.7
+    },
+    "q024": {
+      "n": 49,
+      "agree": 25,
+      "pct": 51.0
+    },
+    "q028": {
+      "n": 43,
+      "agree": 37,
+      "pct": 86.0
+    },
+    "q031": {
+      "n": 42,
+      "agree": 22,
+      "pct": 52.4
+    },
+    "q032": {
+      "n": 48,
+      "agree": 43,
+      "pct": 89.6
+    },
+    "q034": {
+      "n": 33,
+      "agree": 25,
+      "pct": 75.8
+    },
+    "q035": {
+      "n": 54,
+      "agree": 35,
+      "pct": 64.8
+    },
+    "q038": {
+      "n": 47,
+      "agree": 40,
+      "pct": 85.1
+    },
+    "q039": {
+      "n": 47,
+      "agree": 37,
+      "pct": 78.7
+    },
+    "q044": {
+      "n": 42,
+      "agree": 18,
+      "pct": 42.9
+    },
+    "q045": {
+      "n": 35,
+      "agree": 22,
+      "pct": 62.9
+    },
+    "q046": {
+      "n": 38,
+      "agree": 32,
+      "pct": 84.2
+    },
+    "q050": {
+      "n": 39,
+      "agree": 16,
+      "pct": 41.0
+    },
+    "q051": {
+      "n": 37,
+      "agree": 30,
+      "pct": 81.1
+    },
+    "q052": {
+      "n": 39,
+      "agree": 28,
+      "pct": 71.8
+    },
+    "q053": {
+      "n": 41,
+      "agree": 16,
+      "pct": 39.0
+    },
+    "q055": {
+      "n": 38,
+      "agree": 27,
+      "pct": 71.1
+    },
+    "q058": {
+      "n": 32,
+      "agree": 32,
+      "pct": 100.0
+    },
+    "q061": {
+      "n": 40,
+      "agree": 37,
+      "pct": 92.5
+    },
+    "q062": {
+      "n": 20,
+      "agree": 20,
+      "pct": 100.0
+    },
+    "q063": {
+      "n": 25,
+      "agree": 21,
+      "pct": 84.0
+    },
+    "q065": {
+      "n": 33,
+      "agree": 23,
+      "pct": 69.7
+    },
+    "q066": {
+      "n": 50,
+      "agree": 48,
+      "pct": 96.0
+    }
+  },
+  "needs_review_a": 2,
+  "needs_review_b": 10,
+  "missing_a": 1191,
+  "missing_b": 125
+}

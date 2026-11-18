@@ -1,0 +1,884 @@
+{
+ "NIHR-SENITA-2022": [
+  {
+   "chunk_index": 3,
+   "reason": "type:front_matter_detected",
+   "section_path": [],
+   "section_type": "front_matter_detected",
+   "pages": [
+    7,
+    7
+   ],
+   "tokens": 340,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "The HTA editors and publisher have tried to ensure the accuracy of the authors ’ report and would like to thank the reviewers for their constructive comments on the draft document. However, they do not accept liability for damages or losses arising from material published in this report.\n\nThis report presents independent research funded by the National Institute for Health and Care Research (NIHR). The views and opinions expressed by authors in this publication are those of the authors and do not necessarily reflect those of the NHS, the NIHR, the HTA programme or the Department of Health and Social Care. If there are verbatim quotations included in this publication the views and opinions expressed by the interviewees are those of the interviewees and do not necessarily reflect those of the authors, those of the NHS, the NIHR, the HTA programme or the Department of Health and Social Care. Copyright © 2022 Randell et al. This work was produced by Randell et al. under the terms of a commissioning contract issued by the Secretary of State for Health and Social Care. This is an Open Access publication distributed under the terms of the Creative Commons Attribution CC BY 4.0 licence, which permits unrestricted use, distribution, reproduction and adaption in any medium and for any purpose provided that it is properly attributed. See: https://creativecommons.org/licenses/by/4.0/. For attribution the title, original author(s), the publication source – NIHR Journals Library, and the DOI of the publication must be cited.\n\nPublished by the NIHR Journals Library (www.journalslibrary.nihr.ac.uk), produced by Prepress Projects Ltd, Perth, Scotland (www.prepress-projects.co.uk).",
+   "content_sha256": "8cea2303e4d049dd474aec683250de016dd1667761f1d6a97bc9d755ae755123"
+  },
+  {
+   "chunk_index": 8,
+   "reason": "status:table_structure_unrecoverable",
+   "section_path": [
+    "Abstract"
+   ],
+   "section_type": "abstract",
+   "pages": [
+    10,
+    11
+   ],
+   "tokens": 36,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "ABSTRACT viii\n\nContents List of tables xv List of figures xvii List of abbreviations xix Plain English summary xxi Scientific summary xxiii Chapter 1 Introduction 1",
+   "content_sha256": "8553d883c0ac3209943f3ec58fabcc49b944cfdb8e377321707fb5b6e27bf453"
+  },
+  {
+   "chunk_index": 10,
+   "reason": "type:abstract",
+   "section_path": [
+    "Abstract"
+   ],
+   "section_type": "abstract",
+   "pages": [
+    11,
+    11
+   ],
+   "tokens": 15,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "Assessment process 19 Intervention 19 Summary 20 ix",
+   "content_sha256": "c9165a51672216a01b32f8d3dbe194ff1369273921c18f4d1fda05e5f27fe079"
+  },
+  {
+   "chunk_index": 17,
+   "reason": "type:front_matter",
+   "section_path": [
+    "CONTENTS"
+   ],
+   "section_type": "front_matter",
+   "pages": [
+    14,
+    14
+   ],
+   "tokens": 50,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "Introduction and methods 73 Identification of resources 73 Measure of resources 74 Intervention delivery 74 Usual care 74 NHS/Personal Social Services 74 Productivity losses 74 Valuation of resources 74",
+   "content_sha256": "25e70216fb9a07fa63c697f2d14ce7fc90e093ddc4da9f812703a056f9b21ba5"
+  },
+  {
+   "chunk_index": 32,
+   "reason": "type:back_matter",
+   "section_path": [
+    "List of abbreviations"
+   ],
+   "section_type": "back_matter",
+   "pages": [
+    21,
+    21
+   ],
+   "tokens": 6,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "NICE National Institute for Health",
+   "content_sha256": "2b8ac2b39155b590046c0ef6cafb77b70671ba9d71ff67907fde3dd691816553"
+  },
+  {
+   "chunk_index": 49,
+   "reason": "type:introduction",
+   "section_path": [
+    "Chapter 1 Introduction",
+    "INTRODUCTION"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    34,
+    34
+   ],
+   "tokens": 436,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Post-intervention treatment effects may be less specific, and we do not yet know whether or not SIT demonstrates sustained effects. 13 There is also uncertainty around appropriate intervention targets and associated outcome measurement, given the focus of previous trials on goal attainment as the primary outcome of interest and associated\n\npsychometric challenges. Furthermore, aside from considerable variation in the intervention protocols, SIT is resource intensive and would require significant investment to be rolled out as a potential treatment option within the NHS. It is critical, therefore, to evaluate both the clinical effectiveness and the cost-effectiveness of SIT for children with autism and SPDs across a range of key outcomes, and to determine whether or not any effects are sustained in the longer term. The SenITA trial The main aims of the SenITA (SENsory Integration Therapy for sensory processing difficulties in children with Autism spectrum disorder) trial (see Chapter 3 for methods) were to (1) describe usual care in trial regions and clearly differentiate this from the proposed intervention (see Chapter 2); and (2) evaluate the clinical effectiveness of manualised ASI therapy (see Chapter 5) in a two-arm RCT for SPDs in young children with autism. The intervention was evaluated in terms of the impact on behavioural problems and adaptive skills, socialisation, carer stress and quality of life (see Chapter 6), and in terms of cost-effectiveness (see Chapter 7). Participants with a range of autism and sensory symptom severity, as well as functional and cognitive ability, were recruited from NHS, educational and third-sector settings. The primary outcome time point was 6 months post randomisation, and was reassessed at 12 months to determine whether or not any observed effects were maintained in the longer term. An internal pilot (see Chapter 4 ) examined whether or not the intervention differed significantly in content or intensity from usual care and assessed recruitment and retention. Contamination, adherence and fidelity of intervention delivery were measured as part of the process evaluation (see Chapter 8). Experiences of the intervention and usual care were also explored via semistructured interviews with carers and therapists (see Chapter 9).",
+   "content_sha256": "7214b7f2e6b16bbcb17d9a707fa10fb11376e1b7597f79098ca20d9de2d2d185"
+  },
+  {
+   "chunk_index": 109,
+   "reason": "type:methods",
+   "section_path": [
+    "METHODS"
+   ],
+   "section_type": "methods",
+   "pages": [
+    60,
+    60
+   ],
+   "tokens": 119,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "is capable Explain study brief ly to child using the child information sheet While parent is completing form, highlight areas to be completed on VABS paper form Ask parent to complete VABS paper form Check scoring of VABS paper form and go through any questions Ask parent to complete contact information form Complete iPad (Apple Inc., Cupertino, CA, USA) assessments (all baseline other than ADOS and VABS to be marked as complete) Yes Consent participant Register participant in online database Complete SPM assessment – show video if not seen SPM eligible Thank participant for their participation and explain why they are ineligible to take",
+   "content_sha256": "e3e1d7c06059c0e5d63849618055406e7d2107d1670d9c99f3980c50195bdd77"
+  },
+  {
+   "chunk_index": 138,
+   "reason": "type:discussion",
+   "section_path": [
+    "INTERNAL PILOT EVALUATION",
+    "Discussion"
+   ],
+   "section_type": "discussion",
+   "pages": [
+    73,
+    74
+   ],
+   "tokens": 304,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "TABLE 13 Summary of internal pilot findings Outcome Projected Attained Comment Usual care N/A N/A Intervention is sufficiently different from usual care Number of participants randomised 78 40 Lower than expected owing to difficulties opening sites and limited occupational therapist availability in Wales Percentage of participants eligible from those approached 70 43 Lower than originally expected because of primary referral pathways being different from those expected Percentage of participants randomised from those eligible 50 95 Higher than originally expected because of primary referral pathways being different from those expected Percentage of participants randomised from those approached 35 41 Higher than originally expected Percentage of participants with missing outcome data at 6 months post randomisation 20 7 High levels of retention from trial participants Contamination (usual-care participants accessing full SIT) N/A 0 No evidence of any contamination Adherence (number of SIT participants receiving at least 13/20 intensive sessions) N/A 100 High levels of intervention receipt Fidelity (number of therapists scoring at least 80/100 for at least 80% of sessions rated) N/A Lower than expected. Assessing only 15–20 minutes of each session may have skewed this score, considering that the global impression score for 23/24 sessions reflected that the therapists intentionally applied ASI intervention N/A, not applicable.\n\nwere more self-referrals and third-sector referrals) we did not encounter any difficulties in generating",
+   "content_sha256": "2c7dffb6b8eb4be4114681897dd2feaf325daa940cf822636142c6230d150996"
+  },
+  {
+   "chunk_index": 144,
+   "reason": "type:unclassified",
+   "section_path": [],
+   "section_type": "unclassified",
+   "pages": [
+    76,
+    76
+   ],
+   "tokens": 478,
+   "eligible": true,
+   "status": "references_missing_component",
+   "content": "(3) physical space and equipment; and (4) communication with carers. In addition, the intervention sessions were measured for process fidelity to determine whether or not the therapist ensured physical safety; provided sensory opportunities; helped the child to maintain an appropriate level of alertness; challenged postural, ocular, oral or bilateral motor control; challenged praxis and behavioural organisation; collaborated in activity choice; tailored activity to provide appropriate challenge; ensured activities were successful; supported intrinsic motivation to play; and established therapeutic alliance. The scale demonstrates high content validity according to expert ratings and high reliability for process elements (total score ICC 0.99; Crohnbach ’s α = 0.99). 23 Following provision of consent, face-to-face sessions were video-recorded. Fidelity of delivery was discussed with mentors through viewing video-recorded face-to-face sessions delivered to a participant for individual therapists early in the treatment series. A sample of recorded sessions in the intensive phase were also rated for fidelity by independent sensory integration-trained therapists who had successfully passed fidelity training (based on a randomly selected sample of the full sessions, of a minimum of 15 –20 minutes in duration). Demonstration of adequate fidelity of intervention delivery was defined as scoring at least 80 out of 100 on the fidelity measure 23 across at least 80% of sessions sampled (see Chapter 8 for fidelity outcome data). Fidelity principles The key ingredients of the intervention can be described as the contextual elements that detailed the interactive context between the therapist and the child, and the therapeutic alliance that occurred. These elements delineated the playful and supportive atmosphere in which the intervention took place and the strategies that ensured that the child’ s motivation and interest were maintained through play, that is, the ‘just-right’ challenge. Next, the specific sensory –motor therapeutic activities that were individually tailored for each child were delineated. These activities were grouped into four areas:\n\n1. sensory perception (with special emphasis on tactile, proprioceptive and vestibular systems)\n\n2. postural and ocular control and bilateral integration\n\n3. praxis\n\n4. sensory reactivity (with particular emphasis on hyper-reactivity to tactile, vestibular, visual and auditory, and olfactory and gustatory sensation, and hyporeactivity to tactile, proprioceptive and vestibular sensation).",
+   "content_sha256": "42448db60db3ed55951da6db60955c4ec378a42fa8b0f85f0c98d4592dec6256"
+  },
+  {
+   "chunk_index": 192,
+   "reason": "type:body",
+   "section_path": [
+    "QUANTITATIVE RESULTS"
+   ],
+   "section_type": "body",
+   "pages": [
+    98,
+    99
+   ],
+   "tokens": 203,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Note Models were fitted separately for each subgroup and adjusted for baseline ABC-I, sex of child, SPM category and region (where not a subgroup). Main effects for SIT can be interpreted as the intervention effect on ABC-I at 6 months in the reference group for each subgroup explored. Main effects for the subgroup can be interpreted as the association between the subgroup category and the ABC-I score at 6 months for participants in the control arm.\n\neffect of SIT on APSI at 6 months by the presence of other neurodevelopmental or genetic conditions (intervention arm × neurodevelopmental/genetic condition present = –9.53, 95% CI –18.08 to –0.98; p = 0.030).\n\nWe found no evidence of a differential effect of SIT on the ABC-I at 6 months by sex of child, SPM range or general comorbidity, or by ID and ADHD specifically (see Table 24 ).",
+   "content_sha256": "b9e2b1f63396250e9a95d575e4768ade24c1dc81f8a9d8b7187a510c27adcf60"
+  },
+  {
+   "chunk_index": 202,
+   "reason": "type:noise",
+   "section_path": [
+    "QUANTITATIVE RESULTS"
+   ],
+   "section_type": "noise",
+   "pages": [
+    102,
+    102
+   ],
+   "tokens": 33,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "45 40 35 30 25 20 15 10 5 0 ABC-I at 6 months",
+   "content_sha256": "601ad5fdb478555666e0a81102f956276cc0f8751aa32d540bdfe6e44199a62e"
+  },
+  {
+   "chunk_index": 230,
+   "reason": "type:results",
+   "section_path": [
+    "HEALTH ECONOMICS",
+    "Results"
+   ],
+   "section_type": "results",
+   "pages": [
+    113,
+    113
+   ],
+   "tokens": 102,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "TABLE 35 Total costs (£) at 6-month follow-up by arm (for previous 6 months) Cost Study arm (£) Unadjusted mean difference (95% CI) (£) Adjusted mean difference (95% CI) (£) a,b SIT ( n = 48), mean (SD) Usual care (n = 35), mean (SD)\n\na. Intervention cost 1538.16 ( –)\n\nb. Child Autism intervention package",
+   "content_sha256": "4a17a9e6a4e13fb061393b95db3777654311ed2e133e2111c18b2258ce0efac3"
+  },
+  {
+   "chunk_index": 293,
+   "reason": "type:conclusion",
+   "section_path": [
+    "PROCESS EVALUATION: RECRUITMENT, RETENTION, FIDELITY AND SAFETY",
+    "Conclusions"
+   ],
+   "section_type": "conclusion",
+   "pages": [
+    140,
+    140
+   ],
+   "tokens": 423,
+   "eligible": true,
+   "status": "references_missing_component",
+   "content": "The process evaluation demonstrated that recruitment of participants and therapists and delivery of intervention all met required thresholds. Recruited participants were also probably representative of the population with autism presenting to services. Findings were consistent with those from the internal pilot in that recruitment criteria were met and there was little difficulty in generating expressions of interest. Participant recruitment into the study was, in part, tempered by therapist availability. Retention of participants was good, as was retention of therapists, although practicalities of juggling NHS caseloads with the trial meant that the overall trial recruitment period and, therefore, delivery of intervention was longer than initially anticipated.\n\nData show that structural and process fidelity were high. In cases where process fidelity was lower than anticipated, therapists were given extra support through mentoring. In these cases, it is possible that some fidelity elements may not have been present in the video clip selected or reflected poor agreement among raters.\n\nCarers generally found trial processes acceptable and enjoyed being part of the trial. However, there were areas where adaptations could be made. Both therapists and carers reported that entering data online was not particularly easy. In the case of reporting diary data, carers generally struggled with this and often forgot or had difficulty using the online system. In their normal practice, therapists were used to taking hard-copy notes and, therefore, found an online system difficult to use during sessions. Therapists felt that there were numerous technical processes involved as part of their role in collecting data (e.g. setting up cameras, uploading data and finding WiFi), which added to their burden. However, therapists generally felt well supported by the trial team who were able to resolve queries in real time. Overall, adherence to the intervention was high, although, on a practical level, carers sometimes found it difficult to fit the intensive phase of the intervention in with other events in their personal lives (e.g. school, holidays and leave from work). The intervention was safe, with no SAEs reported. There was minimal contamination in the control arm and families allocated to SIT did not report receipt of any other significant intervention or contact with services.",
+   "content_sha256": "609f17e5e0b1bc76d8c30afd4febe809bc2b16ad521561061f8d955eaa6d2f0a"
+  },
+  {
+   "chunk_index": 327,
+   "reason": "type:limitations",
+   "section_path": [
+    "Chapter 10 Discussion",
+    "Strengths and limitations"
+   ],
+   "section_type": "limitations",
+   "pages": [
+    158,
+    158
+   ],
+   "tokens": 277,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Strengths The key strength of the SenITA trial is that it was adequately powered to answer the key question in the original commissioning bid of ‘What is the effectiveness and cost-effectiveness of SIT for children with autism? ’. Important outcomes, as detailed in the commissioning brief, were challenging behaviours, socialisation, engagement with activities and sensory sensitivities. Other potential outcomes listed included adherence to the therapy manual, process indicators, health-related quality of life, carer burden, adverse effects and cost-effectiveness. The trial was sufficiently powered to determine effectiveness of manualised SIT on the primary outcome, that is, a measure of challenging behaviour. The intervention was also delivered with good fidelity and adherence and was acceptable to both families and therapists; no adverse effects were reported. Inclusion of longer-term (12-month) outcome assessment is also a strength, as previous studies 33,34 of SIT have assessed outcomes post intervention only (or at an equivalent time point in the comparator arm).\n\nThis trial has also made a significant contribution to knowledge around what is generally delivered as usual care to children with autism and SPDs. In addition, the trial has highlighted the gap between services generally available to families (e.g. advice, strategies to improve functional/daily living skills) and services that carers would most value (e.g. intervention to support behavioural problems).",
+   "content_sha256": "fefc69ed96408af327da2141845fc6ab8be05003165f26922d8993a7a0dc960e"
+  },
+  {
+   "chunk_index": 332,
+   "reason": "type:contributors",
+   "section_path": [
+    "Chapter 10 Discussion",
+    "Contributions of authors"
+   ],
+   "section_type": "contributors",
+   "pages": [
+    162,
+    162
+   ],
+   "tokens": 225,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "Alka Ahuja (https://orcid.org/0000-0003-2658-2021) provided clinical and research expertise in relation to children with autism. Gemma Warren led the patient and public involvement component of the trial.\n\nEleni Glarou (https://orcid.org/0000-0001-5666-2458) contributed to interpretation of therapeutic mechanisms and qualitative data.\n\nSue Delport (https://orcid.org/0000-0001-8065-5493) co-led the study, provided clinical expertise in relation to OT and the trial intervention, and contributed to report writing. Rachel McNamara (https://orcid.org/0000-0002-7280-1611) co-led the study and contributed to report writing and preparation of the final report. Data-sharing statement All available data, study handbooks and the full trial protocol can be obtained by contacting the corresponding author.",
+   "content_sha256": "d8493e3914e7e70ac88f88d52bd3ed878c2635bdb551eeece21b5aa508cfb322"
+  },
+  {
+   "chunk_index": 342,
+   "reason": "type:references",
+   "section_path": [
+    "REFERENCES"
+   ],
+   "section_type": "references",
+   "pages": [
+    166,
+    166
+   ],
+   "tokens": 35,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "63. NHS Wales. NHS Wales Delivery Framework and Reporting Guidance 2019 –2020. Cardiff: NHS Wales; 2019.",
+   "content_sha256": "7b3313a3c3c6dd660364fea17b7ddff1257c44ab95d8fee803f6a1f00b87b6c1"
+  },
+  {
+   "chunk_index": 351,
+   "reason": "type:references_detected",
+   "section_path": [],
+   "section_type": "references_detected",
+   "pages": [
+    169,
+    169
+   ],
+   "tokens": 275,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "101. Curtis L, Burns A. Unit Costs of Health and Social Care 2016 . Canterbury: PSSRU, University of Kent; 2016.\n\n102. Slade I, Hanson H, George A, Kohut K, Strydom A, Wordsworth S, et al. A cost analysis of a cancer genetic service model in the UK. J Community Genet 2016;7:185–194. https://doi.org/ 10.1007/s12687-016-0266-4 103. NHS. Carers’ Breaks and Respite Care.U R L :www.nhs.uk/conditions/social-care-and-support-guide/ support-and-benefits-for-carers/carer-breaks-and-respite-care/(accessed 20 April 2022). 104. Curtis L, Burns A. Unit Costs of Health and Social Care 2018 . Canterbury: PSSRU, University of Kent; 2018.\n\n105. The Canine Fitness Centre. Treatment and Session Pricing.U R L :www.thecaninefitnesscentre.co.uk/ pricing/ (accessed 20 April 2022).",
+   "content_sha256": "1facad7af4ef0fe9c712b83d8cb175c17284939f6c65b34363df1f3e32739691"
+  }
+ ],
+ "WHO-CST-INTRO-2022": [
+  {
+   "chunk_index": 1,
+   "reason": "type:front_matter_detected",
+   "section_path": [],
+   "section_type": "front_matter_detected",
+   "pages": [
+    4,
+    5
+   ],
+   "tokens": 576,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "Suggested citation. Caregiver skills training for families of children with developmental delays or disabilities: introduction. Geneva: World Health Organization; 2022. Licence: CC BY-NC-SA 3.0 IGO.\n\nCataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris. Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for commercial use and queries on rights and licensing, see https://www.who.int/copyright. Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests solely with the user. General disclaimers. The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement. The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters. All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use. Layout by Harri Aittasalo; illustrations by Miguel Mendes.\n\niii Preface ..............................................................................................................................................................iv Acknowledgements ............................................................................................................................................v Background ....................................................................................................................................................... 1 Who is the caregiver skills training package for? .............................................................................................. 1 Format of the caregiver skills training package .................................................................................................1 Caregiver skills training implementation tools ................................................................................................... 2 Group session structure and goals .................................................................................................................... 2 Home visit structure and goals ..........................................................................................................................2 Content of the caregiver skills training package ...............................................................................................3 Educational methods ........................................................................................................................................4 Who can provide the caregiver skills training course? ...................................................................................... 4 Who can train and supervise the facilitators? .................................................................................................... 4 Facilitators’ training ............................................................................................................................................5 Supervision ........................................................................................................................................................5 How to use the facilitators’ guides ....................................................................................................................6 How to manage the group sessions ..................................................................................................................6 Contents",
+   "content_sha256": "ef5991995313cf254a7fd6b336eab77051722913c644a2313e8c3a322d73d48b"
+  },
+  {
+   "chunk_index": 6,
+   "reason": "type:contributors_detected",
+   "section_path": [],
+   "section_type": "contributors_detected",
+   "pages": [
+    7,
+    8
+   ],
+   "tokens": 167,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "Macheva (Community Centre for Child and Parent Support, Bulgaria), Milena Marinova (UNICEF Bulgaria), Rositsa Markova (Centre for Complex Care for Children with Disabilities and Chronic Conditions, Bulgaria), Helen McConachie (Newcastle University, United Kingdom), Sharynne McLeod (Charles Sturt University, Australia), Nermeen Abdelaziz M. Moharam (Médecins du Monde, Egypt), Inna Monova (Naked Heart Foundation, Russian Federation), Cecilia Montiel Nava (Autism Speaks, USA), Carina Morillo (Fundación Brincar por un autismo feliz, Argentina), Tatiana Morozova (Naked Heart Foundation, Russian Federation), Lucia Murillo (Autism Speaks, USA), Basma T. M.",
+   "content_sha256": "66c022004e895a2e330cd532ab2f5bd53ebdd1d202462a273e31de302a18ab09"
+  },
+  {
+   "chunk_index": 9,
+   "reason": "eligible spread 1/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    11,
+    12
+   ],
+   "tokens": 573,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "The five-part Caregiver skills training for families of children with developmental delays or disabilities (CST) package was developed to facilitate access to parenting support for caregivers of children with developmental delays or disabilities. The development of the training package materials was based on evidence on parenting and parent-mediated interventions for children with developmental disabilities and, in particular, on evidence on strategies targeting the caregivers of children with delays or impairment in social and communication domains. The training package was developed in consultation with – and informed by feedback from –international experts, service providers, caregivers and family advocates, with extensive field-testing across regions. Who is the caregiver skills training package for?\n\nThe intended audience is caregivers of children aged 2–9 years with developmental delays or disabilities, with a specific focus on caregivers of children with delays or impairments in social and communication domains – although the age range can be adjusted slightly, depending on the needs of the setting. Importantly, a diagnosis is not required to access the training course. The lack of a diagnostic requirement means that the training package can be provided to families once a developmental delay has been identified. This may reduce other potential barriers – including the potential reluctance of caregivers to identify themselves as the parents of children with developmental disabilities and experiences of stigma from attending a course labelled as being exclusively for caregivers of children with developmental conditions. The expectation is that primary health-care providers, community health workers, educational providers or specialists will recommend the caregiver skills training course to families.\n\nFormat of the caregiver skills training package The course is designed to be delivered in nine core group sessions for caregivers and three home visits. The group sessions can be provided at a health facility, school or other community-based facility. Each group session lasts 2.5 to 3 hours, including a break. Sessions can be scheduled either weekly or every two weeks depending on what is most feasible for caregivers in the local context. Home visits are scheduled at the beginning, middle and end of the course – i.e. before group session 1, between sessions 5 and 6, and after the final group session. Home visits are typically conducted in caregivers’ homes and last 1.5 to 2 hours each, although they can be offered in a community setting if home visits are not feasible due to geographical distance, safety concerns or other challenges. Typically, two caregivers per household are invited to participate in the group sessions. The core 9-session course has also been adapted for virtual delivery through videoconferencing for group sessions and home visits.\n\nAdditional group sessions and home visits can be offered to allow more time to acquire strategies related to caregiver well-being and strategies tailored to the needs of caregivers of children who have little or no spoken language.\n\nCaregiver skills training implementation tools In addition to this introduction, there are four subsequent parts of the caregiver skills training package while two additional parts are being developed:",
+   "content_sha256": "ae4d42591c163fc1a1b7a43b245473bde4e3c446b8dd2753f6de2b53b137658b"
+  },
+  {
+   "chunk_index": 10,
+   "reason": "eligible spread 2/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    12,
+    13
+   ],
+   "tokens": 501,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Caregiver skills training implementation tools In addition to this introduction, there are four subsequent parts of the caregiver skills training package while two additional parts are being developed:\n\n Adaptation and implementation guide;  Facilitators’ guide: group sessions 1–9;  Participants’ guide: group sessions 1–9;  Home visit guide for facilitators;  Caregivers of children who have little or no spoken language: facilitators and participants’ guides (forthcoming);  Caregiver well-being: facilitators’ and participants’ guides (forthcoming). Group session structure and goals A general group session structure should be followed for sessions 2 through 9, and includes:  a brief wellness activity (calm breathing);  review of key messages and tips from the previous session;  discussion of home practice experiences;  presentation of a caregiver story that is illustrated in the participant guide (caregiver stories are used to deliver educational messages, provide examples of how the strategies can be implemented at home and explore common caregiver experiences), followed by guided questions for learning and discussion;  group teaching and activities, including presentation of key messages and tips for the session;  a break;  facilitator demonstration of skills and strategies using role-play, followed by guided questions for learning and group discussion;  planning for home practice and practice of skills through role-plays with facilitators, coaching and feedback;  review of the session and closing.\n\nThis caregiver skills training course is a caregiver-mediated intervention that integrates these strategies into everyday life. Group session goals include building the caregivers’ knowledge and skills while supporting them in practising the caregiver skills training strategies at home with their child. Home practice between group sessions is considered essential and caregivers are asked to practise the skills with their child daily.\n\nHome visit structure and goals Goals of the home visits include building rapport with the family, including those family members who do not attend group sessions, learning about the child’s developmental competencies and behaviour, and the home environment; helping the caregiver to set target goals for their child; coaching the caregiver to do the strategies learned in group sessions; troubleshooting caregiver challenges; promoting attendance at group sessions; and identifying any additional needs of the family and referring to additional services as needed.\n\nEach home visit has specific tasks and goals that are detailed in the home visit facilitation guide.\n\nThe general home visit structure includes:\n\n Greeting the family and child.",
+   "content_sha256": "92583be008470250c3161d901dd495d770c26bb065013d0b031d48ee2fe3916c"
+  },
+  {
+   "chunk_index": 11,
+   "reason": "eligible spread 3/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    13,
+    13
+   ],
+   "tokens": 521,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Each home visit has specific tasks and goals that are detailed in the home visit facilitation guide. The general home visit structure includes:  Greeting the family and child.\n\n Discussing with the caregiver issues that are specific to that visit. Visit 1 includes taking a history of the family’s contact with support services and assessment of the child’s communication, behaviour and functioning. Visits 2 and 3 include review of key message strategies and home practice.  Observing the caregiver interacting with the child and the interaction between the facilitator and the child.\n\n Demonstration of the caregiver skills training skills and strategies (tips) by the facilitator, and coaching of the caregiver on those strategies.\n\n Goal-setting that is based on observation and interview with the caregiver. Goals are identified in Visit 1 and discussed and reviewed in Visit 2 and Visit 3.\n\n Planning for the future. Visits 1 and 2 include inviting the family to the next session and discussing possible barriers and solutions, and Visit 3 includes creating a plan for ongoing practice of caregiver skills training strategies.\n\nEach home visit includes an assessment of the families’ needs. Facilitators are to be aware of signs that additional supports are needed – including child health or caregiver health, mental health challenges, potential child maltreatment or material deprivation. Content of the caregiver skills training package The course’s theoretical foundation and methodology are informed by principles of applied behavior analysis, developmental science, social communication interventions, positive parenting and self-care methods. Specifically, the caregiver skills training package is based on naturalisticdevelopmental-behavioural approaches for promoting shared engagement and communication including JASPER (Joint Attention Symbolic Play Engagement Regulation) and PRT (Pivotal Response Treatment); positive parenting approaches for promoting positive child behaviour and management of challenging behaviour; problem solving and promotion of caregiver well-being.1 The first two group sessions focus on getting children engaged in activities (both daily home activities and play) and keeping them engaged. Group session 3 focuses on the development of play and home routines as a means of encouraging engagement, communication, positive behaviour and skills for daily living. Sessions 4 and 5 focus on recognizing a child's communication abilities and creating opportunities to promote communication. Group session 6 is focused on teaching skills for everyday living in small steps using different levels of help. Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. 1 For further details, see the following:",
+   "content_sha256": "c7b745dc7a77fa4d2cefcd34dc0dc4e3ff70b4465b6e16134f760ec536ec5e4f"
+  },
+  {
+   "chunk_index": 12,
+   "reason": "eligible spread 4/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    13,
+    14
+   ],
+   "tokens": 574,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. 1 For further details, see the following:\n\nKasari C, Lawton K, Shih W, Barker TV, Landa R, Lord C et al. (). Caregiver-mediated intervention for low-resourced preschoolers with autism: an RCT. Pediatrics. 2014;134:e72–e79.\n\nKaale A, Smith L, Sponheim E. A randomized controlled trial of preschool-based joint attention intervention for children with autism. J Child Psychol Psychiatry. 2012;53:97–105.\n\nKasari C, Gulsrud A, Paparella T, Hellemann G, Berry K. Randomized comparative efficacy study of parent-mediated interventions for toddlers with autism. J Consult Clin Psychol. 2015;83:554–63.\n\nEducational methods The caregiver skills training course draws on educational methods that are relevant to adult learning, including personal goal-setting, active learning through questions (guided questions for learning) and discussions. The expertise and experiences of participants are brought into group sessions through discussions and when home practice is discussed; participants have the opportunity to benefit from the ideas, experiences and suggestions of others. Active learning is promoted by teaching strategies through modelling (facilitator demonstration) and by having participants practise in the session with feedback and coaching from facilitators. Key to the facilitation of the caregiver skills training course is the creation of a safe and positive learning environment in which participants feel comfortable asking and answering questions, and sharing their ideas and experiences with other caregivers.\n\nWho can provide the caregiver skills training course?\n\nFacilitators should be trained and supervised non-specialists (community health workers, social service workers, nurses, early childhood education facilitators, teachers, experienced caregivers etc.). The selection of facilitators should take account of the potential for sustainability and scalability in the local context. Facilitators must have adequate time – ideally within their regular work schedules – to provide the caregiver skills training group sessions and home visits. Travel time should also be taken into account. Facilitators will preferably have completed high school education or equivalent, while experience of providing care for children with developmental disabilities and facilitating groups will be an asset. Facilitators should be approachable and capable of working well with other adults maintaining a supportive environment in group sessions and providing feedback and coaching in a supportive manner. Facilitators will need to be equipped with training on caregiver skills training skills and strategies both for the facilitation of group sessions and for home visits. Facilitators should receive continuing support and supervision from a trained supervisor. Who can train and supervise the facilitators?",
+   "content_sha256": "d9b364aa4cb4bc415dff4cf905de0c169b807d8b4386e9bc29ec219ee94265ea"
+  },
+  {
+   "chunk_index": 13,
+   "reason": "type:introduction",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    14,
+    15
+   ],
+   "tokens": 529,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Facilitators will need to be equipped with training on caregiver skills training skills and strategies both for the facilitation of group sessions and for home visits. Facilitators should receive continuing support and supervision from a trained supervisor. Who can train and supervise the facilitators?\n\nThe facilitators should be trained and supervised by local master trainers and supervisors. Master trainers and supervisors may be non-specialist primary health-care providers, such as general physicians or nurses, or specialized health-care providers such as paediatricians, psychiatrists, psychologists or mental health nurses who have been trained to deliver the caregiver skills training package. Additional selection criteria for master trainers and supervisors include a suggested minimum education of formal training in child development or mental health training at the postsecondary level or equivalent. Clinical or significant past personal experience with children with developmental disabilities is important. Supervisors should be trained in the use of the caregiver skills training package and should have personal experience of delivering group sessions and home visits. Training and supervisory experience is an asset.\n\nFacilitators’ training A suggested strategy for the training of facilitators is as follows:\n\n A three-day classroom-based training course (Initial course, part 1) provided by local master trainers and covering key content and strategies for group sessions 1 to 5, group facilitation and home visit skills.\n\n Field experience involving joint delivery of group sessions 1 to 5 and home visits 1 and 2 to a group of caregiver participants with a master trainer or supervisor. Scheduled sessions for trainers for debriefing and guidance with master trainers or supervisors after each group session and home visit (20–30 minutes each).\n\n A second three-day classroom-based training course (initial course, part 2) provided by local master trainers, giving an overview of key content and strategies for group sessions 6 to 9, group facilitation and home visit skills.\n\n Further field experience provided by joint delivery of group sessions 6 to 9 and home visit 3 to a group of caregiver participants with a master trainer or supervisor, with scheduled debriefing and guidance after each group session and home visit.\n\n Further two-day training focuses on advanced skills, group facilitation, troubleshooting, problem-solving skills and coaching of caregivers.\n\n Additional practice, training or co-facilitation experience at the discretion of the master trainers or supervisors.\n\n More field experience to follow with the joint delivery of a full caregiver skills training course of nine core group sessions and three home visits to a group of caregiver participants with another facilitator trainee and with supervision sessions scheduled after each group session and home visit.",
+   "content_sha256": "b8732ef29d835c13457ebe7b5b7da94bb4d9fb7e72758ef40fa4da6ced5ea481"
+  },
+  {
+   "chunk_index": 14,
+   "reason": "eligible spread 6/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    15,
+    16
+   ],
+   "tokens": 526,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": " Ongoing supervision involving the provision of the caregiver skills training course paired with another facilitator; this should include, at a minimum, a formal check after each home visit. Debrief with master trainers or supervisors after each group session is recommended, although this can be phased out over time as facilitators gain experience. Nevertheless, master trainers or supervisors should be available for questions or concerns. Supervision The supervision of facilitators is essential and should be provided at a minimum after each home visit. Supervision can be provided in person or online, and can be conducted in a group. Once there is an experienced group of facilitators, peer supervision can be implemented. However, a master trainer or supervisor should always be available for troubleshooting and guidance. One-on-one supervision (e.g. in response to a participant’s urgent concern about a child) should also be available as needed as part of a group supervision model. Supervision involves:\n\n discussion of the child’s developmental competencies in terms of level of play, communication skills, behaviour and skills for daily living (aided by making a videorecording of the first home visit);  determination of the child’s target skills on the basis of her/his developmental competencies;  the choice of suitable caregiver goals for the child;  discussion of any additional family needs related to child health, caregiver mental health, suspected child maltreatment, etc;  discussion of home visits, coaching, any difficulties experienced, or identified barriers to attendance;  discussion of challenges concerning group dynamics;  discussion of positive experiences and caregivers’ successes with their children;  role-playing on how to manage difficulties or practise skills (to improve facilitators’ skills in  group management, coaching etc.);  ongoing evaluation of the facilitator’s workload;  attention to the facilitator’s self-care.\n\nHow to use the facilitators’ guides Facilitators should have the manual with them in the sessions and should refer to it often in order to know what to do and to read the suggested questions, prompts or scripts (included in italics). Practical things to consider Number of facilitators  The caregiver skills training course should be provided by facilitators working in pairs. Group sessions require two facilitators.\n\nHome visits can be conducted by facilitators individually.\n\nNumber of caregivers per group  Groups can range in size from 6 to 12 participants.\n\n Two caregivers from each family should be invited to participate.\n\nHow to manage the group sessions The following are necessary skills for the management of the caregiver skills training group sessions.",
+   "content_sha256": "0db8bd46872c88e6fc8b92fcb6a4243e15258c1563eaac8f3be1b2184e13539a"
+  },
+  {
+   "chunk_index": 15,
+   "reason": "eligible spread 7/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    16,
+    17
+   ],
+   "tokens": 408,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Number of caregivers per group  Groups can range in size from 6 to 12 participants.  Two caregivers from each family should be invited to participate. How to manage the group sessions The following are necessary skills for the management of the caregiver skills training group sessions.\n\nKeeping to time without cutting short valuable group discussion  It is helpful to remind participants about time schedules throughout the intervention.  Break times can be used to return to the group discussions that you have needed to cut short.  Sometimes you might decide that it is very important to continue with a group discussion and so you decide to shorten another section of the session (see the example below). If you decide to do this, think about how you can make up time to cover the topic you have skipped (e.g. ask the group to stay longer, ask the group to arrive earlier next time, make the breaks shorter etc.). Always talk with your supervisor about these decisions to make sure that you have not skipped important information.\n\nꟷ For example, a discussion about how one participant is applying a strategy at home is going on for longer than expected. You decide to continue this discussion because you can see that other participants are also learning about the strategy and how they can apply it to their own practices.\n\nManaging participants who speak a lot or very little in the group sessions  Some participants may talk a lot in discussions in a way that interferes with others’ participation. They may interrupt, talk over others or disagree with other participants’ experiences or opinions. In this situation, facilitators should use their skills to manage these persons during the group sessions.\n\nꟷ For example: “Thank you (name). What you are saying is helpful, but we would also like to hear from others in the group. Would anyone else be willing to share their experience with the home practice?” ꟷ If this difficulty persists, consider speaking to your supervisor.\n\n For very quiet participants, consider talking individually to participants to help them participate in the group.",
+   "content_sha256": "ada4eab44b2d7a63c37558dff0c67da09cea0a47522860fdf95a06f6eaea65dd"
+  },
+  {
+   "chunk_index": 16,
+   "reason": "eligible spread 8/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    17,
+    18
+   ],
+   "tokens": 560,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Would anyone else be willing to share their experience with the home practice?” ꟷ If this difficulty persists, consider speaking to your supervisor.  For very quiet participants, consider talking individually to participants to help them participate in the group.\n\nꟷ For example: “I have noticed you are very quiet in the group. Is there anything I can do to help you engage more in the discussions?” Managing group discussions that go off-topic or identifying unhelpful strategies or strategies outside of the caregiver skills training course  Facilitators are advised to be firm when redirecting group discussions. Facilitators can make use of basic helping skills.For example: “I can see this is an interesting discussion, but we have moved away from the focus of this session. Let’s come back and we can discuss this topic during the break.” ꟷ For example: “This strategy sounds like it was helpful for you, but we need now to continue with this session’s activities. We will have an opportunity to discuss this more during the home visit/other group session.” Responding to incorrect or partially correct answers  Guided questions for learning are part of the group sessions. These are designed to help caregivers think about and discuss the material. Their purpose is not to test caregiver knowledge.  It is important to respond to incorrect or partially correct answers in a supportive way that promotes a safe learning environment in which caregivers are comfortable taking risks, sharing their ideas and asking and answering questions.\n\nꟷ For example (for an incorrect answer): “Actually, the demonstration was supposed to illustrate [a specific caregiver skills training strategy]. Does that make sense?” ꟷ For example (for a partially correct answer): “Yes, and the caregiver in the demonstration used other strategies as well. Would someone else like to share another strategy they noticed?” Promoting attendance and reducing drop-out  Facilitator should proactively identify barriers to attendance at the first home visit and use problem-solving.\n\n Facilitators are advised to speak with participants who are regularly missing sessions, who report not doing the home practice, who are regularly showing up late or leaving early etc. Facilitators should show curiosity, emphasize the effort they are already putting into the course and help them problem-solve if appropriate.\n\n If a participant drops out, they may need a different type of help or service. Facilitators are advised to discuss strategies to help participants who have dropped out with their supervisors.  Facilitators should talk with your supervisor if they are concerned that a participant is disrupting the group.\n\nCaregivers and children at risk of harm or experiencing harm  During the course of home visits or group sessions, facilitators may become concerned about the well-being of a caregiver or child.",
+   "content_sha256": "73011f24aa0c1220da65d7d0f58fa1434839f9d813d91b4c0ea7eb808fa74801"
+  },
+  {
+   "chunk_index": 17,
+   "reason": "eligible spread 9/10",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    18,
+    20
+   ],
+   "tokens": 334,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Caregivers and children at risk of harm or experiencing harm  During the course of home visits or group sessions, facilitators may become concerned about the well-being of a caregiver or child.\n\n Facilitators may discover that a participant is experiencing abuse (e.g. gender-based violence perpetrated by a partner) or has a mental health condition (see the home visit guide for details).  Facilitators may learn that a child is being neglected or harmed by harsh physical punishment or is harming her/himself or being physically violent with other members of the family.  Facilitators may learn about these things during a group session or home visit, or another caregiver could tell you that it is happening to someone in the group.\n\n If a facilitator learns from others that a caregiver or child is at risk or is being harmed, she/he should ask the participant privately about this.\n\n If a caregiver is fearful for her/his own or someone else’s safety in the home, including their children, facilitators should contact their supervisors immediately so that appropriate action can be taken. This depends on the setting and the national laws but it could involve reporting abuse to the police, a specific protection agency or informal network or local authorities. It is important that facilitators inform the participant of the actions that they will take to keep the caregiver and/or others in the participant’s home safe.\n\n Facilitators are advised to talk always to their supervisors about caregivers, children or other family members they are concerned about.\n\nwith developmental delays or disabilities\n\nWorld Health Organization 20 Avenue Appia CH-1211 Geneva 27 Switzerland",
+   "content_sha256": "b9bbdef8fa2501a1788a39426009dc3cb0d0f2fa5d59d6d0a23879f602146b55"
+  }
+ ],
+ "WHO-CST-PARTICIPANTS-2022": [
+  {
+   "chunk_index": 0,
+   "reason": "status:table_structure_unrecoverable",
+   "section_path": [],
+   "section_type": "unclassified",
+   "pages": [
+    1,
+    3
+   ],
+   "tokens": 47,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "Participants’ guide group sessions 1–9 Caregiver skills training for families of children with developmental delays or disabilities\n\nParticipants’ guide group sessions 1–9 Caregiver skills training for families of children with developmental delays or disabilities",
+   "content_sha256": "2c5de43809e31a16fdaea043fa2e89ea661162a0be15ac441a3e5ba620a872cb"
+  },
+  {
+   "chunk_index": 7,
+   "reason": "type:contributors_detected",
+   "section_path": [],
+   "section_type": "contributors_detected",
+   "pages": [
+    7,
+    7
+   ],
+   "tokens": 111,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "Sharynne McLeod (Charles Sturt University, Australia), Nermeen Abdelaziz M. Moharam (Médecins du Monde, Egypt), Inna Monova (Naked Heart Foundation, Russian Federation), Cecilia Montiel Nava (Autism Speaks, USA), Carina Morillo (Fundación Brincar por un autismo feliz, Argentina), Tatiana Morozova (Naked Heart Foundation, Russian Federation), Lucia Murillo (Autism Speaks, USA), Basma T. M.",
+   "content_sha256": "1d636ea5692dade8f933a9a529c7502e9a12e89559d64fb3f49b85f2228f5093"
+  },
+  {
+   "chunk_index": 11,
+   "reason": "type:introduction",
+   "section_path": [
+    "Background"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    10,
+    11
+   ],
+   "tokens": 250,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Session 6 focuses on teaching skills for everyday living in small steps using different levels of help. Sessions 7 and 8 focus on promoting positive behaviour and reducing challenging behaviours. Session 9 focuses on caregiver well-being, problem-solving and setting goals for ongoing practice. Introduction\n\nviii Can I use this guide on my own without participating in the caregiver skills training? Caregivers who wish to learn the strategies on their own due to personal preference or because there is no local caregiver skills training course being offered are directed to WHO’s eLearning caregiver skills training for families of children with developmental delays or disabilities. This free course is for caregivers to access directly as self-directed online learning. The course is accessible in English here: https://openwho. org/courses/caregiver-skills-training. A free OpenWHO account is necessary to access it. To create an OpenWHO account, go to https://openwho.org/account/new (you will need an email address to register). Other language versions of eLearning caregiver skills training will be made available. Check https://openwho. org/courses for availability. Adaptation and implementation considerations For additional information on adaptation of this guide see Adaptation and implementation guide.\n\nSession 1: Getting children engaged",
+   "content_sha256": "a225c2e4a9ef1b60a3d2628fcf863632dd267a62ba5696f98132cc6827444fb5"
+  },
+  {
+   "chunk_index": 18,
+   "reason": "eligible spread 1/10",
+   "section_path": [
+    "Session 1: Getting children engaged"
+   ],
+   "section_type": "body",
+   "pages": [
+    30,
+    34
+   ],
+   "tokens": 574,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "After each session, at home, she practised with Jacob the skills she was learning at the course. Her husband and her mother-in-law could not come to the course, but Mary brought home the guides to show them.\n\nAt the beginning, it was difficult, particularly for her husband, to accept that their first-born son was having troubles. But both Mary and her husband persisted in practising the skills taught at the course and this helped Jacob stay calm and be more comfortable. They learned how to include Jacob more often in everyday activities and how to use a positive, calm tone of voice to help him learn to communicate using gestures and words. The skills they learned in the course actually helped all of their children.\n\nJacob’s parents and grandmother practised the skills every day. For a long time, nothing seemed to change. However, they kept practising and over time Jacob learned to tell his family what he needs by pointing and using some words. Well... most of the time, anyway. Jacob is 7 years old now and he is much happier because he can communicate more easily. Jacob’s parents are less stressed too, and their home is more peaceful.\n\nEating, dressing and washing Cleaning chores Going to market or going to meet other children Playing, singing, reading, story-telling and dancing You can help your child to develop by engaging with her/him in everyday activities and games Key message 3\n\n• Sharing activities helps your child to engage with others and learn new things.\n\n• Activities include your everyday routines, not just special activities for children.\n\nSet up the space: remove distractions and make a safe place to interact Tip 1 Move away or cover extra furniture, household objects and other favourite objects.\n\nRemove distractions by turning off telephones, television or radio. Ask other adults and children to move away or watch from behind your child. Help your child to focus on the shared activity and on you by clearing a space on the table or ¿oor right in front of your child and around your child.\n\nHelp your child pay attention to the activity by moving away distractions.\n\n6he washes his face first. Then she helps him put on his shirt. She gives him a choice: wash his face or put on his shirt first. She sees him look at the washcloth and reach out his hand.\n\nStart with 2 or 3 motivating choices and follow your child’s choice Tip 2\n\n• We can give choices between items (e.g. 2 shirts, 2 books, 2 snacks) or a choice of which activity to do first.\n\n• You can give your child a choice of which task to do first if you have two tasks and you need to do both. Good choices are tasks that can be done in any order (e.g. wash face or brush teeth first).\n\n• Choices give children some control over the activity.",
+   "content_sha256": "75d15a371e4e6b4d694e36afb7975e4e7a30e16afd0a521f9d1551979ce0e962"
+  },
+  {
+   "chunk_index": 30,
+   "reason": "eligible spread 2/10",
+   "section_path": [
+    "Session 2: Keeping children engaged"
+   ],
+   "section_type": "body",
+   "pages": [
+    66,
+    69
+   ],
+   "tokens": 527,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Now that you know how your child plays now and their next steps: − you can plan to offer choices between 2 or 3 activities at the level your child plays at now; − and think of how you can show your child the next step within that play activity.  Try to pick play ideas that are similar to what your child likes or does already. − For example, play in the same way with new materials (bang a block with a stick; bang a cup with a stick) − Or play in a new way that is not too difficult with the same materials (take things out of a box; put things inside a box)  When we pick ways to play that are too difficult or too easy for a child, it is harder for the child to share engagement and communicate.  It is ok to play people games with children of all ages and abilities but always select other play ideas with objects too!  Play ideas can become more complex as children grow. Play ideas  Your child may need your help to learn how to play. By playing with you, the child will learn how to play in more complex ways over time.\n\n This means that:\n\n− you should play in the way your child plays now; − at times you show the child how to play in a more complex way (the child’s next step).\n\n This way your child will: − remain motivated and not frustrated; − continue to practice her/his current play skills; − learn more complex play skills (the child’s next step).  You can show your child how to: − play in the same way as the child plays now but with new or more materials; − play in a new way with toys (a way that is a little more complex than how your child plays now).\n\nFind out how your child likes to play and show the child new ways to play Tip 2 Look and listen – Notice when your child is being good and respond with praise  Engaging in play in and home activities is hard work for your child! Watch for skills and appropriate behaviour that you can praise.  Be a detective! Find as many moments as you can to praise your child.  Praise helps a child understand that you know she/he is trying to participate.\n\n Praise encourages a child to try again.  Praise helps your activities be fun and positive. Tip 3 What to use to praise your child?  Tell the child that she/he did well. This will be enough for many children most of the time.\n\nYou can do this with:",
+   "content_sha256": "acc95cc8450097d93b4bef3bf97e27da00930cf1727f34ef753cc7aca140dd03"
+  },
+  {
+   "chunk_index": 55,
+   "reason": "eligible spread 3/10",
+   "section_path": [
+    "Session 3: Helping children to share engagement in play and home routines"
+   ],
+   "section_type": "body",
+   "pages": [
+    90,
+    94
+   ],
+   "tokens": 532,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": " By imitating, you are rewarding your child’s play ideas.  Only imitate appropriate actions that you want to see again. Do not imitate challenging behaviour (throwing) or repetitive behaviour without any interaction between you and your child (such as lining up the items or looking at the items).\n\n1 2 3 4  Look and listen to your child’s actions and join in the routine by doing the same thing as your child. Join in the routine – Take your turn by imitating what your child is doing Tip 1  To share a routine, it is best to have multiple items – e.g. 2 cars or 2 dolls. Use your own toy or materials to take your turn. That way, you will not upset your child by taking her/his item to demonstrate play actions. Tip 1, continued  Adding steps makes your routine longer and gives more time to share engagement.\n\n Many children need help to learn how to play appropriately with toys.  Show and say helps your child to develop more complex play skills. Show and say when:\n\n you cannot imitate your child;  your child does not know what to do next;  your child is “stuck” on a repetitive action;  your child is not engaged and you need to get back into the routine.\n\nShow and say – Give your child a new step for your routine Tip 2  Restarting the steps and doing the routine again makes your routine longer, easier and more fun.  It is OK to repeat! All children learn from repeating stories when they play. You will probably become bored before your child does!  What was the first step of your routine? Once you have done all the steps in your routine, start again with the first step.  Start again quickly and try to make it fun and exciting! Restart your routine to help your child spend more time sharing engagement Tip 3  Choose one home routine and one play or game routine that you will do with your child or involve your child in. You can choose one of the activities you did before or two new activities. Pick routines you will try to do every day.  Plan to spend 5 minutes with your child for each routine.  Remember to practise the tips from this session: Home practice activity Key messages  Build play and home activity routines to help your child learn and develop.\n\n1. Join in the routine – Take your turn by imitating what your child is doing.\n\n3. Restart your routine to help your child spend more time sharing engagement.",
+   "content_sha256": "768382b69ad48ea5a4f41ff9f91223babff0dc12c685fd50d83d5f1eff73c763"
+  },
+  {
+   "chunk_index": 67,
+   "reason": "type:body",
+   "section_path": [
+    "Session 3: Helping children to share engagement in play and home routines"
+   ],
+   "section_type": "body",
+   "pages": [
+    95,
+    96
+   ],
+   "tokens": 503,
+   "eligible": false,
+   "status": "text_encoding_lost",
+   "content": "/gid00028/gid00045/gid00032 /gid00029/gid00042/gid00047/gid00035 /gid00035/gid00032/gid00039/gid00043/gid00033/gid00048/gid00039 /gid00033/gid00042/gid00045 /gid00030/gid00045/gid00032/gid00028/gid00047/gid00036/gid00041/gid00034 /gid00028 /gid00033/gid00048/gid00041 /gid00045/gid00042/gid00048/gid00047/gid00036/gid00041/gid00032/gid00163 /gid00001/gid00001 These are the answers to the questions to check your own learning on the previous page.\n\nOnly check the answers after you have tried to answer the questions. When you finish checking the answers, go back to the questions and circle the correct answer. Answer to Question 1: B: Get another spool and show Viran how to roll the spool down a tilted book and say “Go!”, then wait to see if he will try it. If he doesn’t try it, try show and say again.\n\nExplanation:\n\nViran gets stuck on spinning objects (repetitive behaviour). Shalini wants to show Viran a new appropriate way to play with the objects. She gets her own spool so that they can both take turns in the play routine. She uses show and say to show Viran how to do simple play with the spool and tells him a new word: “Go!” Why option A is incorrect:\n\nJust imitating Viran will not be as helpful for his learning. Viran is object-engaged. He does not notice Shalini or share engagement when he is spinning the spool on his own.",
+   "content_sha256": "d0fbf7365fda9174e1e4071e2ec7aad63c6fc7b0d1b8a5ab07a557c12ebc6cb0"
+  },
+  {
+   "chunk_index": 69,
+   "reason": "type:front_matter_detected",
+   "section_path": [],
+   "section_type": "front_matter_detected",
+   "pages": [
+    100,
+    102
+   ],
+   "tokens": 326,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "Date of next group session: In the next group session we will learn about communication and how to help children communicate using gestures and words. If you cannot come to the next session for whatever reason, you are still welcome to come to the following session. If you come to the following session 15 minutes early, we will help you review the things you have missed. Please try to bring some of the materials you use during your home practice routine to the next session so you can use them to practise during the session. Next steps Session 4: Understanding communication Overview............................................................................................................................. 93 Home practice review......................................................................................................... 94 What we will learn today..................................................................................................... 95 Personal goals.................................................................................................................... 96 Lalitha’s story Part 1: Introduction to communication......................................................... 97 Key message 1 ......................................................................................................... 100 Key message 2 ......................................................................................................... 102 Communication goals....................................................................................................... 103 Lalitha’s story Part 2: Saanvi’s communication ................................................................ 104 Key message 3 ......................................................................................................... 105 Tip 1.......................................................................................................................... 106 Tip 2.......................................................................................................................... 107 Tip 3.......................................................................................................................... 108 Tip 4.......................................................................................................................... 109 Home practice activity ...................................................................................................... 110 Questions to check your own learning...............................................................................111 Answers to questions ....................................................................................................... 112 Services and resources for families.................................................................................. 113 Next steps......................................................................................................................... 115 Contents",
+   "content_sha256": "8272d6edaee6708a6ec9ba569c31718c0360df64f5d6e18962b61dc244a8cf8e"
+  },
+  {
+   "chunk_index": 83,
+   "reason": "type:front_matter",
+   "section_path": [
+    "Session 5: Promoting communication",
+    "Contents"
+   ],
+   "section_type": "front_matter",
+   "pages": [
+    144,
+    144
+   ],
+   "tokens": 574,
+   "eligible": false,
+   "status": "text_encoding_lost",
+   "content": "/gid00021/gid00035/gid00036/gid00046/gid00001/gid00030/gid00042/gid00048/gid00039/gid00031/gid00001/gid00029/gid00032/gid00001/gid00047/gid00035/gid00032/gid00001/gid00046/gid00028/gid00040/gid00032/gid00001/gid00028/gid00046/gid00001/gid00028/gid00001/gid00045/gid00042/gid00048/gid00047/gid00036/gid00041/gid00032/gid00001/gid00052/gid00042/gid00048/gid00001/gid00031/gid00036/gid00031/gid00001/gid00029/gid00032/gid00033/gid00042/gid00045/gid00032/gid00164/gid00001/gid00042/gid00045/gid00001/gid00046/gid00042/gid00040/gid00032/gid00047/gid00035/gid00036/gid00041/gid00034/gid00001/gid00031/gid00036/gid00126/gid00032/gid00045/gid00032/gid00041/gid00047/gid00163/gid00001/gid00004/gid00035/gid00042/gid00042/gid00046/gid00032/gid00001",
+   "content_sha256": "900b2d7b6e9a9f10266e6c3a47b3dc342d3793bf8248c0cca4cab721b8cc9501"
+  },
+  {
+   "chunk_index": 107,
+   "reason": "type:unclassified",
+   "section_path": [],
+   "section_type": "unclassified",
+   "pages": [
+    192,
+    192
+   ],
+   "tokens": 381,
+   "eligible": false,
+   "status": "text_encoding_lost",
+   "content": "/gid00049/gid00036/gid00046/gid00048/gid00028/gid00039/gid00046 /gid00036/gid00033 /gid00041/gid00032/gid00030/gid00032/gid00046/gid00046/gid00028/gid00045/gid00052/gid00188/gid00165 /gid00032/gid00163/gid00034/gid00163 /gid00175 /gid00024/gid00028/gid00046/gid00035 /gid00033/gid00028/gid00030/gid00032 /gid00042/gid00045 /gid00031/gid00045/gid00036 nk /gid00050/gid00028/gid00047/gid00032/gid00045/gid00169/gid00176\n\n6) Then, when the meltdown is over, try to understand the behaviour ─ Once the child has calmed down, think about what happened before the behaviour. Is there a trigger that could be avoided, such as too much noise or a difficult transition from a favourite activity to an activity the child does not like?",
+   "content_sha256": "31bcd3145e6882f59defcd86ca4a3f3e0b26b3f09361962a9e9b4b7954d0e37c"
+  },
+  {
+   "chunk_index": 128,
+   "reason": "type:noise",
+   "section_path": [
+    "Session 8: Teaching alternatives to challenging behaviour",
+    "REASON FOR THE BEHAVIOUR GOAL FOR RESPONDING"
+   ],
+   "section_type": "noise",
+   "pages": [
+    232,
+    232
+   ],
+   "tokens": 3,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "a routine.",
+   "content_sha256": "4a5455672d3e260de96192ce73a8432cd78ff45c76211a636c8fdda76f7ff658"
+  },
+  {
+   "chunk_index": 143,
+   "reason": "type:appendix",
+   "section_path": [
+    "Annex 1: Summary of tips and key messages"
+   ],
+   "section_type": "appendix",
+   "pages": [
+    272,
+    272
+   ],
+   "tokens": 109,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Tips\n\n1. Set up the space: remove distractions and make a safe place to interact.\n\n2. Start with 2 or 3 motivating choices and follow your child’s choice.\n\n3. Move in front of your child, get down to your child’s level, and have the activity between you and the child.\n\nKey messages  All children can learn and develop skills.  Children learn best when they are calm and cool.  You can help your child to develop by engaging with her/him in everyday activities and games.",
+   "content_sha256": "7e8a81ed35bf6585a1e25b4e572a79aade0d9e2aa31abf15f44c675d5bdf8298"
+  }
+ ],
+ "WHO-ECD-GUIDELINE-2020": [
+  {
+   "chunk_index": 0,
+   "reason": "type:front_matter_detected",
+   "section_path": [
+    "IMPROVING"
+   ],
+   "section_type": "front_matter_detected",
+   "pages": [
+    1,
+    4
+   ],
+   "tokens": 483,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "EARL Y CHILDHOOD DEVELOPMENT:\n\nWHO Guideline\n\nEARL Y CHILDHOOD DEVELOPMENT:\n\nWHO Guideline ISBN 978-92-4-000209-8 (electronic version) ISBN 978-92-4-000210-4 (print version) FINANCIAL SUPPORT WHO thanks the King Baudouin Foundation United States for providing financial support for this work. Donors do not participate in any decision related to the guideline development process, including the composition of research questions, membership of the guideline groups, conduct and interpretation of systematic reviews, or formulation of recommendations. © World Health Organization 2020 Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial- ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo ). Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer along with the suggested citation: “This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall be the binding and authentic edition” .\n\nAny mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World Intellectual Property Organization. Suggested citation. Improving early childhood development: WHO guideline . Geneva: World Health Organization; 2020. Licence: CC BY-NC-SA 3.0 IGO.\n\nCataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris .\n\nSales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders . To submit requests for commercial use and queries on rights and licensing, see www.who.int/about/licensing .",
+   "content_sha256": "e4be4e3cef5666a6fb81b033d01cdd2f3b1f06d35f0013cd15b8d04a5d7c50ad"
+  },
+  {
+   "chunk_index": 2,
+   "reason": "status:table_structure_unrecoverable",
+   "section_path": [
+    "IMPROVING"
+   ],
+   "section_type": "body",
+   "pages": [
+    4,
+    5
+   ],
+   "tokens": 32,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "Design: Eddy Hill Design Printed in Switzerland ii iii\n\nFinancial support ii Acronyms iv Glossary of terms v Acknowledgements vi Executive summary viii",
+   "content_sha256": "74b9c61ad6872d7d0a060153bf5677f1a74154b1b1e9653f294e0512da5083e8"
+  },
+  {
+   "chunk_index": 16,
+   "reason": "type:introduction",
+   "section_path": [
+    "BACKGROUND"
+   ],
+   "section_type": "introduction",
+   "pages": [
+    13,
+    13
+   ],
+   "tokens": 33,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "RESPONSIVE CAREGIVING SECURITY AND SAFETY OPPORTUNITIES FOR EARLY LEARNING GOOD HEALTH ADEQUATE NUTRITION Components of nurturing care",
+   "content_sha256": "5f977bf043eef00d07c2c25c1b7e588b3b095af0af33d08c56b1de88db495926"
+  },
+  {
+   "chunk_index": 40,
+   "reason": "status:table_recovered_pending_review",
+   "section_path": [
+    "KEY QUESTION I"
+   ],
+   "section_type": "body",
+   "pages": [
+    27,
+    27
+   ],
+   "tokens": 166,
+   "eligible": false,
+   "status": "table_recovered_pending_review",
+   "content": "Only two studies from LMICs had quantitative data available for the analysis. The limited data sets suggest the direction of the effect is generally consistent between HICs and LMICs.\n\nTable 2: Child and caregiver outcomes for interventions that implement responsive caregiving only, by HICs versus LMICs Outcome HICs LMICs SMD 95% CI N SMD 95% CI N Child outcomes Language development 0.00 -0.15, 0.15 4 0.23 0.16, 0.30 1 Attachment 0.16 -0.10, 0.43 2 0.00 -0.53, 0.53 1 Caregiver outcomes",
+   "content_sha256": "d13910b8a3e73b57f4fa78548cc044228ee816421b169ddccb74838f3e5c39af"
+  },
+  {
+   "chunk_index": 50,
+   "reason": "type:body",
+   "section_path": [
+    "KEY QUESTION II"
+   ],
+   "section_type": "body",
+   "pages": [
+    31,
+    32
+   ],
+   "tokens": 530,
+   "eligible": false,
+   "status": "table_recovered_pending_review",
+   "content": "Caregiver outcomes Caregiver depressive symptoms 0.13 -0.11, 0.37 1 0.03 -0.16, 0.22 1 Additional meta-analyses requested by the GDG See page 15 for information on additional analyses and conclusions. Summary of the considerations of the members of the GDG for determining the direction and strength of the recommendation A recommendation was formulated, informed by the evidence presented and with explicit consideration of the factors listed next.\n\nCertainty of evidence The certainty of the evidence ranged from very low to moderate.\n\nWith respect to caregiver outcomes, instruments used to assess knowledge and practices varied widely and were generally not standardized. Overall, few psychometric properties were reported about the assessment tools used with respect to reliability and validity (particularly when implemented in different sociocultural contexts). Balance of benefits and harms There were no indications of adverse effects caused by interventions to support development and early learning. Significant (modest) impacts were found on child cognitive and motor development. The size of impact may vary based on the dosage and quality of the implemented programme, and risk exposures for the target population. Only limited studies have examined programme characteristics such as dosage.\n\nSome RCTs show interventions improve the home learning environment (Ertem et al., 2007). Values and preferences Several qualitative studies have reported that parents and caregivers value interventions that support their children’s development and learning (e.g. see special series in Annals of the New York Academy of Sciences on Implementation Research and Practice for ECD [Yousafzai et al., 2018]). In these studies, the value of ECD is perceived to be important for educational achievement. Acceptability Qualitative data report acceptability of interventions, interest in topics, and perceived benefits by caregivers and delivery agents. This appears to be true for highrisk populations also, based on other WHO guidelines and statements.\n\n18 19Evidence and recommendations\n\nAs for responsive caregiving, Black and colleagues (2017) reported increased investment available for programmes that support ECD since 2010, and increasing numbers of countries with national policies and/or strategies, indicating acceptability in the form of national engagement and demand for interventions. Resource implications Costing data for interventions supporting early learning were not readily available in the literature. It was noted that the cost of inaction should also be considered, as well as the long-term returns on investment in the early years (Campbell et al., 2014; Gertler et al., 2014).",
+   "content_sha256": "e4ccc5c04ddc3252d534432f736615df0523ff788519aa53ba3b68b14adf3daa"
+  },
+  {
+   "chunk_index": 67,
+   "reason": "type:recommendations",
+   "section_path": [
+    "RECOMMENDATION 3"
+   ],
+   "section_type": "recommendations",
+   "pages": [
+    39,
+    39
+   ],
+   "tokens": 424,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "Rationale The GDG took into consideration the evidence and discussions. The factors above were, in addition, taken into consideration during the deliberations for this key question. For example, interventions have been shown to be acceptable and likely to increase equity. Combined nutrition and responsive caregiving interventions benefit child development outcomes compared to the standard of care or nutrition alone. Impacts are greater when malnourished populations are targeted. Both responsive caregiving and early learning activities are relevant and important for ECD. Responsive feeding and play are already important components of rehabilitation care for malnourished children. As such, emphasizing the opportunity to support caregivers in providing responsive care and early learning to children at risk of, or being treated for, malnutrition seems appropriate and consistent with their nutritional care.\n\nThe lack of improvement of nutritional outcomes may reflect limitations of the interventions or other constraints, e.g. clinical conditions related to individual children.\n\nNo studies were retrieved combining caregiving and over-nutrition meeting the specified inclusion criteria in the initial search.\n\nRemarks Responsive feeding is a part of responsive caregiving and is essential to adequate nutrition. The child needs both to thrive, and nutrition interventions alone are not enough to improve child development.\n\nNutrition interventions alone do not appear adequate to have an impact on ECD, but they do appear to do so when combined with responsive caregiving and opportunities for early learning. Some of the nutrition interventions did not include a nutritional supplement/ commodity, nor even substantial nutrition education, and this may account for the lack of impact on growth. Equity Members of the group expressed the opinion that the interventions would probably increase equity, but it depends on how they are targeted and delivered. A focus is needed on populations that are at risk of malnutrition and other social determinants of poverty. A reduction in inequalities is likely if common pathways to malnutrition and inadequate caregiving are tackled (Grantham- McGregor et al., 2007; Black & Dewey, 2014). The interventions could increase inequity if services are provided only to the high-resource groups that are more likely to access services.",
+   "content_sha256": "a9ed05cadf91ea3b74ccbc4dbfa93efd2e1f163b809e01f9bfd8a205cf592c81"
+  },
+  {
+   "chunk_index": 84,
+   "reason": "type:references_detected",
+   "section_path": [
+    "IMPLEMENTATION OF THE GUIDELINE"
+   ],
+   "section_type": "references_detected",
+   "pages": [
+    47,
+    47
+   ],
+   "tokens": 517,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "Impact of a mother-infant intervention in an indigent peri-urban South African context: pilot study. B J Psych. 2002; 180(1):76-81.\n\nCooper PJ, Tomlinson M, Swartz L, Landman M, Molteno C, Stein A et al. Improving quality of mother-infant relationship and infant attachment in socioeconomically deprived community in South Africa: randomised controlled trial. BMJ. 2009; 338(7701):b974.\n\nDiGirolamo AM, Stansbery P , Lung’aho M. Advantages and challenges of integration: opportunities for integrating early childhood development and nutrition programming. Ann NY Acad Sci. 2014; 1308(1):46-53. doi:10.1111/nyas.12323. Ertem IO, Atay G, Dogan DG, Bayhan A, Bingoler BE, Gok CG et al. Mothers’ knowledge of young child development in a developing country. Child Care Health Dev. 2007; 33(6):728–37. Fergusson DM, Grant H, Horwood LJ, Ridder EM. Randomized trial of the Early Start program of home visitation. Pediatrics. 2005; 116(6):e803-9.\n\nFrongillo EA, Nguyen PH, Saha KK, Sanghvi T, Afsana K, Haque R et al. Large-scale behavior-change initiative for infant and young child feeding advanced language and motor development in a cluster-randomized program evaluation in Bangladesh. J Nutr. 2017; 147(2):256-63. Gao LL, Chan SW, Li X, Chen S, Hao Y. Evaluation of an interpersonal-psychotherapy-oriented childbirth education program for Chinese first-time childbearing women: a randomised controlled trial. Int J Nurs Studies. 2010; 47(10):1208-16.\n\nGao LL, Xie W, Yang X, Chan SW. Effects of an interpersonalpsychotherapy-oriented postnatal program for Chinese firsttime mothers: a randomized controlled trial. Int J Nurs Studies. 2015; 52(1):22-9.",
+   "content_sha256": "68164cbf5c9ab597e9cacdb97bca376f8a49c32a7aaecb13c29fbd68e1d46819"
+  },
+  {
+   "chunk_index": 90,
+   "reason": "type:references",
+   "section_path": [
+    "REFERENCES"
+   ],
+   "section_type": "references",
+   "pages": [
+    48,
+    49
+   ],
+   "tokens": 410,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "A systematic review, evidence synthesis and meta-analysis of quantitative and qualitative studies evaluating the clinical effectiveness, the cost-effectiveness, safety and acceptability of interventions to prevent postnatal depression. Health Technol Asses. 2016; 20(37).\n\nMorris J, Jones L, Berrino A, Jordans MJD, Okema L, Crow C. Does combining infant stimulation with emergency feeding improve psychosocial outcomes for displaced mothers and babies? A controlled evaluation from Northern Uganda. Am J Orthopsych. 2012; 82(3):349-57. doi:10.1111/j.1939-0025.2012.01168.x.\n\nMuhoozi GKM, Atukunda P , Diep LM, Mwadime R, Kaaya AN, Skare AB et al. Nutrition, hygiene, and stimulation education to improve growth, cognitive, language, and motor development among infants in Uganda: a cluster-randomized trial. Matern Child Nutr. 2018; 14(2):e12527. Murray L, De Pascalis L, Tomlinson M, Vally Z, Dadomo H, MacLachlan B et al. Randomized controlled trial of a booksharing intervention in a deprived South African community: effects on carer-infant interactions, and their relation to infant cognitive and socioemotional outcome. J Child Psychol Psychiatry. 2016; 57(12):1370-9. Nabarro D. Global child and maternal nutrition—the SUN rises. Lancet. 2013; 382(9893):666-7. doi:10.1016/S0140- 6736(13)61086-7.",
+   "content_sha256": "3e00bf15e76f088c870bdc845311998b7d6129de4144d0d231c44c00946d4004"
+  },
+  {
+   "chunk_index": 105,
+   "reason": "type:unclassified",
+   "section_path": [],
+   "section_type": "unclassified",
+   "pages": [
+    56,
+    56
+   ],
+   "tokens": 243,
+   "eligible": true,
+   "status": "document_has_gaps",
+   "content": "h. Diet, physical activity and health Achieving recommendations on physical activity and prevention of obesity serve to promote ECD. Guidelines on physical activity, sedentary and sleep time in young children As part of the Ending Childhood Obesity initiative, this guideline provides recommendations on the amount and types of physical activity, how to decrease sedentary behaviour and screen time, and sleep time for infants and young children up to 5 years of age. https://apps.who.int/iris/handle/10665/311664 Report of the Commission on Ending Childhood Obesity: implementation plan: executive summary This document provides a summary of recommended actions for policy-makers. It can inform which package of integrated interventions may best be implemented in particular settings to achieve the target of halting the rise in childhood obesity. It recognizes that the prevalence of childhood obesity, the risk factors that contribute to this issue, and the political and economic situations differ between Member States and provides relevant supporting information.\n\nhttps://apps.who.int/iris/bitstream/ handle/10665/259349/WHO-NMH-PND-ECHO- 17.1-eng.pdf?sequence=1",
+   "content_sha256": "e06954db36fb5de709218894d308bd6863d8292398ef427647f87228a843b924"
+  },
+  {
+   "chunk_index": 123,
+   "reason": "type:noise",
+   "section_path": [
+    "GUIDELINE DEVELOPMENT GROUP"
+   ],
+   "section_type": "noise",
+   "pages": [
+    63,
+    63
+   ],
+   "tokens": 5,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "ANNEX 5:",
+   "content_sha256": "64ef0ba33391e11dd34f69de122c005c6f8bdc9e0afa6e0c2cc775a2b5c267bc"
+  },
+  {
+   "chunk_index": 127,
+   "reason": "type:back_matter",
+   "section_path": [
+    "ANNEX 6:",
+    "DECLARATIONS OF CONFLICTS OF INTEREST"
+   ],
+   "section_type": "back_matter",
+   "pages": [
+    66,
+    66
+   ],
+   "tokens": 8,
+   "eligible": false,
+   "status": "document_has_gaps",
+   "content": "HAZ 1 RCT No serious",
+   "content_sha256": "2e06f8e179b669f7e9aaeb1a2be1ec9bb65c99c38d2672cc3d22c773fdbbf12d"
+  },
+  {
+   "chunk_index": 154,
+   "reason": "type:appendix",
+   "section_path": [
+    "Annex 7: GRADE evidence profile tables",
+    "INTEGRATED CAREGIVING AND NUTRITION INTERVENTIONS (N=18)"
+   ],
+   "section_type": "appendix",
+   "pages": [
+    72,
+    72
+   ],
+   "tokens": 37,
+   "eligible": false,
+   "status": "table_structure_unrecoverable",
+   "content": "limitations No serious limitations No serious limitations No serious limitations No serious limitations 0.06 (-0.02, 0.13); n=7\n\nHIGH CRITICAL",
+   "content_sha256": "feec5057445d4e6756301d0aea303a44f27bca9b7f98d5db0b257ea8a44f7048"
+  }
+ ]
+}

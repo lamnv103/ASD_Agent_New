@@ -1,0 +1,168 @@
+{
+ "batch_01": {
+  "questions": [
+   "q066",
+   "q040",
+   "q045"
+  ],
+  "pairs": 121
+ },
+ "batch_02": {
+  "questions": [
+   "q064",
+   "q018",
+   "q034"
+  ],
+  "pairs": 128
+ },
+ "batch_03": {
+  "questions": [
+   "q026",
+   "q011",
+   "q014"
+  ],
+  "pairs": 150
+ },
+ "batch_04": {
+  "questions": [
+   "q020",
+   "q058",
+   "q057",
+   "q050"
+  ],
+  "pairs": 159
+ },
+ "batch_05": {
+  "questions": [
+   "q049",
+   "q010",
+   "q032"
+  ],
+  "pairs": 122
+ },
+ "batch_06": {
+  "questions": [
+   "q037",
+   "q028",
+   "q029",
+   "q009"
+  ],
+  "pairs": 155
+ },
+ "batch_07": {
+  "questions": [
+   "q055",
+   "q052",
+   "q006",
+   "q053"
+  ],
+  "pairs": 159
+ },
+ "batch_08": {
+  "questions": [
+   "q036",
+   "q012",
+   "q002"
+  ],
+  "pairs": 133
+ },
+ "batch_09": {
+  "questions": [
+   "q043",
+   "q015",
+   "q039",
+   "q025"
+  ],
+  "pairs": 155
+ },
+ "batch_10": {
+  "questions": [
+   "q065",
+   "q060",
+   "q038"
+  ],
+  "pairs": 118
+ },
+ "batch_11": {
+  "questions": [
+   "q054",
+   "q004",
+   "q031"
+  ],
+  "pairs": 135
+ },
+ "batch_12": {
+  "questions": [
+   "q019",
+   "q063",
+   "q024"
+  ],
+  "pairs": 129
+ },
+ "batch_13": {
+  "questions": [
+   "q017",
+   "q023",
+   "q027"
+  ],
+  "pairs": 141
+ },
+ "batch_14": {
+  "questions": [
+   "q003",
+   "q042",
+   "q022"
+  ],
+  "pairs": 127
+ },
+ "batch_15": {
+  "questions": [
+   "q008",
+   "q059",
+   "q048"
+  ],
+  "pairs": 139
+ },
+ "batch_16": {
+  "questions": [
+   "q033",
+   "q056",
+   "q007"
+  ],
+  "pairs": 150
+ },
+ "batch_17": {
+  "questions": [
+   "q035",
+   "q013",
+   "q061"
+  ],
+  "pairs": 141
+ },
+ "batch_18": {
+  "questions": [
+   "q046",
+   "q051",
+   "q044",
+   "q005"
+  ],
+  "pairs": 154
+ },
+ "batch_19": {
+  "questions": [
+   "q001",
+   "q016",
+   "q041",
+   "q062"
+  ],
+  "pairs": 150
+ },
+ "batch_20": {
+  "questions": [
+   "q030",
+   "q047",
+   "q021"
+  ],
+  "pairs": 125
+ }
+}

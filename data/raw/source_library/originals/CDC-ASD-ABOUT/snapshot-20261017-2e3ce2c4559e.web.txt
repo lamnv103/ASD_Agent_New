@@ -1,0 +1,134 @@
+About Autism Spectrum Disorder | Autism Spectrum Disorder (ASD) | CDC (https://www.cdc.gov/autism/about/index.html)
+citeturn61view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.cdc.gov/autism/about/index.html","lineno":null}); Total lines: 171
+L0: cite0†Skip directly to site content cite1†Skip directly to search L1: 
+L2: cite2†Autism Spectrum Disorder (ASD) L3: 
+L4: [Button: Explore This Topic ]
+L5: 
+L6: [Button: Search]
+L7: 
+L8: [Input: Search]
+L9: 
+L10: [Input: Search]
+L11: 
+L12: cite2†Autism Spectrum Disorder (ASD) Menu
+L13: 
+L14: [Input: Search]
+L15: 
+L16: cite2†Autism Spectrum Disorder (ASD) L17: 
+L18: 
+L19: 
+L20: cite3†About cite4†Signs and Symptoms cite5†Screening cite6†Treatment cite7†Living with Autism Spectrum Disorder cite8†Frequently Asked Questions (FAQs) cite9†Data and Statistics cite10†Materials and Resources cite11†View Menu L21: # About Autism Spectrum Disorder
+L22: 
+L23: Apr. 13, 2026
+L24: 
+L25: cite12†Español L26: ## Key points
+L27:   * Autism spectrum disorder (ASD) is a developmental disability caused by differences in the brain.
+L28:   * Some people with ASD have a known difference, such as a genetic condition. Other causes are not yet known.
+L29:   * Scientists believe there are multiple causes of ASD that act together to change the most common ways people develop. We still have much to learn about these causes and how they impact people with ASD.
+L30:   * Early intervention services can greatly improve the development of a child with ASD.
+L31: cite13†Image: Physiotherapist pediatrician doctor doing exercises with her patient L32: ## Overview
+L33: 
+L34: People with ASD may behave, communicate, interact, and learn in ways that are different from most other people. There is often nothing about how they look that sets them apart from other people. The abilities of people with ASD can vary significantly. For example, some people with ASD may have advanced conversation skills whereas others may be nonverbal. Some people with ASD need a lot of help in their daily lives; others can work and live with little to no support.
+L35: ASD begins before the age of 3 years and can last throughout a person's life, although symptoms may change over time. Some children show ASD symptoms within the first 12 months of life. In others, symptoms may not show up until 24 months of age or later. Some children with ASD gain new skills and meet developmental milestones until around 18 to 24 months of age, and then they stop gaining new skills or lose the skills they once had.
+L36: As children with ASD become adolescents and young adults, they may have difficulties developing and maintaining friendships, communicating with peers and adults, or understanding what behaviors are expected in school or on the job. They may come to the attention of healthcare providers because they also have conditions such as anxiety, depression, or cite14†attention-deficit/hyperactivity disorder (ADHD), which occur more often in people with ASD than in people without ASD.
+L37: 
+L38: cite15†Autism Partner Toolkit L39: CDC's partner toolkit includes links to free resources and materials on ASD.
+L40: ## Signs and symptoms
+L41: 
+L42: People with ASD often have problems with social communication and interaction, and restricted or repetitive behaviors or interests. People with ASD may also have different ways of learning, moving, or paying attention. These characteristics can make life very challenging. It is important to note that some people without ASD might also have some of these symptoms.
+L43: 
+L44: Keep Reading cite4†Signs and Symptoms of Autism Spectrum Disorder L45: ### "Learn the Signs. Act Early."
+L46: 
+L47: As a parent, you already have what it takes to help your young child learn and grow. CDC has developed materials to help you track your child's developmental milestones and share that progress, or any concerns, with your child's doctor at every check-up.
+L48: CDC's cite16†"Learn the Signs. Act Early." program aims to improve early identification of developmental delays and disabilities, such as ASD, by promoting early childhood developmental monitoring by families, child care providers, healthcare providers, and others.
+L49: 
+L50: cite17†Download L51: 
+L52: cite17†Image: Image of a baby being held by a caregiver with the text "Help your child grow and thrive with CDCs free Milestone Tracker app." L53: 
+L54: Track your child's milestones with CDC's free Milestone Tracker app.
+L55: ### CDC's Milestone Tracker app
+L56: 
+L57: Download CDC's cite18†Milestone Tracker app for free on iOS and Android devices — available in English and Spanish.
+L58: ## Risk factors
+L59: 
+L60: There is not just one cause of ASD. Many different factors have been identified that may make a child more likely to have ASD, including environmental, biologic, and genetic factors.
+L61: 
+L62: Although we know little about specific causes, the available evidence suggests that the following may put children at greater risk for developing ASD:
+L63:   * Having a sibling with ASD
+L64:   * Having certain genetic or chromosomal conditions, such as cite19†fragile X syndrome or cite20†tuberous sclerosis†www.ninds.nih.gov L65:   * Experiencing complications at birth
+L66:   * Being born to older parents
+L67: CDC is currently working on one of the largest US studies to date on ASD. This study, called cite21†Study to Explore Early Development (SEED) was designed to look at the risk factors and behaviors related to ASD among young children (ages 2-5 years) in the US. CDC is now conducting a follow-up study of older children who were previously enrolled in SEED to determine the health, functioning, and needs of people with ASD and other developmental disabilities as they mature.
+L68: ## Screening and diagnosis
+L69: 
+L70: Diagnosing ASD can be difficult since there is no medical test, like a blood test, to diagnose the disorder. Doctors look at the child's behavior and development to make a diagnosis.
+L71: ASD can sometimes be detected at 18 months of age or younger. By age 2 years, a diagnosis by an experienced professional can be considered reliable.cite22†1 However, many children do not receive a final diagnosis until they are much older. Some people are not diagnosed until they are adolescents or adults. This delay means that people with ASD might not get the early help they need.
+L72: 
+L73: cite23†Image: Two children playing with blocks during an evaluation L74: Contact your child's doctor if you have any concerns about your child's development.
+L75: 
+L76: Keep Reading cite5†Screening for Autism Spectrum Disorder L77: ## Treatment
+L78: 
+L79: Current treatments for ASD seek to reduce symptoms that interfere with daily functioning and quality of life. ASD affects each person differently, meaning that people with ASD have unique strengths and challenges and different treatment needs.cite24†2 ^{ }Treatment plans usually involve multiple professionals and are catered to the individual.
+L80: 
+L81: Keep Reading cite6†Treatment and Intervention for Autism Spectrum Disorder L82: 
+L83: ## What CDC is doing
+L84: ### Promoting early identification of ASD
+L85: 
+L86: We naturally think of a child's growth as height and weight, but from birth to 5 years, a child should reach milestones in how they play, learn, speak, act, and move. A delay in any of these areas could be a sign of ASD or other developmental disability.
+L87: Through the cite16†"Learn the Signs. Act Early." program, CDC and its partners aim to improve early identification of children with ASD and other developmental disabilities by promoting cite25†developmental monitoring , so children and families can get the services and support they need.
+L88: 
+L89: Keep Reading cite16†Learn the Signs. Act Early. L90: ### Understanding risk factors and causes of ASD
+L91: CDC's cite21†Study to Explore Early Development (SEED) is a multi-year, multi-site study funded by CDC. It began in 2007 as one of the largest studies in the United States to help us learn more about autism spectrum disorder (ASD) and other developmental disabilities in preschool-aged children (ages 2-5 years). Data collected by SEED has been used to explore early behaviors and other factors related to the development of ASD symptoms that impact quality of life.
+L92: Learning about these factors may shed light on how we can help children with ASD and their families.
+L93: In recent years, SEED was expanded to learn more about the health, functioning, and needs of people with ASD and other developmental disabilities as they mature into adolescence and adulthood.
+L94: 
+L95: Keep Reading cite21†Study to Explore Early Development (SEED) L96: ### Determining how many people have ASD
+L97: 
+L98: There continue to be many children living with ASD who need services and support, both now and as they grow into adolescence and adulthood.
+L99: 
+L100: By studying the number of people identified with ASD over time, we can find out if the number is rising, dropping, or staying the same. We can also compare the number of children with ASD in different areas of the country and different groups of people. This information can help us look for causes of ASD.
+L101: CDC's cite26†Autism and Developmental Disabilities Monitoring (ADDM) Network has been estimating the number of 8-year-old children with ASD in the United States since 2000. ASD occurs in all racial, ethnic, and socioeconomic groups. It is also over 3 times as common among boys than among girls.
+L102: 
+L103: Keep Reading cite26†Autism and Developmental Disabilities Monitoring (ADDM) Network L104: ## Resources
+L105: 
+L106: ### If you’re concerned
+L107: 
+L108: In order to make sure your child reaches their full potential it is very important to receive services as soon as possible. Contact your child's doctor if you think your child might have ASD or if you have any other concerns about the way your child plays, learns, speaks, or acts.
+L109: 
+L110: ### Important
+L111: 
+L112: Research shows that early intervention services can greatly improve a child's development.cite27†3 cite28†4 L113: ### Referral to a specialist
+L114: 
+L115: If you are still concerned, ask the doctor for a referral to a specialist who can do a more in-depth evaluation of your child. Specialists who can do a more in-depth evaluation and make a diagnosis include
+L116:   * Developmental pediatricians (doctors who have special training in child development and children with special needs)
+L117:   * Child neurologists (doctors who work on the brain, spine, and nerves)
+L118:   * Child psychologists or psychiatrists (doctors who know about the human mind)
+L119: ### Free evaluations
+L120: 
+L121: At the same time, call your state's public early childhood system to request a free evaluation, sometimes called a cite29†Child Find evaluation, to find out if your child qualifies for intervention services. You do not need to wait for a doctor's referral or a medical diagnosis to make this call. Where to call for a free evaluation from the state depends on your child's age.
+L122: #### If your child is not yet 3 years old
+L123: 
+L124:   * Contact your local early intervention system.
+L125:   * You can find the right contact information for your state by calling the Early Childhood Technical Assistance Center (ECTA) at (919) 962-2001 or visit the cite30†ECTA website.†www.ectacenter.org L126: #### If your child is 3 years old or older
+L127: 
+L128:   * If your child is 3 years old or older, contact your local public school system.
+L129:   * Even if your child is not yet old enough for kindergarten or enrolled in a public school, call your local elementary school or board of education and ask to speak with someone who can help you have your child evaluated.
+L130:   * If you're not sure who to contact, call the ECTA at (919) 962-2001 or visit the cite31†ECTA website.†ectacenter.org L131: 
+L132: Apr. 13, 2026
+L133: 
+L134: cite32†Sources cite33†Share L135: Content Source:
+L136: 
+L137: cite34†National Center on Birth Defects and Developmental Disabilities L138: 
+L139: References
+L140:   1. Lord C, Risi S, DiLavore PS, Shulman C, Thurm A, Pickles A. cite35†Autism from 2 to 9 years of age†pubmed.ncbi.nlm.nih.gov . Arch Gen Psychiatry. 2006;63(6):694-701.
+L141:   2. Hyman SL, Levy SE, Myers SM; COUNCIL ON CHILDREN WITH DISABILITIES, SECTION ON DEVELOPMENTAL AND BEHAVIORAL PEDIATRICS. cite36†Identification, Evaluation, and Management of Children With Autism Spectrum Disorder.†pubmed.ncbi.nlm.nih.gov Pediatrics. 2020;145(1):e20193447.
+L142:   3. Handleman, Jan S., and Sandra L. Harris, eds. Preschool education programs for children with autism. Austin, TX: Pro-Ed, 2001.
+L143:   4. National Research Council. Educating Children with Autism. National Academies Press, 2001.
+L144: ## cite2†Autism Spectrum Disorder (ASD)  L145: 
+L146: ASD is a developmental disability that can cause significant social, communication, and behavioral challenges.
+L147: 
+L148: cite37†View All L149: 
+L150: ### cite38†For Everyone L151: 
+L152:   * cite3†About L153:   * cite4†Signs and Symptoms L154:   * cite5†Screening L155:   * cite6†Treatment L156:   * cite7†Living with Autism Spectrum Disorder L157:   * cite8†Frequently Asked Questions (FAQs) L158:   * cite9†Data and Statistics L159:   * cite10†Materials and Resources L160:   * cite39†View all L161: ### cite40†Health Care Providers L162: 
+L163:   * cite41†Clinical Testing and Diagnosis L164:   * cite42†Information on ASD for Healthcare Providers L165: 
+L166: ### cite43†Public Health L167: 
+L168:   * cite15†Autism Partner Toolkit L169: 
+L170: cite44†Sign up for Email Updates†tools.cdc.gov 

@@ -1,0 +1,27 @@
+{
+  "cohere_embed_v4_1536_v1": {
+    "description": "cohere_existing: the embedding configuration of the previous ASD_AGENT project (rag/retriever.py), applied per chunk.",
+    "provider": "cohere",
+    "model_id": "embed-v4.0",
+    "model_revision": null,
+    "api_version": "v2",
+    "endpoint": "https://api.cohere.com/v2/embed",
+    "vector_dimension": 1536,
+    "document_input_type": "search_document",
+    "query_input_type": "search_query",
+    "similarity_metric": "cosine",
+    "embedding_types": [
+      "float"
+    ],
+    "truncate": "NONE",
+    "max_texts_per_call": 96,
+    "input_template": "{title}\n{section_heading}\n\n{content}",
+    "chunking_profile": "section_v2_1",
+    "retry": {
+      "max_attempts": 4,
+      "base_delay_seconds": 2.0,
+      "max_delay_seconds": 30.0
+    },
+    "timeout_seconds": 60
+  }
+}

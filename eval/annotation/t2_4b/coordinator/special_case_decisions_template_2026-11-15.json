@@ -1,0 +1,46 @@
+{
+ "instructions": "Copy to a NEW file special_case_decisions_<date>.json and fill every null. Decisions are content-based; metric impact is intentionally not shown. AI-provisional grades are not labels.",
+ "decisions": [
+  {
+   "case": "q057_answerability",
+   "question_id": "q057",
+   "options": [
+    "partially_answerable",
+    "unanswerable",
+    "other"
+   ],
+   "decision": null,
+   "chunk_grades": {
+    "ASD-OA-PMC12620806@PMC distributed version 1#section_v2_1#0021": null
+   },
+   "reason": null,
+   "decided_by": null,
+   "role": null,
+   "decided_at": null
+  },
+  {
+   "case": "q016_shared_engagement",
+   "question_id": "q016",
+   "question_concept_accepted_as_joint_attention": null,
+   "chunk_grades": {
+    "WHO-CST-PARTICIPANTS-2022@2022 English edition#section_v2_1#0023": null,
+    "WHO-CST-PARTICIPANTS-2022@2022 English edition#section_v2_1#0024": null
+   },
+   "reason": null,
+   "decided_by": null,
+   "role": null,
+   "decided_at": null
+  },
+  {
+   "case": "q041_conflict",
+   "question_id": "q041",
+   "chunk_grades": {
+    "NIHR-SENITA-2022#0309 (full id in phase_6_2_t2_3_2_unresolved_adjudications_2026-11-14.csv)": null
+   },
+   "reason": null,
+   "decided_by": null,
+   "role": null,
+   "decided_at": null
+  }
+ ]
+}

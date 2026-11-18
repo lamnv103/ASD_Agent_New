@@ -1,0 +1,30 @@
+{
+  "status": "PENDING_HUMAN_REVIEW",
+  "core_queries": 66,
+  "core_query_chunk_pairs": 1631,
+  "unique_core_chunks": 906,
+  "diacritic_variant_query_ids": 12,
+  "diacritic_variant_query_chunk_pairs": 230,
+  "diacritic_variant_unique_chunks": 103,
+  "unique_chunks_fetched_from_authorized_view": 906,
+  "candidate_ids_missing_from_authorized_view": 0,
+  "core_candidate_occurrences_by_retriever": {
+    "dense_baseline_v1": 660,
+    "fts_a_baseline_v1": 0,
+    "fts_b_glossary_and_v1": 433,
+    "fts_c_glossary_or_v1": 646,
+    "t5_7_exp1c_isolated": 503
+  },
+  "dense_queries_with_cached_vectors": 66,
+  "external_embedding_calls": 0,
+  "database_writes": 0,
+  "benchmark_relevance_fields_used": false,
+  "retrieval_relevance_metrics_computed": false,
+  "rrf_runs": 792,
+  "provenance_map_is_annotator_facing": false,
+  "builder_script_sha256": "e0d5f2e0dffc6bc892fd6024bfe9e14c436fc5b9bf83ac916e976938b8235a20",
+  "input_sha256": {
+    "retrieval_eval_v1.jsonl": "7704bb510c9ab4a545d9195b18ffa2dc32f10b705df909a9201e11c96f104c2b",
+    "phase_3_retrieval_comparison.csv": "9ad662d8d11548da06d45d630dbedd17b239cb2c8f9160457d38dd3c12383e75"
+  }
+}
